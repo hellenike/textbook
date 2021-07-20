@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Textbook"
-has_children: true
-nav_order: 1
+title: "Hellênikê: textbook"
+nav_order: 0
 ---
 
 

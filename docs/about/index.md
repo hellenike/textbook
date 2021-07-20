@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About the textbook"
-parent: "Textbook"
+nav_order: 8
 ---
 
 # About this textbook

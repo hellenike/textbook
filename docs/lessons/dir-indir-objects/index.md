@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Module: direct and indirect objects"
-parent: "Modules"
-nav_order: 6
+parent: "Module 2"
+nav_order: 3
 has_children: true
 ---
 

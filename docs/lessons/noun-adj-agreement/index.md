@@ -1,9 +1,8 @@
 ---
 layout: page
 title: "Module: noun-adjective agreement"
-parent: "Modules"
-nav_order: 5
-has_children: true
+parent: "Module 2"
+nav_order: 9
 ---
 
 # Noun-adjective agreement
