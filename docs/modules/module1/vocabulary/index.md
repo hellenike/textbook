@@ -10,10 +10,11 @@ nav_order: 8
 
 ## Conjunctions and connecting particles
 
-
+- ἀλλά
 - γάρ
 - καί
 - μέν...δέ...δέ
+- οὖν
 - τε
 
 ## Verbs
