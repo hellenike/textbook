@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "Lesson: the imperfect indicative"
+title: "Lesson: principal parts of verbs"
 parent: "Module 1: language"
 grand_parent: "Module 1"
 nav_order: 3
 has_children: true
 ---
 
-# The imperfect tense
-
+# Principal parts of verbs
