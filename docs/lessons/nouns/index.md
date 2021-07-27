@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Topic: nouns"
+parent: "Module 2: language"
+grand_parent: "Module 2"
+nav_order: 2
+has_children: true
+---
+
+
 Overview of Greek nouns:
 Nouns have gender, case, and number
 Gender: M/F/N
