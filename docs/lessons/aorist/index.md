@@ -40,11 +40,30 @@ Main points: voice
 - not all verbs appear in all three voices.  Example:  the verb γίγνομαι "to become" always uses the middle voice.
 - the aorist tense forms the active and middle voices from the *third* principal part; it forms the passive voice from the *sixth* principal part
 
+
+## Forming the aorist indicative
+
+- principal parts give an example form in the first singular indicative active of a representative tense: start by dropping the first singular ending and the accent:
+
+ἔδειξα -> ἐδειξ-
+ἐκέλευσα -> ἐκελευσ-
+
+
+
+
 ## Vocabulary for today
 
-Learn on these verbs:
+Memorize these paradigm verbs:
 
-- γίγνομαι
-- δείκνυμι
+- δείκνυμι with compound ἐπιδείκνυμι
 - κελεύω
-- ἔχω
+
+
+## Vocabulary to practice with (no need to memorize)
+
+- ἀπόλλυμι
+- δυσκολαίνω
+- καθεύδω
+- θηλάζω
+- ὀργίζω. "to anger". Use the middle voice to express "grew angry".
+- ὑποπτεύω

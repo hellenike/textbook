@@ -12,7 +12,7 @@ has_children: true
 
 A small group of verbs use a different set of endings to form the active and middle voices of the aorist indicative.  Their endings are identical to the endings of the imperfect indicative, but applied to the third stem.
 
-- easily recognized from third principal part.  Examples: ἦλθον, εἶπον 
+- easily recognized from third principal part.  Examples: ἦλθον, εἶπον, ἐγενόμην
 
 Contrast:
 
@@ -24,6 +24,8 @@ Note principal part ἔρχομαι shows us that there is no active voice in th
 
 Learn on:
 
+- γίγνομαι
 - ἔρχομαι
+- ἔχω
 - λέγω 
 
