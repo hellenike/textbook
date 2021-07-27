@@ -19,3 +19,19 @@ Aorist: act.mid:
     - "first" aorist: ends in -*α*
     - "second" aorist: ends in -*ον*
 
+## Paradigms
+
+The aorist indicative in the third person.
+
+| | Active | Middle | Passive |
+| --- | --- | --- | --- |
+| singular |  ἔδειξε | ἐδείξατο | ἐδείχθη |
+| plural | ἔδειξαν | ἐδείξαντο |ἐδείχθησαν  |
+
+
+
+| | Active | Middle | Passive |
+| --- | --- | --- | --- |
+| singular |  ἐκέλευσε | ἐκελεύσατο | ἐκελεύθη |
+| plural | ἐκέλευσαν | ἐκελεύσαντο | ἐκελεύθησαν  |
+
