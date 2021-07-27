@@ -43,20 +43,84 @@ Main points: voice
 
 ## Forming the aorist indicative
 
-- principal parts give an example form in the first singular indicative active of a representative tense: start by dropping the first singular ending and the accent:
 
-ἔδειξα -> ἐδειξ-
-ἐκέλευσα -> ἐκελευσ-
+### Active and middle
 
+- (1) principal parts give an example form in the first singular indicative active of a representative tense: start by dropping the first singular ending and the accent from the third principal part:
+
+> ἔδειξα -> ἐδειξ-
+>
+> ἐκέλευσα -> ἐκελευσ-
+
+- (2) Add appropriate ending.  For today, memorize *third person* endings for singular and plural.
+
+| Number | Active ending | Middle ending |
+| --- | --- | --- |
+| singular |  -ε | -ατο |
+| plural | -ᾰν | -αντο |
+
+
+- (3) Apply recessive accent.  
+
+
+
+
+
+### Passive
+
+- (1) Drop the first singular ending and the accent from the sixth principal part
+
+
+> ἐδείχθην -> ἐδειχθ-
+>
+> ἐκελεύθην -> ἐκελευθ-
+
+
+- (2) Add appropriate ending
+
+| Number | Ending |
+| --- | --- |
+| singular | -η  |
+| plural | -ησαν |
+
+- (3) Apply recessive accent.  
+
+
+
+### Examples
+
+| | Active | Middle | Passive |
+| --- | --- | --- | --- |
+| singular |  ἔδειξε | ἐδείξατο | ἐδείχθη |
+| plural | ἔδειξαν | ἐδείξαντο |ἐδείχθησαν  |
+
+
+
+| | Active | Middle | Passive |
+| --- | --- | --- | --- |
+| singular |  ἐκέλευσε | ἐκελεύσατο | ἐκελεύθη |
+| plural | ἐκέλευσαν | ἐκελεύσαντο | ἐκελεύθησαν  |
 
 
 
 ## Vocabulary for today
 
-Memorize these paradigm verbs:
+Learn these paradigm verbs: be able to produce the first, third and sixth principal parts from memory.
 
-- δείκνυμι with compound ἐπιδείκνυμι
-- κελεύω
+- **δείκνυμι**, `δείξω`, **ἔδειξα**, `δέδειχα`, `δέδειγμα`, **ἐδείχθην**, "[to show](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n23658)" 
+    - compound **ἐπιδείκνυμι**, `ἐπιδείξω`, **ἐπέδειξα**, `ἐπιδέδειχα`, `ἐπιδέδειγμα`, **ἐπεδείχθην**, "[to demonstrate, prove](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n39125)"
+- **κελεύω**, `κελεύσω`, **ἐκέλευσα**, `κεκέλευκα`, `κεκέλευμαι`, **ἐκελεύθην**, "[to order](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n56496)“
+
+
+
+
+
+
+<style>
+    code {
+    
+    }
+</style>
 
 
 ## Vocabulary to practice with (no need to memorize)
