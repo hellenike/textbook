@@ -6,4 +6,4 @@ has_children: true
 ---
 
 
-# Module 2
+# Module 2:  nouns and adjectives
