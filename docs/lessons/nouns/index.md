@@ -3,7 +3,7 @@ layout: page
 title: "Topic: nouns"
 parent: "Module 2: language"
 grand_parent: "Module 2"
-nav_order: 2
+nav_order: 1
 has_children: true
 ---
 
