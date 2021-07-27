@@ -8,7 +8,9 @@ has_children: true
 ---
 
 
-Overview of Greek nouns:
+# Overview of Greek nouns
+
+
 Nouns have gender, case, and number
 Gender: M/F/N
 Case: nominative, genitive, dative, accusative, vocative. Cases reflect function in a sentence. Cases are determined by endings.
