@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lesson: the Greek alphabet"
+title: "Topic: the Greek alphabet"
 parent: "Module 1: language"
 grand_parent: "Module 1"
 nav_order: 1
