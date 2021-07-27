@@ -21,12 +21,18 @@ Aorist: act.mid:
 
 ## Paradigms
 
-The aorist indicative in the third person.
+The aorist indicative in the third person.  Forms highlighted `like this` are not required to be memorized in module 1.)
 
-| | Active | Middle | Passive |
+The aorist indicative of δείκνυμι
+
+
+| person/number | Active | Middle | Passive |
 | --- | --- | --- | --- |
-| singular |  ἔδειξε | ἐδείξατο | ἐδείχθη |
-| plural | ἔδειξαν | ἐδείξαντο |ἐδείχθησαν  |
+| 1st singular |  ἔδειξα | ἐδειξάμην | ἐδείχθην |
+| 2d singular |  ἔδειξες  |  | ἐδείχθης  |
+| 3rd singular |  ἔδειξε | ἐδείξατο | ἐδείχθη |
+
+| 3rd plural | ἔδειξαν | ἐδείξαντο |ἐδείχθησαν  |
 
 
 

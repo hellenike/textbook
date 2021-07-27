@@ -109,7 +109,7 @@ Learn these paradigm verbs: be able to produce the first, third and sixth princi
 
 - **δείκνυμι**, `δείξω`, **ἔδειξα**, `δέδειχα`, `δέδειγμα`, **ἐδείχθην**, "[to show](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n23658)" 
     - compound **ἐπιδείκνυμι**, `ἐπιδείξω`, **ἐπέδειξα**, `ἐπιδέδειχα`, `ἐπιδέδειγμα`, **ἐπεδείχθην**, "[to demonstrate, prove](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n39125)"
-- **κελεύω**, `κελεύσω`, **ἐκέλευσα**, `κεκέλευκα`, `κεκέλευμαι`, **ἐκελεύθην**, "[to order](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n56496)“
+- **κελεύω**, `κελεύσω`, **ἐκέλευσα**, `κεκέλευκα`, `κεκέλευμαι`, **ἐκελεύσθην**, "[to order](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n56496)“
 
 
 
