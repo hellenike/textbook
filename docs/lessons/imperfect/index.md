@@ -17,3 +17,9 @@ Form:
 
 - all three voices use the *first* principal part
 - middle and passive voices have identical forms
+
+Augment:
+
+- compare first and third parts of verbs you already know.  The aorist indicative is characterized by adding an epsilon to the first part's stem.  This is called *augment*.  
+- The imperfect tense shows the same pattern, but uses the first principal part.
+

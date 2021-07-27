@@ -24,6 +24,8 @@ Note principal part ἔρχομαι shows us that there is no active voice in th
 
 Learn on:
 
+
+- ἄγω
 - γίγνομαι
 - ἔρχομαι
 - ἔχω
