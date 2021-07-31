@@ -5,20 +5,18 @@ nav_order: 4
 has_children: true
 ---
 
+# Language
 
+Main areas of focus are:
+- first subordinate clause (introducing subordinating conjunctions, use of μή)
+- sequence of tenses
+- morphology of subjunctive and optative moods, all three voices, 3S and Pl (aorist, imperfect tenses)
 
-## Purpose clauses
+# Making Connections 
 
-Purpose clauses explain the reason(s) behind the main action. The verb of a purpose clause is never in the indicative mood.
+- Phuc Tran on the power of a non-indicative mood
 
-Main points: 
-- introduced by specific subordinating conjunctions, ἵνα, ὡς, or ὅπως
-- negated by μή 
-- the verb within the purpose clause will be in the subjunctive or the optative
+# Exercises, Reading, and Composition
 
-## Sequence of tenses
-
-When is the verb in a purpose clause in the subjunctive mood vs. the optative mood? The verb follows the sequence of tenses:
-
-
-
+- Continuing with Lysias 1, sections 20-22(?)
+- Can express purpose in two different ways
