@@ -37,10 +37,10 @@ The **genitive case** is used to relate one noun to another/make one noun depend
 
 ### First declension
 
-| Case | Singular | Plural 
+| Case | Singular | Plural |
 | ----------- | ----------- |
-| Nominative | -η | -αι
-| Genitive | -ης | -ῶν
+| Nominative | -η | -αι |
+| Genitive | -ης | -ῶν |
 
 ### Second declension
 
