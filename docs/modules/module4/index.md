@@ -6,9 +6,6 @@ has_children: true
 ---
 
 
-# Module 4: Subordination
-
-In this module, we will introduce the first of several types of subordinate clauses you will learn in Greek: the purpose clause.
 
 ## Purpose clauses
 
