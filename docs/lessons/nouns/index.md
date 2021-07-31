@@ -12,16 +12,22 @@ has_children: true
 
 ## Overview of nouns 
 
-Main points to cover:
+### Main points to cover:
+
 All nouns have gender, case, and number.
 - There are three grammatical genders: masculine, feminine, and neuter.
-- Cases reflect function in a sentence. Cases are determined by endings. There are five cases: nominative, genitive, dative, accusative, vocative. 
+- Cases indicate the function of a noun in a sentence. Cases are determined by endings. There are five cases: nominative, genitive, dative, accusative, vocative. 
 - Greek has three numbers: singular, plural, and dual (but we won't see the dual this year). 
 
-## Dictionary entry of nouns 
+### Dictionary entry of nouns 
 
 The dictionary of a noun efficiently encodes all the information you need to know in order to produce all of its cases and numbers. The first word tells you its nominative singular form, the second word is its genitive singular form, and the third word tells you its gender(s).
 
-## Declension 
+### Declension 
 
-Nouns are organized into “declensions,” a category of nouns that share the same set of endings. In Greek, there are three declensions of nouns.
+Nouns are organized into “declensions,” a category of nouns that share the same set of endings. In Greek, there are three declensions of nouns. In this module, we will learn some cases of all three declensions.
+
+## The nominative case 
+
+The **nominative case** is a naming case; its most frequent function is to indicate the subject of a sentence. 
+
