@@ -27,7 +27,24 @@ The dictionary of a noun efficiently encodes all the information you need to kno
 
 Nouns are organized into “declensions,” a category of nouns that share the same set of endings. In Greek, there are three declensions of nouns. In this module, we will learn some cases of all three declensions.
 
-## The nominative case 
+## The nominative and genitive cases  
 
 The **nominative case** is a naming case; its most frequent function is to indicate the subject of a sentence. 
+
+The **genitive case** is used to relate one noun to another/make one noun depend on another. We often translate nouns in the genitive case with the English preposition "of." 
+
+## Forming the nominative and genitive cases 
+
+### First declension
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
+
+### Second declension
+
+### Third declension
+
+
 
