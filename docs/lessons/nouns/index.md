@@ -37,6 +37,8 @@ The **genitive case** is used to relate one noun to another/make one noun depend
 
 ### First declension
 
+The accent on nouns is *persistent*. But the first declension has one important exception, in the genitive plural. The genitive plural ending of the first declension is always accented with a circumflex. 
+
 For first-declension nouns that end in -η
 
 | Case | Singular | Plural |
