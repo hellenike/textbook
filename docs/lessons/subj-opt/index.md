@@ -38,9 +38,9 @@ To the stem from the first principal part, add the following endings:
 
 ## Forming the aorist subjunctive and optative
 
-**Aorist subjunctive**
+As you would expect, for the active and middle, add endings to the stem from the third principal part. For the passive, add endings to the stem from the sixth principal part.
 
-For the active and middle, add endings to the stem from the third principal part. For the passive, add endings to the stem from the sixth principal part.
+**Aorist subjunctive**
 
 |   | Active  | Middle  | Passive  |
 |---|---|---|---|
