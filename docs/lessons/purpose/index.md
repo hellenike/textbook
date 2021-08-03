@@ -3,7 +3,7 @@ layout: page
 title: "Lesson: Purpose Clauses"
 parent: "Module 4: language"
 grand_parent: "Module 4"
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
