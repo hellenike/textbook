@@ -25,4 +25,4 @@ Each module is aimed at 2-3 weeks; modules 1-4 together should be roughly one se
 - Module 1: [Greek verbs](./modules/module1/) (in progress)
 - Module 2: [nouns and adjectives](./modules/module2/) (in progress)
 - Module 3: participles
-- Module 4: subordination
+- Module 4: [subordination](./modules/module4/)
