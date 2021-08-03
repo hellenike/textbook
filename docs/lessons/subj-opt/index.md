@@ -31,6 +31,25 @@ To the stem from the first principal part, add the following endings:
 
 
 **Present optative**
+| Number  | Active  | Middle/Passive  |
+|---|---|---|
+| 3rd singular  |   |   |
+| 3rd plural  |   |   |
 
-## Forming the aorist imperfect and optative
+## Forming the aorist subjunctive and optative
 
+**Aorist subjunctive**
+
+For the active and middle, add endings to the stem from the third principal part. For the passive, add endings to the stem from the sixth principal part.
+
+|   | Active  | Middle  | Passive  |
+|---|---|---|---|
+| 3rd singular  |   |   |   |
+|  3rd plural |   |   |   |
+
+**Aorist optative**
+
+|   | Active  | Middle  | Passive  |
+|---|---|---|---|
+| 3rd singular  |   |   |   |
+|  3rd plural |   |   |   |
