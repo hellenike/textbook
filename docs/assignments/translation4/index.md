@@ -14,4 +14,4 @@ We return to the unusual physical arrangement of Euphiletos' household. He expla
 
 Later, when Euphiletos is at dinner and Eratosthenes is in the home, the baby begins to cry.
 
-> καὶ ἐγὼ τὴν γυναῖκα ἀπιέναι ἐκέλευον καὶ δοῦναι τῷ παιδίῳ τὸν τὴν γυναῖκα ἀπιέναι ἐκέλευον καὶ δοῦναι τῷ παιδίῳ τὸν ιτθόν, ἵνα παύσηται κλαῖον.
+> καὶ ἐγὼ τὴν γυναῖκα ἀπιέναι ἐκέλευον καὶ δοῦναι τῷ παιδίῳ τὸν τὴν γυναῖκα ἀπιέναι ἐκέλευον καὶ δοῦναι τῷ παιδίῳ τὸν τιτθόν, ἵνα παύσηται κλαῖον.
