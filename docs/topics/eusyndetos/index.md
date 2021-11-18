@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Topic: clauses and coordination"
+title: "Clauses and coordination"
 parent: "The Greek verb"
 grand_parent: "Module 1: the Greek verb"
-nav_order: 4
+nav_order: 6
 has_children: true
 ---
 

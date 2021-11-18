@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Topic: the aorist indicative indicative"
+title: "The aorist indicative"
 parent: "The Greek verb"
 grand_parent: "Module 1: the Greek verb"
-nav_order: 2
+nav_order: 4
 has_children: true
 ---
 

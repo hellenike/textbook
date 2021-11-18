@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Topic: contract verbs"
+title: "Contract verbs"
 parent: "The Greek verb"
 grand_parent: "Module 1: the Greek verb"
-nav_order: 5
+nav_order: 7
 has_children: true
 ---
 
