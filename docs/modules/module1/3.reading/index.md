@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Module 1: reading"
-parent: "Module 1"
-nav_order: 10
+parent: "Module 1: the Greek verb"
+nav_order: 3
 ---
 
 # Reading

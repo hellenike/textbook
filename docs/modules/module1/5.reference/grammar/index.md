@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Module 1: language reference"
-parent: "Module 1"
-nav_order: 10
+grand_parent: "Module 1: the Greek verb"
+parent: "Module 1: reference and review"
+nav_order: 2
 ---
 
 # Module 1: summary of forms and grammar

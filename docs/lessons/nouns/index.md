@@ -2,7 +2,7 @@
 layout: page
 title: "Topic: nouns"
 parent: "Module 2: language"
-grand_parent: "Module 2"
+grand_parent: "Module 2: nouns and adjectives"
 nav_order: 1
 has_children: true
 ---

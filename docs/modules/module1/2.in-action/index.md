@@ -1,14 +1,15 @@
 ---
 layout: page
-title: "In action: the imperfect"
-parent: "Module 1"
-nav_order: 4
+title: "Module 1: ancient Greek in action"
+parent: "Module 1: the Greek verb"
+nav_order: 2
 ---
 
-## Ancient Greek in action: the imperfect
+## Ancient Greek in action: the imperfect tense
 
 
 As you've seen in this module, while the Greek imperfect and aorist tenses can both refer to events in the past, they express different ideas about how an event takes place in time. (This is sometimes called *grammatical aspect*).  
+
 
 
 

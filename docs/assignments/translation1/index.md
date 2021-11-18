@@ -2,7 +2,7 @@
 layout: page
 title: "Module 1: translation assignment"
 parent: "Module 1: assignments"
-grand_parent: "Module 1"
+grand_parent: "Module 1: the Greek verb"
 nav_order: 2
 ---
 

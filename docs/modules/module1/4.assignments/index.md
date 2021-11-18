@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Module 1: assignments"
-parent: "Module 1"
-nav_order: 15
+parent: "Module 1: the Greek verb"
+nav_order: 4
 has_children: true
 ---
 

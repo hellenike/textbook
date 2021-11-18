@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Topic: the second aorist"
-parent: "Module 1: language"
-grand_parent: "Module 1"
+parent: "The Greek verb"
+grand_parent: "Module 1: the Greek verb"
 nav_order: 6
 has_children: true
 ---

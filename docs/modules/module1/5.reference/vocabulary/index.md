@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Module 1: vocabulary"
-parent: "Module 1"
-nav_order: 8
+grand_parent: "Module 1: the Greek verb"
+parent: "Module 1: reference and review"
+nav_order: 1
 ---
 
 # Module 1: vocabulary

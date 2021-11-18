@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Module 1: exercises"
-parent: "Module 1"
-nav_order: 2
+title: "Module 1: practice"
+grand_parent: "Module 1: the Greek verb"
+parent: "Module 1: reference and review"
+nav_order: 4
 ---
 
 # Exercises

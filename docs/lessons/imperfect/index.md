@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Topic: the imperfect tense"
-parent: "Module 1: language"
-grand_parent: "Module 1"
+parent: "The Greek verb"
+grand_parent: "Module 1: the Greek verb"
 nav_order: 3
 has_children: true
 ---
