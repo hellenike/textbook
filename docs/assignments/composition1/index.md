@@ -6,4 +6,4 @@ grand_parent: "Module 1: the Greek verb"
 nav_order: 3
 ---
 
-# Module 1: composition
+## Module 1: composition

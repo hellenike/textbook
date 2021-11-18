@@ -19,7 +19,7 @@ Module 1 introduces these features of Greek:
 - principal parts of Greek verbs
 - the aorist and imperfect indicative tenses
 
-## Ancient Greek in action
+### Ancient Greek in action
 
 Different languages imagine the world differently. To narrate past events, for example, English does not have a single verb tense that correspond to the ideas expressed by the Greek imperfect tense. Module 1 includes reflections of English speakers encountering a different imperfect tense in Spanish and Italian.
 

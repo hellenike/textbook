@@ -7,14 +7,14 @@ nav_order: 4
 has_children: true
 ---
 
-# The aorist indicative
+## The aorist indicative
 
-## Verbs
+### Verbs
 
 - we'll always begin our reading with *verbal units* that express an action
 - the form of a verb expresses the *subject* as well as the *verb*.  Example:  the form ἐκέλευσε means "he or she ordered"; the form ἐκέλευσαν means "they ordered".  These are complete sentences that do not need a separate word for "he", "she" or "they."
 
-## Overview of Greek verbs
+### Overview of Greek verbs
 
 Main points to cover:
 
@@ -24,7 +24,7 @@ Main points to cover:
 - Greek verbs have six stems called *principal parts*
 - accent of finite verb forms is *recessive*
 
-## The *aorist indicative*
+### The *aorist indicative*
 
 Main points: tense and mood
 
@@ -41,10 +41,10 @@ Main points: voice
 - the aorist tense forms the active and middle voices from the *third* principal part; it forms the passive voice from the *sixth* principal part
 
 
-## Forming the aorist indicative
+### Forming the aorist indicative
 
 
-### Active and middle
+#### Active and middle
 
 - (1) principal parts give an example form in the first singular indicative active of a representative tense: start by dropping the first singular ending and the accent from the third principal part:
 
@@ -66,7 +66,7 @@ Main points: voice
 
 
 
-### Passive
+#### Passive
 
 - (1) Drop the first singular ending and the accent from the sixth principal part
 
@@ -87,7 +87,7 @@ Main points: voice
 
 
 
-### Examples
+#### Examples
 
 | | Active | Middle | Passive |
 | --- | --- | --- | --- |
@@ -103,7 +103,7 @@ Main points: voice
 
 
 
-## Vocabulary for today
+### Vocabulary for today
 
 Learn these paradigm verbs: be able to produce the first, third and sixth principal parts from memory.
 
@@ -123,7 +123,7 @@ Learn these paradigm verbs: be able to produce the first, third and sixth princi
 </style>
 
 
-## Vocabulary to practice with (no need to memorize)
+### Vocabulary to practice with (no need to memorize)
 
 - ἀπόλλυμι
 - δυσκολαίνω

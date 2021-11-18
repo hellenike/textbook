@@ -8,7 +8,7 @@ has_children: true
 ---
 
 
-# The second aorist
+## The second aorist
 
 A small group of verbs use a different set of endings to form the active and middle voices of the aorist indicative.  Their endings are identical to the endings of the imperfect indicative, but applied to the third stem.
 

@@ -7,7 +7,7 @@ nav_order: 6
 has_children: true
 ---
 
-# Clauses and coordination
+## Clauses and coordination
 
 
 - verbal units with *finite* verb forms are called *clauses*
@@ -17,7 +17,7 @@ has_children: true
 
 
 
-## Vocabulary for today
+### Vocabulary for today
 
 These conjunctions *introduce* a clause:
 

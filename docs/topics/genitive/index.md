@@ -7,5 +7,5 @@ nav_order: 1
 has_children: true
 ---
 
-# The genitive case of nouns and the article
+## The genitive case of nouns and the article
 

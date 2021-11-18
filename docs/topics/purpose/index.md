@@ -7,7 +7,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Purpose clauses
+## Purpose clauses
 
 Purpose clauses explain the reason(s) behind the main action. The verb of a purpose clause is never in the indicative mood.
 
@@ -16,6 +16,6 @@ Main points:
 - negated by μή 
 - the verb within the purpose clause will be in the subjunctive or the optative
 
-# Sequence of tenses
+## Sequence of tenses
 
 When is the verb in a purpose clause in the subjunctive mood vs. the optative mood? The verb follows the sequence of tenses:
