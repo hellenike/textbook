@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Module 2"
-nav_order: 2
+title: "Module 2: nouns and adjectives"
+nav_order: 4
 has_children: true
 ---
 

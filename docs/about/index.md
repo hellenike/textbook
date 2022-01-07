@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About the textbook"
-nav_order: 8
+title: "Introduction"
+nav_order: 1
 ---
 
 # About this textbook
@@ -11,17 +11,24 @@ nav_order: 8
 - targetted to a specific text or corpus
 - covers only features of language found in the target texts
 
-
 ## Organization
 
-Organized in modules comprising:
+Organized in modules aimed at 2-3 weeks; modules 1-4 together should be roughly one semester of a two-semester, full-year course.
+
+
+Each module comprises:
 
 - introduction of grammatical topics
 - minimally modified passages from the target corpus
 - interactive exercises and drills
-- "making connections": relating topics in this module to our lives today
+- ancient Greek in action: relating topics in this module to our lives today
 
-## Sequence of grammtical topics
+
+
+## Additional notes for teachers
+
+
+### Sequence of grammtical topics
 
 Topics sequenced by: 
 
@@ -32,7 +39,7 @@ Topics sequenced by:
 
 > -> **teach to the synopsis, not the paradigm**
 
-## Vocabulary
+### Vocabulary
 
 First half of course: emphasis on a small core vocabulary (perhaps < 200 words).  This vocabulary is defined by comparison with other Greek corpora, and finding shared items in the highest frequency lists of individual corpora (rather than the common practice of finding most frequent terms in a *composite* list:  this effaces the differences in vocabulary from one corpus to another).
 

@@ -6,7 +6,7 @@ grand_parent: "Module 4"
 nav_order: 2
 ---
 
-# Module 4: translation assignment
+## Module 4: translation assignment
 
 We return to the unusual physical arrangement of Euphiletos' household. He explains in court why these arrangements came to be:
 

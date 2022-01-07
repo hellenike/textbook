@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Module 2: reading"
-parent: "Module 2"
+parent: "Module 2: nouns and adjectives"
 nav_order: 10
 ---
 

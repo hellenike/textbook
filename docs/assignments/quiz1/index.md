@@ -2,12 +2,12 @@
 layout: page
 title: "Module 1: quiz"
 parent: "Module 1: assignments"
-grand_parent: "Module 1"
+grand_parent: "Module 1: the Greek verb"
 nav_order: 1
 ---
 
 
-# Module 1: quiz
+## Module 1: quiz
 
 
 Add the correct accent to the following finite verbs:
