@@ -7,9 +7,7 @@ nav_order: 1
 has_children: true
 ---
 
-
-## Recessive accent
-Ancient Greek accents
+## Ancient Greek accents
 
 
 General rules:
