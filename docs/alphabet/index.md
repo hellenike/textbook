@@ -18,6 +18,60 @@ Notes for overview:
 
 ## The basic letters
 
+letter	name	  pronunciation guide	     practice Greek word
+
+Α  α 	  alpha	  drama (long, short) 	    ἀνήρ (“man”)	
+Β  β	  beta	  book 			                βιβλίον (“book”)	
+Γ  γ	  gamma	  Greek is good (“hard g”)  γυνή (“woman”)	
+Δ  δ	  delta	  day 			                δῶρον (“gift”)	
+Ε  ε 	  epsilon	bet 			                ἔργον (“work, deed”)	
+Ζ  ζ	  zeta	  wisdom 			              ζῷον (“animal”)
+Η  η 	  eta	    ate; wait		              ἡμέρα (“day”)
+Θ  θ	  theta	  thick (or hothead)	      θεός (“god”)	
+Ι  ι 	  iota	  hit (short); machine (long)	ἰχθύς  (“fish”)	
+Κ  κ	  kappa	  kangaroo 		              καρπός (“fruit”)	
+Λ  λ	  lambda	language 		              λόγος (“word”)	
+Μ  μ	  mu	    mother 			              μήτηρ (“mother”)	
+Ν  ν	  nu	    night 			              νόμος (“law, custom”)	
+Ξ  ξ	  xi	    hex (= ‘ks’)		          ξένος (“guest, host, stranger”)	
+Ο  ο 	  omicron	pot 			                ὄνομα (“name”)	
+Π  π	  pi	    paper 			              πατήρ (“father”)	
+Ρ  ρ 	  rho	    rose 			                ῥήτωρ (“orator”)	
+Σ  σ, ς sigma	  say 			                σῶμα (“body”)	
+Τ  τ	  tau	    take 			                τέκνον (“child”)	
+Υ  υ 	  upsilon	put (short); cute (long)	ὕπνος (“sleep”)	
+Φ  φ 	  phi	    photo (or hiphop)	        φωνή (“voice”)	
+Χ  χ    chi	    chorus (or backhand)	    χάρις (“grace, thanks, favor”)	
+Ψ  ψ	  psi	    upset 			              ψυχή (“spirit, soul, life”)	
+Ω  ω 	  omega	   bone			                ὥρα (“season, hour”)	
+
+## Breathings
+Another sound to add: words beginning with a vowel will have what is called a breathing mark written over that vowel. There are two kinds of breathing marks:
+smooth breathing looks like this ’ and adds no sound to the vowel
+rough breathing looks like this ‘ and adds an ‘h’ sound to the vowel (words beginning with a rho also have a rough breathing, making it an ‘rh’ sound)
+
+## Diphthongs
+Diphthongs are combinations of two vowels that result in one syllable. English has them, too. In Greek, diphthongs are combinations of iota or upsilon with other vowels. 
+
+diphthong	pronunciation guide	  model Greek word
+
+αι 		    aisle			            αἰδώς (“sense of shame, respect”)
+αυ 		    house, plow		        αὔριον (“tomorrow”)
+ει 		    weigh			            εἰρήνη (“peace”)
+ευ 		    ε + υ 			          εὖ (“well,” the adverb of “good”)
+οι 		    coin			            οἰκία (“house, home”)
+ου 		    soup, boot		        οὐρανός (“sky”)
+υι 		    wit			              υἱός (“son”)
+
+Accents and breathing marks are written over the second vowel of a diphthong.
+
+### Iota subscript
+When iota combines with long alpha, eta, or omega, one modern convention is to write it beneath the vowel as an “iota subscript,” which look like this:   ᾳ, ῃ, ῳ
+Some guides suggest pronouncing such combinations as a diphthong; in practice, I will not. But in writing the iota subscript is absolutely essential and cannot be ignored. [[Neel and Mary differ on pronunication]]
+
+
+
+
 
 ## A few further details
 
