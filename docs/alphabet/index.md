@@ -21,7 +21,9 @@ Notes for overview:
 letter	name	  pronunciation guide	     practice Greek word
 
 Α  α 	  alpha	  drama (long, short) 	    ἀνήρ (“man”)	
+
 Β  β	  beta	  book 			                βιβλίον (“book”)	
+
 Γ  γ	  gamma	  Greek is good (“hard g”)  γυνή (“woman”)	
 Δ  δ	  delta	  day 			                δῶρον (“gift”)	
 Ε  ε 	  epsilon	bet 			                ἔργον (“work, deed”)	
@@ -55,8 +57,8 @@ Diphthongs are combinations of two vowels that result in one syllable. English h
 
 diphthong	pronunciation guide	  model Greek word
 
-αι 		    aisle			            αἰδώς (“sense of shame, respect”)
-αυ 		    house, plow		        αὔριον (“tomorrow”)
+αι 		    aisle			            αἰδώς (“sense of shame, respect”) </br>
+αυ 		    house, plow		        αὔριον (“tomorrow”) </br>
 ει 		    weigh			            εἰρήνη (“peace”)
 ευ 		    ε + υ 			          εὖ (“well,” the adverb of “good”)
 οι 		    coin			            οἰκία (“house, home”)
