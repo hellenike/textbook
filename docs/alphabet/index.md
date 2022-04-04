@@ -20,32 +20,30 @@ Notes for overview:
 
 letter	name	  pronunciation guide	     practice Greek word
 
-Α  α 	  alpha	  drama (long, short) 	    ἀνήρ (“man”)	
-
-Β  β	  beta	  book 			                βιβλίον (“book”)	
-
-Γ  γ	  gamma	  Greek is good (“hard g”)  γυνή (“woman”)	
-Δ  δ	  delta	  day 			                δῶρον (“gift”)	
-Ε  ε 	  epsilon	bet 			                ἔργον (“work, deed”)	
-Ζ  ζ	  zeta	  wisdom 			              ζῷον (“animal”)
-Η  η 	  eta	    ate; wait		              ἡμέρα (“day”)
-Θ  θ	  theta	  thick (or hothead)	      θεός (“god”)	
-Ι  ι 	  iota	  hit (short); machine (long)	ἰχθύς  (“fish”)	
-Κ  κ	  kappa	  kangaroo 		              καρπός (“fruit”)	
-Λ  λ	  lambda	language 		              λόγος (“word”)	
-Μ  μ	  mu	    mother 			              μήτηρ (“mother”)	
-Ν  ν	  nu	    night 			              νόμος (“law, custom”)	
-Ξ  ξ	  xi	    hex (= ‘ks’)		          ξένος (“guest, host, stranger”)	
-Ο  ο 	  omicron	pot 			                ὄνομα (“name”)	
-Π  π	  pi	    paper 			              πατήρ (“father”)	
-Ρ  ρ 	  rho	    rose 			                ῥήτωρ (“orator”)	
-Σ  σ, ς sigma	  say 			                σῶμα (“body”)	
-Τ  τ	  tau	    take 			                τέκνον (“child”)	
-Υ  υ 	  upsilon	put (short); cute (long)	ὕπνος (“sleep”)	
-Φ  φ 	  phi	    photo (or hiphop)	        φωνή (“voice”)	
-Χ  χ    chi	    chorus (or backhand)	    χάρις (“grace, thanks, favor”)	
-Ψ  ψ	  psi	    upset 			              ψυχή (“spirit, soul, life”)	
-Ω  ω 	  omega	   bone			                ὥρα (“season, hour”)	
+Α  α 	  alpha	  drama (long, short) 	    ἀνήρ (“man”)	</br>
+Β  β	  beta	  book 			                βιβλίον (“book”)	</br>
+Γ  γ	  gamma	  Greek is good (“hard g”)  γυνή (“woman”)	</br>
+Δ  δ	  delta	  day 			                δῶρον (“gift”)	</br>
+Ε  ε 	  epsilon	bet 			                ἔργον (“work, deed”)	</br>
+Ζ  ζ	  zeta	  wisdom 			              ζῷον (“animal”)</br>
+Η  η 	  eta	    ate; wait		              ἡμέρα (“day”)</br>
+Θ  θ	  theta	  thick (or hothead)	      θεός (“god”)	</br>
+Ι  ι 	  iota	  hit (short); machine (long)	ἰχθύς  (“fish”)	</br>
+Κ  κ	  kappa	  kangaroo 		              καρπός (“fruit”) </br>	
+Λ  λ	  lambda	language 		              λόγος (“word”)	</br>
+Μ  μ	  mu	    mother 			              μήτηρ (“mother”)	</br>
+Ν  ν	  nu	    night 			              νόμος (“law, custom”)	</br>
+Ξ  ξ	  xi	    hex (= ‘ks’)		          ξένος (“guest, host, stranger”)	</br>
+Ο  ο 	  omicron	pot 			                ὄνομα (“name”)	</br>
+Π  π	  pi	    paper 			              πατήρ (“father”)	</br>
+Ρ  ρ 	  rho	    rose 			                ῥήτωρ (“orator”)	</br>
+Σ  σ, ς sigma	  say 			                σῶμα (“body”)	</br>
+Τ  τ	  tau	    take 			                τέκνον (“child”)	</br>
+Υ  υ 	  upsilon	put (short); cute (long)	ὕπνος (“sleep”)	</br>
+Φ  φ 	  phi	    photo (or hiphop)	        φωνή (“voice”)	</br>
+Χ  χ    chi	    chorus (or backhand)	    χάρις (“grace, thanks, favor”)	</br>
+Ψ  ψ	  psi	    upset 			              ψυχή (“spirit, soul, life”)	</br>
+Ω  ω 	  omega	   bone			                ὥρα (“season, hour”)	</br>
 
 ## Breathings
 Another sound to add: words beginning with a vowel will have what is called a breathing mark written over that vowel. There are two kinds of breathing marks:
@@ -59,11 +57,11 @@ diphthong	pronunciation guide	  model Greek word
 
 αι 		    aisle			            αἰδώς (“sense of shame, respect”) </br>
 αυ 		    house, plow		        αὔριον (“tomorrow”) </br>
-ει 		    weigh			            εἰρήνη (“peace”)
-ευ 		    ε + υ 			          εὖ (“well,” the adverb of “good”)
-οι 		    coin			            οἰκία (“house, home”)
-ου 		    soup, boot		        οὐρανός (“sky”)
-υι 		    wit			              υἱός (“son”)
+ει 		    weigh			            εἰρήνη (“peace”) </br>
+ευ 		    ε + υ 			          εὖ (“well,” the adverb of “good”) </br>
+οι 		    coin			            οἰκία (“house, home”) </br>
+ου 		    soup, boot		        οὐρανός (“sky”) </br>
+υι 		    wit			              υἱός (“son”)</br>
 
 Accents and breathing marks are written over the second vowel of a diphthong.
 
