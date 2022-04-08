@@ -10,7 +10,7 @@ has_children: true
 ## Ancient Greek accents
 
 
-General rules:
+### General rules:
 There are three types of accents: (1) acute ´   (2) grave `   (3) circumflex ˜ 
 
 Accents are written over vowels. If a diphthong is accented, the accent is written over the second vowel of the diphthong (e.g., εὖ). In classical Greece the accent was a pitch accent: that is, the pitch of your voice would rise or lower. Because English speakers are accustomed to stress accents, we will stress any accented syllable, regardless of type of accent, when pronouncing a word.
@@ -34,7 +34,7 @@ A circumflex accent appears only on the penult or the ultima—never on the ante
 
 
 
-## Recessive accent
+### Recessive accent
 
 The accent on finite verb forms in ancient Greek is described as recessive, meaning the accent recedes as far back from the end of the word as the possible, in accordance with the set of rules governing accentuation.
 
