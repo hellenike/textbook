@@ -22,6 +22,7 @@ Learning the principal parts of verbs is important so that you will be able to c
 All principal parts of an Ancient Greek verb are 1st person singular forms.
 
 Principal part	Form
+
 1st		1st person singular present active indicative OR 
 		1st person singular present middle indicative if active forms do not exist
 
