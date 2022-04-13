@@ -20,30 +20,30 @@ Notes for overview:
 
 letter |	name	|  pronunciation guide	 |    practice Greek word
 --- | --- | --- | ---
-Α  α |  alpha	|  dr++a++m++a++ (long, short) 	 |   ἀνήρ (“man”)	
-Β  β |  beta	|  ++b++ook 			           |     βιβλίον (“book”)
-Γ  γ |  gamma	|  ++g++ood (“hard g”)       |  γυνή (“woman”)
-Δ  δ |  delta	 | ++d++ay 			             |   δῶρον (“gift”)
-Ε  ε |  epsilon |	b++e++t 			           |  ἔργον (“work, deed”)
-Ζ  ζ |  zeta	|  wisdom 			         |    ζῷον (“animal”)
-Η  η |  eta	  | ate; wait		           |  ἡμέρα (“day”)
-Θ  θ |  theta	|  thick (or hothead)	   |   θεός (“god”)
-Ι  ι |	iota	| hit (short); machine (long) |	ἰχθύς  (“fish”)
-Κ  κ |  kappa	|  kangaroo 		         |     καρπός (“fruit”) 	
-Λ  λ |	lambda|	language 		           |   λόγος (“word”)	
-Μ  μ |  mu	  |  mother 			         |     μήτηρ (“mother”)	
-Ν  ν |	nu	  |  night 			           |   νόμος (“law, custom”)	
-Ξ  ξ |	xi	  |  hex (= ‘ks’)		          ξένος (“guest, host, stranger”)	
-Ο  ο 	  omicron	pot 			                ὄνομα (“name”)	
-Π  π	  pi	    paper 			              πατήρ (“father”)	
-Ρ  ρ 	  rho	    rose 			                ῥήτωρ (“orator”)	</br>
-Σ  σ, ς sigma	  say 			                σῶμα (“body”)	</br>
-Τ  τ	  tau	    take 			                τέκνον (“child”)	</br>
-Υ  υ 	  upsilon	put (short); cute (long)	ὕπνος (“sleep”)	</br>
-Φ  φ 	  phi	    photo (or hiphop)	        φωνή (“voice”)	</br>
-Χ  χ    chi	    chorus (or backhand)	    χάρις (“grace, thanks, favor”)	</br>
-Ψ  ψ	  psi	    upset 			              ψυχή (“spirit, soul, life”)	</br>
-Ω  ω 	  omega	   bone			                ὥρα (“season, hour”)	</br>
+Α  α |  alpha	|  dr**a**m**a** (long, short) 	 |   ἀνήρ (“man”)	
+Β  β |  beta	|  **b**ook 			           |     βιβλίον (“book”)
+Γ  γ |  gamma	|  **g**ood (“hard g”)       |  γυνή (“woman”)
+Δ  δ |  delta	 | **d**ay 			             |   δῶρον (“gift”)
+Ε  ε |  epsilon |	b**e**t 			           |  ἔργον (“work, deed”)
+Ζ  ζ |  zeta	|  wi**sd**om 			         |    ζῷον (“animal”)
+Η  η |  eta	  | **a**te; w**ai**t		       |  ἡμέρα (“day”)
+Θ  θ |  theta	|  **th**ick (or ho**th**ead)|   θεός (“god”)
+Ι  ι |	iota	| h**i**t (short); mach**i**ne (long)|	ἰχθύς  (“fish”)
+Κ  κ |  kappa	|  **k**ind 		             |     καρπός (“fruit”) 	
+Λ  λ |	lambda|	**l**anguage 		           |   λόγος (“word”)	
+Μ  μ |  mu	  |  **m**other 			         |     μήτηρ (“mother”)	
+Ν  ν |	nu	  |  **n**ight 			           |   νόμος (“law, custom”)	
+Ξ  ξ |	xi	  |  he**x** (= ‘ks’)		       |    ξένος (“guest, host, stranger”)	
+Ο  ο |	omicron |	p**o**t 			           |     ὄνομα (“name”)	
+Π  π |	pi	  |  **p**erson 			         |     πατήρ (“father”)	
+Ρ  ρ |	rho	  |  **r**ose 			           | ῥήτωρ (“orator”)	
+Σ  σ, ς | sigma	|  **s**ay 			           |     σῶμα (“body”)	
+Τ  τ	|  tau	 |   **t**ake 			         |       τέκνον (“child”)	
+Υ  υ 	|  upsilon |	p**u**t (short); c**u**te (long) |	ὕπνος (“sleep”)
+Φ  φ 	|  phi	 |   **ph**oto (or hi**ph**op)	 |       φωνή (“voice”)	
+Χ  χ  |  chi	 |   **ch**orus (or ba**ckh**and)	 |   χάρις (“grace, thanks, favor”)	
+Ψ  ψ	|  psi	 |  u**ps**et 			         |     ψυχή (“spirit, soul, life”)
+Ω  ω 	|  omega |   b**o**ne			           |     ὥρα (“season, hour”)
 
 ## Breathings
 Another sound to add: words beginning with a vowel will have what is called a breathing mark written over that vowel. There are two kinds of breathing marks:
