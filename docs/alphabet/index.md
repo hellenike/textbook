@@ -53,15 +53,15 @@ rough breathing looks like this ‘ and adds an ‘h’ sound to the vowel (word
 ## Diphthongs
 Diphthongs are combinations of two vowels that result in one syllable. English has them, too. In Greek, diphthongs are combinations of iota or upsilon with other vowels. 
 
-diphthong	pronunciation guide	  model Greek word
-
-αι 		    aisle			            αἰδώς (“sense of shame, respect”) </br>
-αυ 		    house, plow		        αὔριον (“tomorrow”) </br>
-ει 		    weigh			            εἰρήνη (“peace”) </br>
-ευ 		    ε + υ 			          εὖ (“well,” the adverb of “good”) </br>
-οι 		    coin			            οἰκία (“house, home”) </br>
-ου 		    soup, boot		        οὐρανός (“sky”) </br>
-υι 		    wit			              υἱός (“son”)</br>
+diphthong |	pronunciation guide	|  model Greek word
+--- | --- | ---
+αι 	|	    **ai**sle		  |	      αἰδώς (“sense of shame, respect”) 
+αυ 	|	    h**ou**se, pl**ow**		|        αὔριον (“tomorrow”) 
+ει 	|	    w**ei**gh			    |        εἰρήνη (“peace”)
+ευ 	|	    ε + υ 			  |        εὖ (“well,” the adverb of “good”) 
+οι 	|	    c**oi**n			    |        οἰκία (“house, home”) 
+ου 	|	    s**ou**p, b**oo**t		|        οὐρανός (“sky”) 
+υι 	|	    **wi**t			      |        υἱός (“son”)
 
 Accents and breathing marks are written over the second vowel of a diphthong.
 
