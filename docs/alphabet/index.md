@@ -18,24 +18,24 @@ Notes for overview:
 
 ## The basic letters
 
-letter	name	  pronunciation guide	     practice Greek word
-
-Α  α 	  alpha	  drama (long, short) 	    ἀνήρ (“man”)	</br>
-Β  β	  beta	  book 			                βιβλίον (“book”)	</br>
-Γ  γ	  gamma	  Greek is good (“hard g”)  γυνή (“woman”)	</br>
-Δ  δ	  delta	  day 			                δῶρον (“gift”)	</br>
-Ε  ε 	  epsilon	bet 			                ἔργον (“work, deed”)	</br>
-Ζ  ζ	  zeta	  wisdom 			              ζῷον (“animal”)</br>
-Η  η 	  eta	    ate; wait		              ἡμέρα (“day”)</br>
-Θ  θ	  theta	  thick (or hothead)	      θεός (“god”)	</br>
-Ι  ι 	  iota	  hit (short); machine (long)	ἰχθύς  (“fish”)	</br>
-Κ  κ	  kappa	  kangaroo 		              καρπός (“fruit”) </br>	
-Λ  λ	  lambda	language 		              λόγος (“word”)	</br>
-Μ  μ	  mu	    mother 			              μήτηρ (“mother”)	</br>
-Ν  ν	  nu	    night 			              νόμος (“law, custom”)	</br>
-Ξ  ξ	  xi	    hex (= ‘ks’)		          ξένος (“guest, host, stranger”)	</br>
-Ο  ο 	  omicron	pot 			                ὄνομα (“name”)	</br>
-Π  π	  pi	    paper 			              πατήρ (“father”)	</br>
+letter |	name	|  pronunciation guide	 |    practice Greek word
+--- | --- | --- | ---
+Α  α |  alpha	|  drama (long, short) 	 |   ἀνήρ (“man”)	
+Β  β |  beta	|  book 			           |     βιβλίον (“book”)
+Γ  γ |  gamma	|  good (“hard g”)       |  γυνή (“woman”)
+Δ  δ |  delta	 | day 			             |   δῶρον (“gift”)
+Ε  ε |  epsilon |	bet 			             |  ἔργον (“work, deed”)
+Ζ  ζ |  zeta	|  wisdom 			              ζῷον (“animal”)
+Η  η 	  eta	    ate; wait		              ἡμέρα (“day”)
+Θ  θ	  theta	  thick (or hothead)	      θεός (“god”)
+Ι  ι 	  iota	  hit (short); machine (long)	ἰχθύς  (“fish”)
+Κ  κ	  kappa	  kangaroo 		              καρπός (“fruit”) 	
+Λ  λ	  lambda	language 		              λόγος (“word”)	
+Μ  μ	  mu	    mother 			              μήτηρ (“mother”)	
+Ν  ν	  nu	    night 			              νόμος (“law, custom”)	
+Ξ  ξ	  xi	    hex (= ‘ks’)		          ξένος (“guest, host, stranger”)	
+Ο  ο 	  omicron	pot 			                ὄνομα (“name”)	
+Π  π	  pi	    paper 			              πατήρ (“father”)	
 Ρ  ρ 	  rho	    rose 			                ῥήτωρ (“orator”)	</br>
 Σ  σ, ς sigma	  say 			                σῶμα (“body”)	</br>
 Τ  τ	  tau	    take 			                τέκνον (“child”)	</br>
