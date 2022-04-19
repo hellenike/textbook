@@ -25,9 +25,9 @@ Frequently used prepositions
 εἰς | + accusative | into, to, toward, in regard to
 ἐκ, ἐξ | + genitive | out of, from
 ἐν | + dative | in, on, among
-ἐπί |+ genitive |
-    |+ dative   |
-    |+ accusative |
+ἐπί |+ genitive 
+    + dative   
+    + accusative |
 
 κατὰ 
 μετά 
