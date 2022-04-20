@@ -48,7 +48,7 @@ _The tall woman went to the market._ The adjective "tall" is in the attributive 
 
 _The woman is tall._ The adjective "tall" is in the predicate position, syntactically connected to the verb of the sentence.
 
-In both sentences, the adjective "tall" describes the woman, and so in ancient Greek would be the same gender, case and number as the noun "woman": since "woman" is the subject of each sentence, the adjective will be feminine, nominative, singlar, as the noun is.
+In both sentences, the adjective "tall" describes the woman, and so in ancient Greek would be the same gender, case, and number as the noun "woman": since "woman" is the subject of each sentence, the adjective will be feminine, nominative, singular, as the noun is.
 
 **Attributive** position in ancient Greek follows the article that modifeies the noun. The article can be repeated to create this position:
 ἡ μεγάλη γυνή  'the tall woman'
