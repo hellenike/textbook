@@ -31,7 +31,7 @@ Examples of noun-adjective agreement from Lysias I.6-10
 οἰκίδιον διπλοῦν neuter nominative singular
 
 
-Because of the lack of gender and case with nouns and lack of even number with adjectives, English does not have explicit rules about noun-adjective agreement (as it does for subject-verb agreement, for example). The adjective does not change between one green show or a pair of green shoes, an old woman or a group of old men. 
+Because of the lack in English of gender and case with nouns and lack of even number with adjectives, English does not have explicit rules about noun-adjective agreement (as it does for subject-verb agreement, for example). The adjective does not change between one green shoe and two green shoes, an old woman or a group of old men. 
 
 But note that English has interesting “ingrained” rules about the order of adjectives when there is more than one. Most native speakers of English know these rules as just what “sounds right” or “sounds wrong,”  “Old green shoes” obeys these rules while “green old shoes” does not.
 https://www.bbc.com/culture/article/20160908-the-language-rules-we-know-but-dont-know-we-know
@@ -39,6 +39,26 @@ https://www.bbc.com/culture/article/20160908-the-language-rules-we-know-but-dont
 English language learners actually are asked to learn these rules explicitly. That is a good reminder of the way in which language rules are defined for non-native-speakers (as we all are for ancient Greek) in a way that complicates the sense of a language meant to communicate.
 
 ### Adjective placement: attributive and predicate positions
+
+Adjectives can describe a noun, and thus in ancient Greek must agree with that noun in gender, case, and number, from different syntatical positions in a sentence. 
+
+One of those positions is called the **attributive** position, when the adjective qualifies the noun and is directly adjeacent to it. The other is called the **predicate** position, when the adjective is part of the predicate of the clause or sentence. Compare these exmaples in English:
+
+_The tall woman went to the market._ The adjective "tall" is in the attributive position.
+
+_The woman is tall._ The adjective "tall" is in the predicate position, syntactically connected to the verb of the sentence.
+
+In both sentences, the adjective "tall" describes the woman, and so in ancient Greek would be the same gender, case and number as the noun "woman": since "woman" is the subject of each sentence, the adjective will be feminine, nominative, singlar, as the noun is.
+
+**Attributive** position in ancient Greek follows the article that modifeies the noun. The article can be repeated to create this position:
+ἡ μεγάλη γυνή  'the tall woman'
+ἡ γυνὴ ἡ μεγάλη  'the tall woman'
+
+**Predicate** position is a placement outside of the article + noun phrase.
+
+ἡ μεγάλη γυνὴ εἰς τὴν ἀγορὰν ἦλθον. OR ἡ γυνὴ ἡ μεγάλη εἰς τὴν ἀγορὰν ἦλθον. _The tall woman went to the market._ (attributive position)
+
+ἡ γυνὴ μεγάλη ἐστίν. _The woman is tall._ (predicate position)
 
 
 
