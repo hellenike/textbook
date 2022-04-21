@@ -1,4 +1,4 @@
----
+t---
 layout: page
 title: "Lesson: noun-adjective agreement"
 parent: "Module 2: language"
@@ -64,6 +64,15 @@ In both sentences, the adjective "tall" describes the woman, and so in ancient G
 
 ### Adjectives used as nouns, substantive adjectives
 
-Only the good die young
-The beautiful and the damned
+Adjectives can be used with the definite article to function as nouns. A term for this use is "substantive adjectives." English does this, too. In a sentence such as "Only the good die young," we understand "the good" to refer to "good persons," a group that is abstract in nature. In the sentence "That's all for the good," we understand "the good" to refer to an abstract quality.
+
+Ancient Greek tends to use substantive adjectives much more often than English does, though, and takes advantage of the gender and number of adjectives to express a wider variety of the understood noun. Because ancient Greek has that flexibility, to understand and translate it properly, you must supply a noun that reflects that gender and number:
+
+ὁ ἀγαθός, masculine singular, "the good man"; οἱ ἀγαθοί masculine plural "good men," "the good men" or "the good" (ancient Greek defaults to the masculine when describing a group of persons of mixed gender, whether possible or actual)
+
+ἡ ἀγαθή feminine singular, "the good woman"; αἱ ἀγαθαί feminine plural "the good women," "good women"
+
+τὸ ἀγαθόν neuter singular, "the good thing" or "the good" as a abstract quality; τὰ ἀγαθά "good things," "the good things," "goods" or "the good". Neuter plaural substantives are especially flexible in meaning and thus can be used in a variety of contexts.
+
+
 
