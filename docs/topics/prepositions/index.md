@@ -28,6 +28,8 @@ Therefore, it is important as you learn prepositions as vocabulary that you also
 σύν | + dative | with
 
 #### Frequently used prepositions that take more than one case
+|Preposition | case of noun object | English near-equivalents
+|---|---|--- |
 ἐπί + genitive 
     + dative   
     + accusative
@@ -40,7 +42,7 @@ Therefore, it is important as you learn prepositions as vocabulary that you also
 ὑπό 
 
 ### Compound Verbs
-The adverbial properties of prepositions can also be seen in compound verbs, in which a preposition is a prefix on a verb and shades its meaning according. For example, ἔρχομαι 'to go' --> εἰσέρχομαι 'to go into, enter' 
+The adverbial properties of prepositions can also be seen in so-called compound verbs, in which a preposition is a prefix on a verb and shades its meaning according. For example, ἔρχομαι 'to go' --> εἰσέρχομαι 'to go into, enter' 
 
 ### Agent: a use of the preposition ὑπό + genitive
-
+We have seen that the subject of a passive verb is the recipient of the action expressed by that verb: for example, "you are loved"
