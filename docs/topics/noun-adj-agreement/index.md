@@ -36,13 +36,13 @@ Because of the lack in English of gender and case with nouns and lack of even nu
 But note that English has interesting “ingrained” rules about the order of adjectives when there is more than one. Most native speakers of English know these rules as just what “sounds right” or “sounds wrong,”  “Old green shoes” obeys these rules while “green old shoes” does not.
 https://www.bbc.com/culture/article/20160908-the-language-rules-we-know-but-dont-know-we-know
 
-English language learners actually are asked to learn these rules explicitly. That is a good reminder of the way in which language rules are defined for non-native-speakers (as we all are for ancient Greek) in a way that complicates the sense of a language meant to communicate.
+English language learners are sometimes asked to learn these rules explicitly. That is a good reminder of the way in which language rules are defined for non-native-speakers (as we all are for ancient Greek) in a way that complicates the sense of a language meant to communicate.
 
 ### Adjective placement: attributive and predicate positions
 
 Adjectives can describe a noun, and thus in ancient Greek must agree with that noun in gender, case, and number, from different syntatical positions in a sentence. 
 
-One of those positions is called the **attributive** position, when the adjective qualifies the noun and is directly adjeacent to it. The other is called the **predicate** position, when the adjective is part of the predicate of the clause or sentence. Compare these exmaples in English:
+One of those positions is called the **attributive** position, when the adjective qualifies the noun within a noun phrase. The other is called the **predicate** position, when the adjective is part of the predicate of the clause or sentence. Compare these exmaples in English:
 
 _The tall woman went to the market._ The adjective "tall" is in the attributive position.
 
@@ -50,9 +50,11 @@ _The woman is tall._ The adjective "tall" is in the predicate position, syntacti
 
 In both sentences, the adjective "tall" describes the woman, and so in ancient Greek would be the same gender, case, and number as the noun "woman": since "woman" is the subject of each sentence, the adjective will be feminine, nominative, singular, as the noun is.
 
-**Attributive** position in ancient Greek follows the article that modifeies the noun. The article can be repeated to create this position:
+**Attributive** position in ancient Greek follows the article that modifies the noun. The article can be repeated to create this position:
 ἡ μεγάλη γυνή  'the tall woman'
 ἡ γυνὴ ἡ μεγάλη  'the tall woman'
+
+Note that the article may be absent, and if so, the word order of adjective and noun is less restricted, such as οἰκονόμος δεινή above. 
 
 **Predicate** position is a placement outside of the article + noun phrase.
 
@@ -64,7 +66,7 @@ In both sentences, the adjective "tall" describes the woman, and so in ancient G
 
 ### Adjectives used as nouns, substantive adjectives
 
-Adjectives can be used with the definite article to function as nouns. A term for this use is "substantive adjectives." English does this, too. In a sentence such as "Only the good die young," we understand "the good" to refer to "good persons," a group that is abstract in nature. In the sentence "That's all for the good," we understand "the good" to refer to an abstract quality.
+Adjectives, and indeed any kind of modifier, can be used with the definite article to function as nouns. A term for this use is "substantive adjectives." English does this, too. In a sentence such as "Only the good die young," we understand "the good" to refer to "good persons," a group that is abstract in nature. In the sentence "That's all for the good," we understand "the good" to refer to an abstract quality.
 
 Ancient Greek tends to use substantive adjectives much more often than English does, though, and takes advantage of the gender and number of adjectives to express a wider variety of the understood noun. Because ancient Greek has that flexibility, to understand and translate it properly, you must supply a noun that reflects that gender and number:
 
