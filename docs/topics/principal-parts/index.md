@@ -22,19 +22,14 @@ Learning the principal parts of verbs is important so that you will be able to c
 All principal parts of an Ancient Greek verb are 1st person singular forms.
 
 | Principal part | Form |
-|---| ---|
+| --- | --- |
 
-1st	|	1st person singular present active indicative OR 1st person singular present middle indicative if active forms do not exist |
-
-2nd	|	1st person singular future active indicative OR 1st person singular future middle indicative if active forms do not exist |
-
-3rd	|	1st person singular aorist active indicative OR 1st person singular aorist middle indicative if active forms do not exist |
-
-4th	|	1st person singular perfect active indicative |
-
-5th	|	1st person singular perfect middle/passive indicative |
-
-6th	|	1st person singular aorist passive indicative |
+| 1st	|	1st person singular present active indicative OR 1st person singular present middle indicative if active forms do not exist |
+| 2nd	|	1st person singular future active indicative OR 1st person singular future middle indicative if active forms do not exist |
+| 3rd	|	1st person singular aorist active indicative OR 1st person singular aorist middle indicative if active forms do not exist |
+| 4th	|	1st person singular perfect active indicative |
+| 5th	|	1st person singular perfect middle/passive indicative |
+| 6th	|	1st person singular aorist passive indicative |
 
 
 ### Examples of principal parts of commonly used verbs in Lysias 1. 
