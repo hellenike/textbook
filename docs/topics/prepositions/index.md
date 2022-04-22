@@ -24,25 +24,34 @@ Therefore, it is important as you learn prepositions as vocabulary that you also
 ἀπό | + genitive | away from, from
 εἰς | + accusative | into, to, toward, in regard to
 ἐκ, ἐξ | + genitive | out of, from
-ἐν | + dative | in, on, among
+ἐν | + dative | in, on, among, within
 σύν | + dative | with
 
 #### Frequently used prepositions that take more than one case
 |Preposition | case of noun object | English near-equivalents
 |---|---|--- |
-ἐπί + genitive 
-    + dative   
-    + accusative
-
-κατά  
-μετά 
-παρά 
-περί 
-πρός 
-ὑπό 
+ἐπί | + genitive | near, at, upon
+ἐπί |  + dative   | at, on, upon, in addition to
+ἐπί |  + accusative | to, onto, up to, toward; against 
+κατά  | + genitive | down from, against
+κατά | + accusative | down to, down along, in accordance with
+μετά | + genitive | among, with
+μετά | + accusative | after
+παρά | + genitive | from the side of
+παρά |  + dative   | at the side of, next to, beside
+παρά | + accusative | to the side of, beside, beyond, contrary to
+περί | + genitive | around, about
+περί |  + dative   | around, about
+περί | + accusative | around, concerning
+πρός | + genitive | from
+πρός |  + dative   | near, beside; in addition to
+πρός | + accusative | to, toward, against; regarding
+ὑπό | + genitive | from under; by {personal agent, see below)
+ὑπό |  + dative   | under (stationary), at the hands of
+ὑπό | + accusative | under (motion toward)
 
 ### Compound Verbs
 The adverbial properties of prepositions can also be seen in so-called compound verbs, in which a preposition is a prefix on a verb and shades its meaning according. For example, ἔρχομαι 'to go' --> εἰσέρχομαι 'to go into, enter' 
 
 ### Agent: a use of the preposition ὑπό + genitive
-We have seen that the subject of a passive verb is the recipient of the action expressed by that verb: for example, "you are loved"
+We have seen that the subject of a passive verb is the recipient of the action expressed by that verb: for example, "you are caught." To express who is the agent of the action of the passive verb, English uses the preposition "by": "you are caught by her husband." Ancient Greek expresses the personal agent of a passive verb with the preposition ὑπό plus a noun in the genitive. You can remember the three "P's" of personal agent: passive verb, preposition, and person in the genitive. 
