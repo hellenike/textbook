@@ -35,6 +35,10 @@ All principal parts of an Ancient Greek verb are 1st person singular forms.
 ### Examples of principal parts of commonly used verbs in Lysias 1. 
 Principal parts are listed in order, 1–6. If a verb does not have a particular principal part, that absence is marked by ---. Note that more than one form may exist for a principal part: those are indicated with "or".
 
+βαίνω, βήσομαι, ἔβην, βέβηκα, βέβαμαι, ἐβάθην go, walk, step
+
+βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην throw, hit (by throwing), strike (by throwing), pelt
+
 γίγνομαι, γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, --- become, come to be, be born, be
 
 δύναμαι, δυνήσομαι, ---, ---, δεδύναμαι, ἐδυνήθην be able, can, be capable, have the power
@@ -51,9 +55,13 @@ Principal parts are listed in order, 1–6. If a verb does not have a particular
 
 λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην take, receive, catch, grasp
 
+ὁράω, ὄψομαι, εἶδον, ἑώρακα or ἑόρακα, ἑώραμαι or ὦμμαι, ὤφθην see, look, understand
+
 ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην do, make, create, compose
 
 πράττω, πράξω, ἔπραξα, πέπραχα or πέπραγα, πέπραγμαι, ἐπράχθην do, accomplish, make, act
+
+τυγχάνω, τεύξομαι, ἔτυχον, τετύχηκα, ---, --- happen (happen to be, happen upon), obtain, get
 
 
 
