@@ -55,6 +55,8 @@ Principal parts are listed in order, 1–6. If a verb does not have a particular
 
 λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην take, receive, catch, grasp
 
+λέγω, λέξω, ἔλεξα or εἶπον, εἴρηκα, εἴρηκα, λέλεγμαι, ἐλέχθην say, speak, tell
+
 ὁράω, ὄψομαι, εἶδον, ἑώρακα or ἑόρακα, ἑώραμαι or ὦμμαι, ὤφθην see, look, understand
 
 ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην do, make, create, compose
