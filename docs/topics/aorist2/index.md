@@ -42,7 +42,7 @@ Note that the 1st person singular active ending in the second aorist -ον is th
 | 3rd singular |  ἦλθε | ἤλθετο | no 6th prinicpal part |
 | 3rd plural | ἦλθον | ἤλθοντο | no 6th principal part  |
 
-Note principal part ἔρχομαι shows us that there is no active voice in the first principal part ("present system"), while ἦλθον shows us that the aorist indicative appears in the active voice using second aorist endings.
+Note that the first principal part ἔρχομαι shows us that there is no active voice for the forms made from that principal part ("present system"), while ἦλθον shows us that the aorist indicative appears in the active voice using second aorist endings.
 
 | | Active | Middle | Passive |
 | --- | --- | --- | --- |
