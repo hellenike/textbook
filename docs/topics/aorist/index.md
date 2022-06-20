@@ -26,19 +26,18 @@ To learn this tense + mood, you will need to learn the person and number in all 
 As you learn it for any particular verb, you will notice that not all verbs appear in all three voices.  For example, the verb γίγνομαι "to become" always and only uses the middle voice. 
 
 
-
 ### Forming the aorist indicative
 
-The aorist tense forms the active and middle voices from the *third* principal part; it forms the passive voice from the *sixth* principal part. So you will need to pay attention the the principal parts for any particular verb to see what forms are possible. For example, if the third prinicipal part appears in the middle, then no active forms are used. If a verb does not have a sixth prinicipal part, then no passive forms are used.
+The aorist tense forms the active and middle voices from the *third* principal part; it forms the passive voice from the *sixth* principal part. So you will need to pay attention to the principal parts for any particular verb to see what forms are possible. For example, if the third principal part appears in the middle, then no active forms are used. If a verb does not have a sixth prinicipal part, then no passive forms are used.
 
-As you look at the third prinicpal part, there are two different patterns of endings. These are referred to as "first" and "second" aorists. The different endings do not have different meanings unless both exist for the same verb. That is, both sets of endings represent the single action in the past. Compare the two systems of past-tense formation in English: adding "-ed" to the verb stem (regular or "weak" verbs) or a change in the verb stem (irregular or "strong" verbs): I walked (weak) vs. I went (strong). I consumed (weak) vs. I ate (strong).
+As you look at the third prinicpal part, there are two different patterns of endings. These are referred to as "first" and "second" aorists. The different endings do not have different meanings except in rare cases when both exist for the same verb. That is, both first and second aorists, both sets of endings, represent the single action in the past, and you will accordingly translate each with the English simple past. Compare the two systems of past-tense formation in English: adding "-ed" to the verb stem (which are called "regular" or "weak" verbs) or a change in the verb stem ("irregular" or "strong" verbs): I walked (weak) vs. I went (strong). I consumed (weak) vs. I ate (strong).
 
-You can recognize a verb that has a first aorist by a third principal ending in -α. Verbs that have a second aorist have a third principal part that ends in -ον.
+You can recognize a verb that has a first aorist by a third principal ending in -α or -άμην. Verbs that have a second aorist have a third principal part that ends in -ον or -όμην.
 
 
 #### Active and middle of first aorist verbs
-
-- (1) principal parts give an example form in the first singular indicative active of a representative tense: start by dropping the first singular ending and the accent from the third principal part:
+Once you have identified a verb as a first aorist verb, you form other persons and numbers by the following process:
+- (1) the third principal part is in the first singular indicative active: start by dropping the first singular ending and the accent from the third principal part:
 
 > ἔδειξα -> ἐδειξ-
 >
@@ -60,10 +59,9 @@ You can recognize a verb that has a first aorist by a third principal ending in 
 
 #### Passive
 
-You may see somewhere the reference to "first" and "second" aorists in the aorist passive, but for most purposes, that is a needless complication. All sixth principal parts can be used the same way to form aorist passive forms.
+You may see somewhere the reference to "first" and "second" aorists in the aorist passive, but for most purposes, that is a complication we need not be concerned with. All sixth principal parts can be used the same way to form aorist passive forms.
 
 - (1) Drop the first singular ending -ην and the accent from the sixth principal part
-
 
 > ἐδείχθην -> ἐδειχθ-
 >
