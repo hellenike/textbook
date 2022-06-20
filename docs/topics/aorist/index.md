@@ -14,35 +14,22 @@ has_children: true
 - we'll always begin our reading with *verbal units* that express an action
 - the form of a verb expresses the *subject* as well as the *verb*.  Example:  the form ἐκέλευσε means "he or she ordered"; the form ἐκέλευσαν means "they ordered".  These are complete sentences that do not need a separate word for "he", "she" or "they."
 
-### Overview of Greek verbs
-
-Main points to cover:
-
-
-- Greek verbs can have five properties: PNTMV.  (We call verb forms with these five properties *finite* verb forms.)
-- you recognize the form of a Greek form from its combination of a stem and an ending
-- Greek verbs have six stems called *principal parts*
-- accent of finite verb forms is *recessive*
-
 ### The *aorist indicative*
 
-Main points: tense and mood
-
+As described above, finite verbs have five properties: person, number, tense, mood, and voice. "Aorist" is a tense, and "indicative" is a mood. 
 
 - the indicative mood is the mood for narrating factual events
 - Greek has multiple tenses for narrating events in the past
 - the *aorist* tense views an action as a single or completed action
 
+To learn this tense + mood, you will need to learn the person and number in all three voices: active, middle, and passive.
+As you learn it for any particular verb, you will notice that not all verbs appear in all three voices.  For example, the verb γίγνομαι "to become" always and only uses the middle voice. 
 
-Main points: voice
-
-- the Greek verb has *three* voices (!!): AMP
-- not all verbs appear in all three voices.  Example:  the verb γίγνομαι "to become" always uses the middle voice.
-- the aorist tense forms the active and middle voices from the *third* principal part; it forms the passive voice from the *sixth* principal part
 
 
 ### Forming the aorist indicative
 
+The aorist tense forms the active and middle voices from the *third* principal part; it forms the passive voice from the *sixth* principal part. So You will need to pay attention the the principal parts for any particular verb to see what forms are possible. For example, if the third prinicipal part appears in the middle, then no active forms are used. If a verb does not have a sixth prinicipal part, then no passive forms are used.
 
 #### Active and middle
 
@@ -54,10 +41,10 @@ Main points: voice
 
 - (2) Add appropriate ending.  For today, memorize *third person* endings for singular and plural.
 
-| Number | Active ending | Middle ending |
+| Person and Number | Active ending | Middle ending |
 | --- | --- | --- |
-| singular |  -ε | -ατο |
-| plural | -ᾰν | -αντο |
+| 3rd singular |  -ε | -ατο |
+| 3rd plural | -ᾰν | -αντο |
 
 
 - (3) Apply recessive accent.  
@@ -78,10 +65,10 @@ Main points: voice
 
 - (2) Add appropriate ending
 
-| Number | Ending |
+| Person and Number | Ending |
 | --- | --- |
-| singular | -η  |
-| plural | -ησαν |
+| 3rd singular | -η  |
+| 3rd plural | -ησαν |
 
 - (3) Apply recessive accent.  
 
@@ -91,15 +78,15 @@ Main points: voice
 
 | | Active | Middle | Passive |
 | --- | --- | --- | --- |
-| singular |  ἔδειξε | ἐδείξατο | ἐδείχθη |
-| plural | ἔδειξαν | ἐδείξαντο |ἐδείχθησαν  |
+| 3rd singular |  ἔδειξε | ἐδείξατο | ἐδείχθη |
+| 3rd plural | ἔδειξαν | ἐδείξαντο |ἐδείχθησαν  |
 
 
 
 | | Active | Middle | Passive |
 | --- | --- | --- | --- |
-| singular |  ἐκέλευσε | ἐκελεύσατο | ἐκελεύθη |
-| plural | ἐκέλευσαν | ἐκελεύσαντο | ἐκελεύθησαν  |
+| 3rd singular |  ἐκέλευσε | ἐκελεύσατο | ἐκελεύθη |
+| 3rd plural | ἐκέλευσαν | ἐκελεύσαντο | ἐκελεύθησαν  |
 
 
 
