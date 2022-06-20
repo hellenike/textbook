@@ -35,6 +35,9 @@ Notice that these endings are identical to the endings of the imperfect indicati
 Note that the 1st person singular active ending in the second aorist -ον is the same as that of the 3rd personal plural active.
 
 
+- (3) Apply recessive accent.  
+
+
 #### Examples
 
 | | Active | Middle | Passive |
