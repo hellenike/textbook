@@ -12,7 +12,7 @@ has_children: true
 
 A small group of verbs use a different set of endings to form the active and middle voices of the aorist indicative. We recognize a verb has a "second aorist" set of endings for the aorist active and middle when the third principal part ends in -ον or -όμην.  Examples: ἦλθον (from ἔρχομαι), εἶπον (from λέγω), ἐγενόμην (from γίγνομαι).
 
-#### Active and middle of second aorist verbs
+#### Active and middle of second aorist  -ω verbs
 
 Formation follows the same process as first aorist active and middle forms.
 - (1) principal parts give an example form in the first singular indicative active of a representative tense: start by dropping the first singular ending -ον or -όμην and the accent from the third principal part:
@@ -52,6 +52,8 @@ Note that the first principal part ἔρχομαι shows us that there is no act
 | 3rd singular |  εἶπε | εἴπετο | ἐλέχθη |
 | 3rd plural | εἶπον | εἴποντο  |ἐλέχθησαν  |
 
+#### Active and middle of aorist indicative - mi verbs?
+
 
 
 
@@ -65,4 +67,4 @@ Learn on:
 - ἔρχομαι
 - ἔχω
 - λέγω 
-
+- need a -mi verb?
