@@ -10,24 +10,29 @@ has_children: true
 ## The *imperfect indicative*
 
 The imperfect indicative is another way of narrating factual events in the past. 
-As we have seen, the aorist indicate views an action as a single action completed in the past. 
+As we have seen, the aorist views an action as a single action completed in the past. 
 The imperfect, by contrast, expresses an action that is incomplete, repeated, continuous or ongoing, habitual, or in some other way *not* viewed as single and complete. To express similar ideas, English uses additional "helping" verbs: "she was going," "he started to go," "they used to go"
 
 
 ### Forming the imperfect indicative of -ω verbs
 
-- all three voices use the *first* principal part, with the addition of an augment
-- middle and passive voices have identical forms
+- all three voices use the *first* principal part, with the addition of an **augment**
+- middle and passive voices have identical forms in this tense
 
-Augment:
+**Augment**:
 Past tenses in the indicative mood are indcated by two features: their set of personal endings, and an *augment* at the front of the verb stem.
-Compare first and third parts of verbs you already know.  The aorist indicative (third prinicipal part) is characterized by adding an epsilon to the first prinicipal part's stem. If the stem begins with a consonant, you will see the epsilon in front of it. If the stem begins with a vowel, you will see that vowel .  This is called *augment*.  The imperfect tense shows the same pattern, but uses the first principal part. So when you need to add an augment, look to the third prinicpal part to see what it should be. 
+Compare first and third parts of verbs you already know. The aorist indicative (third prinicipal part) is characterized by adding an epsilon to the first prinicipal part's stem. If the stem begins with a consonant, you will see the epsilon in front of it. If the stem begins with a vowel, you will see that vowel lengthened. Either of these is called an *augment*. The imperfect tense shows the same pattern, but uses the first principal part. So when you need to add an augment, look to the third prinicpal part to see what it should be. 
 
-- (1) start by removing the first person singular ending (-ω or -ομαι) and accent from the first principal part, add augment 
+- (1) start by removing the first person singular ending (-ω or -ομαι) and accent from the first principal part, and add the augment 
 
 > γίγνομαι -> ἐγιγν- (Remember that for a verb whose first prinicpal part has a middle ending, you will use only middle endings in the imperfect.
 >
 > κελεύω -> ἐκελευ-
+>
+> ἔρχομαι -> ἠρχ-
+>
+> ἄγω -> ἠγ-
+
 
 - (2) Add appropriate ending.  For today, memorize *third person* endings for singular and plural.
 
