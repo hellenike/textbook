@@ -20,5 +20,5 @@ We live in order to love.
 The structure of a purpose clause in ancient Greek has the following featurs
 - it is introduced by a specific subordinating conjunctions, ἵνα, ὡς, or ὅπως
 - if the verb in the purpose clause is negated, it is negated by μή 
-- the verb within the purpose clause will be in the subjunctive or the optative mood, according to the **sequence of tenses**.
+- the verb within the purpose clause will be in the subjunctive or the optative mood, according to the **sequence of moods**.
 
