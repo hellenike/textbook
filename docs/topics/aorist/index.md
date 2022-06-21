@@ -20,7 +20,7 @@ As described above, finite verbs have five properties: person, number, tense, mo
 
 - the indicative mood is the mood for narrating factual events
 - Greek has multiple tenses for narrating events in the past
-- the *aorist* tense views an action as a single action
+- the *aorist* tense views an action as single and complete in the past
 
 To learn this tense + mood, you will need to learn the person and number in all three voices: active, middle, and passive.
 As you learn it for any particular verb, you will notice that not all verbs appear in all three voices.  For example, the verb γίγνομαι "to become" always and only uses the middle voice. 
