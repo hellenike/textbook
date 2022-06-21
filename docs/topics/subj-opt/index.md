@@ -26,8 +26,8 @@ To the stem from the first principal part, add the following endings:
 
 | Number  | Active  | Middle/Passive  |
 |---|---|---|
-| 3rd singular  |   |   |
-| 3rd plural  |   |   |
+| 3rd singular  | -ῃ  | -ηται  |
+| 3rd plural  | -ωσι(ν)  | -ωνται |
 
 
 **Present optative**
@@ -38,14 +38,14 @@ To the stem from the first principal part, add the following endings:
 
 ### Forming the aorist subjunctive and optative
 
-As you would expect, for the active and middle, add endings to the stem from the third principal part. For the passive, add endings to the stem from the sixth principal part.
+As you would expect, for the active and middle, add endings to the stem from the third principal part. For the passive, add endings to the stem from the sixth principal part. Subjunctive and optative forms never carry an augment, however, so you must remove the augment from the stem.
 
 **Aorist subjunctive**
 
 |   | Active  | Middle  | Passive  |
 |---|---|---|---|
-| 3rd singular  |   |   |   |
-|  3rd plural |   |   |   |
+| 3rd singular  | -ῃ   | -ηται  | -ῇ  |
+|  3rd plural | -ωσι(ν)| -ωνται | -ῶσι(ν)  |
 
 **Aorist optative**
 
