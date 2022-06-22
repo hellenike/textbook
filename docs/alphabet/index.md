@@ -86,7 +86,7 @@ A few details to note:
 Tips:
 
 - read out loud (as the ancient Greeks did!)
-- we can't precisely recover ancient pronounciation, but try to distinguish sounds that are spelled differently (e.g., ο/ω ε/η ), and include accent in your pronounciation.  Hear the difference between ἀστραπηβόλος, "one who throws lightning" (an adjective describing Zeus) and ἀστραπήβολος  "one struck by lightning".  It makes a difference!
+- we can't precisely recover ancient pronounciation, but try to distinguish sounds that are spelled differently (e.g., ο/ω ε/η ), and include accent in your pronounciation.  Hear the difference between ἀστραπηβόλος, "one who throws lightning" (an adjective describing Zeus) and ἀστραπήβολος  "one struck by lightning". It makes a difference! English similarly distinguishes otherwise identical words based on (stress) accent. How does the way you pronounce the following English word change their meaning? content, present, object, insult, permit
 
 
 
