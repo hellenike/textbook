@@ -77,11 +77,11 @@ Vocabulary for today:
 
 Verbs whose present stem from the first principal part ends in α operate the same way, but the contractions resulting from the combination of α with the endings are different. The contractions you will need to know for these verbs in the forms we have learned so far are:
 
-- α + ε = α (long)
+- α + ε = α (long alpha)
 - α + ο = ω
 
 
-Example: Imperfect indicative of ὁράω (augmented stem: ὡρα-
+Example: Imperfect indicative of ὁράω (augmented stem: ὡρα-)
 | Person and Number | Active ending | Middle and Passive ending |
 | --- | --- | --- |
 | 3rd singular | ὥρα  | ὡρᾶται |
