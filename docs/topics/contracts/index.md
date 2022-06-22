@@ -30,8 +30,8 @@ Recall that our imperfect active and middle/passive indicative personal endings 
 
 The rules of contraction that you will need to learn for these endings (as we learn more endings, we will add others) are as follows:
 
-ε + ε = ει
-ε + ο = ου 
+- ε + ε = ει
+- ε + ο = ου 
 
 The rule of accentuation that you will need for contractions is that if one of the vowels within the sequence would have been accented before the contraction, the contracted syllable, a diphthong, will be accented, and will be accented with a circumflex, if possible under the rules of accentuation for circumflex accents (that it is a long syllable (which the diphthong is), the syllable is the penult or ultima, and if the penult that the ultima is short.
 
@@ -55,7 +55,7 @@ Example: Imperfect indicative of ἀδικέω
 | 3rd singular |  ἠδίκει | ἠδικεῖτο |
 | 3rd plural | ἡδίκουν | ἠδικοῦντο |
  
- Now you complete the following:
+To practice, complete the following:
  
 Imperfect indicative of δοκέω
 | Person and Number | Active ending | Middle and Passive ending |
@@ -74,3 +74,15 @@ Imperfect indicative of ποιέω
 Vocabulary for today:
 
  - ὁράω 
+
+Verbs whose present stem from the first principal part ends in α operate the same way, but the contractions resulting from the combination of α with the endings are different. The contractions you will need to know for these verbs in the forms we have learned so far are:
+
+- α + ε = α (long)
+- α + ο = ω
+
+
+Example: Imperfect indicative of ὁράω (augmented stem: ὡρα-
+| Person and Number | Active ending | Middle and Passive ending |
+| --- | --- | --- |
+| 3rd singular | ὥρα  | ὡρᾶται |
+| 3rd plural | ὥρων | ὡρῶντο  |
