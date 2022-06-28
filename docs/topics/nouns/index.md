@@ -40,28 +40,28 @@ The accent on nouns is *persistent*, which means that you must learn where the a
 For first-declension nouns that end in -η
 
 | Case | Singular | Plural |
-| ----------- | ----------- |
+| --- |----------- | ----------- |
 | Nominative | -η | -αι |
 | Genitive | -ης | -ῶν |
 
 For first-declension nouns that end in -ᾱ
 
 | Case | Singular | Plural |
-| ----------- | ----------- |
+| --- |----------- | ----------- |
 | Nominative | -ᾱ | -αι |
 | Genitive | -ᾱς | -ῶν |
 
 For first-declension nouns that end in -ἅ
 
 | Case | Singular | Plural |
-| ----------- | ----------- |
+| --- |----------- | ----------- |
 | Nominative | -ἅ | -αι |
 | Genitive | -ης | -ῶν |
 
 For first-declension nouns that end in -ης / -ᾱς
 
 | Case | Singular | Plural |
-| ----------- | ----------- |
+| --- |----------- | ----------- |
 | Nominative | -ης / -ᾱς | -αι |
 | Genitive | -ου | -ῶν |
 
