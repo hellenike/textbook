@@ -55,3 +55,8 @@ The mood of a verb indicates the function of the expression and the nature of th
 
 Ancient Greek has four moods: (1) the indicative, used to express statement or question of a factual nature (in the eyes of the speaker) in the past, present, or future; (2) the imperative, used to give a command; (3) the subjective and (4) the optative, which have many uses in subordinate clauses and are also used to express potential or possible action or action that could have happened but did not. 
 
+## Negation with finite verb forms
+
+There are two basic words in ancient Greek used to negate a finite verb form: οὐ and μή. ("not")
+οὐ: Indicative verbs in most clauses are negated with οὐ. Note that οὐ has a smooth breathing and no accent. If the word that follows οὐ in a sentence begins with a vowel also with a smooth breathing, οὐ becomes οὐκ. If the word following begins with a rough breathing, οὐ becomes οὐχ. 
+μή: Some verbs in other moods or certain types of clauses use μή instead. We will meet μή again in Module 4. 
