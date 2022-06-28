@@ -37,28 +37,28 @@ The **genitive case** is used to relate one noun to another/make one noun depend
 
 The accent on nouns is *persistent*, which means that you must learn where the accent resides as you learn the word. Then, you apply the rules of accentuation as you deline the noun into its full range of cases. The first declension has one important exception, in the genitive plural. The genitive plural ending of the first declension is always accented with a circumflex. Notice below that all the plural endings in this declension are the same, even with the variations in the singular
 
-For first-declension nouns that end in -η
+For feminine first-declension nouns that end in -η
 
 | Case | Singular | Plural |
 | --- |----------- | ----------- |
 | Nominative | -η | -αι |
 | Genitive | -ης | -ῶν |
 
-For first-declension nouns that end in -ᾱ
+For feminine first-declension nouns that end in -ᾱ
 
 | Case | Singular | Plural |
 | --- |----------- | ----------- |
 | Nominative | -ᾱ | -αι |
 | Genitive | -ᾱς | -ῶν |
 
-For first-declension nouns that end in -ἅ
+For feminine first-declension nouns that end in -ᾰ
 
 | Case | Singular | Plural |
 | --- |----------- | ----------- |
-| Nominative | -ἅ | -αι |
+| Nominative | -ᾰ | -αι |
 | Genitive | -ης | -ῶν |
 
-For first-declension nouns that end in -ης / -ᾱς
+For masculine first-declension nouns that end in -ης / -ᾱς
 
 | Case | Singular | Plural |
 | --- |----------- | ----------- |
@@ -67,6 +67,21 @@ For first-declension nouns that end in -ης / -ᾱς
 
 
 #### Second declension
+
+For masculine or feminine first-declension nouns that end in -ος
+
+| Case | Singular | Plural |
+| --- |----------- | ----------- |
+| Nominative | -ος | -οι |
+| Genitive | -ου | -ων |
+
+For neuter first-declension nouns that end in -ον
+
+| Case | Singular | Plural |
+| --- |----------- | ----------- |
+| Nominative | -ον | -ᾰ |
+| Genitive | -ου | -ων |
+
 
 #### Third declension
 
