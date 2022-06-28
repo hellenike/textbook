@@ -68,14 +68,14 @@ For masculine first-declension nouns that end in -ης / -ᾱς
 
 #### Second declension
 
-For masculine or feminine first-declension nouns that end in -ος
+For masculine or feminine second-declension nouns that end in -ος
 
 | Case | Singular | Plural |
 | --- |----------- | ----------- |
 | Nominative | -ος | -οι |
 | Genitive | -ου | -ων |
 
-For neuter first-declension nouns that end in -ον
+For neuter second-declension nouns that end in -ον
 
 | Case | Singular | Plural |
 | --- |----------- | ----------- |
