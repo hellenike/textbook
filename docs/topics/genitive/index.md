@@ -9,6 +9,24 @@ has_children: true
 
 ## The article and the genitive case of nouns
 
+The definite article is used so frequently in ancient Greek that it must and will become familiar, with its uses and nuances grasped with practice. Pronouns are also frequrntly used, and come in different types and uses that we will start, but not cover exhaustively, in this section.
+
+### The definite article
+
+English has a definite article, "the" and an indefinite article, "a" or "an." Ancient Greek has only the definite article, and its uses are both straightforward and subtle.
+
+#### Forms of the definite article
+The article modifying a noun agrees with it in gender, case, and number. There is a full paradigm of forms with all three genders in all cases and numbers, and it is important to learn to recognize these forms easily. Pay careful attention to and memorize the accents and breathing marks on these forms.
+
+|    |    | Singular|    |     | Plural  |     |
+|    | Masc | Fem  | Neut | Masc | Fem   | Neut
+| Case | --- | --- | --- | --- | --- | --- |
+| Nominative| ὁ | ἡ | τό | οἱ | αἱ | τά |
+
+#### Some uses of the definite article
+
+
+
 
 
 
