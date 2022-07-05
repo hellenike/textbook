@@ -18,7 +18,7 @@ English has a definite article, "the" and an indefinite article, "a" or "an." An
 #### Forms of the definite article
 The article modifying a noun agrees with it in gender, case, and number. There is a full paradigm of forms with all three genders in all cases and numbers, and it is important to learn to recognize these forms easily.
 
-Insert a paradigm of teh definite article
+Insert a paradigm of the definite article
 
 #### Some uses of the definite article
 
