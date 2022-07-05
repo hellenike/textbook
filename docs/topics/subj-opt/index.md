@@ -7,7 +7,7 @@ nav_order: 1
 has_children: true
 ---
 
-## Overview
+## The Subjunctive and Optative Moods: Overview
 
 You were introduced to the indicative mood in Module 1. In this module, you will learn how to form verbs in the subjunctive and optative moods. Verbs in these moods appear frequently in subordinate clauses (such as the purpose clause, in this module) and in certain independent clauses (which you will learn about next semester).
 
@@ -24,7 +24,7 @@ Learning to form subjunctive and optative verbs will open up whole worlds of exp
 
 To the stem from the first principal part, add the following endings:
 
-| Number  | Active  | Middle/Passive  |
+| Number | Active | Middle/Passive |
 |---|---|---|
 | 3rd singular  | -ῃ  | -ηται  |
 | 3rd plural  | -ωσι(ν)  | -ωνται |
