@@ -16,13 +16,19 @@ The definite article is used so frequently in ancient Greek that it must and wil
 English has a definite article, "the" and an indefinite article, "a" or "an." Ancient Greek has only the definite article, and its uses are both straightforward and subtle.
 
 #### Forms of the definite article
-The article modifying a noun agrees with it in gender, case, and number. There is a full paradigm of forms with all three genders in all cases and numbers, and it is important to learn to recognize these forms easily. Pay careful attention to and memorize the accents and breathing marks on these forms.
+The article modifying a noun agrees with it in gender, case, and number. There is a full paradigm of forms with all three genders in all cases and numbers, and it is important to learn to recognize these forms easily. Pay careful attention to and memorize the spelling, including accents and breathing marks, on these forms. There is no vocative form of the article.
 
-|    |    | Singular|    |     | Plural  |     |
+| Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |    | Masc | Fem  | Neut | Masc | Fem  | Neut |
-| Case | --- | --- | --- | --- | --- | --- |
-| Nominative| ὁ | ἡ | τό | οἱ | αἱ | τά |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nominative | ὁ | ἡ | τό | οἱ | αἱ | τά |
+| Genitive | τοῦ | τῆς | τοῦ | τῶν | τῶν | τῶν |
+| Dative | τῷ | τῇ | τῷ | τοῖς | ταῖς | τοῖς |
+| Accusative | τόν | τήν | τό | τούς | τάς | τά |
+
+Note that the alpha in the neuter nominative and accusative plural form, τά, is a short alpha, while the alpha in the feminine accusative pliral form, τάς, is a long alpha.  
+
 
 #### Some uses of the definite article
 
