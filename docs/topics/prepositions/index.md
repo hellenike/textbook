@@ -19,8 +19,8 @@ The nouns in a prepositional phrase in ancient Greek will be one of the oblique 
 Therefore, it is important as you learn prepositions as vocabulary that you also learn which case(s) of noun each takes as its object, and how the case of the object affects the meaning of the preposition. Preposition usage in English is highly idiomatic, and so the practice of translation requires, as always, a good understanding of what the Greek is expressing and how English expresses that same idea, rather than a single equivalence of word to word.
 
 #### Frequently used prepositions that take only one case
-|Preposition | case of noun object | English near-equivalents
-|---|---|--- |
+| Preposition | case of noun object | English near-equivalents
+| --- | --- | --- |
 ἀπό | + genitive | away from, from
 εἰς | + accusative | into, to, toward, in regard to
 ἐκ, ἐξ | + genitive | out of, from
@@ -28,7 +28,7 @@ Therefore, it is important as you learn prepositions as vocabulary that you also
 σύν | + dative | with
 
 #### Frequently used prepositions that take more than one case
-|Preposition | case of noun object | English near-equivalents
+| Preposition | case of noun object | English near-equivalents |
 |---|---|--- |
 ἐπί | + genitive | near, at, upon
 ἐπί |  + dative   | at, on, upon, in addition to
