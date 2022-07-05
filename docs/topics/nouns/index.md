@@ -35,7 +35,7 @@ The **genitive case** is used to relate one noun to another/make one noun depend
 
 #### First declension
 
-The accent on nouns is *persistent*, which means that you must learn where the accent resides as you learn the word. Then, you apply the rules of accentuation as you deline the noun into its full range of cases. The first declension has one important exception, in the genitive plural. The genitive plural ending of the first declension is always accented with a circumflex. Notice below that all the plural endings in this declension are the same, even with the variations in the singular
+The accent on nouns is *persistent*, which means that you must learn where the accent resides as you learn the word. Then, you apply the rules of accentuation as you decline the noun into its full range of cases. The first declension has one important exception to the expected position of the accent, in the genitive plural. The genitive plural ending of the first declension is always accented with a circumflex. Notice below that all the plural endings in this declension are the same, even with the variations in the singular.
 
 For feminine first-declension nouns that end in -η
 
