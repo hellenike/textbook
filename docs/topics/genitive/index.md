@@ -19,7 +19,8 @@ English has a definite article, "the" and an indefinite article, "a" or "an." An
 The article modifying a noun agrees with it in gender, case, and number. There is a full paradigm of forms with all three genders in all cases and numbers, and it is important to learn to recognize these forms easily. Pay careful attention to and memorize the accents and breathing marks on these forms.
 
 |    |    | Singular|    |     | Plural  |     |
-|    | Masc | Fem  | Neut | Masc | Fem   | Neut
+| --- | --- | --- | --- | --- | --- | --- |
+|    | Masc | Fem  | Neut | Masc | Fem  | Neut |
 | Case | --- | --- | --- | --- | --- | --- |
 | Nominative| ὁ | ἡ | τό | οἱ | αἱ | τά |
 
