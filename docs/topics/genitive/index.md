@@ -33,7 +33,7 @@ Note that the alpha in the neuter nominative and accusative plural form, τά, 
 #### Some uses of the article
 
 - Like the English definite article, the ancient Greek article may modify its noun by making it definite or particle: ἡ οἰκία "the house"
-- If indicated by the context, the article can convey a possessive adjective: ὁ ἀνὴρ ἐκ [τῆς] οἰκίας ἦλθεν, "The man went out of [his] house" 
+- If indicated by the context, the article can convey a possessive adjective: ὁ ἀνὴρ ἐκ _τῆς_ οἰκίας ἦλθεν, "The man went out of _his_ house" 
 - Differently from English, however, the article may be used to denote a general class, οἱ ἄνθρωποι "people" or "humans" 
 - Also differently from English, the article with a proper name, exs. ὁ Ἐρατοσθένης  "Eratosthenes"; αἱ Ἀθῆναι "Athens" or with abstract nouns, ex. ἡ δημοκρατία "democracy"
 - The article has "noun-making" powers: the article can be used with another part of speech, such as infinitives, participles, adjectives, and even particles, to create nouns or "substantives." We will see in more detail later in this module how it is used this way with adjectives.
