@@ -33,15 +33,21 @@ Note that the alpha in the neuter nominative and accusative plural form, τά, 
 #### Some uses of the article
 
 - Like the English definite article, the ancient Greek article may modify its noun by making it definite or particle: ἡ οἰκία "the house"
-- If indicated by the context, the article can convey a possessive adjective: ὁ ἀνὴρ ἐκ _τῆς_ οἰκίας ἦλθεν, "The man went out of _his_ house" 
+- If indicated by the context, the article can convey a possessive adjective: ὁ ἀνὴρ ἐκ **τῆς** οἰκίας ἦλθεν, "The man went out of **his** house" 
 - Differently from English, however, the article may be used to denote a general class, οἱ ἄνθρωποι "people" or "humans" 
 - Also differently from English, the article with a proper name, exs. ὁ Ἐρατοσθένης  "Eratosthenes"; αἱ Ἀθῆναι "Athens" or with abstract nouns, ex. ἡ δημοκρατία "democracy"
 - The article has "noun-making" powers: the article can be used with another part of speech, such as infinitives, participles, adjectives, and even particles, to create nouns or "substantives." We will see in more detail later in this module how it is used this way with adjectives.
 
 ### The genitive case
 
-As noted briefly above, the genitive case shows a connection between that noun and another noun. We can start with some broad categories of connection that are represented by the genitive.
+As noted briefly above, the genitive case shows a connection between that noun and another noun. We can start with some broad categories of connection that are represented by the genitive. Notice that different uses may use the same words, such as "of" in English: that provides ease of tranlsation, but we should nevertheless pay attention to what the relationship is. Translation of the genitive is also not *restricted* to using "of" and considering how English expresses that same idea is a good habit to get into as you practice translating.
 
 #### Some general uses of the genitive
 
 *Possession*: the genitive case represents the possessor of the other noun. As such, it can be translated into English with the preposition "of" or with the possessive marker "'s". Example: ἡ τοῦ ἀνδρὸς οἰκία "the house of the man" or "the man's house." Possessive genitives are usually placed in attributive position. 
+*Partitive genitive* or *Genitive of the whole*: 
+*Subjective or objective genitive*: when a noun is related to a verb, the genitive can express either the subject or the object of that verbal idea
+
+Other uses we will meet later in this module:
+*Motion away or separation*
+*Agent*
