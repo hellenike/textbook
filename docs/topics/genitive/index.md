@@ -13,7 +13,7 @@ The article is used so frequently in ancient Greek that it must and will become 
 
 ### The article
 
-English has a definite article, "the" and an indefinite article, "a" or "an." Ancient Greek has only the definite article, and its uses are both straightforward and subtle.
+English has a definite article, "the" and an indefinite article, "a" or "an." Ancient Greek has only one article, and its uses are both straightforward and subtle.
 
 #### Forms of the article
 The article modifying a noun agrees with it in gender, case, and number. There is a full paradigm of forms with all three genders in all cases and numbers, and it is important to learn to recognize these forms easily. Pay careful attention to and memorize the spelling, including accents and breathing marks, on these forms. There is no vocative form of the article.
@@ -29,7 +29,6 @@ The article modifying a noun agrees with it in gender, case, and number. There i
 
 Note that the alpha in the neuter nominative and accusative plural form, τά, is a short alpha, while the alpha in the feminine accusative pliral form, τάς, is a long alpha.  
 
-
 #### Some uses of the article
 
 - Like the English definite article, the ancient Greek article may modify its noun by making it definite or particle: ἡ οἰκία "the house"
@@ -40,14 +39,18 @@ Note that the alpha in the neuter nominative and accusative plural form, τά, 
 
 ### The genitive case
 
-As noted briefly above, the genitive case shows a connection between that noun and another noun. We can start with some broad categories of connection that are represented by the genitive. Notice that different uses may use the same words, such as "of" in English: that provides ease of tranlsation, but we should nevertheless pay attention to what the relationship is. Translation of the genitive is also not *restricted* to using "of" and considering how English expresses that same idea is a good habit to get into as you practice translating.
+As noted briefly above, the genitive case shows a connection between that noun and another noun. We can start with some broad categories of connection that are represented by the genitive. Notice that different uses may result in using similar words in English translation, such as "of": that coincidence provides ease of tranlsation, but we should nevertheless pay attention to what the relationship is. Translation of the genitive is also not *restricted* to using "of" and considering how English expresses that same relationship between nouns is a good habit to get into as you practice translating.
 
 #### Some general uses of the genitive
 
-*Possession*: the genitive case represents the possessor of the other noun. As such, it can be translated into English with the preposition "of" or with the possessive marker "'s". Example: ἡ τοῦ ἀνδρὸς οἰκία "the house of the man" or "the man's house." Possessive genitives are usually placed in attributive position. 
-*Partitive genitive* or *Genitive of the whole*: 
-*Subjective or objective genitive*: when a noun is related to a verb, the genitive can express either the subject or the object of that verbal idea
+*Possessive genitive*: the genitive case represents the possessor of the other noun. As such, it can be translated into English with the preposition "of" or with the possessive marker "'s". Example: ἡ τοῦ ἀνδρὸς οἰκία "the house of the man" or "the man's house." Possessive genitives are usually placed in attributive position. 
+*Partitive genitive* or *Genitive of the whole*: the genitive expresses a group or a "whole" and the noun it is modifying is part of or one among that group. Example: ἡ βελτίστη γυνὴ πασῶν "the best wife of all." The partitive genitive is generally in the predicate position.
+*Subjective genitive* or *objective genitive*: when a noun is related to a verb, the genitive can express either the subject or the object of that verbal idea. Understanding the difference between them, even if the same phrasing is used to express each, allows for greater clarity. For example, in the English phrase "the fear of the Athenians," are the Athenians the ones fearing (subjective genitive) or the ones bring feared by someone else (objective genitive)? You would have to tell from context, and you can see that it does make a difference in meaning.
+- Subjective genitives, when the genitive is the "doer" of the implied action of the other noun, is usually in attributive position. Example: ἡ τοῦ παιδίου βοά "the cry of the baby" or "the baby's cry"
+- Objective genitives, when the genitive represents the object of the implied action, is usually in the predicate position. Example: πάνιων τῶν κακῶν ἡ αἰτία "the cause of all my problems"
 
-Other uses we will meet later in this module:
-*Motion away or separation*
+Other uses of the genitive we will meet later in this module, when the genitive is used with prepositions:
+*Motion away* or *separation*
 *Agent*
+
+More uses will be introduced and discussed in future modules.
