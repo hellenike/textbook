@@ -9,7 +9,7 @@ has_children: true
 
 ## The article and the genitive case of nouns
 
-The definite article is used so frequently in ancient Greek that it must and will become familiar, with its uses and nuances grasped with practice. Pronouns are also frequrntly used, and come in different types and uses that we will start, but not cover exhaustively, in this section.
+The article is used so frequently in ancient Greek that it must and will become familiar, with its uses and nuances grasped with practice. Pronouns are also frequrntly used, and come in different types and uses that we will start, but not cover exhaustively, in this section.
 
 ### The article
 
@@ -33,7 +33,8 @@ Note that the alpha in the neuter nominative and accusative plural form, τά, 
 #### Some uses of the article
 
 - Like the English definite article, the ancient Greek article may modify its noun by making it definite or particle: ἡ οἰκία "the house"
-- Differently from English, however, the article may be used to denote a general class, οἱ ἄνθρωποι "people" or "humans." 
+- If indicated by the context, the article can convey a possessive adjective: ὁ ἀνὴρ ἐκ [τῆς] οἰκίας ἦλθεν, "The man went out of [his] house" 
+- Differently from English, however, the article may be used to denote a general class, οἱ ἄνθρωποι "people" or "humans" 
 - Also differently from English, the article with a proper name, exs. ὁ Ἐρατοσθένης  "Eratosthenes"; αἱ Ἀθῆναι "Athens" or with abstract nouns, ex. ἡ δημοκρατία "democracy"
 - The article has "noun-making" powers: the article can be used with another part of speech, such as infinitives, participles, adjectives, and even particles, to create nouns or "substantives." We will see in more detail later in this module how it is used this way with adjectives.
 
@@ -43,4 +44,4 @@ As noted briefly above, the genitive case shows a connection between that noun a
 
 #### Some general uses of the genitive
 
-*Possession*: the genitive case represents the possessor of the other noun. As such, it can be translated into English with the preposition "of" or with the possessive marker "'s". Example: ἡ τοῦ 
+*Possession*: the genitive case represents the possessor of the other noun. As such, it can be translated into English with the preposition "of" or with the possessive marker "'s". Example: ἡ τοῦ ἀνδρὸς οἰκία "the house of the man" or "the man's house." Possessive genitives are usually placed in attributive position. 
