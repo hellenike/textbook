@@ -21,7 +21,7 @@ The article modifying a noun agrees with it in gender, case, and number. There i
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |    | Masc | Fem  | Neut | Masc | Fem  | Neut |
-| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
 | Nominative | ὁ | ἡ | τό | οἱ | αἱ | τά |
 | Genitive | τοῦ | τῆς | τοῦ | τῶν | τῶν | τῶν |
 | Dative | τῷ | τῇ | τῷ | τοῖς | ταῖς | τοῖς |
