@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lesson: Subjunctive and Optative Moods"
+title: "Subjunctive and optative moods"
 parent: "Module 4: language"
 grand_parent: "Module 4"
 nav_order: 1
@@ -31,6 +31,7 @@ To the stem from the first principal part, add the following endings:
 
 
 **Present optative**
+
 | Number  | Active  | Middle/Passive  |
 |---|---|---|
 | 3rd singular  | -οι   | -οιτο   |
