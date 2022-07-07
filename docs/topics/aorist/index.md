@@ -36,8 +36,10 @@ You can recognize a verb that has a first aorist by a third principal ending in 
 
 
 #### Active and middle of first aorist verbs
+
 Once you have identified a verb as a first aorist verb, you form other persons and numbers by the following process:
-- (1) the third principal part is in the first singular indicative active: start by dropping the first singular ending and the accent from the third principal part:
+
+- (1) the third principal part is in the first singular indicative: start by dropping the first singular ending and the accent from the third principal part:
 
 > ἔδειξα -> ἐδειξ-
 >
@@ -97,7 +99,7 @@ You may see somewhere the reference to "first" and "second" aorists in the aoris
 
 ### Vocabulary for today
 
-Learn these paradigm verbs: be able to produce the first, third and sixth principal parts from memory.
+Learn these paradigm verbs: be able to produce the first, third and sixth principal parts (**emphasized like this** in the list) from memory.
 
 - **δείκνυμι**, `δείξω`, **ἔδειξα**, `δέδειχα`, `δέδειγμα`, **ἐδείχθην**, "[to show](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n23658)" 
     - compound **ἐπιδείκνυμι**, `ἐπιδείξω`, **ἐπέδειξα**, `ἐπιδέδειχα`, `ἐπιδέδειγμα`, **ἐπεδείχθην**, "[to demonstrate, prove](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n39125)"
