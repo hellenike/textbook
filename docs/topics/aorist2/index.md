@@ -6,7 +6,7 @@ grand_parent: "Module 1: the Greek verb"
 nav_order: 10
 has_children: true
 ---
-
+The good news is that you know these already (follows the imperfect). Use βάλλω 
 
 ## The second aorist
 
