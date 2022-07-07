@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Lesson: the article and the genitive case of nouns"
+title: "The article and the genitive case of nouns"
 parent: "Module 2: language"
 grand_parent: "Module 2: nouns and adjectives"
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
 ## The article and the genitive case of nouns
 
-The article is used so frequently in ancient Greek that it must and will become familiar, with its uses and nuances grasped with practice. Pronouns are also frequrntly used, and come in different types and uses that we will start, but not cover exhaustively, in this section.
+The article is used so frequently in ancient Greek that it must and will become familiar, with its uses and nuances grasped with practice. Pronouns are also frequently used, and come in different types and uses that we will start, but not cover exhaustively, in this section.
 
 ### The article
 

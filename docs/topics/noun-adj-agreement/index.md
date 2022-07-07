@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lesson: noun-adjective agreement"
+title: "Noun-adjective agreement"
 parent: "Module 2: language"
 grand_parent: "Module 2: nouns and adjectives"
 nav_order: 9

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Topic: nouns"
+title: "Nouns"
 parent: "Module 2: language"
 grand_parent: "Module 2: nouns and adjectives"
 nav_order: 1

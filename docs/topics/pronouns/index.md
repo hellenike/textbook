@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lesson: the article and pronouns"
+title: "The article and pronouns"
 parent: "Module 2: language"
 grand_parent: "Module 2: nouns and adjectives"
 nav_order: 8
