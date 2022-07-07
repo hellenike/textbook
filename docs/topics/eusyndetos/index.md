@@ -29,5 +29,5 @@ These particles are the *second* element of the new clause. One way to describe 
 - γάρ. This clause explains the previous clause.
 - οὖν. This clause draws a conclusion from the prevoius clause.
 - τε.  Couples this clause with the previous clause (similar to καί).
-- μέν ... δέ The use of these particles together show a contrast of some sort along with a connection. A series of two or more clauses can be joined into a *list* using the particles μέν…δέ…<δέ…>; δέ can be repeated to join as meany clauses as you like into a single list.
+- μέν ... δέ The use of these particles together show a contrast of some sort along with a connection. A series of two or more clauses can be joined into a *list* using the particles μέν…δέ…<δέ…>; δέ can be repeated to join as many clauses as you like into a single list.
 
