@@ -85,8 +85,8 @@ And the 6th principal part, which is always passive, will end in -ην.
 
 #### Prefixes
 
-For the 3rd and 6th principal parts, which are aorist (a secondary tense) you will see an augment as a prefix to the verbal stem. The augment is the indication of a secondary tense in the indicative mood (all principal parts are in the indicative mood). The augment may appear as the addition of an ἐ- before a stem that begins with a consonant, or it may appear as the lengthening of the initial vowel if the stem begins with a vowel.
 
+For the 3rd and 6th principal parts, which are aorist (a secondary tense) you will see an *augment* prefixed to the verbal stem. The augment is the indication of a secondary tense in the indicative mood (all principal parts are in the indicative mood). The augment may appear as the addition of an ἐ- before a stem that begins with a consonant, or it may appear as the lengthening of the initial vowel if the stem begins with a vowel.
 For the 4th and 5th principal parts, which are in the perfect tense, the stem will show reduplication as a sign of the perfect tense. The reduplication may appear as a repetition of the initial consonant of the verb stem. If the initial consonant is aspirated (θ, φ, χ), the reduplication is the corresponding non-aspirated consonant (τ, π, κ, respectively). If the stem starts with multiple consonants, the reduplication will be simply ἐ-. If the stem starts with a vowel, the reduplication will appear as a lengthened vowel.
 
 #### Stem changes

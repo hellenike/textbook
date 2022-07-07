@@ -49,7 +49,9 @@ With that additional information, the process of forming the imperfect indicativ
 
 - (3) Apply recessive accent, keeping in mind the contraction.
 
-Example: Imperfect indicative of ἀδικέω
+
+**Example**: Imperfect indicative of ἀδικέω
+
 | Person and Number | Active ending | Middle and Passive ending |
 | --- | --- | --- |
 | 3rd singular |  ἠδίκει | ἠδικεῖτο |
@@ -57,13 +59,16 @@ Example: Imperfect indicative of ἀδικέω
  
 To practice, complete the following:
  
-Imperfect indicative of δοκέω
+Imperfect indicative of δοκέω:
+
 | Person and Number | Active ending | Middle and Passive ending |
 | --- | --- | --- |
 | 3rd singular |    |   |
 | 3rd plural |  |   |
 
-Imperfect indicative of ποιέω
+Imperfect indicative of ποιέω:
+
+
 | Person and Number | Active ending | Middle and Passive ending |
 | --- | --- | --- |
 | 3rd singular |    |   |
@@ -81,7 +86,9 @@ Verbs whose present stem from the first principal part ends in α operate the sa
 - α + ο = ω
 
 
-Example: Imperfect indicative of ὁράω (augmented stem: ὡρα-)
+**Example**: Imperfect indicative of ὁράω 
+(augmented stem: ὡρα-)
+
 | Person and Number | Active ending | Middle and Passive ending |
 | --- | --- | --- |
 | 3rd singular | ὥρα  | ὡρᾶται |
