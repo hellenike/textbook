@@ -14,7 +14,7 @@ has_children: true
 - we'll always begin to understand our reading by looking for *verbal units* that express an action
 - the form of a verb in ancient Greek expresses the *subject* as well as the *verb*.  Example: the form ἐκέλευσε means "he or she ordered"; the form ἐκέλευσαν means "they ordered."  These are complete sentences that do not need a separate word for "he", "she" or "they."
 
-### The *indicative* mood and narrating events in the past
+### The indicative mood and narrating events in the past
 
 As described above, finite verbs have five properties: person, number, tense, mood, and voice. 
 
@@ -22,11 +22,20 @@ As described above, finite verbs have five properties: person, number, tense, mo
 
 Ancient Greek has more than one tense for narrating events in the past. The distinction between those past tenses, then, is one of *aspect*—that is, how to think of or picture the action the verb is representing. 
 - the *aorist* tense expresses an action as single and simple, without indication of its completion or continuation
-- the *imperfect* tense expresses an action as contiunous, started, ongoing, habitual or in any way incomplete.
+- the *imperfect* tense expresses an action as contiunous, started, ongoing, habitual or in any way incomplete
+
+The choice of tense, then, involves not only an indication that the events happened in the past, but other information about the event. Do you want to emphasize it as a single incident? Choose the aorist indicative if so. Or do you want to indicate that it happened over a length of time, was repeated or habitual, perhaps was started but not completed? The imperfect indicative will give you the means to add those shades of meaning.
 
 ### Meaning of aorist indicative and translation into English
 
-The aorist indicate represents the action in a way that can be (and has been) described as "single," "simple," "distinct," the equivalent to a snapshot of the action. The tense that is the closest
+The aorist indicate represents the action in a way that can be (and has been) described as "single," "simple," "distinct," the equivalent to a snapshot of the action. The tense that is the closest to this idea in English is the "simple past," the past tense formed in the active voice by adding -ed to the verb stem, or made by changes to the stem, with no other "helping" verbs. Examples of the "simple past" in the active voice: He walked, she ran, they watched. She taught, they learned. 
+
+To translate a verb form, you must take into account all five properties: person, number, tense, mood and voice. In the active voice, the subject performs the action. In the passive voice, the subject receives the action. The middle voice is, as the name indicates, in between active and passive, where the subject performs the action in some way for themselves.
+
+To use as examples the verbs of "show" and "command" (compare the sample Greek verbs below), the 3rd person plural aorist indicative in each voice could be translated into English as follows:
+- Active: "they showed," "they commanded"
+- Middle: "they showed (for their own benefit)," "they commanded themselves"
+- Passive: "they were shown," "they were commanded"
 
 
 ### Forming the aorist indicative
