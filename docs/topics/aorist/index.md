@@ -11,31 +11,38 @@ has_children: true
 
 ### Verbs
 
-- we'll always begin our reading with *verbal units* that express an action
-- the form of a verb expresses the *subject* as well as the *verb*.  Example:  the form ἐκέλευσε means "he or she ordered"; the form ἐκέλευσαν means "they ordered".  These are complete sentences that do not need a separate word for "he", "she" or "they."
+- we'll always begin to understand our reading by looking for *verbal units* that express an action
+- the form of a verb in ancient Greek expresses the *subject* as well as the *verb*.  Example: the form ἐκέλευσε means "he or she ordered"; the form ἐκέλευσαν means "they ordered."  These are complete sentences that do not need a separate word for "he", "she" or "they."
 
-### The *aorist indicative*
+### The *indicative* mood and narrating events in the past
 
-As described above, finite verbs have five properties: person, number, tense, mood, and voice. "Aorist" is a tense, and "indicative" is a mood. 
+As described above, finite verbs have five properties: person, number, tense, mood, and voice. 
 
-- the indicative mood is the mood for narrating factual events
-- Greek has multiple tenses for narrating events in the past
-- the *aorist* tense views an action as single and complete in the past
+"Indicative" is a mood, one of the four that ancient Greek has. It is the mode of verb used for narrating factual events. As such, it is a frequently seen mood in most texts.
 
-To learn this tense + mood, you will need to learn the person and number in all three voices: active, middle, and passive.
-As you learn it for any particular verb, you will notice that not all verbs appear in all three voices.  For example, the verb γίγνομαι "to become" always and only uses the middle voice. 
+Ancient Greek has more than one tense for narrating events in the past. The distinction between those past tenses, then, is one of *aspect*—that is, how to think of or picture the action the verb is representing. 
+- the *aorist* tense expresses an action as single and simple, without indication of its completion or continuation
+- the *imperfect* tense expresses an action as contiunous, started, ongoing, habitual or in any way incomplete.
+
+### Meaning of aorist indicative and translation into English
+
+The aorist indicate represents the action in a way that can be (and has been) described as "single," "simple," "distinct," the equivalent to a snapshot of the action. The tense that is the closest
 
 
 ### Forming the aorist indicative
+
+To learn this tense + mood, you will need to learn the person and number in all three voices: active, middle, and passive.
+
+As you learn it for any particular verb, you will notice that not all verbs appear in all three voices. For example, the verb γίγνομαι "to become" always and only uses the middle voice. 
 
 The aorist tense forms the active and middle voices from the *third* principal part; it forms the passive voice from the *sixth* principal part. So you will need to pay attention to the principal parts for any particular verb to see what forms are possible. For example, if the third principal part appears in the middle, then no active forms are used. If a verb does not have a sixth prinicipal part, then no passive forms are used.
 
 As you look at the third prinicpal part, there are two different patterns of endings. These are referred to as "first" and "second" aorists. The different endings do not have different meanings except in rare cases when both exist for the same verb. That is, both first and second aorists, both sets of endings, represent the single action in the past, and you will accordingly translate each with the English simple past. Compare the two systems of past-tense formation in English: adding "-ed" to the verb stem (which are called "regular" or "weak" verbs) or a change in the verb stem ("irregular" or "strong" verbs): I walked (weak) vs. I went (strong). I consumed (weak) vs. I ate (strong).
 
-You can recognize a verb that has a first aorist by a third principal ending in -α or -άμην. Verbs that have a second aorist have a third principal part that ends in -ον or -όμην.
+You can recognize a verb that has a first aorist by a third principal ending in -α or -άμην. Verbs that have a second aorist have a third principal part that ends in -ον or -όμην. We will return to the second aorist forms later in this module.
 
 
-#### Active and middle of first aorist verbs
+#### Aorist active and middle indicative of first aorist verbs
 
 Once you have identified a verb as a first aorist verb, you form other persons and numbers by the following process:
 
@@ -57,9 +64,7 @@ Once you have identified a verb as a first aorist verb, you form other persons a
 
 
 
-
-
-#### Passive
+#### Aorist Passive Indicative
 
 You may see somewhere the reference to "first" and "second" aorists in the aorist passive, but for most purposes, that is a complication we need not be concerned with. All sixth principal parts can be used the same way to form aorist passive forms.
 
