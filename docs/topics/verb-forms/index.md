@@ -34,10 +34,10 @@ The tense of a finite verb describes the time of the action and/or its aspect. "
 
 Ancient Greek has seven tenses, which are divided into "primary" and "secondary" tenses. The "secondary" tenses are all past tenses, while the "primary" tenses represent actions in the present or future.
 
-Primary tenses: Present, Future, Perfect, Future Perfect
-Secondary tenses: Imperfect, Aorist, Pluperfect
+-Primary tenses: Present, Future, Perfect, Future Perfect
+-Secondary tenses: Imperfect, Aorist, Pluperfect
 
-As you will soon learn in more detail, the difference between the Imperfect and the Aorist tenses, both of which tenses represent action that happens in the past in the indicative mood, is one of aspect. The imperfect is used for ongoing or repeated action in the past, while the aorist is used for a single action in the past.
+Multiple tenses for action in a particular "time" (such as the past) differ in terms of *aspect*. Aspect emphasizes the type of action being represented, or how the action is being depicted. Aspects include **simple**, **ongoing or continuous** and **completed**. Tense can indicate both time and aspect, or, in some verb forms, aspect alone.
 
 
 ### Voice
@@ -54,6 +54,7 @@ For some verb tenses, the middle and the passive share the same form. If you are
 The mood of a verb indicates the function of the expression and the nature of the action in the speaker's conception. "Mood" and "mode" come from the same root in English: the "mood" of a verb is the "mode" in which the verb is operating.
 
 Ancient Greek has four moods: (1) the indicative, used to express statement or question of a factual nature (in the eyes of the speaker) in the past, present, or future; (2) the imperative, used to give a command; (3) the subjective and (4) the optative, which have many uses in subordinate clauses and are also used to express potential or possible action or action that could have happened but did not. 
+
 
 ## Negation with finite verb forms
 
