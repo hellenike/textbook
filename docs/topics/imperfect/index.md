@@ -3,10 +3,10 @@ layout: page
 title: "The imperfect tense"
 parent: "The Greek verb"
 grand_parent: "Module 1: the Greek verb"
-nav_order: 4
+nav_order: 5
 has_children: true
 ---
-(Question for Neel: Do we do aorist first? That seems to introduce the idea of "verbal units" so I am assuming that comes before this.)
+
 ## The *imperfect indicative*
 
 The imperfect indicative is another way of narrating factual events in the past. 
