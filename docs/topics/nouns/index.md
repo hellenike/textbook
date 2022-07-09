@@ -10,6 +10,9 @@ has_children: true
 
 ## Greek nouns 
 
+"Noun" is a part of speech. The ancient Greek word for noun is ὄνομα, which means "name." Nouns name a person, animal, place, or thing (whether that "thing" is concrete or abstract). In a clause or sentence, nouns can fulfill various functions. A noun might be the subject of the verb, the person, place, or thing doing the action the verb represents. A noun might be the object of the the verb, the recipient of the verb's action, or the indirect (or secondary) object of that action. A noun might further describe another noun, or be paired with a preposition to act adjectivally or adverbially. It may decribe the means by which the action of the verb happens. Or it might name the addressee of the sentence. In ancient Greek, the function of the noun is represented by its case, and the case is indicated by the ending attached to the noun's stem. We have already seen that endings provide a great deal of information in a verb form, and the same is true in nouns. Identifying the case of a noun is key to understanding how it is functioning in that particular sentence. 
+
+
 ### Overview of nouns 
 
 All ancient Greek nouns have gender, case, and number.
@@ -25,17 +28,23 @@ The dictionary entry of a noun efficiently encodes all the information you need 
 
 Nouns are organized into “declensions,” a category of nouns that share the same set of endings. In Greek, there are three declensions of nouns. In this module, we will learn some cases of all three declensions.
 
-### The nominative and genitive cases  
+#### Accents on nouns
+
+You have learned the rules for accents on verbs, which are *recessive* accents. The same general rules for accents apply to nouns (and adjectives), but nouns carry what we call a *persistent* accent, which means that you must learn where the accent resides as you learn the word. Then, you apply the rules of accentuation as you decline the noun into its full range of cases. There are a number of patterns of persistent accents to practice and learn, which all follow the general rules for accents as you learned in Module 1. In the "language reference" section in this module, you will find demonstrations of these patterns as well as opportunities for practicing them.
+
+### Learning cases: the nominative and genitive cases  
 
 The **nominative case** is a naming case; its most frequent function is to indicate the subject of a sentence. 
 
-The **genitive case** is used to relate one noun to another/make one noun depend on another. We often translate nouns in the genitive case with the English preposition "of." 
+The **genitive case** is used to relate one noun to another/make one noun depend on another. We often translate nouns in the genitive case with the English preposition "of." We will learn more about the functions of the genitive case later in this module.
 
 ### Forming the nominative and genitive cases 
 
 #### First declension
 
-The accent on nouns is *persistent*, which means that you must learn where the accent resides as you learn the word. Then, you apply the rules of accentuation as you decline the noun into its full range of cases. The first declension has one important exception to the expected position of the accent, in the genitive plural. The genitive plural ending of the first declension is always accented with a circumflex. Notice below that all the plural endings in this declension are the same, even with the variations in the singular.
+Note on the persistent accent: the first declension has one important exception to the expected position of the accent, in the genitive plural. The genitive plural ending of the first declension is always accented with a circumflex. There is a reason for this apparent exception, which has to do with the linguistic development of these forms over time. 
+
+Notice below that all the plural endings in this declension are the same, even with the variations in the singular.
 
 For feminine first-declension nouns that end in -η
 
