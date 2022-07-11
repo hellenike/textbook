@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "The imperfect tense"
+title: "The imperfect indicative"
 parent: "The Greek verb"
 grand_parent: "Module 1: the Greek verb"
 nav_order: 5
 has_children: true
 ---
 
-## The *imperfect indicative*
+## The imperfect indicative
 
 The imperfect indicative is another way of narrating factual events in the past. 
 As we have seen, the aorist views an action as a single action completed in the past. 
