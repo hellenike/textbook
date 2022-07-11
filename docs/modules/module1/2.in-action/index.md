@@ -18,7 +18,7 @@ As you've seen in this module, while the Greek imperfect and aorist tenses can b
 
 Melisa Cahnmann-Taylor, poem from *Imperfect Tense*, "Widowed NYC Teacher Studies Spanish in Mexico"
 
-![poem by Melisa Cahnmann-Taylor](./imgs/cahnmann-taylor.png)
+
 
 
 ### B. Jhumpa Lahiri, *In Other Words*

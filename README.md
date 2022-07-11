@@ -19,6 +19,6 @@ And of course the repository depends on [git](https://guides.github.com/activiti
 Overview:
 
 1. you can use the [UnifyJustTheDocs](https://neelsmith.github.io/UnifyJustTheDocs.jl/stable/) module to composite the website into a single markdown file 
-2. use [pandoc](https://pandoc.org) to create a PDF
+2. use [pandoc](https://pandoc.org) to create a PDF with LaTex
 
 > TBA: examples using specific LaTeX themes with pandoc in generating PDFs
