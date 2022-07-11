@@ -11,3 +11,14 @@ The `docs` directory of this repository hosts the source for the web site at <ht
 
 
 And of course the repository depends on [git](https://guides.github.com/activities/hello-world/) for version control.
+
+
+## Generating a hard-copy version
+
+
+Overview:
+
+1. you can use the [UnifyJustTheDocs](https://neelsmith.github.io/UnifyJustTheDocs.jl/stable/) module to composite the website into a single markdown file 
+2. use [pandoc](https://pandoc.org) to create a PDF
+
+> TBA: examples using specific LaTeX themes with pandoc in generating PDFs
