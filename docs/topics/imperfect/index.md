@@ -82,12 +82,12 @@ As with -ω/thematic verbs, for the imperfect indicative of -μι/athematic verb
 
 - (3) Apply recessive accent.  
 
-Example of δείκνυμι "show, demonstrate"
+Example of δείκνυμι "show, demonstrate" (note that the upsilon is a long upsilon)
 
 | Person and Number | Active ending | Middle and Passive ending |
 | --- | --- | --- |
-| 3rd singular |  ἔδεικνυ  | ἐδείκνυτο  |
-| 3rd plural | ἔδεικνυν  | ἐδείκνυντο  |
+| 3rd singular |  ἐδείκνυ  | ἐδείκνυτο  |
+| 3rd plural | ἐδείκνυν  | ἐδείκνυντο  |
 
 To repoeat, the meaning and usage of these forms is the same. Thus the imperfect indicative active could be translated into English as "she/he/it was showing" or "he/she/it used to show" (3rd singular) or "they were showing" (3rd plural).
 
