@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Module 2: ancient Greek in action
+title: "Module 2: ancient Greek in action"
 parent: "Module 2: nouns and adjectives"
 nav_order: 4
 ---
