@@ -31,8 +31,11 @@ All principal parts of an Ancient Greek verb are 1st person singular forms.
 | 5th	|	1st person singular perfect middle/passive indicative |
 | 6th	|	1st person singular aorist passive indicative |
 
+### Verb conjugations
 
-### Examples of principal parts of commonly used verbs in Lysias 1
+Verbs are organized into "conjugations," a grouping where they share common endings. Ancient Greek has two conjugations: thematic and athematic. The names reflect the presence or the absence of a "thematic vowel" as part of the personal verb endings: thematic verbs use the thematic vowel, while athematic verbs do not. In this module, we will begin practicing forms of both conjugations, and note these differences and the ways they affect the forms. Conjugations are also sometimes named after the common ending of the first prinicpal part, so thematic verbs may be referred to as -ω verbs nd athematic verbs may be called -μι verbs. 
+
+### Examples of principal parts
 
 Principal parts are listed in order, 1–6. If a verb does not have a particular principal part, that absence is marked by ---. Note that more than one form may exist for a principal part: those are indicated with "or".
 
@@ -41,6 +44,8 @@ Principal parts are listed in order, 1–6. If a verb does not have a particular
 βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην throw, hit (by throwing), strike (by throwing), pelt
 
 γίγνομαι, γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, --- become, come to be, be born, be
+
+δείκνυμι, δείξω, ἔδειξα δέδειχα, δέδειγμαι, ἐδείχθην show, demonstrate
 
 δύναμαι, δυνήσομαι, ---, ---, δεδύναμαι, ἐδυνήθην be able, can, be capable, have the power
 
@@ -75,9 +80,9 @@ As you learn principal parts, you should practice noticing patterns and then usi
 
 #### Endings
 
-Since all the forms are first-person singular, the ending reflects that person-number. 
+Since all the forms are first-person singular, the ending reflects that person-number. The ending will indicate which conjugation the verb belongs to. In the first principal part, the endings -ω and -ομαι indicate the thematic conjugation, while the endings -μι and -μαι (with some letter other than omicron before it) indicate the athematic conjugation. 
 
-For those parts that could be either active or middle, the ending will also indicate the voice: -ω or -μι (1st and 2nd principal parts), and -ον or -α (3rd) are active, while -μαι (1st and 2nd) and -μην (3rd) are middle. 
+For those prinicpal parts that could be either active or middle, the ending will also indicate the voice: -ω or -μι (1st and 2nd principal parts), and -ον or -α (3rd) are active, while -μαι (1st and 2nd) and -μην (3rd) are middle. 
 
 For the 4th principal part, which is always active, you can expect the ending -α. 
 For the 5th, which is always middle/passive, the endings is -μαι. 
@@ -85,8 +90,8 @@ And the 6th principal part, which is always passive, will end in -ην.
 
 #### Prefixes
 
+For the 3rd and 6th principal parts, which are aorist (a secondary tense) you will see an *augment* prefixed to the verbal stem. The augment is an indication of a secondary tense in the indicative mood (all principal parts are in the indicative mood). The augment may appear as the addition of an ἐ- before a stem that begins with a consonant, or it may appear as the lengthening of the initial vowel if the stem begins with a vowel.
 
-For the 3rd and 6th principal parts, which are aorist (a secondary tense) you will see an *augment* prefixed to the verbal stem. The augment is the indication of a secondary tense in the indicative mood (all principal parts are in the indicative mood). The augment may appear as the addition of an ἐ- before a stem that begins with a consonant, or it may appear as the lengthening of the initial vowel if the stem begins with a vowel.
 For the 4th and 5th principal parts, which are in the perfect tense, the stem will show reduplication as a sign of the perfect tense. The reduplication may appear as a repetition of the initial consonant of the verb stem. If the initial consonant is aspirated (θ, φ, χ), the reduplication is the corresponding non-aspirated consonant (τ, π, κ, respectively). If the stem starts with multiple consonants, the reduplication will be simply ἐ-. If the stem starts with a vowel, the reduplication will appear as a lengthened vowel.
 
 #### Stem changes
