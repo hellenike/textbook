@@ -26,7 +26,7 @@ The dictionary entry of a noun efficiently encodes all the information you need 
 
 #### Declension 
 
-Nouns are organized into “declensions,” a category of nouns that share the same set of endings. In Greek, there are three declensions of nouns. In this module, we will learn some cases of all three declensions.
+Nouns are organized into “declensions,” a category of nouns that share the same set of endings. In Greek, there are three declensions of nouns. In this module, we will learn forms of two cases of all three declensions.
 
 #### Accents on nouns
 
@@ -38,7 +38,7 @@ The **nominative case** is a naming case; its most frequent function is to indic
 
 The **genitive case** is used to relate one noun to another/make one noun depend on another. We often translate nouns in the genitive case with the English preposition "of." We will learn more about the functions of the genitive case later in this module.
 
-### Forming the nominative and genitive cases 
+### Forms of the nominative and genitive cases 
 
 #### First declension
 
@@ -94,5 +94,20 @@ For neuter second-declension nouns that end in -ον
 
 #### Third declension
 
+The third declension also contains nouns of all three genders: masculine, feminine, and neuter. The third declension is sometimes called the "consonant declension" because most nouns in this declension have stems ending in a consonant. Because of linguistic 
 
+For masculine or feminine third-declension nouns:
 
+| Case | Singular | Plural |
+| --- |----------- | ----------- |
+| Nominative | -ς or no ending | -ες  |
+| Genitive | -ος  | -ων |
+
+Note that the genitive singular ending in this declension, -ος, is the same as the masculine or feminine ending of the nominative singular form in the second declension. That shows us that knowing what declension a noun belongs to, as well as what gender it is, is crucial for knowing what form the ending is indicating. Compare also the neuter nominative plural ending in both the second and third declensions, -ᾰ, and one of the feminine nominative singular forms in the first declension, also -ᾰ.
+
+For neuter third-declension nouns:
+
+| Case | Singular | Plural |
+| --- |----------- | ----------- |
+| Nominative | - | -ᾰ |
+| Genitive | -ος | -ων |
