@@ -22,7 +22,7 @@ hdr = "---\n"  * join(settings, "\n") * "\n---\n\n"
 docsmd = composite(root)
 md = hdr * replace(docsmd, "`" => "")
 # Another LaText gotcha:
-tidier = replace(md, "-*" => "")
+tidier = replace(md, "-*" => "*")
 
 # Write to disk
 open(outfile,"w") do io

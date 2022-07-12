@@ -6,7 +6,7 @@ parent: "Module 1: reference and review"
 nav_order: 4
 ---
 
-## Exercises
+## Practice
 
 
 

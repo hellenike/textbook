@@ -42,5 +42,5 @@ You can then use pandoc to generate a PDF.
 
 Example invocation of `pandoc`:
 
-    pandoc composite.md  --from markdown --template eisvogel --pdf-engine=tectonic --table-of-contents --number-sections -o pdf/hellenike.pdf  --top-level-division=chapter
+    pandoc composite.md  --from markdown --template eisvogel --pdf-engine=tectonic --table-of-contents --number-sections --top-level-division=chapter -o pdf/hellenike.pdf  
 

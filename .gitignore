@@ -6,3 +6,4 @@ docs/Gemfile
 ns-local/
 Manifest.toml
 composite.md
+*.pdf

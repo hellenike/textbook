@@ -8,17 +8,20 @@ nav_order: 2
 
 ## Module 1: summary of forms and grammar
 
-- form the imperfect indicative in all three voices on the *first principal part*
-- form the aorist indicative 
-    - *active and middle* on the *third* principal part
-    - *passive* on the *sixth* principal part
+To form the **imperfect indicative** in all three voices:  
 
+- use the *first principal part*
+- find the stem by dropping *ω* or *νυμι*
 
-Imperfect: first principal part: ends in -*ω* -*νυμι*
+To form the **aorist indicative** in **active or middle** forms
 
-Aorist: act.mid:  
-    - "first" aorist: ends in -*α*
-    - "second" aorist: ends in -*ον*
+- use the *third* principal part 
+- find the stem by dropping  *α* from "first" aorists, or *ον* from "second" aorists
+
+To form the **aorist indicative** in **passive** forms
+
+- use the *sixth* principal part
+- find the stem by dropping *ην*
 
 ### Paradigms
 

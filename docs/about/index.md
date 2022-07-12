@@ -22,7 +22,7 @@ Each module comprises:
 
 - introduction of grammatical topics
 - minimally modified passages from the target corpus
-- interactive exercises and drills
+- interactive practice
 - ancient Greek in action: relating topics in this module to our lives today
 
 
