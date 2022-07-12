@@ -8,14 +8,16 @@ Download a [PDF with the current version of the textbook](https://github.com/hel
 
 ## Web site
 
-The `docs` directory of this repository hosts the source for the web site at <https://hellenike.github.io/textbook/>.
 
+See <https://hellenike.github.io/textbook/>.
 
+## Contents of this repository
+
+The `docs` directory of this repository hosts the source for the web site and PDF.
 
 - The content is written in [markdown](https://www.markdownguide.org/cheat-sheet/).
-- The site is served by [github's pages](https://pages.github.com) service.
-- The site is configured to use the "[Just-the-docs](https://pmarsceill.github.io/just-the-docs/)"  theme for jekyll.
-
+- The web site is served by [github's pages](https://pages.github.com) service.
+- The web site is configured to use the "[Just-the-docs](https://pmarsceill.github.io/just-the-docs/)"  theme for jekyll.
 
 And of course the repository depends on [git](https://guides.github.com/activities/hello-world/) for version control.
 
