@@ -24,6 +24,11 @@ If you have julia,you can use the `composite.jl` script to generate a composite 
 
 You can then use pandoc to generate a PDF.
 
+### Configuring options for pandoc
+
+- include optional argument with a YAML settings file
+
+
 ## Prequisites
 
 
@@ -31,11 +36,11 @@ You can then use pandoc to generate a PDF.
 - a LaTex engine 
 - the Eisvogel LaTex template, 
 
-### Configuring the PDF script
 
-- edit `pdf/settings.yaml`
 
 ### Building the PDF
+
+Example invocation of `pandoc`:
 
     pandoc composite.md  --from markdown --template eisvogel --pdf-engine=tectonic --table-of-contents --number-sections -o pdf/hellenike.pdf  --top-level-division=chapter
 
