@@ -1,7 +1,15 @@
 # *Hellênikê*: online textbook
 
 
+## PDF
+
+Download a [PDF with the current version of the textbook](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
+
+
+## Web site
+
 The `docs` directory of this repository hosts the source for the web site at <https://hellenike.github.io/textbook/>.
+
 
 
 - The content is written in [markdown](https://www.markdownguide.org/cheat-sheet/).
