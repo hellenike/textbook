@@ -9,11 +9,14 @@ The `docs` directory of this repository hosts the source for the web site at <ht
 - The site is configured to use the "[Just-the-docs](https://pmarsceill.github.io/just-the-docs/)"  theme for jekyll.
 
 
-
 And of course the repository depends on [git](https://guides.github.com/activities/hello-world/) for version control.
 
 
-## Generating a hard-copy version
+## Running the website locally
+
+See [the project wiki](https://github.com/hellenike/textbook/wiki/running-a-local-version).
+
+## Generating a PDF
 
 If you have julia,you can use the `composite.jl` script to generate a composite markdown file like this:
 

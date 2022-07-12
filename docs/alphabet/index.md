@@ -65,7 +65,7 @@ diphthong |	pronunciation guide	|  model Greek word
 
 Accents and breathing marks are written over the second vowel of a diphthong.
 
-### Iota subscript
+## Iota subscript
 When iota combines with long alpha, eta, or omega, one modern convention is to write it beneath the vowel as an “iota subscript,” which look like this:   ᾳ, ῃ, ῳ
 Some guides suggest pronouncing such combinations as a diphthong; in practice, I will not. But in writing the iota subscript is absolutely essential and cannot be ignored. [[Neel and Mary differ on pronunication]]
 

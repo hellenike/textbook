@@ -8,6 +8,18 @@ date: July 12, 2022
 
 
 
+# Hellênikê / ἑλληνική: an open-source introduction to ancient Greek
+
+> Encounter a historical language and culture, and engage with how that language and culture continue to shape structures of power today.
+
+  - Module 1: [Greek verbs](./modules/module1/) (in progress)
+  - Module 2: [nouns and adjectives](./modules/module2/) (in progress)
+  - Module 3: participles
+  - Module 4: [subordination](./modules/module4/)
+
+
+
+
 # About this textbook
 
 ## Content
@@ -117,7 +129,7 @@ diphthong |	pronunciation guide	|  model Greek word
 
 Accents and breathing marks are written over the second vowel of a diphthong.
 
-### Iota subscript
+## Iota subscript
 
 When iota combines with long alpha, eta, or omega, one modern convention is to write it beneath the vowel as an “iota subscript,” which look like this:   ᾳ, ῃ, ῳ
 Some guides suggest pronouncing such combinations as a diphthong; in practice, I will not. But in writing the iota subscript is absolutely essential and cannot be ignored. [[Neel and Mary differ on pronunication]]
@@ -147,7 +159,9 @@ Practice reading these words out loud:
 
 # Module 1: the Greek verb
 
-## Language
+## Overview
+
+### Language: overview
 
 Module 1 introduces these features of Greek:
 
@@ -156,11 +170,11 @@ Module 1 introduces these features of Greek:
   - principal parts of Greek verbs
   - the aorist and imperfect indicative tenses
 
-### Ancient Greek in action
+### Ancient Greek in action: overview
 
 Different languages imagine the world differently. To narrate past events, for example, English does not have a single verb tense that correspond to the ideas expressed by the Greek imperfect tense. Module 1 includes reflections of English speakers encountering a different imperfect tense in Spanish and Italian.
 
-## Reading
+### Reading: overview
 
 In our reading in module 1, we meet Euphiletus, the speaker in Lysias, *Oration 1*.  Euphiletus describes the early days of his marriage (to a wife who is never named).
 
@@ -168,6 +182,10 @@ In our reading in module 1, we meet Euphiletus, the speaker in Lysias, *Oration 
 
 
 ## The Greek verb
+
+*Verbs* express the action of a sentence: no sentence is complete without an expressed or implied verbal unit.
+
+We will see several kinds of *verbal unit* that Greek uses to express action.  In this module, we begin our study of Greek with the most important one: *finite verbs*.
 
 
 
@@ -931,10 +949,30 @@ The aorist indicative of δείκνυμι
 
 # Module 2:  nouns and adjectives
 
+## Overview
+
+### Language: overview
+
+Module 2 introduces these features of Greek:
+
+  - TBA
+
+### Ancient Greek in action: overview
+
+TBA
+
+### Reading: overview
+
+TBA
 
 
 
-# Module 2: language
+
+## Module 2: language
+
+In this module, we'll learn about two further parts of speech: nouns (ancient Greek ὀνόματα, the *names* for people and things), and adjectives, words that describe nouns (Greek ἐπίθετα, literally "add ons").
+
+Unlike English, where word order determines the role of a noun, Greek shows the function of nouns and adjective through changes in their form.
 
 
 
@@ -1245,36 +1283,38 @@ We have seen that the subject of a passive verb is the recipient of the action e
 
 
 
-# Exercises
+## Practice
+
+TBA
 
 
 
 
-# Gender and gender diversity
+## Gender and gender diversity
 
   - Gender and gender diversity: draw on sources in Tom Hendrickson, "[Gender Diversity in Greek and Latin](https://medium.com/ad-meliora/gender-diversity-in-greek-and-latin-grammar-ten-ancient-discussions-df371fe19af8)"
 
 
 
 
-# Vocabulary
+## Vocabulary
 
 
 
 
-# Summary of forms and grammar
+## Summary of forms and grammar
 
 
 
 
-# Reading
+## Reading
 
 Exercises, reading and composition based on Lysias 1, 11-14: curious events in the household of Euphiletos.
 
 
 
 
-# Module 2: assignments
+## Module 2: assignments
 
 
 
@@ -1307,7 +1347,18 @@ Exercises, reading and composition based on Lysias 1, sections 16-19:  an elderl
 
 
 
-# Language
+## Module 3: participles
+
+> TBA: the next verbal unit
+
+
+
+
+# Module 4:  subordination
+
+## Overview
+
+### Language
 
 Main areas of focus are:
 
@@ -1315,11 +1366,11 @@ Main areas of focus are:
   - sequence of tenses
   - morphology of subjunctive and optative moods, all three voices, 3S and Pl (aorist, imperfect tenses)
 
-# Making Connections
+### Making Connections
 
   - Phuc Tran on the power of a non-indicative mood
 
-# Exercises, Reading, and Composition
+### Exercises, Reading, and Composition
 
   - Continuing with Lysias 1, sections 20-22(?)
   - Can express purpose in two different ways
@@ -1327,7 +1378,7 @@ Main areas of focus are:
 
 
 
-# Module 4: Subordination, the Subjunctive and Optative Moods
+## Module 4: Subordination, the Subjunctive and Optative Moods
 
 In this module, we will introduce the first of several types of subordinate clauses you will learn in Greek: the purpose clause.
 
@@ -1430,7 +1481,7 @@ The sequence is called either "Primary" or "Secondary." Primary tenses of verbs 
 
 
 
-# Exercises
+## Practice
 
   - drills on identifying verb forms of subjunctives/optatives
   - drills on creating verb forms of subjunctives/optatives
@@ -1440,7 +1491,7 @@ The sequence is called either "Primary" or "Secondary." Primary tenses of verbs 
 
 
 
-# Module 4: making connections
+## Module 4: making connections
 
   - Watch Phuc Tran's TED Talk, "The Dark Side of the Subjunctive."
     
@@ -1449,7 +1500,7 @@ The sequence is called either "Primary" or "Secondary." Primary tenses of verbs 
 
 
 
-# Module 4: assignments
+## Module 4: assignments
 
 
 

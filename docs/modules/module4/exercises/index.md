@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Module 4: exercises"
-parent: "Module 4"
+title: "Module 4: practice"
+parent: "Module 4: subordination"
 nav_order: 2
 ---
 
-# Exercises
+## Practice
 
 - drills on identifying verb forms of subjunctives/optatives
 - drills on creating verb forms of subjunctives/optatives

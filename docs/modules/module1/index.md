@@ -9,7 +9,9 @@ has_children: true
 # Module 1: the Greek verb
 
 
-## Language
+## Overview
+
+### Language: overview
 
 Module 1 introduces these features of Greek:
 
@@ -19,11 +21,11 @@ Module 1 introduces these features of Greek:
 - principal parts of Greek verbs
 - the aorist and imperfect indicative tenses
 
-### Ancient Greek in action
+### Ancient Greek in action: overview
 
 Different languages imagine the world differently. To narrate past events, for example, English does not have a single verb tense that correspond to the ideas expressed by the Greek imperfect tense. Module 1 includes reflections of English speakers encountering a different imperfect tense in Spanish and Italian.
 
-## Reading
+### Reading: overview
 
 In our reading in module 1, we meet Euphiletus, the speaker in Lysias, *Oration 1*.  Euphiletus describes the early days of his marriage (to a wife who is never named).
 
