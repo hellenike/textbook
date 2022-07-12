@@ -15,10 +15,24 @@ And of course the repository depends on [git](https://guides.github.com/activiti
 
 ## Generating a hard-copy version
 
+If you have julia,you can use the `composite.jl` script to generate a composite markdown file like this:
 
-Overview:
+    julia composite.jl
 
-1. you can use the [UnifyJustTheDocs](https://neelsmith.github.io/UnifyJustTheDocs.jl/stable/) module to composite the website into a single markdown file 
-2. use [pandoc](https://pandoc.org) to create a PDF with LaTex
+You can then use pandoc to generate a PDF.
 
-> TBA: examples using specific LaTeX themes with pandoc in generating PDFs
+## Prequisites
+
+
+-  [pandoc](https://pandoc.org)
+- a LaTex engine 
+- the Eisvogel LaTex template, 
+
+### Configuring the PDF script
+
+- edit `pdf/settings.yaml`
+
+### Building the PDF
+
+    pandoc composite.md  --from markdown --template eisvogel --pdf-engine=tectonic --table-of-contents --number-sections -o pdf/hellenike.pdf  --top-level-division=chapter
+
