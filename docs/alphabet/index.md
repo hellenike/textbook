@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Greek alphabet"
+title: "Preliminaries: the Greek alphabet"
 nav_order: 2
 ---
 

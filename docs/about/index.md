@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Introduction"
+title: "About this textbook"
 nav_order: 1
 ---
 
