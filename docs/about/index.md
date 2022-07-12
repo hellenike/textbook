@@ -6,6 +6,8 @@ nav_order: 1
 
 # About this textbook
 
+Download [a PDF of this textbook](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
+
 ## Content
 
 - targetted to a specific text or corpus
