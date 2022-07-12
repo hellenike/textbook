@@ -11,17 +11,17 @@ nav_order: 2
 To form the **imperfect indicative** in all three voices:  
 
 - use the *first principal part*
-- find the stem by dropping *ω* or *νυμι*
+- find the stem by dropping **ω** or **νυμι**
 
 To form the **aorist indicative** in **active or middle** forms
 
 - use the *third* principal part 
-- find the stem by dropping  *α* from "first" aorists, or *ον* from "second" aorists
+- find the stem by dropping  **α** from "first" aorists, or **ον** from "second" aorists
 
 To form the **aorist indicative** in **passive** forms
 
 - use the *sixth* principal part
-- find the stem by dropping *ην*
+- find the stem by dropping **ην**    
 
 ### Paradigms
 
