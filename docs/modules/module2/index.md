@@ -23,7 +23,7 @@ Module 2 introduces these features of Greek:
 
 TBA
 
-### Reading: overview
+### Practice, Reading, and Composition
 
 TBA
 

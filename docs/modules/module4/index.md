@@ -22,7 +22,7 @@ Main areas of focus are:
 
 - Phuc Tran on the power of a non-indicative mood
 
-### Exercises, Reading, and Composition
+### Practice, Reading, and Composition
 
 - Continuing with Lysias 1, sections 20-22(?)
 - Can express purpose in two different ways
