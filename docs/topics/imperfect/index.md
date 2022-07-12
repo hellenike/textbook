@@ -21,7 +21,7 @@ The imperfect, by contrast, expresses an action that is incomplete, repeated, co
 
 **Augment**:
 Past tenses in the indicative mood are indcated by two features: their set of personal endings, and an *augment* at the front of the verb stem.
-Compare first and third parts of verbs you already know. The aorist indicative (third prinicipal part) is characterized by adding an epsilon to the first prinicipal part's stem. If the stem begins with a consonant, you will see the epsilon in front of it. If the stem begins with a vowel, you will see that vowel lengthened. Either of these is called an *augment*. The imperfect tense shows the same pattern, but uses the first principal part. So when you need to add an augment, look to the third prinicpal part to see what it should be. 
+Compare first and third parts of verbs you already know. The aorist indicative (third prinicipal part) is characterized by adding an epsilon to the first prinicipal part's stem. If the stem begins with a consonant, you will see the epsilon in front of it. If the stem begins with a vowel, you will see that vowel lengthened. Either of these is called an *augment*. The imperfect tense shows the same pattern, but uses the first principal part. So when you need to add an augment, look to the third principal part to see what it should be. 
 
 - (1) start by removing the first person singular ending (-ω or -ομαι) and accent from the first principal part, and add the augment 
 

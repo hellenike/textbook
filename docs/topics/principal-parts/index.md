@@ -33,7 +33,7 @@ All principal parts of an Ancient Greek verb are 1st person singular forms.
 
 ### Verb conjugations
 
-Verbs are organized into "conjugations," a grouping where they share common endings. Ancient Greek has two conjugations: thematic and athematic. The names reflect the presence or the absence of a "thematic vowel" as part of the personal verb endings: thematic verbs use the thematic vowel, while athematic verbs do not. In this module, we will begin practicing forms of both conjugations, and note these differences and the ways they affect the forms. Conjugations are also sometimes named after the common ending of the first prinicpal part, so thematic verbs may be referred to as -ω verbs nd athematic verbs may be called -μι verbs. 
+Verbs are organized into "conjugations," a grouping where they share common endings. Ancient Greek has two conjugations: thematic and athematic. The names reflect the presence or the absence of a "thematic vowel" as part of the personal verb endings: thematic verbs use the thematic vowel, while athematic verbs do not. In this module, we will begin practicing forms of both conjugations, and note these differences and the ways they affect the forms. Conjugations are also sometimes named after the common ending of the first principal part, so thematic verbs may be referred to as -ω verbs nd athematic verbs may be called -μι verbs. 
 
 ### Examples of principal parts
 
@@ -82,7 +82,7 @@ As you learn principal parts, you should practice noticing patterns and then usi
 
 Since all the forms are first-person singular, the ending reflects that person-number. The ending will indicate which conjugation the verb belongs to. In the first principal part, the endings -ω and -ομαι indicate the thematic conjugation, while the endings -μι and -μαι (with some letter other than omicron before it) indicate the athematic conjugation. 
 
-For those prinicpal parts that could be either active or middle, the ending will also indicate the voice: -ω or -μι (1st and 2nd principal parts), and -ον or -α (3rd) are active, while -μαι (1st and 2nd) and -μην (3rd) are middle. 
+For those principal parts that could be either active or middle, the ending will also indicate the voice: -ω or -μι (1st and 2nd principal parts), and -ον or -α (3rd) are active, while -μαι (1st and 2nd) and -μην (3rd) are middle. 
 
 For the 4th principal part, which is always active, you can expect the ending -α. 
 For the 5th, which is always middle/passive, the endings is -μαι. 

@@ -20,7 +20,7 @@ Vocabulary for today:
 - δοκέω
 - ποιέω
 
-The first prinicpal part will be listed in a lexicon or glossary with the first prinicipal part ending in ε before the first person ending of -ω. 
+The first principal part will be listed in a lexicon or glossary with the first prinicipal part ending in ε before the first person ending of -ω. 
 Recall that our imperfect active and middle/passive indicative personal endings start with vowels, either an ε or an ο:
 
 | Person and Number | Active ending | Middle and Passive ending |
