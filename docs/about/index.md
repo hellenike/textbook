@@ -30,7 +30,7 @@ Each module comprises:
 ## Additional notes for teachers
 
 
-### Sequence of grammtical topics
+### Sequence of grammatical topics
 
 Topics sequenced by: 
 
