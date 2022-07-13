@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Participles"
+title: "Participles: introduction"
 parent: "Module 3: language"
 grand_parent: "Module 3: participles"
 nav_order: 1
@@ -8,9 +8,14 @@ nav_order: 1
 
 
 
-## Participles
+## Participles: introduction
+
+Participles are a kind of adjective created from a verb. They share qualities of both verbs and adjectives (and in fact, the ancient Greek grammatical term for "participle" is μετοχή, literally, "a sharing").  Like any other adjective, participles have gender, case and number, and agree with the noun they describe in all those properties. But like other verb forms, participles have tense and voice, and function alongside finite verbs as a second kind of verbal unit.
 
 
+English has a very limited set of participles.  We can add *ing* to a verb stem to create a participle in a present tense and active voice.  In a phrase like the cliché "babbling brook", "brook" is a noun described by the adjective "babbling". "Babbling" is a participle in the active voice: we're saying that "the brook babbles."  It's also in the present tense: the brook is babbling as we speak.
+
+We can also add *ed* to a verb stem to create a participle in a past tense and passive voice.  The phrase "dreaded news" describes the noun "news" with an adjective made from the verb "to dread".  The voice is passive: the news is not the active subject dreading something, but the passive subject, the thing that is dreaded.  The tense is past: the news was already dreaded before we speak.
 
 Participles: a verbal unit
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Module 3: making connections"
+title: "Module 3: ancient Greek in action"
 parent: "Module 3: participles"
 nav_order: 4
 ---
