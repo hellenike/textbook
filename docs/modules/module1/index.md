@@ -9,7 +9,7 @@ has_children: true
 # Module 1: the Greek verb
 
 
-## Overview
+## Overview of module 1
 
 ### Language: overview
 

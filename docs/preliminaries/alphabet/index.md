@@ -46,12 +46,12 @@ letter |	name	|  pronunciation guide	 |    practice Greek word
 Ψ  ψ	|  psi	 |  u**ps**et 			         |     ψυχή (“spirit, soul, life”)
 Ω  ω 	|  omega |   b**o**ne			           |     ὥρα (“season, hour”)
 
-## Breathings
+### Breathings
 Another sound to add: words beginning with a vowel will have what is called a breathing mark written over that vowel. There are two kinds of breathing marks:
 smooth breathing looks like this ’ and adds no sound to the vowel
 rough breathing looks like this ‘ and adds an ‘h’ sound to the vowel (words beginning with a rho also have a rough breathing, making it an ‘rh’ sound)
 
-## Diphthongs
+### Diphthongs
 Diphthongs are combinations of two vowels that result in one syllable. English has them, too. In Greek, diphthongs are combinations of iota or upsilon with other vowels. 
 
 diphthong |	pronunciation guide	|  model Greek word
