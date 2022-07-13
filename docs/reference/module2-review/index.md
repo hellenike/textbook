@@ -2,7 +2,7 @@
 layout: page
 title: "Module 2: reference and review"
 parent: "Reference and review"
-nav_order: 5
+nav_order: 2
 has_children: true
 ---
 

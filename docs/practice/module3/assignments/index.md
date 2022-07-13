@@ -2,8 +2,8 @@
 layout: page
 title: "Module 3: assignments"
 parent: "Module 3, participles: practice"
-grandparent: "Practice"
-nav_order: 15
+grand_parent: "Practice"
+nav_order: 2
 ---
 
 ## Module 3: assignments

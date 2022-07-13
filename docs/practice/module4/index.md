@@ -3,6 +3,7 @@ layout: page
 title: "Module 4, subordination: practice"
 parent: "Practice"
 nav_order: 4
+has_children: true
 ---
 
 ## Subordination: practice
