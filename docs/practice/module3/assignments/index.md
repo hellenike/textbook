@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Module 3: assignments"
-parent: "Module 3: participles"
+parent: "Module 3, participles: practice"
+grandparent: "Practice"
 nav_order: 15
-has_children: true
 ---
 
 ## Module 3: assignments
