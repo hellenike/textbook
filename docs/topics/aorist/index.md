@@ -111,7 +111,7 @@ You may see somewhere the reference to "first" and "second" aorists in the aoris
 
 
 
-### Vocabulary for today
+### Vocabulary to memorize
 
 Learn these paradigm verbs: be able to produce the first, third and sixth principal parts (**emphasized like this** in the list) from memory.
 

@@ -17,7 +17,7 @@ has_children: true
 
 
 
-### Vocabulary for today
+### Vocabulary to memorize
 
 These conjunctions *introduce* a clause:
 
