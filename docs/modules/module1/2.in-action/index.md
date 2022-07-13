@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Module 1: ancient Greek in action"
+title: "Ancient Greek in action: the imperfect tense"
 parent: "Module 1: the Greek verb"
 nav_order: 2
 ---

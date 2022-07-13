@@ -18,7 +18,9 @@ Practice, reading and composition based on Lysias 1, sections 16-19:  an elderly
 
 Main areas of focus are:
 
-- participles....
+- participles: a verbal unit
+- attributive, circumstantial, supplementary participles
+ - absolute construction
 
 ### Making Connections
 
@@ -26,3 +28,13 @@ Reading the Second Amendment
 
 ### Practice, Reading, and Composition
 
+- πάντων τῶν κακῶν ἀποθανοῦσα αἰτία μοι γεγένηται
+- ἡ ἐμὴ γυνὴ ὑπὸ τούτου τοῦ ἀνθρώπου ὀφθεῖσα, χρόνῳ διαφωείρεται
+- οἰκίδιον ἔστι μοι διπλοῦν, ἴσα ἔχον τὰ ἄνω τοῖς κάτω
+- ... ἵνα δὲ μὴ κινδυνεύῃ κατὰ τῆς κλίμακος καταβαίνουσα 
+- προϊόντος τοῦ χρόνου...
+- ἵνα παύσηται κλᾶον 
+- ὡς ἀσμένη με ἑορακυῖα ἥκοντα διὰ χρόνου.
+- πρότερον δὲ μεθύων εἷλκες αὐτήν
+- κἀγὼ τούτων οὐδὲν ἐνθυμούμενος οὐδ‘ ὑπονοῶν ἐκάθευδον ἄσμενος 
+- χρόνου μεταξὺ διαγενομένου καὶ ἐμοῦ πολὺ ἀπολελειμμένουν τῶν ἐμαυτοῦ κακῶν, προσέρχεταί μοί τις πρεσβῦτις...

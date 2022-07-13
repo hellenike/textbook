@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The article and the genitive case of nouns"
-parent: "Module 2: language"
+parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
 nav_order: 2
 has_children: true

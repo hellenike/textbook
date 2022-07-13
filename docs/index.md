@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hellênikê: textbook"
+title: "Hellênikê: introduction to ancient Greek"
 nav_order: 0
 ---
 

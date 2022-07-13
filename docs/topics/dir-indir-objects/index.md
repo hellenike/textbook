@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Direct and indirect objects"
-parent: "Module 2: language"
+parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
 nav_order: 3
 has_children: true

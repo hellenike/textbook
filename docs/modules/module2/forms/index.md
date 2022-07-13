@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Module 2: language reference"
+title: "Nouns and adjectives reference"
 parent: "Module 2: nouns and adjectives"
 nav_order: 10
 ---

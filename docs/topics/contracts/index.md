@@ -14,7 +14,7 @@ The different verbs you have already learned all have stems of the first princip
 
 ### Stems ending in -ε- 
 
-Vocabulary for today:
+Vocabulary to memorize:
 
 - ἀδικέω
 - δοκέω
@@ -76,7 +76,7 @@ Imperfect indicative of ποιέω:
 
 ### Stems ending in -α- 
 
-Vocabulary for today:
+Vocabulary to memorize:
 
  - ὁράω 
 

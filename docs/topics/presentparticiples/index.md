@@ -1,0 +1,18 @@
+---
+layout: page
+title: "Present-tense participles"
+parent: "Module 3: language"
+grand_parent: "Module 3: participles"
+nav_order: 2
+---
+
+## Present-tense participles
+
+- Formation
+- meaning
+
+examples:
+
+πρότερον δὲ μεθύων εἷλκες αὐτήν
+
+κἀγὼ τούτων οὐδὲν ἐνθυμούμενος οὐδ‘ ὑπονοῶν ἐκάθευδον ἄσμενος

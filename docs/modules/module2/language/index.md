@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Module 2: language"
+title: "Nouns and adjectives"
 parent: "Module 2: nouns and adjectives"
 nav_order: 1
 has_children: true
 ---
 
-## Module 2: language
+## Nouns and adjectives
 
 
 In this module, we'll learn about two further parts of speech: nouns (ancient Greek ὀνόματα, the *names* for people and things), and adjectives, words that describe nouns (Greek ἐπίθετα, literally "add ons").

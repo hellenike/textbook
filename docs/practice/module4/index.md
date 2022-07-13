@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Module 4: practice"
-parent: "Module 4: subordination"
-nav_order: 2
+title: "Module 4, subordination: practice"
+parent: "Practice"
+nav_order: 4
 ---
 
 ## Practice
