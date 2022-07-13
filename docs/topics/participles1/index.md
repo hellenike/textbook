@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Participles: introduction"
-parent: "Module 3: language"
+parent: "Participles"
 grand_parent: "Module 3: participles"
 nav_order: 1
 ---
