@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Recessive accent"
-parent: "The Greek verb"
-grand_parent: "Module 1: the Greek verb"
-nav_order: 1
-has_children: true
+title: "Accent"
+parent: "Preliminaries"
+nav_order: 2
 ---
 
 ## Ancient Greek accents

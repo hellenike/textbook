@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Preliminaries: the Greek alphabet"
-nav_order: 2
+title: "The Greek alphabet"
+nav_order: 1
+parent: "Preliminaries"
 ---
 
 # The Greek alphabet
