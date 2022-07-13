@@ -1,13 +1,14 @@
 ---
 layout: page
-title: "Preliminaries: the Greek alphabet"
-nav_order: 2
+title: "The Greek alphabet"
+nav_order: 1
+parent: "Preliminaries"
 ---
 
-# The Greek alphabet
+## The Greek alphabet
 
 
-## Overview
+### Overview
 
 Notes for overview:
 
@@ -16,7 +17,7 @@ Notes for overview:
 - practice reading aloud until you are comfortable pronouncing Greek words you have not seen before
 
 
-## The basic letters
+### The basic letters
 
 letter |	name	|  pronunciation guide	 |    practice Greek word
 --- | --- | --- | ---
@@ -45,12 +46,12 @@ letter |	name	|  pronunciation guide	 |    practice Greek word
 Ψ  ψ	|  psi	 |  u**ps**et 			         |     ψυχή (“spirit, soul, life”)
 Ω  ω 	|  omega |   b**o**ne			           |     ὥρα (“season, hour”)
 
-## Breathings
+### Breathings
 Another sound to add: words beginning with a vowel will have what is called a breathing mark written over that vowel. There are two kinds of breathing marks:
 smooth breathing looks like this ’ and adds no sound to the vowel
 rough breathing looks like this ‘ and adds an ‘h’ sound to the vowel (words beginning with a rho also have a rough breathing, making it an ‘rh’ sound)
 
-## Diphthongs
+### Diphthongs
 Diphthongs are combinations of two vowels that result in one syllable. English has them, too. In Greek, diphthongs are combinations of iota or upsilon with other vowels. 
 
 diphthong |	pronunciation guide	|  model Greek word
@@ -65,7 +66,7 @@ diphthong |	pronunciation guide	|  model Greek word
 
 Accents and breathing marks are written over the second vowel of a diphthong.
 
-## Iota subscript
+### Iota subscript
 When iota combines with long alpha, eta, or omega, one modern convention is to write it beneath the vowel as an “iota subscript,” which look like this:   ᾳ, ῃ, ῳ
 Some guides suggest pronouncing such combinations as a diphthong; in practice, I will not. But in writing the iota subscript is absolutely essential and cannot be ignored. [[Neel and Mary differ on pronunication]]
 
@@ -73,7 +74,7 @@ Some guides suggest pronouncing such combinations as a diphthong; in practice, I
 
 
 
-## A few further details
+### A few further details
 
 A few details to note:
 
