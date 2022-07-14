@@ -6,7 +6,7 @@ nav_order: 1
 has_children: true
 ---
 
-## Participles
+## Participles (ἡ μετοχή)
 
 
 

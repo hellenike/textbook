@@ -6,7 +6,7 @@ nav_order: 1
 has_children: true
 ---
 
-## Nouns and adjectives
+## Nouns (τὸ ὄνομἀ) and adjectives (τὸ ἐπίθετον)
 
 
 In this module, we'll learn about two further parts of speech: nouns (ancient Greek ὀνόματα, the *names* for people and things), and adjectives, words that describe nouns (Greek ἐπίθετα, literally "add ons").

@@ -7,7 +7,7 @@ has_children: true
 ---
 
 
-## The Greek verb
+## The Greek verb (τὸ ῥῆμα)
 
 *Verbs* express the action of a sentence: no sentence is complete without an expressed or implied verbal unit.
 
