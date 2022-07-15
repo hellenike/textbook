@@ -1,13 +1,12 @@
 ---
 layout: page
-title: "Verb forms"
+title: "Finite verb forms"
 parent: "The Greek verb"
 grand_parent: "Module 1: the Greek verb"
 nav_order: 2
-has_children: true
 ---
 
-"Verb" is a part of speech. Its function is to express an action or a state of being. As Schoolhouse Rock put it decades ago, Verb: that's what happening.
+
 
 ## Finite Verb Forms
 

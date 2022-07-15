@@ -1,33 +1,50 @@
 ---
 layout: page
-title: "Clauses and coordination"
+title: "Types of clauses"
 parent: "The Greek verb"
 grand_parent: "Module 1: the Greek verb"
 nav_order: 6
 has_children: true
 ---
 
-## Clauses and coordination
+>  MOVE THIS TO FOLLOW DIRECT/INDIRECT OBJECTS
+>
+> 
+
+## Types of clauses
+
+### Transitive clauses
+
+- transitive. Can have a direct object in active or middle voice; can have a passive form.  In passive, agent can be expressed with ὑπό + genitive.
+
+ἡ ἐμὴ γυνὴ ὑπὸ τούτου τοῦ ἀνθρώπου ὤφθη (ὀφθεῖσα in text)
+
+( == ὁ ἄνθρωπος τὴν ἐμὴν γυναῖκα εἶδε.)
 
 
-- A verbal unit containing a *finite* verb form is called a *clause*. A sentence consists of one or more clauses.
-- Greek *coordinates* successive clauses with *conjunctions* or *particles*. Ancient Greek has an affinity for connecting clauses and sentences to show their relationship to one another. In many styles of English, starting every sentence by connecting it to the previous one could quickly seem excessive, but doing so is more the norm in many styles of Anicent Greek prose and even poetry.
+### Intransitive clauses
+- intransitive.  Does not take a direct object.
+
+ἧκον ἀπροσδοκήτως ἐξ ἀγροῦ
+
+
+### Linking clauses
+
+- linking.  Joins together a nominative subject and a nominative predicate
+
+οἰκονόμος δεινὴ καὶ φειδωλὸς ἀγαθὴ ἤν
 
 
 
+## Examples of coordinating clauses
+
+ἧκον **μὲν** ἀπροσδοκήτως ἐξ ἀγροῦ, 
+
+μετὰ **δὲ** τὸ δεῖπνον τὸ παιδίον ἐβόα 
+
+**καὶ** ἐδυσκόλαινεν ... 
+
+ὁ **γὰρ** ἄνθρωπος ἔνδον ἦν:
 
 
-### Vocabulary to memorize
-
-These conjunctions *introduce* a clause:
-
-- ἀλλά.  Strong contrast with previous clause. ("but")
-- καί. Couples following clause with previous clauses. ("and")
-
-These particles are the *second* element of the new clause. One way to describe this placement in their clause is "postpositive" (meaning something like "placed after")
-
-- γάρ. This clause explains the previous clause.
-- οὖν. This clause draws a conclusion from the prevoius clause.
-- τε.  Couples this clause with the previous clause (similar to καί).
-- μέν ... δέ The use of these particles together show a contrast of some sort along with a connection. A series of two or more clauses can be joined into a *list* using the particles μέν…δέ…<δέ…>; δέ can be repeated to join as many clauses as you like into a single list.
 
