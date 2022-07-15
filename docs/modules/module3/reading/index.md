@@ -5,15 +5,16 @@ parent: "Module 3: participles"
 nav_order: 10
 ---
 
-
+## Module 3: reading
 
 ### Chunking more complex sentences
 
 - this display indents by level of subordination:
 
+
 πάντων τῶν κακῶν 
 
-> *ἀποθανοῦσα*
+> **ἀποθανοῦσα**
 
 αἰτία μοι **γεγένηται**
 
@@ -32,10 +33,10 @@ When you're done, reread it like a printed text:
 πάντων τῶν κακῶν ἀποθανοῦσα αἰτία μοι γεγένηται
 
 
----
+Another example...
 
 ἡ ἐμὴ γυνὴ 
 
-> ὑπὸ τούτου τοῦ ἀνθρώπου *ὀφθεῖσα*, 
+> ὑπὸ τούτου τοῦ ἀνθρώπου **ὀφθεῖσα**, 
 
 χρόνῳ **διαφθείρεται**
