@@ -1,17 +1,16 @@
 ---
 layout: page
 title: "Types of clauses"
-parent: "The Greek verb"
-grand_parent: "Module 1: the Greek verb"
-nav_order: 6
+parent: "Nouns and adjectives"
+grand_parent: "Module 2: nouns and adjectives"
+nav_order: 4
 has_children: true
 ---
 
->  MOVE THIS TO FOLLOW DIRECT/INDIRECT OBJECTS
->
-> 
 
 ## Types of clauses
+
+Recall that every instance of a finite verb identifies a clause.  When we have chunked together the words in a clause, the case of nouns will tell us how they function in the clause (subject, direct or indirect object). Looking at the verb of a clause together with the main nouns (if any), we can think about clauses in one of three categories: *transitive*, *intransitive* or *linking*
 
 ### Transitive clauses
 
@@ -23,20 +22,25 @@ has_children: true
 
 
 ### Intransitive clauses
+
 - intransitive.  Does not take a direct object.
 
 ἧκον ἀπροσδοκήτως ἐξ ἀγροῦ
 
+(perhaps examples with γίγνομαι)
+
 
 ### Linking clauses
 
-- linking.  Joins together a nominative subject and a nominative predicate
+- linking.  Joins together a nominative subject and a nominative predicate with a verb referring to a state (εἰμί).  Note that in the third person, εἰμί can be omitted.
 
-οἰκονόμος δεινὴ καὶ φειδωλὸς ἀγαθὴ ἤν
+οἰκονόμος δεινὴ καὶ φειδωλὸς ἀγαθὴ {ἤν}
 
 
 
 ## Examples of coordinating clauses
+
+Find subject (explicit or implicit) and verb of each clause.  Categorize each as transitive, intransitive or linking.
 
 ἧκον **μὲν** ἀπροσδοκήτως ἐξ ἀγροῦ, 
 

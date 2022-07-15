@@ -26,16 +26,20 @@ Ancient Greek has more than one tense for narrating events in the past. The dist
 
 The choice of tense, then, involves not only an indication that the events happened in the past, but other information about the event. Do you want to emphasize it as a single incident? Choose the aorist indicative if so. Or do you want to indicate that it happened over a length of time, was repeated or habitual, perhaps was started but not completed? The imperfect indicative will give you the means to add those shades of meaning.
 
-### Meaning of aorist indicative and translation into English
+### Meaning of aorist indicative
 
 The aorist indicate represents the action in a way that can be (and has been) described as "single," "simple," "distinct," the equivalent to a snapshot of the action. The tense that is the closest to this idea in English is the "simple past," the past tense formed in the active voice by adding -ed to the verb stem, or made by changes to the stem, with no other "helping" verbs. Examples of the "simple past" in the active voice: He walked, she ran, they watched. She taught, they learned. 
 
-To translate a verb form, you must take into account all five properties: person, number, tense, mood and voice. In the active voice, the subject performs the action. In the passive voice, the subject receives the action. The middle voice is, as the name indicates, in between active and passive, where the subject performs the action in some way for themselves.
+To understand a verb form, you must take into account all five properties: person, number, tense, mood and voice. In the active voice, the subject performs the action. In the passive voice, the subject receives the action. The middle voice is, as the name indicates, in between active and passive, where the subject performs the action in some way for themselves.
 
 To use as examples the verbs of "show" and "command" (compare the sample Greek verbs below), the 3rd person plural aorist indicative in each voice could be translated into English as follows:
 - Active: "they showed," "they commanded"
 - Middle: "they showed (for their own benefit)," "they commanded themselves"
 - Passive: "they were shown," "they were commanded"
+
+
+> ? Example with ἄρχω ?  Active voice "to be first, rule" ; passive "to be rule"; middle "to make onself first {over something in the genitive case}, to begin"
+
 
 
 ### Forming the aorist indicative

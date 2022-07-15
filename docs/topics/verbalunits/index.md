@@ -15,7 +15,7 @@ As you learn how to read ancient Greek, we will emphasize this crucial skill.  R
 
 We will use the term *verbal unit* to refer to the most important underlying structure in Greek. A *verb* is a word that expresses an action or a state of being. (As [Schoolhouse Rock put it decades ago](https://www.youtube.com/watch?v=IrfZCvTe-Ko), "Verb: that's what happening.")  A verbal unit combines some form of a verb with a subject to express a complete idea.
 
-Compared to English, Greek has an extremely rich system of verb forms that can form different kinds of verbal units.  In module 3, for example, we will learn about how Greek can form verbal units using participles quite differently from anything in English.
+Compared to English, Greek has an extremely rich system of verb forms that can form different kinds of verbal units.  In module 3, for example, we will learn about how Greek can form verbal units quite differently from anything in English using participles.
 
 The most important verbal unit in Greek, however, is the *finite verb*.  Every sentence has at least one verbal unit expressed with a finite verb and a subject, even if these are only implied.  In English, if someone asks you "Coffee or tea?" they are implying "Would you like coffee or tea?", a sentence with a subject ("you") and verb ("would like").    
 
