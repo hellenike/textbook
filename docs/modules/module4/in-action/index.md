@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Module 4: making connections"
+title: "Ancient Greek in action: \"the dark side of the subjunctive\""
 parent: "Module 4: subordination"
 nav_order: 4
 ---
 
-## Module 4: making connections
+## "The dark side of the subjunctive"
 
 - Watch Phuc Tran's TED Talk, "The Dark Side of the Subjunctive." 
 

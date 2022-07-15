@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Module 4: language"
-parent: "Module 4: subordination"
+parent: "Subordination"
 nav_order: 1
 has_children: true
 ---
 
-## Module 4: Subordination, the Subjunctive and Optative Moods
+## Subordination, the subjunctive (ἡ ὑποτακτικὴ ἔγκλισις) and optative (ἡ εὐκτικὴ ἔγκλισις) moods
 
 In this module, we will introduce the first of several types of subordinate clauses you will learn in Greek: the purpose clause. 
 
