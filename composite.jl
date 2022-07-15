@@ -8,7 +8,7 @@ outfile = length(ARGS) > 1 ? ARGS[2] : "composite.md"
 
 settings = readlines(settingsfile) 
 
-root = joinpath(pwd(), "dbdocs")
+root = joinpath(pwd(), "docs")
 
 
 # create YAML header:
