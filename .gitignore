@@ -7,3 +7,4 @@ ns-local/
 Manifest.toml
 composite.md
 *.pdf
+db*
