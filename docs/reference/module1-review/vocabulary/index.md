@@ -6,10 +6,10 @@ parent: "Module 1: reference and review"
 nav_order: 1
 ---
 
-## Module 1: vocabulary
+### Module 1: vocabulary
 
 
-### Conjunctions and connecting particles
+#### Conjunctions and connecting particles
 
 - ἀλλά
 - γάρ
@@ -18,7 +18,7 @@ nav_order: 1
 - οὖν
 - τε
 
-### Verbs
+#### Verbs
 
 - ἀδικέω
 - γίγνομαι

@@ -6,5 +6,5 @@ parent: "Module 2: reference and review"
 nav_order: 2
 ---
 
-## Summary of forms and grammar
+### Summary of forms and grammar
 

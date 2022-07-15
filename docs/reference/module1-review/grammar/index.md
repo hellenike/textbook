@@ -6,7 +6,7 @@ parent: "Module 1: reference and review"
 nav_order: 2
 ---
 
-## Module 1: summary of forms and grammar
+### Module 1: summary of forms and grammar
 
 To form the **imperfect indicative** in all three voices:  
 
@@ -23,7 +23,7 @@ To form the **aorist indicative** in **passive** forms
 - use the *sixth* principal part
 - find the stem by dropping **ην**    
 
-### Paradigms
+#### Paradigms
 
 The aorist indicative in the third person.  (Forms highlighted `like this` are not required to be memorized in module 1.)
 
