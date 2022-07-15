@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Purpose clauses"
-parent: "Module 4: language"
-grand_parent: "Module 4"
+parent: "Subordination"
+grand_parent: "Module 4: subordination"
 nav_order: 2
 has_children: true
 ---
