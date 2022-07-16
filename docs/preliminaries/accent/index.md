@@ -42,8 +42,10 @@ Some small words do not carry an accent: those that do not carry an accent or af
 
 Placement and type of accent depend on the length of vowels in the word. 
 
-	Short vowels = α, ε, ι, ο, υ 
-	Long vowels = α, η, ι, ω, υ. Diphthongs are long, expect for final –αι, -οι in some forms. 
+
+Short vowels = α, ε, ι, ο, υ 
+
+Long vowels = α, η, ι, ω, υ. Diphthongs are long, expect for final –αι, -οι in some forms. 
 
 An acute accent can appear on any of these syllables. It is the only accent that lives on the antepenult and can live there only if the ultima is short. Therefore, if the ultima has a long vowel or diphthong, the antepenult will not be accented.
 
