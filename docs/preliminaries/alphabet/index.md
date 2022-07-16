@@ -98,3 +98,11 @@ Practice reading these words out loud:
 - Εὐφίλητος (name of the man accused of murder)
 - Σώστρατος (name of a friend of Εὐφίλητος)
 - Ἀθηναῖοι 
+
+
+## Other resources
+
+A [youtube video](https://www.youtube.com/watch?v=8xDvcgvEpaQ&list=PLUcfS6VHaxZC1p_JRiWyYyI2gRKEDyPVh) showing you how to write ancient Greek.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8xDvcgvEpaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
