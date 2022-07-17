@@ -9,10 +9,8 @@ has_children: true
 
 ## The aorist indicative
 
-### Verbs
 
-- we'll always begin to understand our reading by looking for *verbal units* that express an action
-- the form of a verb in ancient Greek expresses the *subject* as well as the *verb*.  Example: the form ἐκέλευσε means "he or she ordered"; the form ἐκέλευσαν means "they ordered."  These are complete sentences that do not need a separate word for "he", "she" or "they."
+The form of a finite verb in ancient Greek expresses the *subject* as well as the *verb*: it is complete verbal unit by itself.  Example: the form ἐκέλευσε means "he or she ordered"; the form ἐκέλευσαν means "they ordered."  These are already complete sentences that do not need a separate word for "he", "she" or "they."
 
 ### The indicative mood and narrating events in the past
 
@@ -20,7 +18,8 @@ As described above, finite verbs have five properties: person, number, tense, mo
 
 "Indicative" is a mood, one of the four that ancient Greek has. It is the mode of verb used for narrating factual events. As such, it is a frequently seen mood in most texts.
 
-Ancient Greek has more than one tense for narrating events in the past. The distinction between those past tenses, then, is one of *aspect*—that is, how to think of or picture the action the verb is representing. 
+Ancient Greek has more than one tense for narrating events in the past. The distinction between those past tenses, then, is one of *aspect* —that is, how to think of or picture the action the verb is representing. 
+
 - the *aorist* tense expresses an action as single and simple, without indication of its completion or continuation
 - the *imperfect* tense expresses an action as contiunous, started, ongoing, habitual or in any way incomplete
 

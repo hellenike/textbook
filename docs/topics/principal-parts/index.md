@@ -33,7 +33,7 @@ All principal parts of an Ancient Greek verb are 1st person singular forms.
 
 ### Verb conjugations
 
-Verbs are organized into "conjugations," a grouping where they share common endings. Ancient Greek has two conjugations: thematic and athematic. The names reflect the presence or the absence of a "thematic vowel" as part of the personal verb endings: thematic verbs use the thematic vowel, while athematic verbs do not. In this module, we will begin practicing forms of both conjugations, and note these differences and the ways they affect the forms. Conjugations are also sometimes named after the common ending of the first principal part, so thematic verbs may be referred to as -ω verbs nd athematic verbs may be called -μι verbs. 
+Greek verbs are organized into two "conjugations," a grouping where they share common endings.  *Thematic* verbs include a thematic vowel in their endings; *athematic* verbs do not.  Thematic verbs are also called -ω verbs and athematic verbs may be called -μι verbs, after the common ending of the first principal part.
 
 ### Examples of principal parts
 
@@ -99,6 +99,7 @@ For the 4th and 5th principal parts, which are in the perfect tense, the stem wi
 As in English, very common verbs show greater changes to the verb stem in different principal parts. Compare ἔρχομαι (present) and ἦλθον (aorist) with "go" (present) and "went" (past) in English.
 
 Some changes to verb stems appear with many more regular verbs: 
-A sigma may be added to the present stem for the future and/or aorist active stem (2nd and 3rd principal parts, e.g., κελεύω, κελεύσω, ἐκέλευσα), 
-A kappa may be part of the stem in the perfect active (4th principal part, e.g., κεκέλευκα). 
-The 6th principal part may have a theta at the end of its stem, e.g. ἐδυνήθην.
+
+- A sigma may be added to the present stem for the future and/or aorist active stem (2nd and 3rd principal parts, e.g., κελεύω, κελεύσω, ἐκέλευσα), 
+- A kappa may be part of the stem in the perfect active (4th principal part, e.g., κεκέλευκα). 
+- The 6th principal part may have a theta at the end of its stem, e.g. ἐδυνήθην
