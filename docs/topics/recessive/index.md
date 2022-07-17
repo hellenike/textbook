@@ -6,7 +6,7 @@ grand_parent: "Module 1: the Greek verb"
 nav_order: 3
 ---
 
-### Formation of finite verbs: recessive accent
+## Formation of finite verbs: recessive accent
 
 The accent on finite verb forms in ancient Greek is described as *recessive*, meaning that the accent recedes as far back from the end of the word as the possible, in accordance with the set of rules governing accentuation.
 
