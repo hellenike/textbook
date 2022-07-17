@@ -19,8 +19,7 @@ Compared to English, Greek has an extremely rich system of verb forms that can f
 
 The most important verbal unit in Greek, however, is the *finite verb*.  Every sentence has at least one verbal unit expressed with a finite verb and a subject, even if these are only implied.  In English, if someone asks you "Coffee or tea?" they are implying "Would you like coffee or tea?", a sentence with a subject ("you") and verb ("would like").    
 
-
-ῥῆμα is statement.
+The Greek grammatical term for a verb is ῥῆμα, a word that can mean "a statement": even if you leave out every over word, the finite verb constitutes a complete statement.
 
 
 

@@ -8,13 +8,13 @@ parent: "Preliminaries"
 ## The Greek alphabet
 
 
-### Overview
+### Background
 
-Notes for overview:
+Greeks began experimenting with alphabetic writing in the eighth century BCE when they became familiar with the alphabets used to write Semitic languages like Phoenician and Aramaic.  Several adaptations of these Semitic models were used in different parts of the Greek world, with different numbers of letters, and different sounds for some of the letters in each alphabet.  In 403 BCE, Athens officially adopted the form of the alphabet used in Ionia.  Over the next century, this script soon became the standard form throughout the Greek world, and is the ancestor of what we think of as "the" Greek alphabet.
 
-- the form of the Greek alphabet we use evolved over many centuries
-- memorize the alphabet in alphabetical order so you can use a dictionary
-- practice reading aloud until you are comfortable pronouncing Greek words you have not seen before
+The alphabetic system defined sounds for each symbol. Another important feature was that it defined a sequence for the letters, just as we have maintained in our descendant of the Greek alphabet: it begins with "a", and is followed by "b","c", etc.  You must learn the order of the letters in the Greek alphabet as well as their pronunciation so that you use a dictionary and other reference works that are organized alphabetically
+
+The classical Greeks always read aloud.  You should do the same.  As you learn the letters of the Greek alphabet, practice reading aloud until you are comfortable pronouncing Greek words you have not seen before
 
 
 ### The basic letters
@@ -46,12 +46,20 @@ letter |	name	|  pronunciation guide	 |    practice Greek word
 Ψ  ψ	|  psi	 |  u**ps**et 			         |     ψυχή (“spirit, soul, life”)
 Ω  ω 	|  omega |   b**o**ne			           |     ὥρα (“season, hour”)
 
+
+### Vowel length
+
+Vowels could be long or short.  As in a modern language like German, the long version of the vowel was held for a longer time than the short version.  η and ω are always long;  they correspond to the short vowels ε and ο respectively.  Long and short versions of α, ι and υ were not distinguished in writing, but were pronounced differently.
+
+
 ### Breathings
+
 Another sound to add: words beginning with a vowel will have what is called a breathing mark written over that vowel. There are two kinds of breathing marks:
 smooth breathing looks like this ’ and adds no sound to the vowel
 rough breathing looks like this ‘ and adds an ‘h’ sound to the vowel (words beginning with a rho also have a rough breathing, making it an ‘rh’ sound)
 
 ### Diphthongs
+
 Diphthongs are combinations of two vowels that result in one syllable. English has them, too. In Greek, diphthongs are combinations of iota or upsilon with other vowels. 
 
 diphthong |	pronunciation guide	|  model Greek word
@@ -90,6 +98,8 @@ Tips:
 - we can't precisely recover ancient pronounciation, but try to distinguish sounds that are spelled differently (e.g., ο/ω ε/η ), and include accent in your pronounciation.  Hear the difference between ἀστραπηβόλος, "one who throws lightning" (an adjective describing Zeus) and ἀστραπήβολος  "one struck by lightning". It makes a difference! English similarly distinguishes otherwise identical words based on (stress) accent. How does the way you pronounce the following English word change their meaning? content, present, object, insult, permit
 
 
+
+## Pronunciation practice 
 
 Practice reading these words out loud:
 

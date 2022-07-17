@@ -13,7 +13,7 @@ The *acute* accent **´** indicated that your voice should rise on the accented 
 
 Because English speakers are accustomed to stress accents, we will pronounce any accented syllable, regardless of type of accent, with a stress accent.
  
-### Practice
+### Pronunciation practice
 
 Practice pronouncing the following words. As you'll learn in Module 2, Greek nouns change their endings to indicate their function. Each 
 pair of words shows two forms of the same noun: pronounce them so that you can hear clearly which syllable is stressed in each instance.
@@ -26,30 +26,91 @@ pair of words shows two forms of the same noun: pronounce them so that you can h
 - πολιτῶν 
 
 
+
+### Accented words
+
+Every Greek sentence was a flow of higher and lower pitches, and every word had its own accent, except for a very small number of special cases.  One group of small words that do not carry an accent or affect the accents of other words are called *proclitics.*  These include some forms of the article ("the"), ὁ, ἡ, οἱ, αἱ, and a few prepositions like εἰς ("into"), ἐκ ("out of") , ἐν ("in"). There are also *enclitics*, short words that affect the accents of other words in a sentence but do not have their own accent.  We'll learn more about enclitics in Modiule 2.
+
+
 ### General rules
 
-Accents are written over vowels. If a diphthong is accented, the accent is written over the second vowel of the diphthong (e.g., εὖ, or Ἀθηναῖοι). 
+Accents are always written over vowels. If a diphthong is accented, the accent is written over the second vowel of the diphthong (e.g., εὖ, or Ἀθηναῖοι). 
 
-Accents appear on only the last three syllables of a word, and almost every word will have an accent of some kind. These syllables are called 
+Accents appear on only the last three syllables of a word. Rather than refer to "the second syllable from the end," for example, it's traditional to use these names for the last three syllables: 
 
+- 	the *ultima* is the last syllable
+-	the *penult* is the penultimate, or next to last, syllable
+-	the *antepenult* is the one before the penult, or third from last
 
-- 	the *ultima* (last syllable) 
--	the *penult* (the penultimate, or next to last, syllable) 
--	the *antepenult* (the one before the penult, or third from last)
-
-
-Some small words do not carry an accent: those that do not carry an accent or affect the accents of other words are called *proclitics* and are short words such as some forms of the article (ὁ, ἡ, οἱ, αἱ) and prepositions like εἰς, ἐκ, ἐν. There are also *enclitics*, short words that affect the accents of other words in a sentence but do not have their own accent.  We'll learn more about enclitics in Modiule 2.
-
-Placement and type of accent depend on the length of vowels in the word. 
+Each accent can appear only in certain positions depending on the length of the vowels in the word.  Remember that η, and ω are always long, ε, and ο always short. α, ι, and υ may represent either long ᾱ, ῑ, ῡ or short ᾰ, ῐ, ῠ. Diphthongs are long, expect for final –αι, -οι in some forms. 
 
 
-Short vowels = α, ε, ι, ο, υ 
 
-Long vowels = α, η, ι, ω, υ. Diphthongs are long, expect for final –αι, -οι in some forms. 
+1. The grave accent appears only on the ultima.
+2. The circumflex appears only on the ultima and penult.
+3. The acute accent appears on ultima, penult and antepenult.
 
-An acute accent can appear on any of these syllables. It is the only accent that lives on the antepenult and can live there only if the ultima is short. Therefore, if the ultima has a long vowel or diphthong, the antepenult will not be accented.
+Let's consider each individually.
 
-A grave accent appears only on the ultima and only in a sentence: a grave accent replaces what would have been an acute accent on the ultima of a word followed directly (i.e., no punctuation intervenes) by another accented word in a sentence. This means that in a paradigm of noun, adjective, or verb forms you will not see or use a grave accent. It also means that the last word of a sentence does not have the change from acute to grave since no word follows without punctuation intervening.
 
-A circumflex accent appears only on the penult or the ultima—never on the antepenult. It accents long vowels or diphthongs only. It will appear on the penult under the following circumstances: the penult is accented, the vowel or diphthong of the syllable is long, and the ultima is short—all of the conditions must be true and when they are true the accent must be a circumflex.
+### The grave accent
 
+
+A grave accent is really just a replacement for an acute accent.  Within the context of a phrase or sentence, when a word with an acute accent on the ultima is followed directly by another accented word, its accent is changed from acute to grave.  After a pause (indicated in our texts by a comma or period), the acute can remain unchange.
+
+Consider the word **αὐτήν** (the pronoun "her", with acute accent on the ultima) in these two sentences from Lysias 1. 
+
+1. ἀπώλεσεν αὐτήν. ("He killed her.")  
+2. ἐκέλευον αὐτὴν ἀπιέναι. ("I ordered here to leave.")
+
+αὐτήν is the last word of the first sentence: we'll pause at the period, and the accent can remain unchanged.  In sentence 2, however, αὐτήν is followed by the accented word ἀπιέναι ("leave"); we have to change its acute to grave, and have ἐκέλευον αὐτὴν ἀπιέναι for the whole sentence.
+
+
+Notice that since the grave accent occurs only in the context of a sentence, when you examples of forms noun, adjective, or verb forms in this textbook, you will not see or use a grave accent!
+
+
+## The circumflex
+
+The circumflex can only be used on long syllables (that is, over a long vowel or diphthong).  It can only appear on the penult when the ultima is short.  
+
+Consider these examples from a pair of common Greek words.  As we'll see in Module 2, nouns and pronouns use different endings to show their function (a little like adding "s" to a noun to make it plural in English).  Here are two forms of a noun meaning "divinity, god, goddess" (compare English words like "theology" and "theocracy"):
+
+
+1. θεός
+2. θεῶν
+
+In both examples, the accent is on the ultima, but in the first example, the accent cannot be a circumflex, because the ultima is short. In the second form, the ultima is long and is accented with a circumflex.
+
+
+The next pair of examples are a pronoun meaning "that person". 
+
+1. ἐκεῖνος
+2. ἐκείνη
+
+ Both forms are accented on the penult, and both forms have a long penult (the diphthong ει).  In the first example, the ultima is short, so we can use a circumflex on the penult, but in the second example, the ultima is long, so a circumflex is not possible.
+
+
+## The acute accent
+
+
+An acute accent can appear on any of the last three syllables.  It only appears on the antepenult if the ultima is short.  It can be used on the penult anytime the ultima is long, or when both the penult and ultima are short.  These two pattens complement the use of the circumflex on the penult when the penult is long and the ultima short: taken together, these three patterns cover all instances of accent on the penult, as summarized here:
+
+
+| Accent to use | Syllable length | Example |
+| ---- | ---- | ---- |
+| *Acute* | ×  –  |  ἀνθρώπου |
+| *Acute* | ⏑ ⏑  | φόνος  |
+| *Circumflex* |    – ⏑  | τοῦτο | 
+
+
+## Summary table
+
+
+| Accented syllable | Syllable length | Examples |
+| ---- | ---- | ---- |
+| *Acute on antepenult* | × × ⏑   | ἄνθρωπος |
+| *Acute on penult* |  ×  –  |  ἀνθρώπου |
+| *Acute on penult* |  ⏑ ⏑  | φόνος  |
+| *Circumflex on penult* |    – ⏑  | τοῦτο | 
+| *Acute on ultima* |     ×  | αὐτή, αὐτός   |
+| *Circumflex on ultima* |     –  | αὐτοῦ |

@@ -16,8 +16,8 @@ has_children: true
 Module 1 introduces these features of Greek:
 
 
-- recessive accent in verbs
-- how to recognize verb forms and identify them with person, number, tense, mood, voice
+- verbal units expressing a subject and action
+- how to recognize finite verb forms and identify them with person, number, tense, mood, voice
 - principal parts of Greek verbs
 - the aorist and imperfect indicative tenses
 
