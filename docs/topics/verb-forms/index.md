@@ -34,9 +34,9 @@ Ancient Greek also has an additional, less common "number" known as the dual, wh
 
 The tense of a finite verb describes the time of the action and/or its aspect. "Aspect" refers to the type of the action as simple/single, ongoing/repeated, or completed.
 
-Ancient Greek has seven tenses, which are divided into "primary" and "secondary" tenses. The "secondary" tenses are all past tenses, while the "primary" tenses represent actions in the present or future.
+We will consider six tenses, which are divided into "primary" and "secondary" tenses. The three "primary" tenses represent actions in the present or future; the three "secondary" tenses are all past tenses.
 
-- Primary tenses: Present, Future, Perfect, Future Perfect
+- Primary tenses: Present, Future, Perfect
 - Secondary tenses: Imperfect, Aorist, Pluperfect
 
 Multiple tenses for action in a particular "time" (such as the past) differ in terms of *aspect*. Aspect emphasizes the type of action being represented, or how the action is being depicted. Aspects include **simple**, **ongoing or continuous** and **completed**. Tense can indicate both time and aspect, or, in some verb forms, aspect alone.
