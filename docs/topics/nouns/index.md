@@ -28,15 +28,15 @@ The dictionary entry of a noun efficiently encodes all the information you need 
 
 Nouns are organized into “declensions,” a category of nouns that share the same set of endings. In Greek, there are three declensions of nouns. In this module, we will learn forms of two cases of all three declensions.
 
-#### Accents on nouns
+#### Accents on nouns: persistent accent
 
-You have learned the rules for accents on verbs, which are *recessive* accents. The same general rules for accents apply to nouns (and adjectives), but nouns carry what we call a *persistent* accent, which means that you must learn where the accent resides as you learn the word. Then, you apply the rules of accentuation as you decline the noun into its full range of cases. There are a number of patterns of persistent accents to practice and learn, which all follow the general rules for accents as you learned in Module 1. In the "language reference" section in this module, you will find demonstrations of these patterns as well as opportunities for practicing them.
+You have learned the rules for accents on verbs, which are *recessive* accents. The same general rules for accents apply to nouns and adjectives, but nouns and adjectives carry what we call a *persistent* accent, which means that you must learn where the accent resides as you learn the word. Then, you apply the rules of accentuation as you decline the noun or adjective into its full range of cases. There are a number of patterns of persistent accents to practice and learn, which all follow the general rules for accents as you learned in Module 1. In the "language reference" section in this module, you will find demonstrations of these patterns as well as opportunities for practicing them.
 
-### Learning cases: the nominative and genitive cases  
+### Functions of cases: the nominative and genitive cases  
 
-The **nominative case** is a naming case; its most frequent function is to indicate the subject of a sentence. 
+The **nominative case** is a naming case; its most frequent function is to indicate the subject of a sentence. Subject-verb agreement means that the person and number of the subject must be the same as the person and number of the verb. So a _singular_ noun in the nominative will have a 3rd person _singular_ verb form. In most cases, a nominative _plural_ noun acting as the subject will have agree with a 3rd person _plural_ verb. Note, however, that in Ancient Greek, **neuter** nominative _plural_ nouns acting as the subject often take a 3rd person _singular_ verb form.
 
-The **genitive case** is used to relate one noun to another/make one noun depend on another. We often translate nouns in the genitive case with the English preposition "of." We will learn more about the functions of the genitive case later in this module.
+The **genitive case** is used to relate one noun to another/make one noun depend on another. We often translate nouns in the genitive case with the English preposition "of." We will learn more about the range of functions of the genitive case later in this module.
 
 ### Forms of the nominative and genitive cases 
 
