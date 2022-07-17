@@ -6,7 +6,7 @@ nav_order: 0
 
 # About this textbook
 
-Download [a PDF of this textbook](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
+[Download a PDF of this textbook](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
 
 ## Content
 

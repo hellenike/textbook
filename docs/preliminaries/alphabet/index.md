@@ -49,7 +49,7 @@ letter |	name	|  pronunciation guide	 |    practice Greek word
 
 ### Vowel length
 
-Vowels could be long or short.  As in a modern language like German, the long version of the vowel was held for a longer time than the short version.  η and ω are always long;  they correspond to the short vowels ε and ο respectively.  Long and short versions of α, ι and υ were not distinguished in writing, but were pronounced differently.
+Vowels could be long or short.  As in a modern language like German, the long version of the vowel was literally held for a longer time than the short version.  η and ω are always long;  they correspond to the short vowels ε and ο respectively.  Long and short versions of α, ι and υ were not distinguished in writing, but were pronounced differently.
 
 
 ### Breathings
@@ -76,9 +76,7 @@ Accents and breathing marks are written over the second vowel of a diphthong.
 
 ### Iota subscript
 When iota combines with long alpha, eta, or omega, one modern convention is to write it beneath the vowel as an “iota subscript,” which look like this:   ᾳ, ῃ, ῳ
-Some guides suggest pronouncing such combinations as a diphthong; in practice, I will not. But in writing the iota subscript is absolutely essential and cannot be ignored. [[Neel and Mary differ on pronunication]]
-
-
+Some guides suggest pronouncing such combinations as a diphthong; in practice, modern scholarsk commonly pronounce these identically to α, η, and ω. But in writing, the iota subscript is essential and cannot be ignored. 
 
 
 
@@ -95,7 +93,7 @@ A few details to note:
 Tips:
 
 - read out loud (as the ancient Greeks did!)
-- we can't precisely recover ancient pronounciation, but try to distinguish sounds that are spelled differently (e.g., ο/ω ε/η ), and include accent in your pronounciation.  Hear the difference between ἀστραπηβόλος, "one who throws lightning" (an adjective describing Zeus) and ἀστραπήβολος  "one struck by lightning". It makes a difference! English similarly distinguishes otherwise identical words based on (stress) accent. How does the way you pronounce the following English word change their meaning? content, present, object, insult, permit
+- we can't precisely recover ancient pronounciation, but try to distinguish sounds that are spelled differently (e.g., ο/ω ε/η ), and include accent in your pronounciation.  Hear the difference between ἀστραπηβόλος, "one who throws lightning" (an adjective describing Zeus) and ἀστραπήβολος  "one struck by lightning". It makes a difference! English similarly distinguishes otherwise identical words based on (stress) accent. How does the way you pronounce the following English word change their meaning? content, present, object, insult, permit.
 
 
 

@@ -23,7 +23,7 @@ Module 1 introduces these features of Greek:
 
 ### Ancient Greek in action: overview
 
-Different languages imagine the world differently. To narrate past events, for example, English does not have a single verb tense that correspond to the ideas expressed by the Greek imperfect tense. Module 1 includes reflections of English speakers encountering a different imperfect tense in Spanish and Italian.
+Different languages imagine the world differently. To narrate past events, for example, English does not have a single verb tense that correspond to the ideas expressed by the Greek imperfect tense. Module 1 includes reflections of English speakers encountering a  past tense in Spanish and Italian that is similar in its range of meaning to the Greek imperfect tense.
 
 ### Reading: overview
 
