@@ -69,7 +69,7 @@ Consider the word **αὐτήν** (the pronoun "her", with acute accent on th
 Notice that since the grave accent occurs only in the context of a sentence, when you examples of forms noun, adjective, or verb forms in this textbook, you will not see or use a grave accent!
 
 
-## The circumflex
+### The circumflex
 
 The circumflex can only be used on long syllables (that is, over a long vowel or diphthong).  It can only appear on the penult when the ultima is short.  
 
@@ -90,7 +90,7 @@ The next pair of examples are a pronoun meaning "that person".
  Both forms are accented on the penult, and both forms have a long penult (the diphthong ει).  In the first example, the ultima is short, so we can use a circumflex on the penult, but in the second example, the ultima is long, so a circumflex is not possible.
 
 
-## The acute accent
+### The acute accent
 
 
 An acute accent can appear on any of the last three syllables.  It only appears on the antepenult if the ultima is short.  It can be used on the penult anytime the ultima is long, or when both the penult and ultima are short.  These two pattens complement the use of the circumflex on the penult when the penult is long and the ultima short: taken together, these three patterns cover all instances of accent on the penult, as summarized here:
@@ -103,7 +103,7 @@ An acute accent can appear on any of the last three syllables.  It only appears 
 | *Circumflex* |    – ⏑  | τοῦτο | 
 
 
-## Summary table
+### Summary table
 
 
 | Accented syllable | Syllable length | Examples |

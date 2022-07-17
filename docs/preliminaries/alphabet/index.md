@@ -99,7 +99,7 @@ Tips:
 
 
 
-## Pronunciation practice 
+### Pronunciation practice 
 
 Practice reading these words out loud:
 
@@ -110,7 +110,7 @@ Practice reading these words out loud:
 - Ἀθηναῖοι 
 
 
-## Other resources
+### Other resources
 
 A [youtube video](https://www.youtube.com/watch?v=8xDvcgvEpaQ&list=PLUcfS6VHaxZC1p_JRiWyYyI2gRKEDyPVh) showing you how to write ancient Greek.
 
