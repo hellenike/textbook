@@ -2,7 +2,7 @@
 layout: page
 title: "Ancient Greek in action: gender identity and language"
 parent: "Module 2: nouns and adjectives"
-nav_order: 4
+nav_order: 9
 ---
 
 ## Ancient Greek in action: gender identity and language
