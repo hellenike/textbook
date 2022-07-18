@@ -96,7 +96,7 @@ For neuter second-declension nouns that end in -ον
 
 #### Third declension
 
-The third declension also contains nouns of all three genders: masculine, feminine, and neuter. The third declension is sometimes called the "consonant declension" because most nouns in this declension have stems ending in a consonant. Because of linguistic 
+The third declension also contains nouns of all three genders: masculine, feminine, and neuter. The third declension is sometimes called the "consonant declension" because most nouns in this declension have stems ending in a consonant. Because of linguistic changes to different kinds ofstems, there is a variety of patterns that you will need to become familiar with over time. Here we introduce just the basic pattern of endings that signify the third declension.
 
 For masculine or feminine third-declension nouns:
 
@@ -105,7 +105,7 @@ For masculine or feminine third-declension nouns:
 | Nominative | -ς or no ending | -ες  |
 | Genitive | -ος  | -ων |
 
-Note that the genitive singular ending in this declension, -ος, is the same as the masculine or feminine ending of the nominative singular form in the second declension. That shows us that knowing what declension a noun belongs to, as well as what gender it is, is crucial for knowing what form the ending is indicating. Compare also the neuter nominative plural ending in both the second and third declensions, -ᾰ, and one of the feminine nominative singular forms in the first declension, also -ᾰ.
+  Note that the genitive singular ending in this declension, -ος, is the same as the masculine or feminine ending of the nominative singular form in the second declension. That shows us that knowing what declension a noun belongs to, as well as what gender it is, is crucial for knowing what form the ending is indicating. Compare also the neuter nominative plural ending in both the second and third declensions, -ᾰ, and one of the feminine nominative singular forms in the first declension, also -ᾰ.
 
 For neuter third-declension nouns:
 
