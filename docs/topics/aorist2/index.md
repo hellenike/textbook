@@ -6,16 +6,20 @@ grand_parent: "Module 1: the Greek verb"
 nav_order: 10
 has_children: true
 ---
-The good news is that you know these already (follows the imperfect). Use βάλλω 
+
 
 ## The second aorist
 
-A small group of verbs use a different set of endings to form the active and middle voices of the aorist indicative. We recognize a verb has a "second aorist" set of endings for the aorist active and middle when the third principal part ends in -ον or -όμην.  Examples: ἦλθον (from ἔρχομαι), εἶπον (from λέγω), ἐγενόμην (from γίγνομαι).
+A small group of verbs use a different set of endings to form the *active* and *middle* voices of the aorist indicative.  You will be happy to learn that these second aorist endings are actually identical to the endings you have already learned for the imperfect active and middle of -ω verbs.  We recognize that a verb has a "second aorist" set of endings for the aorist active and middle when the third principal part ends in -ον or -όμην.  
 
-#### Active and middle of second aorist  -ω verbs
+Examples: ἦλθον (from ἔρχομαι), εἶπον (from λέγω), ἐγενόμην (from γίγνομαι).
+
+
+#### Active and middle of second aorist -ω verbs
 
 Formation follows the same process as first aorist active and middle forms.
-- (1) principal parts give an example form in the first singular indicative active of a representative tense: start by dropping the first singular ending -ον or -όμην and the accent from the third principal part:
+
+- (1) principal parts give an example form in the first singular indicative active of a representative tense: start by dropping the first singular ending -ον or -όμην and remove the accent from the third principal part:
 
 > ἦλθον -> ἠλθ-
 >
@@ -23,7 +27,7 @@ Formation follows the same process as first aorist active and middle forms.
 > 
 > ἐγενόμην -> ἐγεν-
 
-- (2) Add appropriate ending.  For today, memorize *third person* endings for singular and plural.
+- (2) Add the appropriate ending.  For today, memorize *third person* endings for singular and plural.
 
 | Person and Number | Active ending | Middle ending |
 | --- | --- | --- |
@@ -32,7 +36,7 @@ Formation follows the same process as first aorist active and middle forms.
 
 Notice that these endings are identical to the endings of the imperfect indicative. You will distinguish the imperfect from the aorist for these verbs by noticing which verb stem (which principal part) the ending is applied to. In the imperfect the ending is applied to the first principal part stem, and in the aorist the ending is applied to the third stem. Examples: ἤρχετο "She was going" vs. ἦλθε "She went"; ἔλεγε "She was saying"  - εἶπε "She said."
 
-Note that the 1st person singular active ending in the second aorist -ον is the same as that of the 3rd personal plural active.
+Note that the first person singular active ending in the second aorist -ον is the same as that of the third personal plural active.
 
 
 - (3) Apply recessive accent.  
@@ -52,19 +56,17 @@ Note that the first principal part ἔρχομαι shows us that there is no act
 | 3rd singular |  εἶπε | εἴπετο | ἐλέχθη |
 | 3rd plural | εἶπον | εἴποντο  |ἐλέχθησαν  |
 
-#### Active and middle of aorist indicative - mi verbs?
+
+#### Practice
+
+Recall that the first, third and sixth principal parts of the verb "throw, hit (by throwing), strike (by throwing)" are βάλλω, ἔβαλον and ἐβλήθην.
+
+Compose the correct Greek form for the highlighted verb in the following English phrases, and fully identify the form (person, number, tense, mood, voice).
+
+1. She *used to throw* the dice.
+2. He *hit* Pandorus with a spear.
+3. He *was struck* by the weapon.
+4. They "*were throwing (for themselves)* their cloaks around their shoulders".  (a Greek idiom for putting on a garment)
 
 
 
-
-
-
-Learn on:
-
-
-- βάλλω 
-- γίγνομαι
-- ἔρχομαι
-- ἔχω
-- λέγω 
-- need a -mi verb?

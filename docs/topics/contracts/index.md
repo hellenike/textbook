@@ -82,7 +82,7 @@ Vocabulary to memorize:
 
 Verbs whose present stem from the first principal part ends in α operate the same way, but the contractions resulting from the combination of α with the endings are different. The contractions you will need to know for these verbs in the forms we have learned so far are:
 
-- α + ε = α (long alpha)
+- α + ε = α (long alpha, ᾱ)
 - α + ο = ω
 
 

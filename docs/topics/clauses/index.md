@@ -4,7 +4,7 @@ title: "Clauses and coordination"
 parent: "The Greek verb"
 grand_parent: "Module 1: the Greek verb"
 nav_order: 7
-has_children: true
+has_children: false
 ---
 
 
@@ -51,7 +51,7 @@ We can join these in various ways in English: "I began to laugh, and she locks t
 
 Euphiletus then uses καί to connect an additional clause to the second item:
 
-ἐκείνη **δὲ**  προστίθησι τὴν θύραν **καὶ** τὴν κλεῖν ἐφέλκεται ("She locks the door and take s the key")
+ἐκείνη **δὲ**  προστίθησι τὴν θύραν **καὶ** τὴν κλεῖν ἐφέλκεται ("She locks the door and takes the key")
 
 
 μέν and δέ beautifully outline that there are two thoughts here; καί continues the second thought.  Perhaps we should make a stronger contrast in English between the first two items?  We could also express this with:
@@ -63,7 +63,7 @@ Euphiletus then uses καί to connect an additional clause to the second item:
 
 #### Aside
      
-The verb ἐγέλων is in a tense we'll study in this unit called the imperfect tense.  It indicates that an action is in some sense not complete, so one possibility is to take that as "I started to laugh." The speaker uses the present tense for the wife's actions, just as we might in English switch into the present tense in narrating past events, to emphasize a vivid moment: "I laughed, and BOOM! she locks the door!"  One possibility for putting together **μὲν**  and **δὲ** here could be, "I started to laugh, then she locks the door and takes the key".  There is no single "correct" translation. One of the delights of reading ancient Greek is the opportunity to see a range of meaning that no single translation can capture.
+The verb ἐγέλων is a first singular active in the imperfect tense, so one possibility is to take it as meaning "I started to laugh." The speaker uses the present tense for the wife's actions, just as we might in English switch into the present tense in narrating past events, to emphasize a vivid moment: "I laughed, and BOOM! she locks the door!"  One possibility for putting together **μὲν**  and **δὲ** here could be, "I started to laugh, then she locks the door and takes the key".  There is no single "correct" translation. One of the delights of reading ancient Greek is the opportunity to see a range of meaning that no single translation can capture.
 
 ---
 
