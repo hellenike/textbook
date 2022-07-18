@@ -1,12 +1,16 @@
 ---
 layout: page
-title: "Noun-adjective agreement"
+title: "Adjectives"
 parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
-nav_order: 9
+nav_order: 7
 ---
 
-## Noun-adjective agreement
+## Adjectives
+
+Adjectives are a part of speech that modify nouns or pronouns. 
+
+### Noun-adjective agreement
 
 In ancient Greek, an adjective modifying a noun must agree with, or match, that noun in gender, case, and number. Adjectives from any of the three declensions can modify nouns from any of the three declensions. That is, the adjective need not "match" the noun in declension and its particular case endings, although sometimes by coincidence, the endings will look the same, especially if the adjective and noun come from the same declension. 
 
