@@ -34,3 +34,15 @@ Note that the alpha in the neuter nominative and accusative plural form, τά, 
 - Differently from English, however, the article may be used to denote a general class, οἱ ἄνθρωποι "people" or "humans" 
 - Also differently from English, the article is frequently used with a proper noun, exs. ὁ Ἐρατοσθένης  "Eratosthenes"; αἱ Ἀθῆναι "Athens" or with abstract nouns, ex. ἡ δημοκρατία "democracy"
 - The article has "noun-making" powers: the article can be used with another part of speech, such as infinitives, participles, adjectives, and even particles, to create nouns or "substantives." We will see in more detail later in this module how it is used this way with adjectives.
+
+### The article and attributive and predicate positions
+
+As we will see in more detail as we continue this module, nouns can be modified in several ways. Word order of these modifiers in relation to the noun and its article can have an effect on meaning that we should pay attention to. Words can be placed between the article and noun to emphasize that those words are modifying the noun in particular ways. Or modifiers can be placed outside of the noun and its article to emphasize other kinds of relationships. These two different positions are called the **attributive** position and the **predicate** position.
+
+**Attributive** position in ancient Greek follows the article that modifies the noun. The article can be repeated to create this position:
+ἡ μεγάλη γυνή  'the tall woman' 
+ἡ γυνὴ ἡ μεγάλη  'the tall woman'
+
+**Predicate** position is a placement outside of the article + noun phrase.
+
+In the sections below on the genitive case, adjectives, and prepositions, pay attention to how these positions are used in different kinds of modifications of nouns.
