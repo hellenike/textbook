@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "The article and pronouns"
+title: "Pronouns"
 parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
-nav_order: 8
+nav_order: 6
 has_children: true
 ---
 
