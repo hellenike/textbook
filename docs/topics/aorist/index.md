@@ -31,13 +31,16 @@ The aorist indicate represents the action in a way that can be (and has been) de
 
 To understand a verb form, you must take into account all five properties: person, number, tense, mood and voice. In the active voice, the subject performs the action. In the passive voice, the subject receives the action. The middle voice is, as the name indicates, in between active and passive, where the subject performs the action in some way for themselves.
 
-To use as examples the verbs of "show" and "command" (compare the sample Greek verbs below), the 3rd person plural aorist indicative in each voice could be translated into English as follows:
+
+The verb ἄρχω in the active voice, for example, means "to be first", and from that sense "to rule".  In the passive voice, it means "to be ruled".  The middle voice means "to make yourself first" or "put yourself at the first position" of something, and therefore "to begin" something.
+
+In the following examples, we'll see how to form the aorist indicative of the verb κελεύω,  "to command," and δείκνυμι "to show."  In the third person plural of the aorist indicative, their meaning will be:
+
+
 - Active: "they showed," "they commanded"
 - Middle: "they showed (for their own benefit)," "they commanded themselves"
 - Passive: "they were shown," "they were commanded"
 
-
-> ? Example with ἄρχω ?  Active voice "to be first, rule" ; passive "to be rule"; middle "to make onself first {over something in the genitive case}, to begin"
 
 
 
@@ -47,7 +50,7 @@ To learn this tense + mood, you will need to learn the person and number in all 
 
 As you learn it for any particular verb, you will notice that not all verbs appear in all three voices. For example, the verb γίγνομαι "to become" always and only uses the middle voice. 
 
-The aorist tense forms the active and middle voices from the *third* principal part; it forms the passive voice from the *sixth* principal part. So you will need to pay attention to the principal parts for any particular verb to see what forms are possible. For example, if the third principal part appears in the middle, then no active forms are used. If a verb does not have a sixth prinicipal part, then no passive forms are used.
+The aorist tense forms the active and middle voices from the *third* principal part; it forms the passive voice from the *sixth* principal part. So you will need to pay attention to the principal parts for any particular verb to see what forms are possible. For example, if the third principal part appears in the middle voice, that implies that no active forms are used. If a verb does not have a sixth prinicipal part, that implies that no passive forms are used.
 
 As you look at the third principal part, there are two different patterns of endings. These are referred to as "first" and "second" aorists. The different endings do not have different meanings except in rare cases when both exist for the same verb. That is, both first and second aorists, both sets of endings, represent the single action in the past, and you will accordingly translate each with the English simple past. Compare the two systems of past-tense formation in English: adding "-ed" to the verb stem (which are called "regular" or "weak" verbs) or a change in the verb stem ("irregular" or "strong" verbs): I walked (weak) vs. I went (strong). I consumed (weak) vs. I ate (strong).
 
@@ -58,13 +61,13 @@ You can recognize a verb that has a first aorist by a third principal ending in 
 
 Once you have identified a verb as a first aorist verb, you form other persons and numbers by the following process:
 
-- (1) the third principal part is in the first singular indicative: start by dropping the first singular ending and the accent from the third principal part:
+- (1) principal parts are always in a first person singular indicative: start by dropping the first singular ending from the third principal part, and remove any accent:
 
 > ἔδειξα -> ἐδειξ-
 >
 > ἐκέλευσα -> ἐκελευσ-
 
-- (2) Add appropriate ending.  For today, memorize *third person* endings for singular and plural.
+- (2) Add the appropriate ending for the person and number.  For today, memorize the following endings for the *third person*, singular and plural.
 
 | Person and Number | Active ending | Middle ending |
 | --- | --- | --- |
@@ -72,7 +75,7 @@ Once you have identified a verb as a first aorist verb, you form other persons a
 | 3rd plural | -ᾰν | -αντο |
 
 
-- (3) Apply recessive accent.  
+- (3) Apply recessive accent.
 
 
 
@@ -80,14 +83,14 @@ Once you have identified a verb as a first aorist verb, you form other persons a
 
 You may see somewhere the reference to "first" and "second" aorists in the aorist passive, but for most purposes, that is a complication we need not be concerned with. All sixth principal parts can be used the same way to form aorist passive forms.
 
-- (1) Drop the first singular ending -ην and the accent from the sixth principal part
+- (1) Drop the first singular ending -ην from the sixth principal part and remove the accent:
 
 > ἐδείχθην -> ἐδειχθ-
 >
 > ἐκελεύθην -> ἐκελευθ-
 
 
-- (2) Add appropriate ending
+- (2) Add the appropriate ending for the person and number:
 
 | Person and Number | Ending |
 | --- | --- |
