@@ -17,7 +17,10 @@ has_children: true
 Module 2 introduces these features of Greek:
 
 
-- TBA
+- functions of nouns and how cases express these functions
+- how to recognize noun forms andidentify them with gender, case, and number
+- parts of speech that work with nouns or in place of nouns: the article, pronouns, adjectives, and prepositions
+- types of clauses
 
 ### Ancient Greek in action: overview
 
