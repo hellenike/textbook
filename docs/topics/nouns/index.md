@@ -34,11 +34,13 @@ You have learned the rules for accents on verbs, which are *recessive* accents. 
 
 ### Functions of cases: the nominative and genitive cases  
 
-The **nominative case** is a naming case; its most frequent function is to indicate the subject of a sentence. Subject-verb agreement means that the person and number of the subject must be the same as the person and number of the verb. So a _singular_ noun in the nominative will have a 3rd person _singular_ verb form. In most cases, a nominative _plural_ noun acting as the subject will have agree with a 3rd person _plural_ verb. Note, however, that in Ancient Greek, **neuter** nominative _plural_ nouns acting as the subject often take a 3rd person _singular_ verb form.
+The **nominative case** is a naming case. Its most frequent function is to indicate the subject of a finite verb. Subject-verb agreement means that the person and number of the subject must be the same as the person and number of the verb. So a _singular_ noun in the nominative will have a 3rd person _singular_ verb form. In most cases, a nominative _plural_ noun acting as the subject will have agree with a 3rd person _plural_ verb. Note, however, that in Ancient Greek, **neuter** nominative _plural_ nouns acting as the subject often take a 3rd person _singular_ verb form.
 
 The **genitive case** is used to relate one noun to another/make one noun depend on another. We often translate nouns in the genitive case with the English preposition "of." We will learn more about the range of functions of the genitive case later in this module.
 
 ### Forms of the nominative and genitive cases 
+
+The case endings of nouns the singular nominative and genitive cases reflect both the noun's gender and what declension it belongs to.
 
 #### First declension
 
