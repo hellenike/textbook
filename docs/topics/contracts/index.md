@@ -3,7 +3,7 @@ layout: page
 title: "Contract verbs"
 parent: "The Greek verb"
 grand_parent: "Module 1: the Greek verb"
-nav_order: 7
+nav_order: 8
 has_children: true
 ---
 
