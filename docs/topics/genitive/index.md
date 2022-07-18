@@ -9,7 +9,9 @@ has_children: true
 
 ## The genitive case
 
-As we noted briefly above, the genitive case shows a connection between that noun and another noun. We can start with some broad categories of connection that are represented by the genitive. Notice that different uses may result in using similar words in English translation, such as "of": that coincidence provides ease of tranlsation, but we should nevertheless pay attention to what the relationship is. Translation of the genitive is also not *restricted* to using "of" and considering how English expresses that same relationship between nouns is a good habit to get into as you practice reading and translating.
+As we noted briefly above, the genitive case shows a connection between that noun and another noun. In this section, we start with some broad categories of connection that are represented by the genitive. 
+
+Notice that different uses may result in using similar words in English translation, such as "of": that coincidence provides ease of tranlsation, but we should nevertheless pay attention to what the relationship is. Translation of the genitive is also not *restricted* to using "of" and considering how English expresses that same relationship between nouns is a good habit to get into as you practice reading and translating.
 
 ### Some general uses of the genitive
 
