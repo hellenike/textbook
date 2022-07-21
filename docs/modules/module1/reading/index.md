@@ -8,6 +8,8 @@ nav_order: 3
 ## Reading
 
 
-Practice, reading and composition based on Lysias 1, sections 6-10:  the early days of Euphiletos' marriage.
+Based on Lysias 1, sections 7-8:  the early days of Euphiletos' marriage.
 
 
+
+ἔδοξε Εὐφιλήτῳ γῆμαι καὶ γυναῖκα ἠγάγετο εἰς τὴν οἰκίαν.  παιδίον δέ ἐγένετο αὐτῷ, καὶ ἐπίστευε ἤδη καὶ πάντα ἐκείνῃ παρέδωκε. ἐν μὲν οὖν τῷ πρώτῳ χρόνῳ, πασῶν ἦν βελτίστη. ἀλλὰ ἡ Εὐφιλήτου μήτηρ  ἐτελεύτησε, καὶ πάντων τῶν κακῶν αἰτία ἐγένετο.
