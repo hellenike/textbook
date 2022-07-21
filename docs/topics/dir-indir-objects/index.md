@@ -24,8 +24,15 @@ The **dative** case is the most common way of expressing the *indirect object*.
 
 ### Indirect Object: function of the dative case
 
+One verb that makes it easy to see the role of the indirect object, in both English and Ancient Greek, is the verb "to give." In English, we can express the indirect object either by word order or with a preposition such as "to." 
 
+> "They gave gifts to her." or "They gave her gifts." 
 
+In both sentences "gifts" is the direct object of the verb "gave": the gifts are what is being directly affected by the action of the verb. The indirect object in both sentences is "her": as the recipient of the gifts, the action of giving is affected her in a secondary or indirect way. English expresses that by putting the indirect object before the direct object in the sentence, or with the preposition "to." Can you think of other verbs in English that frequently have both a direct and an indirect object expressed with this syntax? 
+
+In Ancient Greek, the indirect object is expressed with the dative case. Word order can be used for other kinds of emphasis. 
+
+> πάντα τὰ ἐμαυτοῦ ἐκείνῃ παρέδωκα Lysias 1.6: "I gave over all of my property to her"
 
 ### Forms of Dative and Accusative Cases
 
