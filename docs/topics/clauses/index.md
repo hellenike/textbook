@@ -59,13 +59,13 @@ Euphiletus then uses καί to connect an additional clause to the second item:
 "I started to laugh, but she locks the door and takes the key."
 
 
----
+
 
 #### Aside
      
 The verb ἐγέλων is a first singular active in the imperfect tense, so one possibility is to take it as meaning "I started to laugh." The speaker uses the present tense for the wife's actions, just as we might in English switch into the present tense in narrating past events, to emphasize a vivid moment: "I laughed, and BOOM! she locks the door!"  One possibility for putting together **μὲν**  and **δὲ** here could be, "I started to laugh, then she locks the door and takes the key".  There is no single "correct" translation. One of the delights of reading ancient Greek is the opportunity to see a range of meaning that no single translation can capture.
 
----
+
 
 ### Vocabulary to memorize
 

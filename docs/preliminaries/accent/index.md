@@ -99,7 +99,7 @@ An acute accent can appear on any of the last three syllables.  It only appears 
 | Accent to use | Syllable length | Example |
 | ---- | ---- | ---- |
 | *Acute* | ×  –  |  ἀνθρώπου |
-| *Acute* | ⏑ ⏑  | φόνος  |
+| *Acute* | ⏑ ⏑  OR ‿‿| φόνος  |
 | *Circumflex* |    – ⏑  | τοῦτο | 
 
 
