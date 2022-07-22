@@ -18,7 +18,7 @@ has_children: true
 All ancient Greek nouns have gender, case, and number.
 - There are three grammatical **genders**: masculine, feminine, and neuter.
 - **Case** indicates the function of a noun in a sentence. Cases are expressed and identified by endings. There are five cases: nominative, genitive, dative, accusative, vocative. 
-- Ancient Greek has three **numbers**: singular, plural, and dual. Dual is used for two nouns considered a pair; we will not see the dual in our readings this year. 
+- Ancient Greek has three **numbers**: singular, plural, and dual. Dual is used for two nouns considered a pair; reminder: we will not see the dual in our readings this year. 
 
 #### Dictionary entry of nouns 
 
