@@ -2,7 +2,7 @@
 layout: page
 title: "Module 1: vocabulary"
 grand_parent: "Language summary and review"
-parent: "Module 1: language summary and review"ew"
+parent: "Module 1: language summary and review"
 nav_order: 1
 ---
 

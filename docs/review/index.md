@@ -5,7 +5,7 @@ nav_order: 15
 has_children: true
 ---
 
-# Reference and review
+# Language summary and review
 
 - review material by module
 - reference material for entire textbook (paradigms, synopses)
