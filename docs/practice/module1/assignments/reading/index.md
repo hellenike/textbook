@@ -11,26 +11,25 @@ nav_order: 5
 
 > Each verbal unit is placed on a separate line. The verbal expression
 > and any connecting words are **highlighted like this**.
-> Words and phrases *highlighted like this* are glossed below.
 
 
 
-**ἔδοξε** **μὲν** *Εὐφιλήτῳ* *γῆμαι* 
+**ἔδοξε** **μὲν** Εὐφιλήτῳ γῆμαι 
 
-**καὶ** *γυναῖκα* **ἠγάγετο** *εἰς τὴν οἰκίαν*.
+**καὶ** γυναῖκα **ἠγάγετο** εἰς τὴν οἰκίαν.
 
 
-*παιδίον* **δέ** **ἐγένετο** *αὐτῷ*,
+παιδίον **δέ** **ἐγένετο** αὐτῷ,
 
-**καὶ** **ἐπίστευε** *ἤδη*
+**καὶ** **ἐπίστευε** ἤδη
 
-**καὶ** *πάντα* *ἐκείνῃ* **παρέδωκε**.
+**καὶ** πάντα ἐκείνῃ **παρέδωκε**.
 
-*ἐν* **μὲν οὖν** *τῷ πρώτῳ χρόνῳ*, *πασῶν* **ἦν** *βελτίστη*.
+ἐν **μὲν οὖν** τῷ πρώτῳ χρόνῳ, πασῶν **ἦν** βελτίστη.
 
-**ἀλλὰ** *ἡ Εὐφιλήτου μήτηρ*  **ἐτελεύτησε**
+**ἀλλὰ** ἡ Εὐφιλήτου μήτηρ  **ἐτελεύτησε**
 
-**καὶ** *πάντων τῶν κακῶν αἰτία* **ἐγένετο**.
+**καὶ** πάντων τῶν κακῶν αἰτία **ἐγένετο**.
 
 
 ### Questions
@@ -45,18 +44,18 @@ nav_order: 5
 
 ### Glosses and notes
 
-- *Εὐφιλήτῳ* "to Euphiletus". 
-- *γῆμαι* "to marry" (an infinitive form of the verb [γαμέω](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n21556))
-- *γυναῖκα*, "woman, wife".   In the Liddell-Scott Greek lexicon, read [definition B.1.2 for the verb ἄγω](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n27847). (You'll need to scroll a ways to find it!)  This definition specifically refers to using the noun γυναῖκα as the direct object of ἄγω.  
-- *εἰς τὴν οἰκίαν* "to his house".  Notice that in definition B.1.2 of ἄγω linked above, the second example (from the historian Herodotus, abbreviated "Hdt.") has the phrase γυναῖκα ἄ. ἐς τὰ οἰκία, an exactly equivalent phrase to Lysias' γυναῖκα ἄ. εἰς τὴν οἰκίαν.
-- *παιδίον* "a child" (subject of the verb)
-- *αὐτῷ* "to him" (refers to Euphiletus)
-- *ἐν τῷ πρώτῳ χρόνῳ* "at first" The whole phrase goes together:   the particles μὲν οὖν start a new clause, and the phrase "at first" is the first piece of that clause.
+- Εὐφιλήτῳ "to Euphiletus". 
+- γῆμαι "to marry" (an infinitive form of the verb [γαμέω](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n21556))
+- γυναῖκα, "woman, wife".   In the Liddell-Scott Greek lexicon, read [definition B.1.2 for the verb ἄγω](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n27847). (You'll need to scroll a ways to find it!)  This definition specifically refers to using the noun γυναῖκα as the direct object of ἄγω.  
+- εἰς τὴν οἰκίαν "to his house".  Notice that in definition B.1.2 of ἄγω linked above, the second example (from the historian Herodotus, abbreviated "Hdt.") has the phrase γυναῖκα ἄ. ἐς τὰ οἰκία, an exactly equivalent phrase to Lysias' γυναῖκα ἄ. εἰς τὴν οἰκίαν.
+- παιδίον "a child" (subject of the verb)
+- αὐτῷ "to him" (refers to Euphiletus)
+- ἐν τῷ πρώτῳ χρόνῳ "at first" The whole phrase goes together:   the particles μὲν οὖν start a new clause, and the phrase "at first" is the first piece of that clause.
  - **ἦν** Understand Euphiletus' wife as the subject: "She was..."
-- *πασῶν βελτίστη* "the best of all women".
+- πασῶν βελτίστη "the best of all women".
 - **μὲν οὖν ... ἀλλὰ** μέν starts a new topic; οὖν adds an additional nuance of empahsis to this clause -- "really, in fact".  Here, μέν is not continued by δέ; instead, the conjuncation ἀλλά introduces a strong contrasting clause (here in fact, two clauses joined by καί: their verbs are ἐτελεύτησε and ἐγένετο).
-- *ἡ Εὐφιλήτου μήτηρ* "Euphiletus' mother" (subject of the verb ἐτελεύτησε; assume it continues as subject of the following verb ἐγένετο as well).
-- *πάντων τῶν κακῶν αἰτία* "the cause of all his troubles".
+- ἡ Εὐφιλήτου μήτηρ "Euphiletus' mother" (subject of the verb ἐτελεύτησε; assume it continues as subject of the following verb ἐγένετο as well).
+- πάντων τῶν κακῶν αἰτία "the cause of all his troubles".
 
 
 ### Translation
