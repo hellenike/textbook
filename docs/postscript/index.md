@@ -6,4 +6,4 @@ nav_order: 20
 
 # Postscript
 
-- many questions
+- studying Greek beyond this course or textbook
