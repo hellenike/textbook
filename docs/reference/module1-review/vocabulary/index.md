@@ -45,4 +45,4 @@ For this module, memorize the first, third and sixth principal parts of each ver
 
 #### Irregular forms to learn
 
-- ἤν third-person singular imperfect indicative active of εἰμί, "she/he/it was"
+- ἦν third-person singular imperfect indicative active of εἰμί, "she/he/it was"
