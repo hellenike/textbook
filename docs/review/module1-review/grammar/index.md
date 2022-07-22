@@ -23,24 +23,8 @@ To form the **aorist indicative** in **passive** forms
 - use the *sixth* principal part
 - find the stem by dropping **ην**    
 
-#### Paradigms
+#### Models
 
-The aorist indicative in the third person.  (Forms highlighted `like this` are not required to be memorized in module 1.)
-
-The aorist indicative of δείκνυμι
-
-
-| person/number | Active | Middle | Passive |
-| --- | --- | --- | --- |
-| *Singular* |  | | |
-| **1st singular** |  `ἔδειξα` | `ἐδειξάμην` | `ἐδείχθην` |
-| **2d singular** |  `ἔδειξες`  | `ἐδείξω`  | `ἐδείχθης`  |
-| **3rd singular** |  ἔδειξε | ἐδείξατο | ἐδείχθη |
-| *Plural* |  | | |
-| **1st plural** |  `ἐδείξαμεν` | `ἐδειξάμεθα` | `ἐδείχθην` |
-| **2d plural** |  `ἐδείξατε`  | `ἐδείξασθε`  | `ἐδείχθησαν`  |
-| **3rd plural** | ἔδειξαν | ἐδείξαντο |ἐδείχθησαν  |
-
-
+**Synopsis** of δείκνυμι and κελεύω in the third person for all voices of imperfect and aorist indicative.
 
 
