@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Reference and review"
+title: "Language summary and review"
 nav_order: 15
 has_children: true
 ---

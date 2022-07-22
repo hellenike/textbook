@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Module 1: reference and review"
-parent: "Reference and review"
+title: "Module 1: language summary and review"
+parent: "Language summary and review"
 nav_order: 1
 has_children: true
 ---
 
 
 
-## Module 1: reference and review
+## Module 1: language summary and review

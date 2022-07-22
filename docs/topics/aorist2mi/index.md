@@ -3,8 +3,10 @@ layout: page
 title: "The athematic second aorist"
 ---
 
-#### Active and middle of aorist indicative - mi verbs?
+#### Active and middle of aorist indicative - mi verbs
 
-- need a -mi verb?
+βαίνω
+
+This page is floating until we figure out where it belongs.
 
 

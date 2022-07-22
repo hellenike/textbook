@@ -6,7 +6,7 @@ nav_order: 1
 has_children: true
 ---
 
-## Verbs: practice
+## Module 1, verbs: practice
 
 
 
@@ -15,3 +15,9 @@ has_children: true
 - drills on singular<->plural?
 - drills on imperfect<->aorist?
 - drills changing voice?
+
+### Structured assignments
+
+- mastering forms and syntax
+- reading: [analysis and translation](assignments/reading)
+- composition

@@ -8,40 +8,27 @@ nav_order: 0
 
 [Download a PDF of this textbook](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
 
-## Content
-
-- targetted to a specific text or corpus
-- covers only features of language found in the target texts
 
 ## Organization
 
-Organized in modules aimed at 2-3 weeks; modules 1-4 together should be roughly one semester of a two-semester, full-year course.
+After a brief section of "Preliminaries" introducing the Greek alphabet and accent, the chapters of this textbook introducing students to ancient Greek correspond to modules that we use as the basis for two to three weeks of our courses.  We expect to cover modules 1-4 together in the first semester of a two-semester, full-year course.  
+
+Each of these chapters has three sections:
+
+1.  *language*: introduction of new features of the Greek language
+2. *ancient Greek in action*: each module includes some reading or activites that ask students to relate content introducted in the language section of this module to some aspect of their life
+3. *reading*: a minimally modified passage from the target text (in this edition, Lysias 1).  This passage is the basis of an assignment we include in the section of the "Practice" chapter for this module.
+
+These chapters are followed by sections of the textbook with practice and review material for each module. In the "practice" section, we include for each module some short excercises using forms and syntax from that module, and structured series of three assignments that we incorporate in our course.  These series progress from an exercise to solidy mastery of basic forms and syntax, to an analysis and translation of the reading passage for the module, to a guided composition.
+
+The "review" chapter includes summaries of forms and syntax and a list of required vocabulary.
+
+Finally, a reference section, offers a more comprehensive summary of forms.
 
 
-Each module comprises:
-
-- introduction of grammatical topics
-- minimally modified passages from the target corpus
-- interactive practice
-- ancient Greek in action: relating topics in this module to our lives today
+### NOTE ON Vocabulary: TBA
 
 
-
-## Additional notes for teachers
-
-
-### Sequence of grammatical topics
-
-Topics sequenced by: 
-
-- prominence in target corpus
-- unfamiliarity to English speakers
-- complexity of the topic 
-- priority to topics enabling students to explore continuous, contextualized reading, rather than isolated sentences
-
-> -> **teach to the synopsis, not the paradigm**
-
-### Vocabulary
 
 First half of course: emphasis on a small core vocabulary (perhaps < 200 words).  This vocabulary is defined by comparison with other Greek corpora, and finding shared items in the highest frequency lists of individual corpora (rather than the common practice of finding most frequent terms in a *composite* list:  this effaces the differences in vocabulary from one corpus to another).
 

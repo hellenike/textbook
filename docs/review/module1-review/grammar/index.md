@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Module 1: language reference"
-grand_parent: "Reference and review"
-parent: "Module 1: reference and review"
+grand_parent: "Language summary and review"
+parent: "Module 1: language summary and review"
 nav_order: 2
 ---
 
