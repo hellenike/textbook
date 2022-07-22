@@ -7,4 +7,33 @@ has_children: true
 
 # Reference
 
-- reference material for entire textbook (paradigms, synopses)
+## Morphology
+
+### Verbs
+
+Complete conjugation of:
+
+κελεύω
+
+δείκνυμι
+
+### Nouns
+
+Complete declension of:
+
+?
+
+### Adjectives
+
+Complete declension of:
+
+## Syntax
+
+### Coordination
+
+### Subordination
+
+#### Purpose
+
+#### Sequence of moods
+
