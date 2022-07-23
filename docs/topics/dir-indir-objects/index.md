@@ -11,7 +11,6 @@ has_children: true
 
 Two functions that nouns can have in a clause is to act as the direct object of the verb, or as the indirect object of the verb. In order for a verb to take an object, it must be a *transitive* verb, a verb that expresses an action that acts upon a recipient. The noun that is the recipient of the action is called the *direct object*. Some verbs may express actions that also involve a secondary recipient: that noun is acting as the *indirect object*. 
 
-
 In ancient Greek, the **accusative** case is the most common way of expressing a *direct object*. 
 
 The **dative** case is the most common way of expressing the *indirect object*.
@@ -49,7 +48,9 @@ We have already met some of the forms of the dative and accusative cases in the 
 | Accusative Plural | -ας | -ους | -α | -ας | -α |
 
 Look for patterns in these endings that can help you recognize the case endings.
+
 Note that the dative plural ending of third declension nouns will have a "moveable nu" placed on the ending if the next word in the sentence starts with a vowel or if it is the last word in a sentence.
+
 Note that the alpha in the 1st declension accusative ending -ας is a long alpha, while in the third declension accusative plural ending -ας the alpha is short.
 
 
