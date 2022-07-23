@@ -41,6 +41,16 @@ In Ancient Greek, the indirect object is expressed with the dative case. Word or
 
 We have already met some of the forms of the dative and accusative cases in the article. Those case endings will show up again in the first and second declensions of nouns and adjectives.
 
+| Case and number | 1st Declension F/M | Second Declension M/F | Second Declension N | Third Decelension M/F | Third Declension Neuter |
+| --- | --- | --- | --- | --- | --- |
+| Dative Singular | -ῃ / -ᾳ | -ῳ | -ῳ | -ι | -ι |
+| Accusative Singular | -ην / -αν | -ον | -ον | -α | - (same form as nominative)|
+|   |   |   |   |   |  |
+| Dative Plural | -αις | -οις | -οις | -σι | -σι |
+| Accusative Plural | -ας | -ους | -α | -ας | -α |
 
+Look for patterns in these endings that can help you recognize the case endings.
+Note that the dative plural ending of third declension nouns will have a "moveable nu" placed on the ending if the next word in the sentence starts with a vowel or if it is the last word in a sentence.
+Note that the alpha in the 1st declension accusative ending -ας is a long alpha, while in the third declension accusative plural ending -ας the alpha is short.
 
 
