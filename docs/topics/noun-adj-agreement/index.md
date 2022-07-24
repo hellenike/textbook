@@ -3,17 +3,19 @@ layout: page
 title: "Adjectives"
 parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
-nav_order: 7
+nav_order: 8
 has_children: true
 ---
 
-## Adjectives
+## Adjectives (τὸ ἐπίθετον)
 
-Adjectives are a part of speech that modify nouns or pronouns. 
+Adjectives are a part of speech that modify nouns or pronouns. That is, the adjective describes or delineates the noun further. 
+
+Adjectives are also organized into the same three declensions as nouns, and like nouns, adjectives belong to all three declension.
 
 ### Noun-adjective agreement
 
-In ancient Greek, an adjective modifying a noun must agree with, or match, that noun in gender, case, and number. Adjectives from any of the three declensions can modify nouns from any of the three declensions. That is, the adjective need not "match" the noun in declension and its particular case endings, although sometimes by coincidence, the endings will look the same, especially if the adjective and noun come from the same declension. 
+In ancient Greek, an adjective modifying a noun must agree with, or match, that noun in gender, case, and number. Adjectives from any of the three declensions can modify nouns from any of the three declensions. That is, the adjective need not "match" the noun in _declension_ and the case endings belonging to that decleneion, although sometimes by coincidence, the endings will look the same, especially if the adjective and noun come from the same declension. 
 
 Examples of noun-adjective agreement from Lysias I.6-10
 
@@ -41,7 +43,7 @@ Because of the lack in English of gender and case with nouns and lack of even nu
 But note that English has interesting “ingrained” rules about the order of adjectives when there is more than one. Most native speakers of English know these rules as just what “sounds right” or “sounds wrong,”  “Old green shoes” obeys these rules while “green old shoes” does not.
 https://www.bbc.com/culture/article/20160908-the-language-rules-we-know-but-dont-know-we-know
 
-English language learners are sometimes asked to learn these rules explicitly. That is a good reminder of the way in which language rules are defined for non-native-speakers (as we all are for ancient Greek) in a way that complicates the sense of a language meant to communicate.
+English language learners are sometimes asked to learn these rules explicitly. That is a good reminder of the way in which language rules are sometimes defined for non-native-speakers (as we all are for ancient Greek) in a way that complicates the sense of a language meant to communicate.
 
 ### Adjective placement: attributive and predicate positions
 
