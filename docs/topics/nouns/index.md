@@ -22,11 +22,11 @@ All ancient Greek nouns have gender, case, and number.
 
 #### Dictionary entry of nouns 
 
-The dictionary entry of a noun efficiently encodes all the information you need to know in order to produce all of its cases and numbers. The first word tells you its nominative singular form, the second word is its genitive singular form, and the third word, in the form of the definite article, tells you its gender(s).
+The dictionary entry of a noun efficiently encodes all the information you need to know in order to produce all of its cases and numbers. The first word tells you its nominative singular form, the second word is its genitive singular form, and the third word, in the form of the article, tells you its gender(s).
 
 #### Declension 
 
-Nouns are organized into “declensions,” a category of nouns that share the same set of endings. In Greek, there are three declensions of nouns. In this module, we will learn forms of two cases of all three declensions.
+Nouns are organized into “declensions,” a category of nouns that share the same set of endings. In Greek, there are three declensions of nouns. In this module, we will learn forms of the nominative and genitive cases of all three declensions, with the variation that occurs due to the noun's gender or due to linguistic changes within the language.
 
 #### Accents on nouns: persistent accent
 
