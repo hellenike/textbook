@@ -9,7 +9,7 @@ has_children: true
 
 ## Adjectives (τὸ ἐπίθετον)
 
-Adjective is a part of speech. The Greek name is τὸ ἐπίθετον, which, as noted at the beginning of the module, means "add-on" or "placed on." The function of adjectives is to modify nouns or pronouns. That is, the adjective describes or delineates the noun or pronoun further. 
+Adjective is a part of speech. The Greek name is τὸ ἐπίθετον, which, as noted at the beginning of the module, means "add-on" or "placed on." The function of adjectives is to modify nouns or pronouns. That is, the adjective describes or delineates the noun or pronoun further, it is "placed on" the noun or "adds on" to it. 
 
 Like nouns, adjectives have gender, case, and number. To identify the form of an adjective, you must identify all three features.
 
