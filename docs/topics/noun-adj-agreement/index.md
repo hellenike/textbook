@@ -21,7 +21,7 @@ Adjectives in ancient Greek are organized into the same three declensions as nou
 
 You will identify the declension of an adjective by the endings of the nominative singular forms and the correspodning noun declension endings.
 
-Many adjectives are what we call "first and second declension" adjectives because the feminine forms use first declensions case endings while the masculine and neuter forms use second declension adjectives. A representative example of these adjectives is ἀγαθός, ἀγαθή, ἀγαθόν. An English translation for this adjective is "good," and like "good" in Envglish, there is a range of ways people or things can be "good."
+Many adjectives are what we call "first and second declension" adjectives because the feminine forms use first declensions case endings while the masculine and neuter forms use second declension adjectives. A representative example of these adjectives is ἀγαθός, ἀγαθή, ἀγαθόν. An English translation for this adjective is "good," and like "good" in English, there is a range of ways people or things can be ἀγαθός, ἀγαθή, ἀγαθόν. As you see this adjective in your readings, what nuances of meaning does the context give to this adjective?  
 
 **Declension of ἀγαθός, ἀγαθή, ἀγαθόν**
 
