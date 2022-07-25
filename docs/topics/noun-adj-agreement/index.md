@@ -9,9 +9,32 @@ has_children: true
 
 ## Adjectives (τὸ ἐπίθετον)
 
-Adjectives are a part of speech that modify nouns or pronouns. That is, the adjective describes or delineates the noun further. 
+Adjective is a part of speech. The Greek name is τὸ ἐπίθετον, which, as noted at the beginning of the module, means "add-on" or "placed on." The function of adjectives is to modify nouns or pronouns. That is, the adjective describes or delineates the noun or pronoun further. 
 
-Adjectives are also organized into the same three declensions as nouns, and like nouns, adjectives belong to all three declension.
+Like nouns, adjectives have gender, case, and number. To identify the form of an adjective, you must identify all three features.
+
+### Dictionary entry and declension of adjectives
+
+The dictionary entry of an adjective will be all the nominative singular forms. The order of those nominative singular forms that dictionaries use is: masculine nominative singular, feminine nominative singular, and neuter nominative singular. For some adjectives, the feminine and masculine forms share the same endings, and so there will be only two sets of endings, both corresponding to the second declension. Third declension adjectives have a wider variety of endings, just as the nouns do, and may also have different endings for the masculine, feminine, and neuter forms, or one set for the masculine and feminine and another for the neuter. In the section below on noun-adjective agreement, 
+
+Adjectives in ancient Greek are organized into the same three declensions as nouns, and like nouns, adjectives belong to each of the three declensions. 
+
+You will identify the declension of an adjective by the endings of the nominative singular forms and the correspodning noun declension endings.
+
+Many adjectives are what we call "first and second declension" adjectives because the feminine forms use first declensions case endings while the masculine and neuter forms use second declension adjectives. A representative example of these adjectives is ἀγαθός, ἀγαθή, ἀγαθόν. An English translation for this adjective is "good," and like "good" in Envglish, there is a range of ways people or things can be "good."
+
+**Declension of ἀγαθός, ἀγαθή, ἀγαθόν**
+
+| Case  |    | Singular|    |     | Plural  |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|    | Masc | Fem | Neut | Masc | Fem | Neut |
+|  |  |  |  |  |  |  |
+| Nominative | ἀγαθός | ἀγαθή | ἀγαθόν | ἀγαθοί  | ἀγαθαί  | ἀγαθά  |
+| Genitive | ἀγαθοῦ  | ἀγαθῆς  | ἀγαθοῦ | ἀγαθῶν  | ἀγαθῶν | ἀγαθῶν |
+| Dative | ἀγαθῷ  | ἀγαθῇ | ἀγαθῷ | ἀγαθοῖς | ἀγαθαῖς  | ἀγαθοῖς |
+| Accusative | ἀγαθόν | ἀγαθήν | ἀγαθόν | ἀγαθούς  | ἀγαθάς  | ἀγαθά  |
+
+
 
 ### Noun-adjective agreement
 
@@ -68,7 +91,6 @@ Note that the article may be absent, and if so, the word order of adjective and 
 ἡ μεγάλη γυνὴ εἰς τὴν ἀγορὰν ἦλθον. OR ἡ γυνὴ ἡ μεγάλη εἰς τὴν ἀγορὰν ἦλθον. _The tall woman went to the market._ (attributive position)
 
 ἡ γυνὴ μεγάλη ἐστίν. _The woman is tall._ (predicate position)
-
 
 
 ### Adjectives used as nouns, substantive adjectives
