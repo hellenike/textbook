@@ -34,7 +34,17 @@ Pronouns are among the words in English that still have cases. We have a "subjec
 
 We have already seen in studying person with verb forms that ancient Greek verbs do not require a separate pronoun to express the subject. Because they are not needed, nominative personal pronouns are not used to express the subject unless the speaker wants to place special emphasis. The English equivalent of using the nominative pronoun would be heavy intonation and perhaps even pointing when spoken, or underlining or italics in writing. "**_We_** are studying Greek."
 
+The singular of the first and second person pronouns also have emphatic and unemphatic forms that operate in a similar way. The first form listed above is unemphatic. If the speaker wants to emphasize **_me_** or **_you_** in the sentence, then the second form will be used. In the first person singular, note that the emphatic form involves both an extra letter/syllable and an accent, while in the second person singular the difference is indicted solely by the accent. The unemphatic forms of both the first and second person singular pronouns are listed without an accent. They belong to a class of words called **enclitics**.
+
+#### Enclitics
+
+Enclitics do not have a persistent accent of their own but they do affect the accent of the word that precedes them when used in a sentence. Enclitics are generally listed without an accent in paradigms or glossaries or lexica. 
+
+You have already encountered some examples of the class of words called **proclitics** (such as the forms of the article ὁ, ἡ, οἱ, αἱ and the negating word οὐ) and will meet more in the section in this module on prepositions. Proclitics do not carry an accent of their own, and do not affect the accent of other words in a sentence.   
 
 
+### Demonstrative adjectives and pronouns
+
+The label "demonstrative" signifies that these words "point" to their referent. They may act as adjectives, modifying an expressed noun, or they may be used on their own, acting as a pronoun. English has two commonly used demonstratives: "this" and "that," which can also be used as adjectives modifying a noun (this woman, that house) or on their own as pronouns. Ancient Greek has three demonstrative adjectives/pronouns, and it is important to understand the conceptual meaning of each one.
 
 
