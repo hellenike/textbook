@@ -40,14 +40,25 @@ The singular of the first and second person pronouns also have emphatic and unem
 
 Enclitics do not have a persistent accent of their own but they do affect the accent of the word that precedes them when used in a sentence. Enclitics are generally listed without an accent in paradigms or glossaries or lexica. 
 
-You have already encountered some examples of the class of words called **proclitics** (such as the forms of the article ὁ, ἡ, οἱ, αἱ and the negating word οὐ) and will meet more in the section in this module on prepositions. Proclitics do not carry an accent of their own, and do not affect the accent of other words in a sentence.   
+You have already encountered some examples of the class of words called **proclitics** (such as the forms of the article ὁ, ἡ, οἱ, αἱ and the negating word οὐ) and will meet more in the section in this module on prepositions. Proclitics do not carry an accent of their own, and do not affect the accent of other words in a sentence.  
+
+**Enclitic accent rules**
 
 
 ### Demonstrative adjectives and pronouns
 
 The label "demonstrative" signifies that these words "point" to their referent. They may act as adjectives, modifying an expressed noun, or they may be used on their own, acting as a pronoun. English has two commonly used demonstratives: "this" and "that," which can also be used as adjectives modifying a noun (this woman, that house) or on their own as pronouns. Ancient Greek has three demonstrative adjectives/pronouns, and it is important to understand the conceptual meaning of each one.
 
+ὅδε, ἥδε, τόδε ("this") is used to point to something present and visible or immediate, similar to colloquial English using "this here" to describe someone or something. Conceptually it is a "first person" demonstrative, meaning that the speaker is involved with what is being pointed at. Within a text or narrative, ὅδε, ἥδε, τόδε points _forward_ to what comes next, making it similar in such a context to a phrase like "the following" in English.
 
+οὗτος, αὕτη, τοῦτο ("this" or "that") is conceptually between the closeness of ὅδε, ἥδε, τόδε and the distance of ἐκεῖνος, ἐκείνη, ἐκεῖνο and is "second person" (closer to the addressee than the speaker). In contrast to ὅδε, ἥδε, τόδε in narrative or text, οὗτος, αὕτη, τοῦτο looks _back_ and so points to "the preceding." It points to something closer in text than ἐκεῖνος, ἐκείνη, ἐκεῖνο, and so means "the latter" in contrast to "the former" (for which ἐκεῖνος, ἐκείνη, ἐκεῖνο would be used).
+
+ἐκεῖνος, ἐκείνη, ἐκεῖνο ("that") is conceptually pointing further away than the other two demonstratives, as in a "third person" idea. 
+
+When functioning as adjectives, demonstratives are used in ancient Greek along with the article and in predicate position. 
+> ἥδε ἡ γυνή "this woman"
+> τούτον τὸν ἄνδρα "this/that man"
+> ἐκείνοις τοῖς ἀνθρώποις  "to/for those people"
 
 #### Declensions of demonstrative pronouns
 
