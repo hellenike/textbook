@@ -47,4 +47,34 @@ You have already encountered some examples of the class of words called **procli
 
 The label "demonstrative" signifies that these words "point" to their referent. They may act as adjectives, modifying an expressed noun, or they may be used on their own, acting as a pronoun. English has two commonly used demonstratives: "this" and "that," which can also be used as adjectives modifying a noun (this woman, that house) or on their own as pronouns. Ancient Greek has three demonstrative adjectives/pronouns, and it is important to understand the conceptual meaning of each one.
 
+**Declension of ὅδε, ἥδε, τόδε**
+| Case  |    | Singular|    |     | Plural  |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|    | Masc | Fem | Neut | Masc | Fem | Neut |
+|  |  |  |  |  |  |  |
+| Nominative | ὅδε | ἥδε | τόδε | οἵδε | αἵδε | τάδε |
+| Genitive | τοῦδε | τῆσδε | τοῦδε | τῶνδε | τῶνδε | τῶνδε |
+| Dative | τῷδε | τῇδε | τῷδε | τοῖσδε | ταῖσδε | τοῖσδε |
+| Accusative | τόνδε | τήνδε | τόδε | τούσδε | τάσδε | τάδε |
 
+
+
+**Declension of οὗτος, αὕτη, τοῦτο**
+| Case  |    | Singular|    |     | Plural  |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|    | Masc | Fem | Neut | Masc | Fem | Neut |
+|  |  |  |  |  |  |  |
+| Nominative | οὗτος | αὕτη | τοῦτο | οὗτοι | αὗται | ταῦτα |
+| Genitive | τούτου | ταύτης | τούτου | τούτων | τούτων | τούτων |
+| Dative | τούτῳ | ταύτῃ | τούτῳ | τούτοῖς | ταύταις | τούτοις |
+| Accusative | τούτον | ταύτην | τοῦτο | τούτους | ταύτας | ταῦτα |
+
+**Declension of ἐκεῖνος, ἐκείνη, ἐκεῖνο**
+| Case  |    | Singular|    |     | Plural  |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|    | Masc | Fem | Neut | Masc | Fem | Neut |
+|  |  |  |  |  |  |  |
+| Nominative | ἐκεῖνος  | ἐκείνη  | ἐκεῖνο  | ἐκεῖνοι | ἐκεῖναι  | ἐκεῖνα  |
+| Genitive | ἐκείνου | ἐκείηνς | ἐκείνου | ἐκείνων | ἐκείνων | ἐκείνων |
+| Dative | ἐκείνῳ  | ἐκείνῃ | ἐκείνῳ | ἐκείνοις | ἐκείναις | ἐκείνοις  |
+| Accusative | ἐκεῖνον | ἐκείνην | ἐκεῖνο | ἐκείνους | ἐκείνας | ἐκεῖνα |
