@@ -56,11 +56,9 @@ The label "demonstrative" signifies that these words "point" to their referent. 
 ἐκεῖνος, ἐκείνη, ἐκεῖνο ("that") is conceptually pointing further away than the other two demonstratives, as in a "third person" idea. 
 
 When functioning as adjectives, demonstratives are used in ancient Greek along with the article and in predicate position. 
-> ἥδε ἡ γυνή "this woman"
-
-> τούτον τὸν ἄνδρα "this/that man"
-
-> ἐκείνοις τοῖς ἀνθρώποις  "to/for those people"
+- ἥδε ἡ γυνή "this woman"
+- τούτον τὸν ἄνδρα "this/that man"
+- ἐκείνοις τοῖς ἀνθρώποις  "to/for those people"
 
 #### Declensions of demonstrative pronouns
 
@@ -74,8 +72,9 @@ When functioning as adjectives, demonstratives are used in ancient Greek along w
 | Dative | τῷδε | τῇδε | τῷδε | τοῖσδε | ταῖσδε | τοῖσδε |
 | Accusative | τόνδε | τήνδε | τόδε | τούσδε | τάσδε | τάδε |
 
-Notes on the forms of ὅδε, ἥδε, τόδε:
-> ὅδε, ἥδε, τόδε is the article + the enclitic particle -δε. The enclitic nature of -δε accounts for the accents appearing on the masculine and feminine nominative forms (while the article forms are proclitics) and for the accents remaining what they are on the article on forms like τήνδε, τούσδε, and τάσδε, which seem to be "breaking" the rule about circumflex accents on a long penult when the ultima is short. 
+> Notes on the forms of ὅδε, ἥδε, τόδε:
+>
+>  ὅδε, ἥδε, τόδε is the article + the enclitic particle -δε. The enclitic nature of -δε accounts for the accents appearing on the masculine and feminine nominative forms (while the article forms are proclitics) and for the accents remaining what they are on the article on forms like τήνδε, τούσδε, and τάσδε, which seem to be "breaking" the rule about circumflex accents on a long penult when the ultima is short. 
 
 **Declension of οὗτος, αὕτη, τοῦτο**
 | Case  |    | Singular|    |     | Plural  |     |
@@ -87,18 +86,13 @@ Notes on the forms of ὅδε, ἥδε, τόδε:
 | Dative | τούτῳ | ταύτῃ | τούτῳ | τούτοῖς | ταύταις | τούτοις |
 | Accusative | τούτον | ταύτην | τοῦτο | τούτους | ταύτας | ταῦτα |
 
-Notes on the forms of οὗτος, αὕτη, τοῦτο:
-> The stem follows a pattern similar to the article, with the stem starting in tau in most forms, but with a rough breathing instead in the masculine and feminine nominative forms, both singular and plural.
-
-> The masculine and neuter forms have second declension endings with the diphthong **ου** in the stem, while the feminine forms have first decelension endings with the diphthong **αυ** in the stem.
-
-> The exception in the feminine is the genitive plural, which is drawn by assimiliation to the same form as the masculine and neuter genitvie plural, τούτων.
-
-> The neuter nominative and accustive plural forms use the αυ diphthong in phonetic assimilation with its ending -α.
-
-> The neuter singular nominative and accusative are a different kind of second declension ending (-ο instead of -ον).
-
-> The persistent accent pattern is the accent on a long penult. Thus the accent does not move from the penult, and will be a circumflex when the ultima is short and an acute when the ultima is long.
+> Notes on the forms of οὗτος, αὕτη, τοῦτο:
+- The stem follows a pattern similar to the article, with the stem starting in tau in most forms, but with a rough breathing instead in the masculine and feminine nominative forms, both singular and plural.
+- The masculine and neuter forms have second declension endings with the diphthong **ου** in the stem, while the feminine forms have first decelension endings with the diphthong **αυ** in the stem.
+- The exception in the feminine is the genitive plural, which is drawn by assimiliation to the same form as the masculine and neuter genitvie plural, τούτων.
+- The neuter nominative and accustive plural forms use the αυ diphthong in phonetic assimilation with its ending -α.
+- The neuter singular nominative and accusative are a different kind of second declension ending (-ο instead of -ον).
+- The persistent accent pattern is the accent on a long penult. Thus the accent does not move from the penult, and will be a circumflex when the ultima is short and an acute when the ultima is long.
 
 **Declension of ἐκεῖνος, ἐκείνη, ἐκεῖνο**
 | Case  |    | Singular|    |     | Plural  |     |
@@ -110,9 +104,7 @@ Notes on the forms of οὗτος, αὕτη, τοῦτο:
 | Dative | ἐκείνῳ  | ἐκείνῃ | ἐκείνῳ | ἐκείνοις | ἐκείναις | ἐκείνοις  |
 | Accusative | ἐκεῖνον | ἐκείνην | ἐκεῖνο | ἐκείνους | ἐκείνας | ἐκεῖνα |
 
-Notes on the forms of ἐκεῖνος, ἐκείνη, ἐκεῖνο:
-> The masculine and neuter forms have second declension endings while the feminine forms have first decelension endings.
-
-> The neuter singular nominative and accusative are a different kind of second declension ending (-ο instead of -ον).
-
-> The persistent accent pattern is the accent on a long penult. Thus the accent does not move from the penult, and will be a circumflex when the ultima is short and an acute when the ultima is long.
+>Notes on the forms of ἐκεῖνος, ἐκείνη, ἐκεῖνο:
+- The masculine and neuter forms have second declension endings while the feminine forms have first decelension endings.
+- The neuter singular nominative and accusative are a different kind of second declension ending (-ο instead of -ον).
+- The persistent accent pattern is the accent on a long penult. Thus the accent does not move from the penult, and will be a circumflex when the ultima is short and an acute when the ultima is long.
