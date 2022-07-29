@@ -57,7 +57,9 @@ The label "demonstrative" signifies that these words "point" to their referent. 
 
 When functioning as adjectives, demonstratives are used in ancient Greek along with the article and in predicate position. 
 > ἥδε ἡ γυνή "this woman"
+
 > τούτον τὸν ἄνδρα "this/that man"
+
 > ἐκείνοις τοῖς ἀνθρώποις  "to/for those people"
 
 #### Declensions of demonstrative pronouns
