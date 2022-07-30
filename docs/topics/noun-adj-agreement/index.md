@@ -103,7 +103,7 @@ Ancient Greek tends to use substantive adjectives much more often than English d
 
 ἡ ἀγαθή feminine singular, "the good woman"; αἱ ἀγαθαί feminine plural "the good women," "good women"
 
-τὸ ἀγαθόν neuter singular, "the good thing" or "the good" as a abstract quality; τὰ ἀγαθά "good things," "the good things," "goods" or "the good". Neuter plaural substantives are especially flexible in meaning and thus can be used in a variety of contexts.
+τὸ ἀγαθόν neuter singular, "the good thing" or "the good" as an abstract quality; τὰ ἀγαθά "good things," "the good things," "goods" or "the good". Neuter plaural substantives are especially flexible in meaning and thus can be used in a variety of contexts.
 
 
 
