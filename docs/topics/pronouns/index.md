@@ -108,3 +108,19 @@ When functioning as adjectives, demonstratives are used in ancient Greek along w
 - The masculine and neuter forms have second declension endings while the feminine forms have first decelension endings.
 - The neuter singular nominative and accusative are a different kind of second declension ending (-ο instead of -ον).
 - The persistent accent pattern is the accent on a long penult. Thus the accent does not move from the penult, and will be a circumflex when the ultima is short and an acute when the ultima is long.
+
+### Relative pronoun
+
+The relative pronoun 
+
+
+| Case  |    | Singular|    |     | Plural  |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|    | Masc | Fem | Neut | Masc | Fem | Neut |
+|  |  |  |  |  |  |  |
+| Nominative | ὅς | ἥ | ὅ | οἵ | αἵ | ἅ |
+| Genitive | οὗ | ἧς | οὗ | ὧν | ὧν | ὧν |
+| Dative | ᾧ | ᾗ | ᾧ | οἷς | αἷς | οἷς  |
+| Accusative | ὅν | ἥν | ὅ  | οὕς | ἅς | ἅ |
+
+
