@@ -15,11 +15,11 @@ Study and practice the following basic patterns of persistent accents on nouns.
 
 1. Persistent accent on the antepenult. Only acute accents live on antepenult, and it will be on the antepenult whenever the ultima is short (a requirement for the antepenult to be accented). When the ultima is long, the accent shifts to the penult, and will be acute.
 
-Example: ἄνθρωπος, ἀνθρώπου, ὁ human being, person (second declension)
-|   | Case | Form |
-| --- | --- | --- |
-| Singular |   |    |
-|   | Nominative | ἄνθρωπος  |
+Examples: ἄνθρωπος, ἀνθρώπου, ὁ human being, person (second declension); 
+|   | Case | Form |  |
+| --- | --- | --- | --- |
+| Singular |   |    |   | 
+|   | Nominative | ἄνθρωπος  | 
 |   | Genitive | ἀνθρώπου  |
 |   | Dative  | ἀνθρώπῳ |
 |   | Accusative | ἄνθρωπον |
@@ -31,7 +31,7 @@ Example: ἄνθρωπος, ἀνθρώπου, ὁ human being, person (second 
 |   | Accusative | ἀνθρώπους  |
 |   | Vocative | ἄνθρωποι   |
 
-
+2. Persistent accent on a long penult. Accent will remain on penult (with exception of genitive plural in first declension). If ultima is short, accent will be circumflex; if ultima is long, accent will be acute.
 |   | Case | Form |
 | --- | --- | --- |
 | Singular |   |    |
@@ -63,3 +63,18 @@ Example: ἄνθρωπος, ἀνθρώπου, ὁ human being, person (second 
 |   | Accusative |   |
 |   | Vocative |   |
 
+
+|   | Case | Form |
+| --- | --- | --- |
+| Singular |   |    |
+|   | Nominative |   |
+|   | Genitive |  |
+|   | Dative  |   |
+|   | Accusative |   |
+|   | Vocative |   |
+| Plural |    |    |
+|   | Nominative |   |
+|   | Genitive |  |
+|   | Dative  |   |
+|   | Accusative |   |
+|   | Vocative |   |
