@@ -7,11 +7,13 @@ nav_order: 6
 has_children: true
 ---
 
-## Pronouns
+## Pronouns (ἡ ἀντωνυμία)
 
-Pronoun is a part of speech. Pronouns are used in place of and in reference to a noun. Like nouns, pronouns in ancient Greek have grammatical gender, case, and number; the case of a pronoun, like that of a noun, will tell you its function in a clause.
+Pronoun is a part of speech. Pronouns are used in place of and in reference to a noun: the Greek name ἀντωνυμία means "in place of a noun." The noun that a pronoun replaces and refers to is called the pronoun's _antecedent_.
 
-There are several types of pronouns in ancient Greek, as there are in English: personal, relative, demonstrative, interrogative, indefinite, reflexive, reciprocal, intensive, and more. We know and use all of these types of pronouns without perhaps knowing their classification. In this section, we will learn the ancient Greek personal pronouns, demonstrative pronouns, and the relative pronoun.
+Like nouns, pronouns in ancient Greek have grammatical gender, case, and number. The case of a pronoun, like that of a noun, will tell you its function in a clause.
+
+There are several types of pronouns in ancient Greek, as there are in English: personal, demonstrative, relative, interrogative, indefinite, reflexive, and reciprocal. We know and use all of these types of pronouns without perhaps knowing their classification. In this section, we will learn the ancient Greek personal pronouns, demonstrative pronouns, and the relative pronoun.
 
 ### Personal pronouns
 
@@ -32,7 +34,7 @@ Pronouns are among the words in English that still have cases. We have a "subjec
 | dative | ἡμῖν | (to/for) us | ὑμῖν | (to/for) you |
 | accusative | ἡμᾶς  | us | ὑμᾶς  | you |
 
-We have already seen in studying person with verb forms that ancient Greek verbs do not require a separate pronoun to express the subject. Because they are not needed, nominative personal pronouns are not used to express the subject unless the speaker wants to place special emphasis. The English equivalent of using the nominative pronoun would be heavy intonation and perhaps even pointing when spoken, or underlining or italics in writing. "**_We_** are studying Greek."
+We have already seen in studying person with verb forms that ancient Greek verbs do not require a separate pronoun to express the subject. Because they are not needed, nominative personal pronouns are not used to express the subject unless the speaker wants to place special emphasis. The English equivalent of using the nominative pronoun would be heavy intonation and perhaps even pointing when spoken, or underlining or italics in writing, such as "**_We_** are studying Greek."
 
 The singular of the first and second person pronouns also have emphatic and unemphatic forms that operate in a similar way. The first form listed above is unemphatic. If the speaker wants to emphasize **_me_** or **_you_** in the sentence, then the second form will be used. In the first person singular, note that the emphatic form involves both an extra letter/syllable and an accent, while in the second person singular the difference is indicted solely by the accent. The unemphatic forms of both the first and second person singular pronouns are listed without an accent. They belong to a class of words called **enclitics**.
 
@@ -63,6 +65,7 @@ When functioning as adjectives, demonstratives are used in ancient Greek along w
 #### Declensions of demonstrative pronouns
 
 **Declension of ὅδε, ἥδε, τόδε**
+
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |    | Masc | Fem | Neut | Masc | Fem | Neut |
@@ -77,6 +80,7 @@ When functioning as adjectives, demonstratives are used in ancient Greek along w
 >  ὅδε, ἥδε, τόδε is the article + the enclitic particle -δε. The enclitic nature of -δε accounts for the accents appearing on the masculine and feminine nominative forms (while the article forms are proclitics) and for the accents remaining what they are on the article on forms like τήνδε, τούσδε, and τάσδε, which seem to be "breaking" the rule about circumflex accents on a long penult when the ultima is short. 
 
 **Declension of οὗτος, αὕτη, τοῦτο**
+
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |    | Masc | Fem | Neut | Masc | Fem | Neut |
@@ -95,6 +99,7 @@ When functioning as adjectives, demonstratives are used in ancient Greek along w
 - The persistent accent pattern is the accent on a long penult. Thus the accent does not move from the penult, and will be a circumflex when the ultima is short and an acute when the ultima is long.
 
 **Declension of ἐκεῖνος, ἐκείνη, ἐκεῖνο**
+
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |    | Masc | Fem | Neut | Masc | Fem | Neut |
@@ -111,7 +116,7 @@ When functioning as adjectives, demonstratives are used in ancient Greek along w
 
 ### Relative pronoun
 
-The relative pronoun 
+The relative pronoun is used to create 
 
 **Declension of ὅς, ἥ, ὅ** 
 | Case  |    | Singular|    |     | Plural  |     |
