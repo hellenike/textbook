@@ -9,7 +9,7 @@ has_children: true
 
 ## Prepositions (ἡ πρόθεσις)  
 
-Preposition is a part of speech, like noun or verb or adjective, in both English and ancient Greek. Its ancient Greek name is πρόθεσις, which means "put before," which is generally the placement of a preposition in relation to the noun it governs. (Preposition comes from the Latin that also means "put before.") Prepositions carry a persistent accent that you should learn as you learn the word.
+Preposition is a part of speech, like noun or verb or adjective, in both English and ancient Greek. Its ancient Greek name is πρόθεσις, which means "put before," which is generally the placement of a preposition in relation to the noun it governs. ("Preposition" comes from Latin that also means "put before.") Prepositions carry a persistent accent that you should learn as you learn the word.
 
 A preposition is used to create a relationship between a noun and another word. A preposition and a noun create a *prepositional phrase*. That prepositional phrase may act *adjectivally* to modify a noun or *adverbially* to modify a predicate. Compare the uses of the prepositional phrase "on the beach" in these two English sentences:
 
