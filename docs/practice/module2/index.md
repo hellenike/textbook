@@ -48,7 +48,24 @@ Examples: ἄνθρωπος, ἀνθρώπου, ὁ / ἡ  "human being, person
 |   | Accusative | γνώμας  | δῶρα |
 |   | Vocative | γνῶμαι  | δῶρα |
 
+3. Persistent accent on a short penult. The accent will remain on the penult and will remain acute (with exception of genitive plural in first declension). (Recall that circumflex accents are carried only by long vowels and diphthongs.) Examples: οἰκία, οἰκίας, ἡ "house" (first declension); χρόνος, χρόνου, ὁ "time, time period" (second declension); and ἔργον, ἔργου, τό "work, deed" (second declension).
 
+|   | Case | Form | |  |
+| --- | --- | --- | --- | ---|
+| Singular |   |    |  |  |
+|   | Nominative | οἰκία | χρόνος | ἔργον |
+|   | Genitive | οἰκίας   | χρόνου | ἔργου |
+|   | Dative  | οἰκίᾳ  | χρόνῳ | ἔργῳ |
+|   | Accusative | οἰκίαν  | χρόνον | ἔργον
+|   | Vocative | οἰκία   | χρόνε | ἔργον
+| Plural |    |    |  |  |
+|   | Nominative | οἰκίαι   | χρόνοι | ἔργα |
+|   | Genitive | οἰκιῶν  | χρόνων | ἔργων |
+|   | Dative  | οἰκίαις   | χρόνοις | ἔργοις |
+|   | Accusative | οἰκίας  | χρόνους | ἔργα |
+|   | Vocative | οἰκίαι   | χρόνοι | ἔργα |
+
+4. Persistent accent on the ultima. 
 |   | Case | Form |
 | --- | --- | --- |
 | Singular |   |    |
@@ -65,17 +82,8 @@ Examples: ἄνθρωπος, ἀνθρώπου, ὁ / ἡ  "human being, person
 |   | Vocative |   |
 
 
-|   | Case | Form |
-| --- | --- | --- |
-| Singular |   |    |
-|   | Nominative |   |
-|   | Genitive |  |
-|   | Dative  |   |
-|   | Accusative |   |
-|   | Vocative |   |
-| Plural |    |    |
-|   | Nominative |   |
-|   | Genitive |  |
-|   | Dative  |   |
-|   | Accusative |   |
-|   | Vocative |   |
+Identify the pattern to which each of the following nouns belongs to, and practice the accent pattern in the full declension of the noun:
+
+παιδίον, παιδίου, τό 
+ἡμέρα, ἡμέρας, ἡ 
+λόγος, λόγου, ὁ 
