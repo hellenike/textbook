@@ -104,7 +104,7 @@ When functioning as adjectives, demonstratives are used in ancient Greek along w
 | Dative | ἐκείνῳ  | ἐκείνῃ | ἐκείνῳ | ἐκείνοις | ἐκείναις | ἐκείνοις  |
 | Accusative | ἐκεῖνον | ἐκείνην | ἐκεῖνο | ἐκείνους | ἐκείνας | ἐκεῖνα |
 
->Notes on the forms of ἐκεῖνος, ἐκείνη, ἐκεῖνο:
+> Notes on the forms of ἐκεῖνος, ἐκείνη, ἐκεῖνο:
 - The masculine and neuter forms have second declension endings while the feminine forms have first decelension endings.
 - The neuter singular nominative and accusative are a different kind of second declension ending (-ο instead of -ον).
 - The persistent accent pattern is the accent on a long penult. Thus the accent does not move from the penult, and will be a circumflex when the ultima is short and an acute when the ultima is long.
@@ -113,7 +113,7 @@ When functioning as adjectives, demonstratives are used in ancient Greek along w
 
 The relative pronoun 
 
-
+**Declension of ὅς, ἥ, ὅ** 
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |    | Masc | Fem | Neut | Masc | Fem | Neut |
@@ -123,4 +123,7 @@ The relative pronoun
 | Dative | ᾧ | ᾗ | ᾧ | οἷς | αἷς | οἷς  |
 | Accusative | ὅν | ἥν | ὅ  | οὕς | ἅς | ἅ |
 
+> Notes on the forms of ὅς, ἥ, ὅ
+- the forms of the relative pronoun are similar to those of the article, without the initial tau that the article has in most forms and with a rough breathing on all forms. The exception is the masculine nominative singular ὅς. With forms like ἥ, οἵ, and αἵ, the only difference between the article and the relative pronoun is the accent on the relative pronoun form.
+- the accent pattern is also like that of the article, and like a persistent accent on the ultima: acute on nominative and accusative forms and circumflex on genitive and dative forms.
 
