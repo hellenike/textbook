@@ -40,12 +40,14 @@ The singular of the first and second person pronouns also have emphatic and unem
 
 #### Enclitics
 
-Enclitics do not have a persistent accent of their own but they do affect the accent of the word that precedes them when used in a sentence. Enclitics are generally listed without an accent in paradigms or glossaries or lexica. 
+There are two classes of words in ancient Greek that do not carry accents.
 
-You have already encountered some examples of the class of words called **proclitics** (such as the forms of the article ὁ, ἡ, οἱ, αἱ and the negating word οὐ) and will meet more in the section in this module on prepositions. Proclitics do not carry an accent of their own, and do not affect the accent of other words in a sentence.  
+You have already encountered some examples of the class of words called **proclitics** (such as the forms of the article ὁ, ἡ, οἱ, αἱ and the negating word οὐ) and will meet more in the section in this module on prepositions and in future modules. Proclitics do not carry an accent of their own, and do not affect the accent of other words in a sentence. Proclitics may be used as the first word in a sentence.  
+
+**Enclictics** do interact with the accent of the word that precedes them in a sentence: their name significes their "leaning on" . Enclitics are generally listed without an accent in paradigms  and glossaries or lexica. 
 
 **Enclitic accent rules**
-
+Enclitic words are frequently one syllable but may be two syllables. 
 
 ### Demonstrative adjectives and pronouns
 
@@ -58,9 +60,13 @@ The label "demonstrative" signifies that these words "point" to their referent. 
 **ἐκεῖνος, ἐκείνη, ἐκεῖνο** ("that") is conceptually pointing further away than the other two demonstratives, as in a "third person" idea. The use of ἐκεῖνος, ἐκείνη, ἐκεῖνο may have an intentionally distancing effect, as "that" can in English ("I would never do _that_!")
 
 When functioning as adjectives, demonstratives are used in ancient Greek along with the article and in predicate position. Examples:
-- ἥδε ἡ γυνή "this woman"
+- ἥδε ἡ ἡμέρα  "this day" (meaning "this very day, this day now, today")
 - τούτον τὸν ἄνδρα "this/that man"
 - τοῖς ἀνθρώποις ἐκείνοις "to/for those people"
+
+(Since English does not use its article along with demonstratives, we do not translate the article in these constructions. That allows us to be idiomatic in English.)
+
+When used as pronouns, the demonstratives are used on their own. They receive their gender and case from their _antecedent_, the noun they refer back to, but the case expresses the use of the pronoun in its own clause. If the antecedent is implied or understood, rather than expressed, we understand a noun that matches the gender and number of the demonstrative pronoun: ἐκεῖνος "that man" (masculine and singular), ταῦτα "these things" (neuter and plural), τῆσδε "of this (here) woman" (feminine and singular).
 
 #### Declensions of demonstrative pronouns
 
@@ -76,8 +82,7 @@ When functioning as adjectives, demonstratives are used in ancient Greek along w
 | Accusative | τόνδε | τήνδε | τόδε | τούσδε | τάσδε | τάδε |
 
 > Notes on the forms of ὅδε, ἥδε, τόδε:
->
->  ὅδε, ἥδε, τόδε is the article + the enclitic particle -δε. The enclitic nature of -δε accounts for the accents appearing on the masculine and feminine nominative forms (while the article forms are proclitics) and for the accents remaining what they are on the article on forms like τήνδε, τούσδε, and τάσδε, which seem to be "breaking" the rule about circumflex accents on a long penult when the ultima is short. 
+- ὅδε, ἥδε, τόδε is the article + the enclitic particle -δε. The enclitic nature of -δε accounts for the accents appearing on the masculine and feminine nominative forms (while the article forms are proclitics) and for the accents remaining what they are on the article on forms like τήνδε, τούσδε, and τάσδε, which seem to be "breaking" the rule about circumflex accents on a long penult when the ultima is short. 
 
 **Declension of οὗτος, αὕτη, τοῦτο**
 
@@ -116,7 +121,7 @@ When functioning as adjectives, demonstratives are used in ancient Greek along w
 
 ### Relative pronoun
 
-The relative pronoun is used to create 
+The relative pronoun is used to create dependent clauses that further describe or define a noun or pronoun in a sentence.   
 
 **Declension of ὅς, ἥ, ὅ** 
 | Case  |    | Singular|    |     | Plural  |     |
