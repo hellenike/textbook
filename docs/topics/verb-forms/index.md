@@ -26,7 +26,7 @@ A verb's person expresses the subject of the verb in relation to the "speaker" o
 
 Number combines with person in describing the subject of verb. It indicates when the subject is singular or plural. In English, for example, 1st person singular is "I" while 1st person plural is "we."
 
-Ancient Greek also has an additional, less common "number" known as the dual, when the subject is two persons, animals, body parts (e.g., eyes, hands), or things acting together.
+Ancient Greek also has an additional, less common "number" known as the dual, when the subject is two persons, animals, body parts (e.g., eyes, hands), or things acting together. We will not see the dual in our readings this year.
 
 
 
