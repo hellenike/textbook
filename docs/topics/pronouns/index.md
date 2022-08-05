@@ -36,25 +36,7 @@ Pronouns are among the words in English that still have cases. We have a "subjec
 
 We have already seen in studying person with verb forms that ancient Greek verbs do not require a separate pronoun to express the subject. Because they are not needed, nominative personal pronouns are not used to express the subject unless the speaker wants to place special emphasis. The English equivalent of using the nominative pronoun would be heavy intonation and perhaps even pointing when spoken, or underlining or italics in writing, such as "**_We_** are studying Greek."
 
-The singular of the first and second person pronouns also have emphatic and unemphatic forms that operate in a similar way. The first form listed above is unemphatic. If the speaker wants to emphasize **_me_** or **_you_** in the sentence, then the second form will be used. In the first person singular, note that the emphatic form involves both an extra letter/syllable and an accent, while in the second person singular the difference is indicted solely by the accent. The unemphatic forms of both the first and second person singular pronouns are listed without an accent. They belong to a class of words called **enclitics**.
-
-#### Enclitics
-
-There are two classes of words in ancient Greek that do not carry accents.
-
-You have already encountered some examples of the class of words called **proclitics** (such as the forms of the article ὁ, ἡ, οἱ, αἱ and the negating word οὐ) and will meet more in the section in this module on prepositions and in future modules. Proclitics do not carry an accent of their own, and do not affect the accent of other words in a sentence. Proclitics may be used as the first word in a clause.  
-
-**Enclitics** do interact with the accent of the word that precedes them in a sentence: their name signifies their "leaning on" the word they follow. Enclictics cannot be the first word in a clause since they need a word ahead of them to lean on. Enclitics are generally listed without an accent in paradigms and in glossaries or lexica. Enclitic words are frequently one syllable but may be two syllables. In addition to the pronouns you are learning above, another enclitic you have already encountered in Module 1 is the conjunction τε. 
-
-**Enclitic accent rules**
-1. A word accented on the ultima, with an acute or cicumflex, retains that accent when followed by an enclitic word. The acute does not change to grave because the enclitic is "added on" to the word in terms of pronunciation. The enclitic remains unaccented.
-2. A word accented on the antepenult with an acute or a word accented on the penult with a circumflex will have an acute accent added to the ultima. That is the circumstance when you will see two accents on the same word. The enclitic remains unaccented.
-3. A word accented with an acute on the penult will not have any accent changes when followed by an enclictic. A one-syllable enclitic following such a word will remain unaccented. A two-syllable enclitic following a word accented on the penult with an acute will be accented on its own ultima. That is one circumstance in which you will see an enclitic accented.
-4. A proclitic followed by an enclitic will receive an acute accent. An enclictic followed by another enclitic in a sentence will also receive that enclitic's accent in its ultima, which will remain acute.
-
-Looking through the following passage (Lysias 1.6–7), identify which words are enclitics and how they have affected the accents of the preceding words. What rules are at play in these examples? Which words without accents are proclitics rather than enclitics?
-
-ἐγὼ γάρ, ὦ Ἀθηναῖοι, ἐπειδὴ ἔδοξέ μοι γῆμαι καὶ γυναῖκα ἠγαγόμην εἰς τὴν οἰκίαν, τὸν μὲν ἄλλον χρόνον οὕτω διεκείμην ὥστε μήτε λυπεῖν μήτε λίαν ἐπ᾽ ἐκείνῃ εἶναι ὅ τι ἂν ἐθέλῃ ποιεῖν, ἐφύλαττόν τε ὡς οἷόν τε ἦν, καὶ προσεῖχον τὸν νοῦν ὥσπερ εἰκὸς ἦν. ἐπειδὴ δέ μοι παιδίον γίγνεται, ἐπίστευον ἤδη καὶ πάντα τὰ ἐμαυτοῦ ἐκείνῃ παρέδωκα, ἡγούμενος ταύτην οἰκειότητα μεγίστην εἶναι: ἐν μὲν οὖν τῷ πρώτῳ χρόνῳ, ὦ Ἀθηναῖοι, πασῶν ἦν βελτίστη: καὶ γὰρ οἰκονόμος δεινὴ καὶ φειδωλὸς ἀγαθὴ1 καὶ ἀκριβῶς πάντα διοικοῦσα: ἐπειδὴ δέ μοι ἡ μήτηρ ἐτελεύτησε, πάντων τῶν κακῶν ἀποθανοῦσα αἰτία μοι γεγένηται.
+The singular of the first and second person pronouns also have emphatic and unemphatic forms that operate in a similar way. The first form listed above is unemphatic. If the speaker wants to emphasize **_me_** or **_you_** in the sentence, then the second form will be used. In the first person singular, note that the emphatic form involves both an extra letter/syllable and an accent, while in the second person singular the difference is indicted solely by the accent. The unemphatic forms of both the first and second person singular pronouns are listed without an accent. They belong to a class of words called **enclitics**. (See next section.)
 
 ### Demonstrative adjectives and pronouns
 
