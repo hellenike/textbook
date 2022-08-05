@@ -7,9 +7,9 @@ nav_order: 2
 
 ## Ancient Greek accents (τόνος)
 
-Classical Greek was spoken with a pitch accent: that is, the pitch of your voice would rise or fall on different syllables. Later, this evolved into a stress accent: as in English or modern Greek, accented syllables came to be pronounced instead with extra stress.  Ancient scholars worried about the "correct" pronounciation as pitch accent began to disappear, and devised a system of three accent marks to indicate the proper pitch for a syllable. Their word for these accents, τόνος, was also used to refer to systems of pitch in Greek music, and is the source of the English word "tone."
+Ancient Greek in the fifth and fourth centuries BCE was spoken with a pitch accent: that is, the pitch of your voice would rise or fall on different syllables. Later, this evolved into a stress accent: as in English or modern Greek, accented syllables came to be pronounced instead with extra stress.  Ancient scholars worried about the "correct" pronounciation as pitch accent began to disappear, and devised a system of three accent marks to indicate the proper pitch for a syllable. Their word for these accents, τόνος, was also used to refer to systems of pitch in Greek music, and is the source of the English word "tone."
 
-The *acute* accent **´** indicated that your voice should rise on the accented syllable, and was called ὀξύτονον, the "sharp" or "high pitch".  The *grave* accent  **`** indicated that the voice should fall.  It was called the βαρύτονον, the "heavy" or "low pitch". The *circumflex*  **˜**  signaled that your voice should rise and then fall on a single syllable. Its name was the περισπόμενος τόνος, a pitch that is bent or wrapped around as it travels up and then down.
+The *acute* accent **´** indicated that your voice should rise on the accented syllable, and was called ὀξύτονον, the "sharp" or "high pitch".  The *grave* accent **`** indicated that the voice should fall. It was called the βαρύτονον, the "heavy" or "low pitch". The *circumflex*  **˜**  signaled that your voice should rise and then fall on a single syllable. Its name was the περισπόμενος τόνος, a pitch that is bent or wrapped around as it travels up and then down.
 
 Because English speakers are accustomed to stress accents, we will pronounce any accented syllable, regardless of type of accent, with a stress accent.
  
@@ -29,7 +29,7 @@ pair of words shows two forms of the same noun: pronounce them so that you can h
 
 ### Accented words
 
-Every Greek sentence was a flow of higher and lower pitches, and every word had its own accent, except for a very small number of special cases.  One group of small words that do not carry an accent or affect the accents of other words are called *proclitics.*  These include some forms of the article ("the"), ὁ, ἡ, οἱ, αἱ, and a few prepositions like εἰς ("into"), ἐκ ("out of") , ἐν ("in"). There are also *enclitics*, short words that affect the accents of other words in a sentence but do not have their own accent.  We'll learn more about enclitics in Modiule 2.
+Every Greek sentence was a flow of higher and lower pitches, and every word had its own accent, except for a very small number of special cases.  One group of small words that do not carry an accent or affect the accents of other words are called *proclitics.*  These include some forms of the article ("the"), ὁ, ἡ, οἱ, αἱ; a few prepositions like εἰς ("into"), ἐκ ("out of") , ἐν ("in"), and some conjunctions like εἰ ("if") and ὡς  ("as, that, since"). There are also *enclitics*, short words that affect the accents of other words in a sentence but do not have their own accent.  We'll learn more about enclitics in Module 2.
 
 
 ### General rules
@@ -56,14 +56,14 @@ Let's consider each individually.
 ### The grave accent
 
 
-A grave accent is really just a replacement for an acute accent.  Within the context of a phrase or sentence, when a word with an acute accent on the ultima is followed directly by another accented word, its accent is changed from acute to grave.  After a pause (indicated in our texts by a comma or period), the acute can remain unchange.
+A grave accent is really just a replacement for an acute accent.  Within the context of a phrase or sentence, when a word with an acute accent on the ultima is followed directly by another accented word, its accent is changed from acute to grave. After a pause (indicated in our texts by a comma or period), the acute can remain unchange.
 
 Consider the word **αὐτήν** (the pronoun "her", with acute accent on the ultima) in these two sentences from Lysias 1. 
 
 1. ἀπώλεσεν αὐτήν. ("He killed her.")  
-2. ἐκέλευον αὐτὴν ἀπιέναι. ("I ordered here to leave.")
+2. ἐκέλευον αὐτὴν ἀπιέναι. ("I ordered her to leave.")
 
-αὐτήν is the last word of the first sentence: we'll pause at the period, and the accent can remain unchanged.  In sentence 2, however, αὐτήν is followed by the accented word ἀπιέναι ("leave"); we have to change its acute to grave, and have ἐκέλευον αὐτὴν ἀπιέναι for the whole sentence.
+αὐτήν is the last word of the first sentence: we'll pause at the period, and the accent can remain unchanged. In sentence 2, however, αὐτήν is followed by the accented word ἀπιέναι ("leave"); we have to change its acute to grave for the preferred sound and rhythm to the whole sentence.
 
 
 Notice that since the grave accent occurs only in the context of a sentence, when you examples of forms noun, adjective, or verb forms in this textbook, you will not see or use a grave accent!
@@ -71,9 +71,9 @@ Notice that since the grave accent occurs only in the context of a sentence, whe
 
 ### The circumflex
 
-The circumflex can only be used on long syllables (that is, over a long vowel or diphthong).  It can only appear on the penult when the ultima is short.  
+The circumflex can only be used on long syllables (that is, over a long vowel or diphthong).  It can appear on the penult only when the ultima is short.  
 
-Consider these examples from a pair of common Greek words.  As we'll see in Module 2, nouns and pronouns use different endings to show their function (a little like adding "s" to a noun to make it plural in English).  Here are two forms of a noun meaning "divinity, god, goddess" (compare English words like "theology" and "theocracy"):
+Consider these examples from a pair of common Greek words. As we'll see in Module 2, nouns and pronouns use different endings to show their function (a little like adding "s" to a noun to make it plural in English). Here are two forms of a noun meaning "divinity, god, goddess" (compare English words like "theology" and "theocracy"):
 
 
 1. θεός
