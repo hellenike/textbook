@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Module 4: subordination"
+title: "Module 4: the optative mood and some subordinate clauses"
 nav_order: 6
 has_children: true
 ---
@@ -13,14 +13,15 @@ has_children: true
 
 ### Language
 
-Main areas of focus are:
-- first subordinate clause (introducing subordinating conjunctions, use of μή)
-- sequence of tenses
-- morphology of subjunctive and optative moods, all three voices, 3S and Pl (aorist, imperfect tenses)
+Module 4 introduces
+- morphology of optative mood, all three voices, 3S and Pl (aorist, imperfect tenses)
+- the optative in subordinate clauses after past tense verbs 
+- introducing subordinating conjunctions, use of μή
 
 ### Making Connections 
 
 - Phuc Tran on the power of a non-indicative mood
+- Jhumpa Lahiri on the optative?
 
 ### Practice, Reading, and Composition
 
