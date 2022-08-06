@@ -33,7 +33,7 @@ All principal parts of an Ancient Greek verb are 1st person singular forms.
 
 ### Verb conjugations
 
-Greek verbs are organized into two "conjugations," a grouping where they share common endings.  *Thematic* verbs include a thematic vowel in their endings; *athematic* verbs do not.  Thematic verbs are also called -ω verbs and athematic verbs may be called -μι verbs, after the common ending of the first principal part.
+Greek verbs are organized into two "conjugations," a grouping where they share common endings.  **_Thematic_** verbs include a thematic vowel in their endings; **_athematic_** verbs do not. Thematic verbs are also called "-ω verbs" and athematic verbs may be called "-μι verbs", after the common ending of the first principal part.
 
 ### Examples of principal parts
 
@@ -80,9 +80,9 @@ As you learn principal parts, you should practice noticing patterns and then usi
 
 #### Endings
 
-Since all the forms are first-person singular, the ending reflects that person-number. The ending will indicate which conjugation the verb belongs to. In the first principal part, the endings -ω and -ομαι indicate the thematic conjugation, while the endings -μι and -μαι (with some letter other than omicron before it) indicate the athematic conjugation. 
+Since all the forms are first-person singular, the ending reflects that person-number. The ending will indicate which conjugation the verb belongs to. In the first principal part, the endings -ω and -ομαι indicate the *thematic* conjugation, while the endings -μι and -μαι (with some letter other than omicron before it) indicate the *athematic* conjugation. 
 
-For those principal parts that could be either active or middle, the ending will also indicate the voice: -ω or -μι (1st and 2nd principal parts), and -ον or -α (3rd) are active, while -μαι (1st and 2nd) and -μην (3rd) are middle. 
+For those principal parts that could be either active or middle (that is, the 1st, 2nd, 3rd prinicpal parts), the ending will also indicate the voice: -ω or -μι (1st and 2nd principal parts), and -ον or -α (3rd) are active, while -μαι (1st and 2nd) and -μην (3rd) are middle. 
 
 For the 4th principal part, which is always active, you can expect the ending -α. 
 For the 5th, which is always middle/passive, the endings is -μαι. 
@@ -92,7 +92,7 @@ And the 6th principal part, which is always passive, will end in -ην.
 
 For the 3rd and 6th principal parts, which are aorist (a secondary tense) you will see an *augment* prefixed to the verbal stem. The augment is an indication of a secondary tense in the indicative mood (all principal parts are in the indicative mood). The augment may appear as the addition of an ἐ- before a stem that begins with a consonant, or it may appear as the lengthening of the initial vowel if the stem begins with a vowel.
 
-For the 4th and 5th principal parts, which are in the perfect tense, the stem will show reduplication as a sign of the perfect tense. The reduplication may appear as a repetition of the initial consonant of the verb stem. If the initial consonant is aspirated (θ, φ, χ), the reduplication is the corresponding non-aspirated consonant (τ, π, κ, respectively). If the stem starts with multiple consonants, the reduplication will be simply ἐ-. If the stem starts with a vowel, the reduplication will appear as a lengthened vowel.
+For the 4th and 5th principal parts, which are in the perfect tense, the stem will show *reduplication* as a sign of the perfect tense. The reduplication may appear as a repetition of the initial consonant of the verb stem. If the initial consonant is aspirated (θ, φ, χ), the reduplication is the corresponding non-aspirated consonant (τ, π, κ, respectively). If the stem starts with multiple consonants, the reduplication will be simply ἐ-. If the stem starts with a vowel, the reduplication will appear as a lengthened vowel.
 
 #### Stem changes
 
