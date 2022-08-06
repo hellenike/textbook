@@ -10,11 +10,11 @@ has_children: true
 ## The aorist indicative
 
 
-The form of a finite verb in ancient Greek expresses the *subject* as well as the *verb*: it is complete verbal unit by itself.  Example: the form ἐκέλευσε means "he or she ordered"; the form ἐκέλευσαν means "they ordered."  These are already complete sentences that do not need a separate word for "he", "she" or "they."
+The form of a finite verb in ancient Greek expresses the *subject* as well as the *verb*: it is a complete verbal unit by itself. Example: the form ἐκέλευσε means "he or she ordered"; the form ἐκέλευσαν means "they ordered." These are already complete sentences that do not need a separate word for "he", "she" or "they."
 
 ### The indicative mood and narrating events in the past
 
-As described above, finite verbs have five properties: person, number, tense, mood, and voice. 
+As already described above, finite verbs have five properties: person, number, tense, mood, and voice. 
 
 "Indicative" is a mood, one of the four that ancient Greek has. It is the mode of verb used for narrating factual events. As such, it is a frequently seen mood in most texts.
 
@@ -27,14 +27,14 @@ The choice of tense, then, involves not only an indication that the events happe
 
 ### Meaning of aorist indicative
 
-The aorist indicate represents the action in a way that can be (and has been) described as "single," "simple," "distinct," the equivalent to a snapshot of the action. The tense that is the closest to this idea in English is the "simple past," the past tense formed in the active voice by adding -ed to the verb stem, or made by changes to the stem, with no other "helping" verbs. Examples of the "simple past" in the active voice: He walked, she ran, they watched. She taught, they learned. 
+The aorist indicate represents the action in a way that can be (and has been) described as "single," "simple," "distinct," the equivalent to a snapshot of the action. The tense that is the closest to this idea in English is the "simple past," the past tense formed in the active voice by adding *-ed* to the verb stem, or made by changes to the stem, with no other "helping" verbs. Examples of the "simple past" in the active voice: He walked, she ran, they watched. She taught, they learned. 
 
 To understand a verb form, you must take into account all five properties: person, number, tense, mood and voice. In the active voice, the subject performs the action. In the passive voice, the subject receives the action. The middle voice is, as the name indicates, in between active and passive, where the subject performs the action in some way for themselves.
 
 
 The verb ἄρχω in the active voice, for example, means "to be first", and from that sense "to rule".  In the passive voice, it means "to be ruled".  The middle voice means "to make yourself first" or "put yourself at the first position" of something, and therefore "to begin" something.
 
-In the following examples, we'll see how to form the aorist indicative of the verb κελεύω,  "to command," and δείκνυμι "to show."  In the third person plural of the aorist indicative, their meaning will be:
+In the following examples, we'll see how to form the aorist indicative of the verb δείκνυμι "to show" and κελεύω, "to command". In the third person plural of the aorist indicative, their meaning will be:
 
 
 - Active: "they showed," "they commanded"
@@ -48,7 +48,7 @@ In the following examples, we'll see how to form the aorist indicative of the ve
 
 To learn this tense + mood, you will need to learn the person and number in all three voices: active, middle, and passive.
 
-As you learn it for any particular verb, you will notice that not all verbs appear in all three voices. For example, the verb γίγνομαι "to become" always and only uses the middle voice. 
+As you learn it for any particular verb, you will notice that not all verbs appear in all three voices. For example, in the aorist indicative the verb γίγνομαι "to become" always and only uses the middle voice. 
 
 The aorist tense forms the active and middle voices from the *third* principal part; it forms the passive voice from the *sixth* principal part. So you will need to pay attention to the principal parts for any particular verb to see what forms are possible. For example, if the third principal part appears in the middle voice, that implies that no active forms are used. If a verb does not have a sixth prinicipal part, that implies that no passive forms are used.
 
@@ -67,7 +67,7 @@ Once you have identified a verb as a first aorist verb, you form other persons a
 >
 > ἐκέλευσα -> ἐκελευσ-
 
-- (2) Add the appropriate ending for the person and number.  For today, memorize the following endings for the *third person*, singular and plural.
+- (2) Add the appropriate ending for the person and number.  In this module, you need to memorize the following endings for the *third person*, singular and plural.
 
 | Person and Number | Active ending | Middle ending |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ You may see somewhere the reference to "first" and "second" aorists in the aoris
 
 - (2) Add the appropriate ending for the person and number:
 
-| Person and Number | Ending |
+| Person and Number | Passive Ending |
 | --- | --- |
 | 3rd singular | -η  |
 | 3rd plural | -ησαν |
