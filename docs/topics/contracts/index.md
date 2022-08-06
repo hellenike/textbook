@@ -9,7 +9,9 @@ has_children: true
 
 ## Contract verbs
 
-The different verbs you have already learned all have stems of the first principal part ending in a *consonant*.  When the first principal part ends in a *vowel*, you use the same endings you have already learned, but they contract with the vowel of the stem. Some verbs that do not have verb stems ending in a vowel in the first principal part do have a vowel at the end of their stem in the *second* principal part, which is used for the future active and middle. We will review these contractions for those forms when we learn the future tense forms.
+The thematic verbs we have been learning and using all have stems of the first principal part ending in a *consonant*. When the first principal part of a thematic (-ω) verb ends in a *vowel*, you use the same endings you have already learned, but the thematic vowel of the ending contracts with the vowel of the stem to form another vowel or a diphthong. 
+
+Note: Some verbs that do not have verb stems ending in a vowel in the first principal part do have a vowel at the end of their stem in the *second* principal part, which is used for the future active and middle. We will review these contractions for those forms when we learn the future tense forms.
 
 
 ### Stems ending in -ε- 
@@ -20,8 +22,9 @@ Vocabulary to memorize:
 - δοκέω
 - ποιέω
 
-The first principal part will be listed in a lexicon or glossary with the first prinicipal part ending in ε before the first person ending of -ω. 
-Recall that our imperfect active and middle/passive indicative personal endings start with vowels, either an ε or an ο:
+The first principal part of an "epsilon contract verb" will be listed in a lexicon or glossary with the first prinicipal part ending in ε before the first person ending of -ω. 
+
+Recall that our imperfect active and middle/passive indicative personal endings for thematic verbs start with vowels, either an ε or an ο:
 
 | Person and Number | Active ending | Middle and Passive ending |
 | --- | --- | --- |
@@ -33,7 +36,7 @@ The rules of contraction that you will need to learn for these endings (as we le
 - ε + ε = ει
 - ε + ο = ου 
 
-The rule of accentuation that you will need for contractions is that if one of the vowels within the sequence would have been accented before the contraction, the contracted syllable, a diphthong, will be accented, and will be accented with a circumflex, if possible under the rules of accentuation for circumflex accents (that it is a long syllable (which the diphthong is), the syllable is the penult or ultima, and if the penult that the ultima is short.
+The rule of accentuation that you will need for contractions is that if one of the vowels within the sequence would have been accented before the contraction, the contracted syllable, a diphthong, will be accented, and will be accented with a circumflex, if possible under the rules of accentuation for circumflex accents: that is, it is a long syllable (which the diphthong is), the syllable is the penult or ultima, and if the penult that the ultima is short.
 
 With that additional information, the process of forming the imperfect indicative follows the process already outlined:
 
@@ -45,7 +48,7 @@ With that additional information, the process of forming the imperfect indicativ
 >
 > ποιέω -> ἐποιε-
 
-- (2) Add appropriate ending and contract the vowel at the end of the stem with the vowel at the beginning of the personal ending.
+- (2) Add appropriate ending and **contract the vowel at the end of the stem with the vowel at the beginning of the personal ending**.
 
 - (3) Apply recessive accent, keeping in mind the contraction.
 
@@ -80,7 +83,7 @@ Vocabulary to memorize:
 
  - ὁράω 
 
-Verbs whose present stem from the first principal part ends in α operate the same way, but the contractions resulting from the combination of α with the endings are different. The contractions you will need to know for these verbs in the forms we have learned so far are:
+Verbs whose present stem from the first principal part ends in *α* operate the same way, but the contractions resulting from the combination of α with the endings are different. The contractions you will need to know for these verbs in the forms we have learned so far are:
 
 - α + ε = α (long alpha, ᾱ)
 - α + ο = ω
