@@ -27,14 +27,14 @@ Formation follows the same process as first aorist active and middle forms.
 > 
 > ἐγενόμην -> ἐγεν-
 
-- (2) Add the appropriate ending.  For today, memorize *third person* endings for singular and plural.
+- (2) Add the appropriate ending.  In this module, you should memorize *third person* endings for singular and plural.
 
 | Person and Number | Active ending | Middle ending |
 | --- | --- | --- |
 | 3rd singular |  -ε | -ετο |
 | 3rd plural | -ον | -οντο |
 
-Notice that these endings are identical to the endings of the imperfect indicative. You will distinguish the imperfect from the aorist for these verbs by noticing which verb stem (which principal part) the ending is applied to. In the imperfect the ending is applied to the first principal part stem, and in the aorist the ending is applied to the third stem. Examples: ἤρχετο "She was going" vs. ἦλθε "She went"; ἔλεγε "She was saying"  - εἶπε "She said."
+Notice that these endings are identical to the endings of the imperfect indicative. You will distinguish the imperfect from the aorist for these verbs by noticing which verb stem (which principal part) the ending is applied to. In the imperfect the ending is applied to the first principal part stem, and in the aorist the ending is applied to the third stem. Examples: ἤρχετο (imperfect) "She was going" vs. ἦλθε (aorist) "She went"; ἔλεγε "She was saying"  vs. εἶπε "She said."
 
 Note that the first person singular active ending in the second aorist -ον is the same as that of the third personal plural active.
 
@@ -56,6 +56,7 @@ Note that the first principal part ἔρχομαι shows us that there is no act
 | 3rd singular |  εἶπε | εἴπετο | ἐλέχθη |
 | 3rd plural | εἶπον | εἴποντο  |ἐλέχθησαν  |
 
+Since the aorist passive is formed from the sixth principal part, those forms follow the same formation regardless of whether the third principal part is a first aorist or second aorist.
 
 #### Practice
 
