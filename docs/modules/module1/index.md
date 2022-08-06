@@ -23,9 +23,9 @@ Module 1 introduces these features of Greek:
 
 ### Ancient Greek in action: overview
 
-Different languages imagine the world differently. To narrate past events, for example, English does not have a single verb tense that correspond to the ideas expressed by the Greek imperfect tense. Module 1 includes reflections of English speakers encountering a  past tense in Spanish and Italian that is similar in its range of meaning to the Greek imperfect tense.
+Different languages imagine the world and express thoughts about it differently. To narrate past events, for example, English does not have a single verb tense that correspond to the ideas expressed by the Greek imperfect tense. What does reading and translating involve when there are several choices and no one exact equivalent? Module 1 includes reflections of English speakers encountering a  past tense in Spanish and Italian that is similar in its range of meaning to the Greek imperfect tense.
 
 ### Reading: overview
 
-In our reading in module 1, we meet Euphiletus, the speaker in Lysias, *Oration 1*.  Euphiletus describes the early days of his marriage (to a wife who is never named).
+In our reading in module 1, we meet Euphiletus, the speaker in Lysias, *Oration 1*.  Euphiletus describes the early days of his marriage (to a wife who is never named). We will begin to consider and grapple with cultural as well as linguistic concepts and differences.
 
