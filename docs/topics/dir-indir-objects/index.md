@@ -9,7 +9,7 @@ has_children: true
 
 ## Direct and indirect objects
 
-Two functions that nouns can have in a clause is to act as the direct object of the verb, or as the indirect object of the verb. In order for a verb to take an object, it must be a *transitive* verb, a verb that expresses an action that acts upon a recipient. The noun that is the recipient of the action is called the *direct object*. Some verbs may express actions that also involve a secondary recipient: that noun is acting as the *indirect object*. 
+Two more functions that nouns can have in a clause is to act as the direct object of the verb, or as the indirect object of the verb. In order for a verb to take an object, it must be a *transitive* verb, a verb that expresses an action that acts upon a recipient. The noun that is the recipient of the action is called the *direct object*. Some verbs may express actions that also involve a secondary recipient: that noun is acting as the *indirect object*. 
 
 In ancient Greek, the **accusative** case is the most common way of expressing a *direct object*. 
 
@@ -30,11 +30,13 @@ One verb that makes it easy to see the role of the indirect object, in both Engl
 
 > "They gave gifts to her." or "They gave her gifts." 
 
-In both sentences "gifts" is the direct object of the verb "gave": the gifts are what is being directly affected by the action of the verb. The indirect object in both sentences is "her": as the recipient of the gifts, the action of giving is affected her in a secondary or indirect way. English expresses that by putting the indirect object before the direct object in the sentence, or with the preposition "to." Can you think of other verbs in English that frequently have both a direct and an indirect object expressed with this syntax? 
+In both sentences "gifts" is the direct object of the verb "gave": the gifts are what is being directly affected by the action of the verb. The indirect object in both sentences is "her": as the recipient of the gifts, the action of giving affected her in a secondary or indirect way. English expresses that by putting the indirect object before the direct object in the sentence, or with the preposition "to." 
+
+Can you think of other verbs in English that frequently have both a direct and an indirect object expressed with this syntax? 
 
 In Ancient Greek, the indirect object is expressed with the dative case. Word order can be used for other kinds of emphasis. 
 
-> πάντα τὰ ἐμαυτοῦ ἐκείνῃ παρέδωκα Lysias 1.6: "I gave over all of my things to her"
+> πάντα τὰ ἐμαυτοῦ _ἐκείνῃ_ παρέδωκα Lysias 1.6: "I gave over all of my things _to her_"
 
 ### Forms of Dative and Accusative Cases
 
@@ -51,6 +53,6 @@ Look for patterns in these endings that can help you recognize the case endings.
 
 Note that the dative plural ending of third declension nouns will have a "moveable nu" placed on the ending if the next word in the sentence starts with a vowel or if it is the last word in a sentence.
 
-Note that the alpha in the 1st declension accusative ending -ας is a long alpha, while in the third declension accusative plural ending -ας the alpha is short.
+Note that the alpha in the 1st declension accusative ending -ας is a long alpha, while in the third declension masculine/feminine accusative plural ending -ας the alpha is short.
 
 
