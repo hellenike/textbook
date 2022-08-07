@@ -19,7 +19,7 @@ You have already encountered some examples of the class of words called **procli
 1. A word accented on the ultima, with an acute or cicumflex, retains that accent when followed by an enclitic word. The acute does not change to grave because the enclitic is "added on" to the word in terms of pronunciation. The enclitic remains unaccented.
 2. A word accented on the antepenult with an acute or a word accented on the penult with a circumflex will have an acute accent added to the ultima. That is the circumstance when you will see two accents on the same word. The enclitic remains unaccented.
 3. A word accented with an acute on the penult will not have any accent changes when followed by an enclictic. A one-syllable enclitic following such a word will remain unaccented. A two-syllable enclitic following a word accented on the penult with an acute will be accented on its own ultima. That is one circumstance in which you will see an enclitic accented.
-4. A proclitic followed by an enclitic will receive an acute accent. An enclictic followed by another enclitic in a sentence will also receive that enclitic's accent in its ultima, which will remain acute.
+4. A proclitic followed by an enclitic will receive an acute accent. An enclictic followed by another enclitic in a sentence will also receive that enclitic's accent on its ultima, which will remain acute.
 
 ### Practice recognizing enclitics
 Looking through the following passage (Lysias 1.6–7), identify which words are enclitics and how they have affected the accents of the preceding words. What rules are at play in these examples? Which words without accents are proclitics rather than enclitics?
