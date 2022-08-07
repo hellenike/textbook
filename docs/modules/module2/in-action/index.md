@@ -8,4 +8,4 @@ nav_order: 9
 ## Ancient Greek in action: gender identity and language
 
 
-- Gender and gender diversity: draw on sources in Tom Hendrickson, "[Gender Diversity in Greek and Latin](https://medium.com/ad-meliora/gender-diversity-in-greek-and-latin-grammar-ten-ancient-discussions-df371fe19af8)"
+- Grammatical gender and gender diversity: draw on sources in Tom Hendrickson, "[Gender Diversity in Greek and Latin](https://medium.com/ad-meliora/gender-diversity-in-greek-and-latin-grammar-ten-ancient-discussions-df371fe19af8)"
