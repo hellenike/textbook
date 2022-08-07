@@ -9,7 +9,7 @@ has_children: true
 
 ## Pronouns (ἡ ἀντωνυμία)
 
-Pronoun is a part of speech. Pronouns are used in place of and in reference to a noun: the Greek name ἀντωνυμία means "in place of a noun." The noun that a pronoun replaces and refers to is called the pronoun's _antecedent_.
+"Pronoun" is a part of speech. Pronouns are used in place of and in reference to a noun: the Greek name ἀντωνυμία means "in place of a noun." The noun that a pronoun replaces and refers to is called the pronoun's _antecedent_.
 
 Like nouns, pronouns in ancient Greek have grammatical gender, case, and number. The case of a pronoun, like that of a noun, will tell you its function in a clause.
 
@@ -34,7 +34,7 @@ Pronouns are among the words in English that still have cases. We have a "subjec
 | dative | ἡμῖν | (to/for) us | ὑμῖν | (to/for) you |
 | accusative | ἡμᾶς  | us | ὑμᾶς  | you |
 
-We have already seen in studying person with verb forms that ancient Greek verbs do not require a separate pronoun to express the subject. Because they are not needed, nominative personal pronouns are not used to express the subject unless the speaker wants to place special emphasis. The English equivalent of using the nominative pronoun would be heavy intonation and perhaps even pointing when spoken, or underlining or italics in writing, such as "**_We_** are studying Greek."
+We have already seen in studying person with verb forms that ancient Greek verbs do not require a separate pronoun to express the subject. Because they are not needed, nominative personal pronouns are not used to express the subject unless the speaker wants to place special emphasis on that subject. The English equivalent of using the nominative pronoun would be heavy stress and perhaps even pointing when spoken, or underlining or italics in writing, such as "**_We_** are studying Greek."
 
 The singular of the first and second person pronouns also have emphatic and unemphatic forms that operate in a similar way. The first form listed above is unemphatic. If the speaker wants to emphasize **_me_** or **_you_** in the sentence, then the second form will be used. In the first person singular, note that the emphatic form involves both an extra letter/syllable and an accent, while in the second person singular the difference is indicted solely by the accent. The unemphatic forms of both the first and second person singular pronouns are listed without an accent. They belong to a class of words called **enclitics**. (See next section.)
 
@@ -53,7 +53,7 @@ When functioning as adjectives, demonstratives are used in ancient Greek along w
 - τούτον τὸν ἄνδρα "this/that man"
 - τοῖς ἀνθρώποις ἐκείνοις "to/for those people"
 
-(Since English does not use its article along with demonstratives, we do not translate the article in these constructions. That allows us to be idiomatic in English.)
+(Since English does not use its article along with demonstratives, we do not translate the article in these constructions. Leaving the article out of the translation is necessary to be idiomatic in English. That is another example of how translation is not a "one-to-one" substitution of words.)
 
 When used as pronouns, the demonstratives are used on their own. They receive their gender and case from their _antecedent_, the noun they refer back to, but the case expresses the use of the pronoun in its own clause. If the antecedent is implied or understood, rather than expressed, we understand a noun that matches the gender and number of the demonstrative pronoun: ἐκεῖνος "that man" (masculine and singular), ταῦτα "these things" (neuter and plural), τῆσδε "of this (here) woman" (feminine and singular).
 
@@ -87,7 +87,7 @@ When used as pronouns, the demonstratives are used on their own. They receive th
 > Notes on the forms of οὗτος, αὕτη, τοῦτο:
 - The stem follows a pattern similar to the article, with the stem starting in tau in most forms, but with a rough breathing instead in the masculine and feminine nominative forms, both singular and plural.
 - The masculine and neuter forms have second declension endings with the diphthong **ου** in the stem, while the feminine forms have first decelension endings with the diphthong **αυ** in the stem.
-- The exception in the feminine is the genitive plural, which is drawn by assimiliation to the same form as the masculine and neuter genitvie plural, τούτων.
+- The exception in the feminine is the genitive plural, which is assimilated to the same form as the masculine and neuter genitvie plural, τούτων.
 - The neuter nominative and accustive plural forms use the αυ diphthong in phonetic assimilation with its ending -α.
 - The neuter singular nominative and accusative are a different kind of second declension ending (-ο instead of -ον).
 - The persistent accent pattern is the accent on a long penult. Thus the accent does not move from the penult, and will be a circumflex when the ultima is short and an acute when the ultima is long.
@@ -99,7 +99,7 @@ When used as pronouns, the demonstratives are used on their own. They receive th
 |    | Masc | Fem | Neut | Masc | Fem | Neut |
 |  |  |  |  |  |  |  |
 | Nominative | ἐκεῖνος  | ἐκείνη  | ἐκεῖνο  | ἐκεῖνοι | ἐκεῖναι  | ἐκεῖνα  |
-| Genitive | ἐκείνου | ἐκείηνς | ἐκείνου | ἐκείνων | ἐκείνων | ἐκείνων |
+| Genitive | ἐκείνου | ἐκείνης | ἐκείνου | ἐκείνων | ἐκείνων | ἐκείνων |
 | Dative | ἐκείνῳ  | ἐκείνῃ | ἐκείνῳ | ἐκείνοις | ἐκείναις | ἐκείνοις  |
 | Accusative | ἐκεῖνον | ἐκείνην | ἐκεῖνο | ἐκείνους | ἐκείνας | ἐκεῖνα |
 
@@ -110,7 +110,7 @@ When used as pronouns, the demonstratives are used on their own. They receive th
 
 ### Relative pronoun
 
-The relative pronoun is used to create dependent clauses that further describe or define a noun or pronoun in a sentence. The relative pronoun in English is _who, which, or that_. Relative clauses are dependent clauses, appearing with an independent clause in a sentence. The relative clause begins with a relative pronoun, which refers to a noun or pronoun in the independent clause, its _antecedent_. Because the relative clause is modifying that noun or pronoun, the form of the relative pronoun matches the antecedent in **gender** and **number**. Because the relative clause is its own verbal unit, with its own subject and verb, the **case** of the relative pronoun is determined by its use in its own clause. 
+The relative pronoun is used to create dependent clauses that further describe or define a noun or pronoun in a sentence. The relative pronoun in English is _who, which,_ or _that_. Relative clauses are dependent clauses, appearing with an independent clause in a sentence. The relative clause begins with a relative pronoun, which refers to a noun or pronoun in the independent clause, its _antecedent_. Because the relative clause is modifying that noun or pronoun, the form of the relative pronoun matches the antecedent in **gender** and **number**. Because the relative clause is its own verbal unit, with its own subject and verb, the **case** of the relative pronoun is determined by its use in its own clause. 
 
 #### Declension of ὅς, ἥ, ὅ
 | Case  |    | Singular|    |     | Plural  |     |
@@ -123,15 +123,15 @@ The relative pronoun is used to create dependent clauses that further describe o
 | Accusative | ὅν | ἥν | ὅ  | οὕς | ἅς | ἅ |
 
 > Notes on the forms of ὅς, ἥ, ὅ
-- the forms of the relative pronoun are similar to those of the article, without the initial tau that the article has in most forms and with a rough breathing on all forms. The exception is the masculine nominative singular ὅς. With forms like ἥ, οἵ, and αἵ, the only difference between the article and the relative pronoun is the accent on the relative pronoun form.
+- the forms of the relative pronoun are similar to those of the article, without the initial tau that the article has in most forms and with a rough breathing on all forms. Note the difference in the masculine nominative singular ὅς from the article ὁ. With forms of the relative pronoun like ἥ, οἵ, and αἵ, the only difference between the article and the relative pronoun is the accent on the relative pronoun form.
 - the accent pattern is also like that of the article, and like a persistent accent on the ultima: acute on nominative and accusative forms and circumflex on genitive and dative forms.
 
 #### Examples of relative clauses
 
 Identify the relative pronoun in the following sentences. What is its antecedent? What are the boundaries or the relative clause (where does it begin and where does it end)? What form of the relative pronoun would be used in ancient Greek (what is the gender, case, and number)?
 
-The woman who goes to the market brought messages to my wife.
-The house that I own has two floors.
-The husband narrated to the jurors the events which occurred. 
+- The woman who goes to the market brought messages to my wife.
+- The house that I own has two floors.
+- The husband narrated to the jurors the events which occurred. 
 
 > Compose in English your own sentences in English with relative clauses. Can you find ways to use relative pronouns in all four cases?
