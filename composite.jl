@@ -4,11 +4,13 @@ using UnifyJustTheDocs
 using Dates
 
 settingsfile = isempty(ARGS) ? "pdf/settings.yaml" : ARGS[1]
-outfile = length(ARGS) > 1 ? ARGS[2] : "composite.md"
+
+srcdir = length(ARGS) > 1 ? ARGS[2] : "docs"
+outfile = length(ARGS) > 2 ? ARGS[3] : "composite.md"
 
 settings = readlines(settingsfile) 
 
-root = joinpath(pwd(), "docs")
+root = joinpath(pwd(), srcdir)
 
 
 # create YAML header:
