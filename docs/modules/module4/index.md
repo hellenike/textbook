@@ -14,7 +14,7 @@ has_children: true
 ### Language
 
 Module 4 introduces
-- morphology of optative mood, all three voices, 3S and Pl (aorist, imperfect tenses)
+- morphology of optative mood, all three voices, in the present and aorist tenses for the third singular and third plural persons
 - the optative in subordinate clauses after past tense verbs 
 - introducing subordinating conjunctions, use of μή
 
