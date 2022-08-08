@@ -9,31 +9,56 @@ has_children: true
 
 ## The Optative Mood: Overview
 
-You were introduced to the indicative mood in Module 1. In this module, you will learn how to form verbs in the optative moods. Verbs in the optative mood appear both in subordinate clauses (such as the purpose clause, which we will learn in this module) and in certain independent clauses (which you will learn about next semester).
+You were introduced to the indicative mood in Module 1. In this module, you will learn how to form verbs in the optative mood. The Greek name for the mood is εὐκτική, "expressing a wish", which was one of the functions of the optative when it was used as the main verb of a sentence. Verbs in the optative mood are used both in subordinate clauses (such as the purpose clause and one kind of indirect statement, both of which we will learn in this module) and in certain independent clauses (which you will learn about next semester).
 
-You will recall that ancient Greek verbs have four moods: the indicative mood (which we have been working with) that is used to make factual statements; the imperative mood, used to give commands, which we will meet next semester, and the subjunctive and optative moods, which are used for potential or possible action in a variety of expressions. In some types of subordinate clauses, the verb would be in the subjunctive or the optative mood depending on whether the main clause is in a primary (present/future/perfect) or secondary tense (imperfect/aorist/pluperfect). Since we have been working with indicative verbs only in the secondary tenses of the imperfect and aorist, we will introduce the optative mood first.
+You will recall that ancient Greek verbs have four moods: 
+1. the indicative mood (which we have been working with) that is used to make factual statements; 
+2. the imperative mood, used to give commands, which we will meet next semester, and 
+3. and 4. the subjunctive and optative moods, which are used for potential or possible action in a variety of expressions. In some types of subordinate clauses, the verb would be in the subjunctive or the optative mood depending on whether the main clause is in a primary (present/future/perfect) or secondary tense (imperfect/aorist/pluperfect). Since we have been working with indicative verbs only in the secondary tenses of the imperfect and aorist, we will introduce the optative mood first.
 
-### Important things to know:
+### Important things to know about the optative:
 
-- The way we translate an optative verb form is entirely dependent on its context, its use in that particular clause. You must always first identify the type of "verbal chunk" they belong to. 
-- The "tense" of a verb in these moods represents the *aspect* of the action, not the *time*. Thus a present optative expresses ongoing or continuous action, and an aorist optative expresses a single action.
-- Forming these verbs requires only adding a new set of endings onto the same principal part stems that you have already learned.
+- The meaning of the optative mood and therefore the way we translate an optative verb form is entirely dependent on its context, its use in that particular clause. You must always first identify the type of "verbal chunk" they belong to. Therefore, we will not give translations to optative forms in the explanation ofhow to form them.
+- The "tense" of a verb in the optative mood represents the *aspect* of the action, not the *time*. A present optative expresses ongoing or continuous action, not necessarily action in the present time. An aorist optative expresses a single action, not necessarily action in the past.
+- Forming these verbs requires adding a new set of endings onto the same principal part stems that you have already learned.
 
-### Forming the present optative
+### Forming the present optative of thematic (uncontracted) verbs and athematic verbs like δείκνυμι
 
-To the stem from the first principal part, add the following endings:
+- (1) start by removing the first person singular ending (-ω or -ομαι / -μι or -μαι) and accent from the first principal part 
+
+> κελεύω -> κελευ-
+>  
+> δείκνυμι  -> δεικνυ-
+
+
+- (2) Add the appropriate ending. For this module, memorize *third person* endings for singular and plural.  Note that in *all* person-number combinations of the present optative, the middle and passive have identical endings.
 
 | Number  | Active  | Middle/Passive  |
 |---|---|---|
 | 3rd singular  | -οι   | -οιτο   |
 | 3rd plural  | -οιεν   | -οιντο   |
 
-### Forming the aorist optative
 
-As you would expect, for the active and middle, add endings to the stem from the third principal part. For the passive, add endings to the stem from the sixth principal part. As with the indicative, since a different prinicpal part (the sixth) is used for the passive 
+- (3) Apply recessive accent. Note that the final -οι in the optative form counts as *long* for accentuation (in contrast to the final -οι in the second declension masculine or feminine nominative plural, which counts as short for purposes of accentuation).
 
-Optative forms never carry an augment, however, so you must remove the augment from the stem.
+Example of κελεύω "command"
 
+| Person and Number | Active | Middle | Passive |
+| --- | --- | --- | --- |
+| 3rd singular |  κελεύοι   | κελεύοιτο  | κελεύοιτο |
+| 3rd plural | κελεύοιεν | κελεύοιντο  | κελεύοιντο  |
+
+
+### Forming the aorist optative of thematic verbs and athematic verbs like δείκνυμι
+
+Just as you learned to do for the aorist indicative active and middle, for the optative active and middle you will use the third principal part. 
+
+For the aorist optative passive, you will use the sixth principal part as you did for the aorist passive indicative. 
+
+As with the indicative, you will only distinguish between "first" and "second" aorists with the third principal part and the forms created from it. As reminder that you can recognize a verb that has a first aorist by a third principal ending in -α or -άμην. Verbs that have a second aorist have a third principal part that ends in -ον or -όμην.
+
+Recall that principal parts are all 1st person indicative mood verb forms. The third and sixth principal parts, as aorist indicative forms, carry the augment that is one indication of a past tense in the indicative. Optative forms *never* carry an augment, however, so in forming aorist optative verb forms, you must remove the augment from the principal part.
+**Augment**:  Past tenses in the indicative mood are indicated by two features: their set of personal endings, and an *augment* added to the front of the verb stem. Compare the first and third parts of verbs you already know. The third principal part (used for the aorist active and middle) shows the addition of an epsilon to the first prinicipal part's stem. If the stem begins with a consonant, you will see the epsilon in front of it. If the stem begins with a vowel, you will see that vowel lengthened. Either of these changes is called an *augment*. The imperfect tense shows the same pattern, but uses the first principal part. So when you need to add an augment, look to the third principal part to see what it should be. 
 
 **1st Aorist optative**
 
