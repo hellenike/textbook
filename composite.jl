@@ -1,3 +1,13 @@
+#=
+Compile a single composite markdown file from a root directory
+of markdown files with headers following the JustTheDocs theme's conventions.
+
+Usage:
+
+julia composite.jl [SETTINGSFILE] [SRCDIR] [OUTFILE]
+
+=#
+
 using Pkg
 Pkg.add("UnifyJustTheDocs")
 using UnifyJustTheDocs
