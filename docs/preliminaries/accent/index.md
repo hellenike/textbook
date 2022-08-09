@@ -62,7 +62,7 @@ Let's consider each individually.
 
 A grave accent is really just a replacement for an acute accent.  Within the context of a phrase or sentence, when a word with an acute accent on the ultima is followed directly by another accented word, its accent is changed from acute to grave. After a pause (indicated in our texts by a comma or period), the acute can remain unchange.
 
-Consider the word **αὐτήν** (the pronoun "her", with acute accent on the ultima) in these two sentences from Lysias 1. 
+Consider the word **αὐτήν** (the pronoun "her with acute accent on the ultima) in these two sentences from Lysias 1. 
 
 1. ἀπώλεσεν αὐτήν. ("He killed her.")  
 2. ἐκέλευον αὐτὴν ἀπιέναι. ("I ordered her to leave.")

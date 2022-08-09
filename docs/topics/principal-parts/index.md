@@ -33,7 +33,7 @@ All principal parts of an Ancient Greek verb are 1st person singular forms.
 
 ### Verb conjugations
 
-Greek verbs are organized into two "conjugations," a grouping where they share common endings.  **_Thematic_** verbs include a thematic vowel in their endings; **_athematic_** verbs do not. Thematic verbs are also called "-ω verbs" and athematic verbs may be called "-μι verbs", after the common ending of the first principal part.
+Greek verbs are organized into two "conjugations," a grouping where they share common endings.  **_Thematic_** verbs include a thematic vowel in their endings; **_athematic_** verbs do not. Thematic verbs are also called "-ω verbs" and athematic verbs may be called "-μι verbs after the common ending of the first principal part.
 
 ### Examples of principal parts
 

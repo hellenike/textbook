@@ -10,7 +10,7 @@ has_children: true
 ## The aorist indicative
 
 
-The form of a finite verb in ancient Greek expresses the *subject* as well as the *verb*: it is a complete verbal unit by itself. Example: the form ἐκέλευσε means "he or she ordered"; the form ἐκέλευσαν means "they ordered." These are already complete sentences that do not need a separate word for "he", "she" or "they."
+The form of a finite verb in ancient Greek expresses the *subject* as well as the *verb*: it is a complete verbal unit by itself. Example: the form ἐκέλευσε means "he or she ordered"; the form ἐκέλευσαν means "they ordered." These are already complete sentences that do not need a separate word for "he "she" or "they."
 
 ### The indicative mood and narrating events in the past
 
@@ -32,7 +32,7 @@ The aorist indicate represents the action in a way that can be (and has been) de
 To understand a verb form, you must take into account all five properties: person, number, tense, mood and voice. In the active voice, the subject performs the action. In the passive voice, the subject receives the action. The middle voice is, as the name indicates, in between active and passive, where the subject performs the action in some way for themselves.
 
 
-The verb ἄρχω in the active voice, for example, means "to be first", and from that sense "to rule".  In the passive voice, it means "to be ruled".  The middle voice means "to make yourself first" or "put yourself at the first position" of something, and therefore "to begin" something.
+The verb ἄρχω in the active voice, for example, means "to be first and from that sense "to rule".  In the passive voice, it means "to be ruled".  The middle voice means "to make yourself first" or "put yourself at the first position" of something, and therefore "to begin" something.
 
 In the following examples, we'll see how to form the aorist indicative of the verb δείκνυμι "to show" and κελεύω, "to command". In the third person plural of the aorist indicative, their meaning will be:
 

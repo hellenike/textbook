@@ -16,7 +16,7 @@ Participles are a kind of adjective created from a verb. They share qualities of
 
 ### English participles
 
-English has a very limited set of participles.  We can add *ing* to a verb stem to create a participle in a present tense and active voice.  In a phrase like the cliché "babbling brook", "brook" is a noun described by the adjective "babbling". "Babbling" is a participle in the active voice: we're saying that "the brook babbles."  It's also in the present tense: the brook is babbling as we speak.
+English has a very limited set of participles.  We can add *ing* to a verb stem to create a participle in a present tense and active voice.  In a phrase like the cliché "babbling brook "brook" is a noun described by the adjective "babbling". "Babbling" is a participle in the active voice: we're saying that "the brook babbles."  It's also in the present tense: the brook is babbling as we speak.
 
 We can also add *ed* to a verb stem to create a participle in a past tense and passive voice.  The phrase "dreaded news" describes the noun "news" with an adjective made from the verb "to dread".  The voice is passive: the news is not the active subject dreading something, but the passive subject, the thing that is dreaded.  The tense is past: the news was already dreaded before we speak.
 
@@ -31,7 +31,7 @@ Like finite verbs, participles are a verbal unit.  That is, they express a verba
 
 
 
-You've seen that the subject of finite verb may be implied by the person and number of the verb form ("he" or "she", for example, could be the subject of a third singular form), and that expressed subjects of finite verbs are in the nominative case.
+You've seen that the subject of finite verb may be implied by the person and number of the verb form ("he" or "she for example, could be the subject of a third singular form), and that expressed subjects of finite verbs are in the nominative case.
 
 The subject of a participle is a noun or pronoun
 

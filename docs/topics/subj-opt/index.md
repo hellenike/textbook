@@ -9,7 +9,7 @@ has_children: true
 
 ## The Optative Mood: Overview
 
-You were introduced to the indicative mood in Module 1. In this module, you will learn how to form verbs in the optative mood. The Greek name for the mood is εὐκτική, "expressing a wish", which was one of the functions of the optative when it was used as the main verb of a sentence. Verbs in the optative mood are used both in subordinate clauses (such as the purpose clause and one kind of indirect statement, both of which we will learn in this module) and in certain independent clauses (which you will learn about next semester).
+You were introduced to the indicative mood in Module 1. In this module, you will learn how to form verbs in the optative mood. The Greek name for the mood is εὐκτική, "expressing a wish which was one of the functions of the optative when it was used as the main verb of a sentence. Verbs in the optative mood are used both in subordinate clauses (such as the purpose clause and one kind of indirect statement, both of which we will learn in this module) and in certain independent clauses (which you will learn about next semester).
 
 You will recall that ancient Greek verbs have four moods: 
 1. the indicative mood (which we have been working with) that is used to make factual statements; 

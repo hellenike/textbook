@@ -15,7 +15,7 @@ nav_order: 2
 
 - ἐπειδὴ, "when". Introduces a clause with its own verb ("when something happened...")
 - ἄγομαι γυναῖκα, "marry, take a woman in marriage"
-- προσέχω τὸν νοῦν, "pay attention", "turn one's mind [to something])
+- προσέχω τὸν νοῦν, "pay attention "turn one's mind [to something])
 
 ### Passage to analyze
 

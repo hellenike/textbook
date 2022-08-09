@@ -20,7 +20,7 @@ Ancient Greek normally  connects, or *coordinates*, successive clauses and sente
 
 ### Coordinating conjunctions 
 
-*Coordinating conjunctions* join together parallel clauses (that is, a verbal unit expressed by a finite verb). (In module 3, we will look at *subordinating conjunctions*.)  One of the most common coordinating conjunctions is καί.  Like the English "and", it joins together two things of the same kind.  This could be a pair of nouns, like "peanut butter and jelly", or whole sentences, "I ate the sandwich and I drank the milk."
+*Coordinating conjunctions* join together parallel clauses (that is, a verbal unit expressed by a finite verb). (In module 3, we will look at *subordinating conjunctions*.)  One of the most common coordinating conjunctions is καί.  Like the English "and it joins together two things of the same kind.  This could be a pair of nouns, like "peanut butter and jelly or whole sentences, "I ate the sandwich and I drank the milk."
 
 When joining a pair of nouns or short phrases, Lysias (like many prose authors) likes to put a καί before each of the items. The phrase ἐν δημοκρατίᾳ means "in a democracy"; ἐν ὀλιγαρχίᾳ means "in an oligarcy". When Lysias joins them like this
 
