@@ -1,12 +1,13 @@
 ---
 layout: page
 title: "The athematic second aorist"
+parent: "Reading Greek"
+grand_parent: "Module 8: reading Greek"
+nav_order: 3
+has_children: true
 ---
 
-#### Active and middle of aorist indicative - mi verbs
+
+## The athematic second aorist
 
 βαίνω
-
-This page is floating until we figure out where it belongs.
-
-
