@@ -9,7 +9,11 @@ nav_order: 2
 
 Ancient Greek in the fifth and fourth centuries BCE was spoken with a pitch accent: that is, the pitch of your voice would rise or fall on different syllables. Later, this evolved into a stress accent: as in English or modern Greek, accented syllables came to be pronounced instead with extra stress.  Ancient scholars worried about the "correct" pronounciation as pitch accent began to disappear, and devised a system of three accent marks to indicate the proper pitch for a syllable. Their word for these accents, τόνος, was also used to refer to systems of pitch in Greek music, and is the source of the English word "tone."
 
-The *acute* accent **´** indicated that your voice should rise on the accented syllable, and was called ὀξύτονον, the "sharp" or "high pitch".  The *grave* accent **`** indicated that the voice should fall. It was called the βαρύτονον, the "heavy" or "low pitch". The *circumflex*  **˜**  signaled that your voice should rise and then fall on a single syllable. Its name was the περισπόμενος τόνος, a pitch that is bent or wrapped around as it travels up and then down.
+The *acute* accent indicated that your voice should rise on the accented syllable, and was called ὀξύτονον, the "sharp" or "high pitch".  The *grave* accent indicated that the voice should fall. It was called the βαρύτονον, the "heavy" or "low pitch". The *circumflex* signaled that your voice should rise and then fall on a single syllable. Its name was the περισπόμενος τόνος, a pitch that is bent or wrapped around as it travels up and then down.  On an alpha, they could look like this:
+
+- acute: ά
+- grave: ὰ
+- circumflex: ᾶ
 
 Because English speakers are accustomed to stress accents, we will pronounce any accented syllable, regardless of type of accent, with a stress accent.
  
@@ -99,8 +103,8 @@ An acute accent can appear on any of the last three syllables.  It only appears 
 | Accent to use | Syllable length | Example |
 | ---- | ---- | ---- |
 | *Acute* | ×  –  |  ἀνθρώπου |
-| *Acute* | ⏑ ⏑  OR ‿‿| φόνος  |
-| *Circumflex* |    – ⏑  | τοῦτο | 
+| *Acute* | ‿‿| φόνος  |
+| *Circumflex* |    – ‿  | τοῦτο | 
 
 
 ### Summary table
@@ -108,9 +112,9 @@ An acute accent can appear on any of the last three syllables.  It only appears 
 
 | Accented syllable | Syllable length | Examples |
 | ---- | ---- | ---- |
-| *Acute on antepenult* | × × ⏑   | ἄνθρωπος |
+| *Acute on antepenult* | × × ‿   | ἄνθρωπος |
 | *Acute on penult* |  ×  –  |  ἀνθρώπου |
-| *Acute on penult* |  ⏑ ⏑  | φόνος  |
-| *Circumflex on penult* |    – ⏑  | τοῦτο | 
+| *Acute on penult* |  ‿‿  | φόνος  |
+| *Circumflex on penult* |    – ‿  | τοῦτο | 
 | *Acute on ultima* |     ×  | αὐτή, αὐτός   |
 | *Circumflex on ultima* |     –  | αὐτοῦ |

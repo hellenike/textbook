@@ -26,13 +26,12 @@ The "review" chapter includes summaries of forms and syntax and a list of requir
 Finally, a reference section, offers a more comprehensive summary of forms.
 
 
-### NOTE ON Vocabulary: TBA
+### A note on vocabulary
 
 
+The first modules of the course emphasize a small core vocabulary (fewer than 200 words).  This vocabulary is characterized by its frequency across many corpora of Greek texts.   The common practice of simply finding the most frequent terms in a *composite* list of Greek texts, however, effaces the differences in vocabulary from one corpus to another, so instead we look for overlapping items in the highest frequency lists of individual corpora.
 
-First half of course: emphasis on a small core vocabulary (perhaps < 200 words).  This vocabulary is defined by comparison with other Greek corpora, and finding shared items in the highest frequency lists of individual corpora (rather than the common practice of finding most frequent terms in a *composite* list:  this effaces the differences in vocabulary from one corpus to another).
-
-It includes:
+The resulting lexemes include:
 
 - function words (prepositions, particles, conjunctions)
 - the article and pronouns
@@ -40,10 +39,4 @@ It includes:
 
 It includes a relatively small number of nouns, and fewer adjectives:  these parts of speech vary more from one corpus to another.
 
-
-In the second half of the course, we focus on a second vocabulary tier:  terms that are frequent in the target corpus and related or similar texts, but not necessarily in other Greek corpora.  The goal is to have a large enough vocabulary to recognize 75-90% of the lexical items in the target text, excluding proper nouns and adjectives.  For some target texts, a vocabulary of < 500 words may be adequate.  This second vocabulary tier will include more verbs, a larger number of nouns, and some additional adjectives.
-
-
-
-
-
+As we get further into the course, we focus on a second tier of vocabulary:  terms that are frequent in the target corpus and related or similar texts, but not necessarily in other Greek corpora.  The goal is to have a large enough vocabulary to recognize 75-90% of the lexical items in the target text, excluding proper nouns and adjectives.  For some target texts, a vocabulary of < 500 words may be adequate.  This second vocabulary tier will include more verbs, a larger number of nouns, and some additional adjectives.
