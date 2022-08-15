@@ -59,7 +59,7 @@ As with the indicative, you will only distinguish between "first" and "second" a
 
 Recall that principal parts are all 1st person indicative mood verb forms. The third and sixth principal parts, as aorist indicative forms, carry the augment that is one indication of a past tense in the indicative. Optative forms *never* carry an augment, however, so in forming aorist optative verb forms, you must **remove the augment** from the principal part. When the augment is an epsilon that has been added as a prefix, it is simple to remove it. When the augment is a lengthening of a vowel that begins the stem, you can often look to the first principal part to see what the unaugmented form is. Irregular verbs will, as we have come to expect, offer more variety between first and third prinicpal parts stems, and so we need to use more caution in thinking about what the unaugmented stem will be.
 
-**Forming the optative for first aorists**
+**First aorist optative**
 
 - (1a) for the active and middle, start by removing the first person singular ending (-α or -άμην), augment, and accent from the third principal part:
 
@@ -71,10 +71,11 @@ Recall that principal parts are all 1st person indicative mood verb forms. The t
 
 - (1b) for the aorist passive, start by removing the first person singular ending (-ην), augment, and accent from the sixth principal part
 
+> ἐκελεύσθην -> κελευσθ-
 > 
+> ἐδείχθην -> δείχθ-
 
-- (2) Add the appropriate ending. For this module, memorize *third person* endings for singular and plural.  Note that in *all* person-number combinations of the present optative, the middle and passive have identical endings.
-
+- (2) Add the appropriate ending. For this module, memorize *third person* endings for singular and plural. Note that there are two possible endings in both active forms and in the third person plural passive forms 
 
 
 |   | Active  | Middle  | Passive  |
@@ -84,26 +85,42 @@ Recall that principal parts are all 1st person indicative mood verb forms. The t
 
 - (3) Apply recessive accent. Note that the final -αι in the optative form counts as *long* for accentuation (in contrast to the final -αι in the first declension feminine or masculine nominative plural, which counts as short for purposes of accentuation).
 
-**Example of δείκνυμι "show"**
+**Example of first aorist from δείκνυμι "show"**
 
 | Person and Number | Active | Middle | Passive |
 | --- | --- | --- | --- |
-| 3rd singular |     |   |  |
-| 3rd plural |  |   |   |
+| 3rd singular | δείξαι or δείξειε(ν)    | δείξαιτο   | δειχθείη  |
+| 3rd plural | δείξαιεν or δείξειαν  | δείξαιντο   | δειχθείησαν or δειχθεῖεν   |
 
 
 
 **2nd Aorist optative**
+
+- (1a) for the active and middle, start by removing the first person singular ending (-α or -άμην), augment, and accent from the third principal part:
+
+> ἔβαλον  -> βαλ-
+>  
+> ἦλθον  -> ἐλθ-
+> 
+> ἐγενόμην -> γεν- 
+
+- (1b) for the aorist passive, start by removing the first person singular ending (-ην), augment, and accent from the sixth principal part
+
+> ἐβλήθην -> βλήθ-
+
+
+- (2) Add the appropriate ending. For this module, memorize *third person* endings for singular and plural. Note that the second aorist active and middle endings are the same as those of the present active and middle optative. Therefore, it is the difference in the stem that will indicate that these are optative forms. (Recall that we had to notice the same difference with the second aorist indicative compared to the imperfect indicative in the active and middle voices.)
 
 |   | Active  | Middle  | Passive  |
 |---|---|---|---|
 | 3rd singular  | -οι   | -οιτο   | -είη   |
 |  3rd plural | -οιεν  | -οιντο   | -είησαν or -εῖεν  |
 
+- (3) Apply recessive accent. This final -οι in the optative form counts as *long* for accentuation, as it did in the present endings.
 
-**Example of **
+**Example of second aorist from βάλλω "throw"**
 
 | Person and Number | Active | Middle | Passive |
 | --- | --- | --- | --- |
-| 3rd singular |     |   |  |
-| 3rd plural |  |   |   |
+| 3rd singular | βάλοι    | βάλοιτο   | βληθείη  |
+| 3rd plural | βάλοιεν  | βάλοιντο   | βληθείησαν or βληθεῖεν  |
