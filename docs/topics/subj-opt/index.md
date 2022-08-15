@@ -9,7 +9,7 @@ has_children: true
 
 ## The Optative Mood: Overview
 
-You were introduced to the indicative mood in Module 1. In this module, you will learn how to form verbs in the optative mood. The Greek name for the mood is εὐκτική, "expressing a wish which was one of the functions of the optative when it was used as the main verb of a sentence. Verbs in the optative mood are used both in subordinate clauses (such as the purpose clause and one kind of indirect statement, both of which we will learn in this module) and in certain independent clauses (which you will learn about next semester).
+You were introduced to the indicative mood in Module 1. In this module, you will learn how to form verbs in the optative mood. The Greek name for the mood is εὐκτική, "expressing a wish," which was one of the functions of the optative when it was used as the main verb of a sentence. Verbs in the optative mood are used both in subordinate clauses (we will learn a few of them in this module) and in certain independent clauses (which you will learn about next semester).
 
 You will recall that ancient Greek verbs have four moods: 
 1. the indicative mood (which we have been working with) that is used to make factual statements; 
@@ -22,7 +22,7 @@ You will recall that ancient Greek verbs have four moods:
 - The "tense" of a verb in the optative mood represents the *aspect* of the action, not the *time*. A present optative expresses ongoing or continuous action, not necessarily action in the present time. An aorist optative expresses a single action, not necessarily action in the past.
 - Forming these verbs requires adding a new set of endings onto the same principal part stems that you have already learned.
 
-### Forming the present optative of thematic (uncontracted) verbs and athematic verbs like δείκνυμι
+### Forming the present optative of thematic (and non-contracted) verbs and athematic verbs like δείκνυμι
 
 - (1) start by removing the first person singular ending (-ω or -ομαι / -μι or -μαι) and accent from the first principal part 
 
@@ -41,7 +41,7 @@ You will recall that ancient Greek verbs have four moods:
 
 - (3) Apply recessive accent. Note that the final -οι in the optative form counts as *long* for accentuation (in contrast to the final -οι in the second declension masculine or feminine nominative plural, which counts as short for purposes of accentuation).
 
-Example of κελεύω "command"
+**Example of κελεύω "command"**
 
 | Person and Number | Active | Middle | Passive |
 | --- | --- | --- | --- |
@@ -57,15 +57,40 @@ For the aorist optative passive, you will use the sixth principal part as you di
 
 As with the indicative, you will only distinguish between "first" and "second" aorists with the third principal part and the forms created from it. As reminder that you can recognize a verb that has a first aorist by a third principal ending in -α or -άμην. Verbs that have a second aorist have a third principal part that ends in -ον or -όμην.
 
-Recall that principal parts are all 1st person indicative mood verb forms. The third and sixth principal parts, as aorist indicative forms, carry the augment that is one indication of a past tense in the indicative. Optative forms *never* carry an augment, however, so in forming aorist optative verb forms, you must remove the augment from the principal part.
-**Augment**:  Past tenses in the indicative mood are indicated by two features: their set of personal endings, and an *augment* added to the front of the verb stem. Compare the first and third parts of verbs you already know. The third principal part (used for the aorist active and middle) shows the addition of an epsilon to the first prinicipal part's stem. If the stem begins with a consonant, you will see the epsilon in front of it. If the stem begins with a vowel, you will see that vowel lengthened. Either of these changes is called an *augment*. The imperfect tense shows the same pattern, but uses the first principal part. So when you need to add an augment, look to the third principal part to see what it should be. 
+Recall that principal parts are all 1st person indicative mood verb forms. The third and sixth principal parts, as aorist indicative forms, carry the augment that is one indication of a past tense in the indicative. Optative forms *never* carry an augment, however, so in forming aorist optative verb forms, you must **remove the augment** from the principal part. When the augment is an epsilon that has been added as a prefix, it is simple to remove it. When the augment is a lengthening of a vowel that begins the stem, you can often look to the first principal part to see what the unaugmented form is. Irregular verbs will, as we have come to expect, offer more variety between first and third prinicpal parts stems, and so we need to use more caution in thinking about what the unaugmented stem will be.
 
-**1st Aorist optative**
+**Forming the optative for first aorists**
+
+- (1a) for the active and middle, start by removing the first person singular ending (-α or -άμην), augment, and accent from the third principal part:
+
+> ἐκέλευσα  -> κελευσ-
+>  
+> ἔδειξα  -> δειξ-
+> 
+> ἡγησάμην -> ἡγησ- (compare the first prinicpal part ἡγέομαι, which also begins with an eta) 
+
+- (1b) for the aorist passive, start by removing the first person singular ending (-ην), augment, and accent from the sixth principal part
+
+> 
+
+- (2) Add the appropriate ending. For this module, memorize *third person* endings for singular and plural.  Note that in *all* person-number combinations of the present optative, the middle and passive have identical endings.
+
+
 
 |   | Active  | Middle  | Passive  |
 |---|---|---|---|
 | 3rd singular  | -αι or -ειε(ν)  | -αιτο   | -είη  |
 |  3rd plural | -αιεν or -ειαν   | -αιντο   | -είησαν or -εῖεν  |
+
+- (3) Apply recessive accent. Note that the final -αι in the optative form counts as *long* for accentuation (in contrast to the final -αι in the first declension feminine or masculine nominative plural, which counts as short for purposes of accentuation).
+
+**Example of δείκνυμι "show"**
+
+| Person and Number | Active | Middle | Passive |
+| --- | --- | --- | --- |
+| 3rd singular |     |   |  |
+| 3rd plural |  |   |   |
+
 
 
 **2nd Aorist optative**
@@ -74,3 +99,11 @@ Recall that principal parts are all 1st person indicative mood verb forms. The t
 |---|---|---|---|
 | 3rd singular  | -οι   | -οιτο   | -είη   |
 |  3rd plural | -οιεν  | -οιντο   | -είησαν or -εῖεν  |
+
+
+**Example of **
+
+| Person and Number | Active | Middle | Passive |
+| --- | --- | --- | --- |
+| 3rd singular |     |   |  |
+| 3rd plural |  |   |   |
