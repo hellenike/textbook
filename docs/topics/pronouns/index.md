@@ -50,7 +50,6 @@ The nominative forms are not used as personal pronouns, to mean sinmply "he, she
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |    | Masc | Fem | Neut | Masc | Fem | Neut |
-|  |  |  |  |  |  |  |
 | Genitive | αὐτοῦ  | αὐτῆς  | αὐτοῦ | αὐτῶν | αὐτῶν | αὐτῶν |
 | Dative | αὐτῷ  | αὐτῇ | αὐτῷ | αὐτοῖς | αὐταῖς  | αὐτοῖς  |
 | Accusative | αὐτόν | αὐτήν | αὐτό | αὐτούς  | αὐτάς  | αὐτά  |
@@ -82,7 +81,6 @@ When used as pronouns, the demonstratives are used on their own. They receive th
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |    | Masc | Fem | Neut | Masc | Fem | Neut |
-|  |  |  |  |  |  |  |
 | Nominative | ὅδε | ἥδε | τόδε | οἵδε | αἵδε | τάδε |
 | Genitive | τοῦδε | τῆσδε | τοῦδε | τῶνδε | τῶνδε | τῶνδε |
 | Dative | τῷδε | τῇδε | τῷδε | τοῖσδε | ταῖσδε | τοῖσδε |
@@ -96,7 +94,6 @@ When used as pronouns, the demonstratives are used on their own. They receive th
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |    | Masc | Fem | Neut | Masc | Fem | Neut |
-|  |  |  |  |  |  |  |
 | Nominative | οὗτος | αὕτη | τοῦτο | οὗτοι | αὗται | ταῦτα |
 | Genitive | τούτου | ταύτης | τούτου | τούτων | τούτων | τούτων |
 | Dative | τούτῳ | ταύτῃ | τούτῳ | τούτοῖς | ταύταις | τούτοις |
@@ -115,7 +112,6 @@ When used as pronouns, the demonstratives are used on their own. They receive th
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |    | Masc | Fem | Neut | Masc | Fem | Neut |
-|  |  |  |  |  |  |  |
 | Nominative | ἐκεῖνος  | ἐκείνη  | ἐκεῖνο  | ἐκεῖνοι | ἐκεῖναι  | ἐκεῖνα  |
 | Genitive | ἐκείνου | ἐκείνης | ἐκείνου | ἐκείνων | ἐκείνων | ἐκείνων |
 | Dative | ἐκείνῳ  | ἐκείνῃ | ἐκείνῳ | ἐκείνοις | ἐκείναις | ἐκείνοις  |
@@ -134,7 +130,6 @@ The relative pronoun is used to create dependent clauses that further describe o
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |    | Masc | Fem | Neut | Masc | Fem | Neut |
-|  |  |  |  |  |  |  |
 | Nominative | ὅς | ἥ | ὅ | οἵ | αἵ | ἅ |
 | Genitive | οὗ | ἧς | οὗ | ὧν | ὧν | ὧν |
 | Dative | ᾧ | ᾗ | ᾧ | οἷς | αἷς | οἷς  |
