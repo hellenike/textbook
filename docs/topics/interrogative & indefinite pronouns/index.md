@@ -14,14 +14,18 @@ In this module, we add two more types of pronouns to those pronouns you learned 
 ### Interrogative pronoun
 Interrogative pronouns are so named because they are used to ask questions. The interrogative pronouns in English are *who?*, *which?*, and *what?*.
 > Who goes there?
+> 
 > Whom did she see?
+> 
 > Which do they want?
+> 
 > What did he do?
 
 We have already seen in Module 2 that these English words are used as relative pronouns as well, and so the context of their use—-whether in a question or a relative clause--indicates the type of pronoun. Ancient Greek has different pronouns for these uses.
 
 Like *which* and *what* in English, the interrogative pronoun in ancient Greek can also be used as an interrogative adjectives, modifying a noun.
 > Which friend did she see?
+> 
 > What crime did he commit?
 
 In ancient Greek the interrogative pronoun and adjective is τίς, τί. It belongs to the third declension, and it has one set of forms for the masculine and feminine, and another for the neuter. 
@@ -44,13 +48,16 @@ In ancient Greek the interrogative pronoun and adjective is τίς, τί. It b
 
 Indefinite pronouns are used in place of or to refer to persons or things that are unspecified, unknown or uncertain. In English, indefinite pronouns include *anyone*, *anybody*, *anything*, *someone*, *somebody*, and *something*. 
 > He talks to anyone.
+> 
 > Someone will come.
+> 
 > She did not find anything.
 
 In ancient Greek the indefinite pronoun is τις, τι. Like the interrogative pronoun, it belongs to the third declension, and it has one set of forms for the masculine and feminine, and another for the neuter. The difference between the forms of two pronouns in ancient Greek lies in the accent alone.
 
 The indefinite pronoun can also be used as an adjective, equivalent to English *some* or *any*.
 > He was talking to some friends.
+> 
 > Any books left behind were removed.
 
 **Declension of τις, τι** 
