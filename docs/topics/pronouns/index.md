@@ -21,7 +21,7 @@ The designation "personal" for personal pronouns is connected to the idea of "pe
 
 Pronouns are among the words in English that still have cases. We have a "subjective" case of pronouns that is like the nominative: I, we, he, she. The "objective" case of pronouns are used for objects of verbs or objects of prepositions, and so that is what we will use for the "oblique" cases (a category covering the genitive, dative, and accusative cases) in ancient Greek: me, us, him, her, them. In English, we no longer have distinctions for the second person in cases, just as with number: "you" is used in all cases and numbers, and "it" is also used for both the subjective and objective cases.
 
-#### Forms of person pronouns for first and second persons
+#### Forms of personal pronouns for first and second persons
 
 | Case | 1st person | English equivalent | 2nd person | English equivalent |
 | --- | --- | --- | --- | --- |
@@ -126,7 +126,7 @@ When used as pronouns, the demonstratives are used on their own. They receive th
 
 The relative pronoun is used to create dependent clauses that further describe or define a noun or pronoun in a sentence. The relative pronoun in English is _who, which,_ or _that_. Relative clauses are dependent clauses, appearing with an independent clause in a sentence. The relative clause begins with a relative pronoun, which refers to a noun or pronoun in the independent clause, its _antecedent_. Because the relative clause is modifying that noun or pronoun, the form of the relative pronoun matches the antecedent in **gender** and **number**. Because the relative clause is its own verbal unit, with its own subject and verb, the **case** of the relative pronoun is determined by its use in its own clause. 
 
-#### Declension of ὅς, ἥ, ὅ
+**Declension of ὅς, ἥ, ὅ**
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |    | Masc | Fem | Neut | Masc | Fem | Neut |
