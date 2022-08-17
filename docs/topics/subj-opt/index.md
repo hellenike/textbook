@@ -80,7 +80,7 @@ Recall that principal parts are all 1st person indicative mood verb forms. The t
 
 |   | Active  | Middle  | Passive  |
 |---|---|---|---|
-| 3rd singular  | -αι or -ειε(ν)  | -αιτο   | -είη  |
+| 3rd singular  | -αι or -ειε/-ειεν  | -αιτο   | -είη  |
 |  3rd plural | -αιεν or -ειαν   | -αιντο   | -είησαν or -εῖεν  |
 
 - (3) Apply recessive accent. Note that the final -αι in the optative form counts as *long* for accentuation (in contrast to the final -αι in the first declension feminine or masculine nominative plural, which counts as short for purposes of accentuation).
@@ -89,7 +89,7 @@ Recall that principal parts are all 1st person indicative mood verb forms. The t
 
 | Person and Number | Active | Middle | Passive |
 | --- | --- | --- | --- |
-| 3rd singular | δείξαι or δείξειε(ν)    | δείξαιτο   | δειχθείη  |
+| 3rd singular | δείξαι or δείξειε or δείξειεν   | δείξαιτο   | δειχθείη  |
 | 3rd plural | δείξαιεν or δείξειαν  | δείξαιντο   | δειχθείησαν or δειχθεῖεν   |
 
 
