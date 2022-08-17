@@ -18,7 +18,7 @@ Note: Some verbs that do not have verb stems ending in a vowel in the first prin
 
 Vocabulary to memorize:
 
-- ἀδικέω
+- ἀδικέω TRANSLATION
 - δοκέω
 - ποιέω
 
