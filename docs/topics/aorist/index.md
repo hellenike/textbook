@@ -119,10 +119,8 @@ In the the same way, the sixth principal parts can be used to form aorist passiv
 
 Learn these paradigm verbs: be able to produce the first, third and sixth principal parts (**emphasized like this** in the list) from memory.
 
-- **δείκνυμι**, `δείξω`, **ἔδειξα**, `δέδειχα`, `δέδειγμα`, **ἐδείχθην**, "[to show](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n23658)" 
+- **δείκνυμι**, `δείξω`, **ἔδειξα**, `δέδειχα`, `δέδειγμαι`, **ἐδείχθην**, "[to show](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n23658)" 
 - **κελεύω**, `κελεύσω`, **ἐκέλευσα**, `κεκέλευκα`, `κεκέλευμαι`, **ἐκελεύσθην**, "[to order](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n56496)“
-
-
 
 
 
@@ -133,14 +131,35 @@ Learn these paradigm verbs: be able to produce the first, third and sixth princi
     }
 </style>
 
+
+### An important irregular verb
+
+The verb δίδωμι "to give" is very common.  Memorize its first, third and sixth principal parts. 
+
+
+- **δίδωμι**, `δώσω`, **ἔδωκα**, `δέδωκα`, `δέδομαι`, **ἐδόθην**, "to give"
+
+
+
+
+In the aorist passive, its forms are exactly what you would expect, but it has some some irregular forms in the aorist active and middle.  Memorize the irregular forms (highlighted with the "little star," or ἀστερίσκος).
+
+| | Active | Middle | Passive |
+| --- | --- | --- | --- |
+| third singular |  ἔδωκε | ※ ἔδοτο | ἐδόθη |
+| third plural | ※ ἔδοσαν | ※ ἔδοντο | ἐδόθησαν  |
+
+
+
+
 ### Compound verbs
 
 English readily creates new vocabulary with "phrasal verbs."  These add a specific sense to a common verb by using the verb together with an additional word. Compare the change of meanings if you change "take" to the phrasal verb "take on," "take in," "take down," or "take out." Notice that the forms of the basic verb remain the same when you use them in phrasal verbs: since the past tense of "take" is "took," you can say "she took on," "they took in," etc.
 
-Greek has a similar capacity for building new vocabulary by creating **compound verbs**.  Compound verbs add a prefixed word to each of the basic verb's principal parts. As with English phrasal verbs, the new verb has a specific meaning, but follows the forms of the basic form. For example, the verb ἐπιδείκνυμι adds the prefix ἐπι- to the verb δείκνυμι "to show", and gives it the sense "to demonstrate" or "prove."  In the third and sixth principal parts of δείκνυμι where the form starts with a vowel (ἔδειξα and ἐδείχθην), the ending vowel of ἐπι is elided.  Memorize this important compound of δείκνυμι. (This is the verb Euphiletus will use to talk about proving his case in court!)  If you've already memorized the principal parts of δείκνυμι, you've got a new vocabulary item for almost no additional effort!
+Greek has a similar capacity for building new vocabulary by creating **compound verbs**.  Compound verbs add a prefixed word to each of the basic verb's principal parts. As with English phrasal verbs, the new verb has a specific meaning, but follows the forms of the basic form. For example, the verb ἐπιδείκνυμι adds the prefix ἐπι- to the verb δείκνυμι "to show", and gives it the sense "to demonstrate" or "prove." (This is the verb Euphiletus will use to talk about proving his case in court.)  In the third and sixth principal parts of δείκνυμι where the form starts with a vowel (ἔδειξα and ἐδείχθην), the ending vowel of ἐπι is elided.  Memorize the following two compound verbs: if you've already memorized the principal parts of the basic verbs, you've got two new vocabulary item for almost no additional effort!
 
- **ἐπιδείκνυμι**, `ἐπιδείξω`, **ἐπέδειξα**, `ἐπιδέδειχα`, `ἐπιδέδειγμα`, **ἐπεδείχθην**, "[to demonstrate, prove](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n39125)"
-
+- **ἐπιδείκνυμι**, `ἐπιδείξω`, **ἐπέδειξα**, `ἐπιδέδειχα`, `ἐπιδέδειγμα`, **ἐπεδείχθην**, "[to demonstrate, prove](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n39125)"
+- **παραδίδωμι**, `παραδώσω`, **παρἔδωκα**, `παραδέδωκα`, `παραδέδομαι`, **παρἐδόθην**, "to hand over, transmit, entrust (a thing to a person)" 
 
 ### Vocabulary to practice with (no need to memorize)
 

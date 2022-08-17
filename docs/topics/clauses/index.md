@@ -12,15 +12,15 @@ has_children: false
 ## Clauses and coordination
 
 
-A verbal unit containing a *finite* verb form is called a *clause*. A sentence consists of one or more clauses.
+A verbal unit containing a finite verb form is called a **clause**. A sentence consists of one or more clauses.
 
 
-Ancient Greek normally  connects, or *coordinates*, successive clauses and sentences explicity. In many styles of English, starting every sentence by connecting it to the previous one could quickly seem excessive, but doing so is more the norm in many styles of ancient Greek prose and even poetry, and serves to concisely clarify the relation of clauses to each.  The words that do this work in Greek are *conjunctions* and coordinating *particles*. 
+Ancient Greek normally  connects, or **coordinates**, successive clauses and sentences explicity. In many styles of English, starting every sentence by connecting it to the previous one could quickly seem excessive, but doing so is more the norm in many styles of ancient Greek prose and even poetry, and serves to concisely clarify the relation of clauses to each.  The words that do this work in Greek are *conjunctions* and coordinating *particles*. 
 
 
 ### Coordinating conjunctions 
 
-*Coordinating conjunctions* join together parallel clauses (that is, a verbal unit expressed by a finite verb). (In module 3, we will look at *subordinating conjunctions*.)  One of the most common coordinating conjunctions is καί.  Like the English "and it joins together two things of the same kind.  This could be a pair of nouns, like "peanut butter and jelly or whole sentences, "I ate the sandwich and I drank the milk."
+**Coordinating conjunctions** join together parallel clauses (that is, a verbal unit expressed by a finite verb). (In module 3, we will look at **subordinating conjunctions**.)  One of the most common coordinating conjunctions is καί.  Like the English *and*, it joins together two things of the same kind.  This could be a pair of nouns, like "peanut butter and jelly," or whole sentences, "I ate the sandwich and I drank the milk."
 
 When joining a pair of nouns or short phrases, Lysias (like many prose authors) likes to put a καί before each of the items. The phrase ἐν δημοκρατίᾳ means "in a democracy"; ἐν ὀλιγαρχίᾳ means "in an oligarcy". When Lysias joins them like this
 
@@ -39,7 +39,7 @@ he means, "*both* in a democracy, *and* in an oligarchy".
 
 ### Coordinating particles
 
-The use of small words that we call *particles* to add nuances of meaning is a characteristic and ubiquitous feature of anicent Greek.  Many of these particles can coordinate parallel clauses, just like coordinating conjunctions, but are placed *after* the first word of the unit they introduce (whereas conjunctions are the first word of the new clause). One term for this placement is "postpositive" (meaning something like "placed after").
+The use of small words that we call **particles** to add nuances of meaning is a characteristic and ubiquitous feature of anicent Greek.  Many of these particles can coordinate parallel clauses, just like coordinating conjunctions, but are placed *after* the first word of the unit they introduce (whereas conjunctions are the first word of the new clause). One term for this placement is **postpositive** (meaning something like "placed after").
 
 The most common particle in Greek is δέ. It marks an item in a list, that normally begins with an item marked by the particle μέν. Here, the speaker Euphiletus lists two clauses: the first is what *he* did; the second is what his (unnamed) wife did.
 
@@ -61,9 +61,9 @@ Euphiletus then uses καί to connect an additional clause to the second item:
 
 
 
-#### Aside on reading and translating
-     
-The verb ἐγέλων is a first singular active in the imperfect tense, so one possibility is to take it as meaning "I started to laugh." The speaker uses the present tense for the wife's actions, just as we might in English switch into the present tense in narrating past events, to emphasize a vivid moment: "I laughed, and BOOM! she locks the door!"  One possibility for putting together **μὲν**  and **δὲ** here could be, "I started to laugh, then she locks the door and takes the key".  There is no single "correct" translation. One of the delights of reading ancient Greek is the opportunity to see a range of meaning that no single translation can capture.
+> #### Aside on reading and translating
+>     
+> The verb ἐγέλων is a first singular active in the imperfect tense, so one possibility is to take it as meaning "I started to laugh." The speaker uses the present tense for the wife's actions, just as we might in English switch into the present tense in narrating past events, to emphasize a vivid moment: "I laughed, and BOOM! she locks the door!"  One possibility for putting together **μὲν**  and **δὲ** here could be, "I started to laugh, then she locks the door and takes the key".  There is no single "correct" translation. One of the delights of reading ancient Greek is the opportunity to see a range of meaning that no single translation can capture.
 
 
 

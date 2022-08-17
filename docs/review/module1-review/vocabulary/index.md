@@ -46,3 +46,29 @@ For this module, memorize the first, third and sixth principal parts of each ver
 #### Irregular forms to learn
 
 - ἦν third-person singular imperfect indicative active of εἰμί, "she/he/it was"
+
+
+
+
+
+### Irregular forms: aorist of δίδωμι
+
+| | Active | Middle | Passive |
+| --- | --- | --- | --- |
+| third singular |  ἔδωκε | ※ ἔδοτο | ἐδόθη |
+| third plural | ※ ἔδοσαν | ※ ἔδοντο | ἐδόθησαν  |
+
+
+
+
+
+### Irregular forms: imperfect of δίδωμι
+
+
+
+
+| Person and Number | Imperfect Active  | Imperfect Middle  | Imperfect Passive  |
+| third singular |  ※  ἐδίδου  | ἐδίδοτο  | ἐδίδοτο |
+| third plural | ἐδίδοσαν  | ἐδίδοντο  | ἐδίδοντο|
+
+
