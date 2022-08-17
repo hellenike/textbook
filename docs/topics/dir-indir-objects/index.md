@@ -53,7 +53,7 @@ Look for patterns in these endings that can help you recognize the case endings.
 
 > Note that for a neuter noun or adjective in any declension, the accusative singular form will always be the same as the nominative singular form, and the accusative plural forms will always be the same as the nominative plural form.
 > 
-> Note that the dative plural ending of third declension nouns will have a "moveable nu" placed on the ending if the next word in the sentence starts with a vowel or if it is the last word in a sentence.
+> Note that the dative plural ending of third declension nouns will have a "moveable nu" placed on the ending if the next word in the sentence starts with a vowel or if it is the last word in a sentence. In paradigms, therefore, you will see both options, without and with the nu on the end.
 
 > Note that the alpha in the 1st declension accusative ending -ας is a long alpha, while in the third declension masculine/feminine accusative plural ending -ας the alpha is short.
 
