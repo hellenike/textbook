@@ -44,7 +44,7 @@ Other adjectives are called "first and third declension" adjectives because the 
 |    | Masc | Fem | Neut | Masc | Fem | Neut |
 | Nominative | πᾶς  | πᾶσα  | πᾶν | πάντες  | πᾶσαι   | πάντα   |
 | Genitive | παντός  | πάσης   | παντός  | πάντων   | πασῶν  | πάντων  |
-| Dative | παντί  | πάσῃ | παντί | πᾶσι(ν) | πάσαις  | πᾶσι(ν) |
+| Dative | παντί  | πάσῃ | παντί | πᾶσι or πᾶσιν | πάσαις  | πᾶσι or πᾶσιν |
 | Accusative | πάντα | πᾶσαν | πᾶν  | πάντας   | πάσας   | πάντα   |
 
 
