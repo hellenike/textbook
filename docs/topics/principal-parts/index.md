@@ -10,30 +10,30 @@ has_children: true
 
 ## Principal parts of verbs
 
-All verb forms in these many combinations of person, number, tense, mood and voice, as well as infinitives and participles, are formed using the verb's principal parts. 
+All verb forms in these many combinations of person, number, tense, mood and voice, as well as infinitives and participles, are formed using the verb's **principal parts**. 
 
-English verbs have principal parts, too, although native speakers may not learn them as such. In English, the principal parts can include the present, past, and past participle: for example, play, played, played; swim, swam, swum; go, went, gone; do, did, done. 
+English verbs have a system of principal parts, too, although native speakers may not about them that way. In English, the principal parts can include the present, past, and past participle: for example, play, played, played; swim, swam, swum; go, went, gone; do, did, done. 
 
-The standard number of principal parts for Ancient Greek verbs is six, although for some verbs fewer principal parts, even only one or two, may exist; and for others, alternatives may exist and increase the total number. 
+The standard number of principal parts for ancient Greek verbs is six, although for some verbs fewer principal parts, even only one or two, may exist. Some verbs may have alternative forms so that its principal parts are represented by more than six forms. 
 
-Learning the principal parts of verbs is important so that you will be able to create correct verb forms and so that you will be able to recognize verb forms in a text, both for what person, number, tense, voice, and mood they are and also what verb they come from. In a glossary or a lexicon Greek verbs are listed according to the first principal part, and so if you are looking a verb up you will need to be able to move from a verb form made from any principal part to its first principal part in order to find it in the lexicon.
+Learning the principal parts of verbs is important so that you will be able to create correct verb forms and so that you will be able to recognize verb forms in a text, both for what person, number, tense, voice, and mood they are and also what verb they come from. In a glossary or a lexicon Greek verbs are listed according to the **first principal part**, and so if you are looking a verb up you will need to be able to move from a verb form made from any principal part to its first principal part in order to find it in the lexicon.
 
 ### Forms of Prinicipal Parts
 
-All principal parts of an Ancient Greek verb are 1st person singular forms. 
+All principal parts of an Ancient Greek verb are first person singular forms. 
 
 | Principal part | Form |
 | --- | --- |
-| 1st	|	1st person singular present active indicative OR 1st person singular present middle indicative if active forms do not exist |
-| 2nd	|	1st person singular future active indicative OR 1st person singular future middle indicative if active forms do not exist |
-| 3rd	|	1st person singular aorist active indicative OR 1st person singular aorist middle indicative if active forms do not exist |
-| 4th	|	1st person singular perfect active indicative |
-| 5th	|	1st person singular perfect middle/passive indicative |
-| 6th	|	1st person singular aorist passive indicative |
+| first	|	first person singular present active indicative OR 1st person singular present middle indicative if active forms do not exist |
+| second	|	first person singular future active indicative OR 1st person singular future middle indicative if active forms do not exist |
+| third	|	first person singular aorist active indicative OR 1st person singular aorist middle indicative if active forms do not exist |
+| fourth	|	first person singular perfect active indicative |
+| fifth	|	first person singular perfect middle/passive indicative |
+| sixth	|	first person singular aorist passive indicative |
 
 ### Verb conjugations
 
-Greek verbs are organized into two "conjugations," a grouping where they share common endings.  **_Thematic_** verbs include a thematic vowel in their endings; **_athematic_** verbs do not. Thematic verbs are also called "-ω verbs" and athematic verbs may be called "-μι verbs after the common ending of the first principal part.
+Greek verbs are organized into two "conjugations," a grouping where they share common endings.  **Thematic** verbs include a vowel in their endings; **athematic** verbs do not. Thematic verbs are also called **-ω verbs** and athematic verbs may be called **-μι verbs** after the ending of the first principal part in the active voice.
 
 ### Examples of principal parts
 
@@ -80,26 +80,26 @@ As you learn principal parts, you should practice noticing patterns and then usi
 
 #### Endings
 
-Since all the forms are first-person singular, the ending reflects that person-number. The ending will indicate which conjugation the verb belongs to. In the first principal part, the endings -ω and -ομαι indicate the *thematic* conjugation, while the endings -μι and -μαι (with some letter other than omicron before it) indicate the *athematic* conjugation. 
+Since all the forms are first person singular, the ending reflects that person and number. The ending will indicate which conjugation the verb belongs to. In the first principal part, the endings -ω and -ομαι indicate the **thematic** conjugation, while the endings -μι and -μαι (with some letter other than omicron before it) indicate the **athematic** conjugation. 
 
-For those principal parts that could be either active or middle (that is, the 1st, 2nd, 3rd prinicpal parts), the ending will also indicate the voice: -ω or -μι (1st and 2nd principal parts), and -ον or -α (3rd) are active, while -μαι (1st and 2nd) and -μην (3rd) are middle. 
+For those principal parts that could be either active or middle (that is, the first, second, thirrd prinicpal parts), the ending will also indicate the voice: -ω or -μι (first and second principal parts), and -ον or -α (third principal part) are active, while -μαι (first and second) and -μην (third) are middle. 
 
-For the 4th principal part, which is always active, you can expect the ending -α. 
-For the 5th, which is always middle/passive, the endings is -μαι. 
-And the 6th principal part, which is always passive, will end in -ην.  
+The fourth principal part is always active; you can expect the ending -α. 
+The fifth principal part is always middle or passive; its ending is -μαι. 
+The sixth principal part is always passive, and will end in -ην.  
 
 #### Prefixes
 
-For the 3rd and 6th principal parts, which are aorist (a secondary tense) you will see an *augment* prefixed to the verbal stem. The augment is an indication of a secondary tense in the indicative mood (all principal parts are in the indicative mood). The augment may appear as the addition of an ἐ- before a stem that begins with a consonant, or it may appear as the lengthening of the initial vowel if the stem begins with a vowel.
+For the third and sixth principal parts, which are aorist (a secondary tense) you will see an **augment** prefixed to the verbal stem. The augment is an indication of a secondary tense in the indicative mood (all principal parts are in the indicative mood). The augment may appear as the addition of an ἐ- before a stem that begins with a consonant, or it may appear as the lengthening of the initial vowel if the stem begins with a vowel.
 
-For the 4th and 5th principal parts, which are in the perfect tense, the stem will show *reduplication* as a sign of the perfect tense. The reduplication may appear as a repetition of the initial consonant of the verb stem. If the initial consonant is aspirated (θ, φ, χ), the reduplication is the corresponding non-aspirated consonant (τ, π, κ, respectively). If the stem starts with multiple consonants, the reduplication will be simply ἐ-. If the stem starts with a vowel, the reduplication will appear as a lengthened vowel.
+For the fourth and fifth principal parts, which are in the perfect tense, the stem will show **reduplication** as a sign of the perfect tense. The reduplication may appear as a repetition of the initial consonant of the verb stem. If the initial consonant is aspirated (θ, φ, χ), the reduplication is the corresponding non-aspirated consonant (τ, π, κ, respectively). If the stem starts with multiple consonants, the reduplication will be simply ἐ-. If the stem starts with a vowel, the reduplication will appear as a lengthened vowel.
 
 #### Stem changes
 
-As in English, very common verbs show greater changes to the verb stem in different principal parts. Compare ἔρχομαι (present) and ἦλθον (aorist) with "go" (present) and "went" (past) in English.
+As in English, very common verbs show more variety or irregularity in the verb stems of different principal parts. Compare ἔρχομαι (present) and ἦλθον (aorist) with "go" (present) and "went" (past) in English.
 
 Some changes to verb stems appear with many more regular verbs: 
 
-- A sigma may be added to the present stem for the future and/or aorist active stem (2nd and 3rd principal parts, e.g., κελεύω, κελεύσω, ἐκέλευσα), 
-- A kappa may be part of the stem in the perfect active (4th principal part, e.g., κεκέλευκα). 
-- The 6th principal part may have a theta at the end of its stem, e.g. ἐδυνήθην
+- The future and/or aorist active stem (second and third principal parts) are often equivalent to adding a sigma to the first principal part stem, e.g., κελεύω, κελεύσω, ἐκέλευσα. 
+- A kappa is often part of the stem in the perfect active (fourth principal part), e.g., κεκέλευκα. 
+- The sixth principal part may have a theta at the end of its stem, e.g. ἐδυνήθην.
