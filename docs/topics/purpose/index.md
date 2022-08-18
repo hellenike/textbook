@@ -24,7 +24,7 @@ The structure of a purpose clause in ancient Greek has the following features:
 
 ### Practice with purpose clauses
 
-In the reading for Module 2, the house and living arrangements of Euphiletus were described. In the speech, purpose clauses explain a bit more. They are modified here to use the optative forms. Let's go back and see why the usual arrangements were flipped, as we practice purpose clauses (and get some participles, too, back in now that we can practice those as well).
+In the reading for Module 2, the house and living arrangements of Euphiletos were described. In the speech, purpose clauses explain a bit more. They are modified here to use the optative forms. Let's go back and see why the usual arrangements were flipped, as we practice purpose clauses (and get some participles, too, back in now that we can practice those as well).
 
 In each of the following sections, identify the purpose clause, its boundaries and the form of the verb in it.
 

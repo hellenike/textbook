@@ -29,6 +29,7 @@ nav_order: 2
 - clause
 - coordination: coordinating conjunctions, particles
 - postpositive
+- adverb
 
 #### Forming the aorist and imperfect
 

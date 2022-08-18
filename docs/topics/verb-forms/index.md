@@ -65,10 +65,4 @@ Take some time to think about how the middle voice imagines actions with nuances
 For some verb tenses, the middle and the passive share the same form. If you are identifying the form alone, you should identify it as "middle or passive." In a sentence, however, you will consider other syntactic structures within the clause or sentence to determine whether that particular use is middle or is passive, in order to understand the clause or sentence correctly.
 
 
-### Negation with finite verb forms
-
-English negates a finite verb with the word *not*. Ancient Greek has two main words to negate a finite verb form: οὐ and μή. 
-
-- οὐ: Indicative verbs in most clauses are negated with οὐ. Note that οὐ has a smooth breathing and no accent. If the word that follows οὐ in a sentence begins with a vowel also with a smooth breathing, οὐ becomes οὐκ. If the word following begins with a rough breathing, οὐ becomes οὐχ. 
-- μή: Some verbs in other moods or in certain types of clauses use μή instead. We will meet μή again in Module 4. 
 

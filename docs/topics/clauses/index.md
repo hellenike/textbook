@@ -41,7 +41,7 @@ he means, "*both* in a democracy, *and* in an oligarchy".
 
 The use of small words that we call **particles** to add nuances of meaning is a characteristic and ubiquitous feature of anicent Greek.  Many of these particles can coordinate parallel clauses, just like coordinating conjunctions, but are placed *after* the first word of the unit they introduce (whereas conjunctions are the first word of the new clause). One term for this placement is **postpositive** (meaning something like "placed after").
 
-The most common particle in Greek is δέ. It marks an item in a list, that normally begins with an item marked by the particle μέν. Here, the speaker Euphiletus lists two clauses: the first is what *he* did; the second is what his (unnamed) wife did.
+The most common particle in Greek is δέ. It marks an item in a list, that normally begins with an item marked by the particle μέν. Here, the speaker Euphiletos lists two clauses: the first is what *he* did; the second is what his (unnamed) wife did.
 
 ἐγὼ **μὲν** ἐγέλων ("I began to laugh")
 
@@ -49,7 +49,7 @@ The most common particle in Greek is δέ. It marks an item in a list, that nor
 
 We can join these in various ways in English: "I began to laugh, and she locks the door" would be perfectly idiomatic.
 
-Euphiletus then uses καί to connect an additional clause to the second item:
+Euphiletos then uses καί to connect an additional clause to the second item:
 
 ἐκείνη **δὲ**  προστίθησι τὴν θύραν **καὶ** τὴν κλεῖν ἐφέλκεται ("She locks the door and takes the key")
 

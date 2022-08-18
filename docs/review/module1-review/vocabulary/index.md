@@ -13,12 +13,20 @@ Links are to the standard scholarly reference lexicon for ancient Greek by Lidde
 
 #### Conjunctions and connecting particles
 
-- ἀλλά
-- γάρ
-- καί
+- ἀλλά 
+- γάρ 
+- καί 
 - μέν...δέ...δέ
 - οὖν
 - τε
+
+#### Adverbs
+
+- ἔπειτα "then, next"
+- εὖ "well"
+- καί "even, also"
+- νῦν "now, at present"
+- οὐ/μή "not"
 
 #### Verbs
 
@@ -48,9 +56,6 @@ For this module, memorize the first, third and sixth principal parts of each ver
 - ἦν third-person singular imperfect indicative active of εἰμί, "she/he/it was"
 
 
-
-
-
 ### Irregular forms: aorist of δίδωμι
 
 | | Active | Middle | Passive |
@@ -59,13 +64,7 @@ For this module, memorize the first, third and sixth principal parts of each ver
 | third plural | ※ ἔδοσαν | ※ ἔδοντο | ἐδόθησαν  |
 
 
-
-
-
 ### Irregular forms: imperfect of δίδωμι
-
-
-
 
 | Person and Number | Imperfect Active  | Imperfect Middle  | Imperfect Passive  |
 | third singular |  ※  ἐδίδου  | ἐδίδοτο  | ἐδίδοτο |

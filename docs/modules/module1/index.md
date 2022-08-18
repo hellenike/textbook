@@ -27,5 +27,5 @@ Different languages imagine the world and express thoughts about it differently.
 
 ### Reading: overview
 
-In our reading in module 1, we meet Euphiletus, the speaker in Lysias, *Oration 1*.  Euphiletus describes the early days of his marriage (to a wife who is never named). We will begin to consider and grapple with cultural as well as linguistic concepts and differences.
+In our reading in module 1, we meet Euphiletos, the speaker in Lysias, *Oration 1*.  Euphiletos describes the early days of his marriage (to a wife who is never named). We will begin to consider and grapple with cultural as well as linguistic concepts and differences.
 
