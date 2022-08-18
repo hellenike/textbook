@@ -39,7 +39,13 @@ English negates a finite verb with the word *not*. Ancient Greek has two main wo
 
 ### Adverbial καί
 
-ἀνάγνωθι δέ μοι καὶ τοῦτον τὸν νόμον 
+We have already seen that the word καί can serve as a conjunction to join two clauses.  Related to the root idea of "adding" things, καί can also be used as an adverb, meaning "too, even."  When an elderly woman reveals to Euphiletos his wife's affair with Eratosthenes, she says, "Eratosthenes has destroyed not only your wife, but also (καὶ) many other women," or "Eratosthenes has destroyed not only your wife, but many other women, too (καὶ)."
+
+How can you distinguish the two uses?  How will you know if καί is a conjunction or an adverb?  Let's look at the example sentence.  There is a complete clause we have translated as "Eratosthenes has destroyed not only your wife," then we have four Greek words:  ἀλλὰ καὶ ἄλλας πολλάς.
+
+ἀλλὰ is the familiar conjunction: it introduces a new clause.  ἄλλας πολλάς means "many other women", and is in a form we will learn in Module 2 that marks it as the direct object of the verb;  in this context, we don't see an explicit verb, and can assume the verb of the previous clause is understood:  "He has destroyed your wife; [he has destroyed] many other women."  καὶ can't be a conjunction because this clause is already connected to the previous clause by ἀλλὰ: "Eratosthenes has destroyed not only your wife, but many other women." Adding καί strengthens the contrast between the two clauses: "Eratosthenes has destroyed not only your wife, but many other women, *too*"  or "Eratosthenes has destroyed not only your wife, but *also* many other women." 
+
+Remember that a clause will have a single finite verb (explicit or implicit), and will normally be connected to its context by a particle or conjunction.  If you can correctly chunk a long stretch of text into verbal units, you'll be able to see whether καί is joining clauses, or working as an adverb to modify the idea of the clause.
 
 ### Vocabulary to memorize
 
