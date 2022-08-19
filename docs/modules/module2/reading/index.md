@@ -8,7 +8,7 @@ nav_order: 10
 ## Reading
 
 
-Practice, reading and composition based on Lysias 1, 9–12: the house of Euphiletos, and the beginning of his discoveries that all was not what he thought.
+Based on Lysias 1, 9–12: the house of Euphiletos, and the beginning of his discoveries that all was not what he thought.
 
 ἡ τοῦ Εὐφιλήτου οἰκία διπλῆ ἦν, καὶ ἴσα τὰ ἄνω τοῖς κάτω κατὰ τὴν γυναικωνῖτιν καὶ κατὰ τὴν ἀνδρωνῖτιν εἶχεν. ἐπειδὴ δὲ τὸ παιδίον ἐγένετο αὐτοῖς, ἡ μήτηρ αὐτὸ ἐθήλαζεν. ἐν οὖν ἐκείνῳ τῷ χρόνῳ, ὁ Εὐφίλητος μὲν ἄνω διῄτωτο, αἱ δὲ γυναῖκες κάτω. 
 
