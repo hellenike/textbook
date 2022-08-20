@@ -74,6 +74,8 @@ has_children: true
 - κατὰ τὴν γυναικωνῖτιν καὶ κατὰ τὴν ἀνδρωνῖτιν: prepositions in ancient Greek are used idiomatically, as they are in English. Use the form of the article to discern the gender, case, and number of the nouns γυναικωνῖτιν and ἀνδρωνῖτιν. Look back at the section on prepositions to see teh range of meaning κατά has with that case, and then think about how to make that idiomatic English to express the same idea.
 - γυναικωνῖτιν and ἀνδρωνῖτιν: notice that the beginnings of these words come from the nouns γυνή, γυναικός, ἡ and ἀνήρ, ἀνδρός, ὁ. They means something like "women's rooms" or "women's space" and "men's rooms" or "men's space." These are cultural concepts that we have to learn to correctly understand what is being described. 
 
+- ἐπειδὴ **δὲ**: δέ connects this sentence to the previous one, signalling that the train of thought is continuing. Paragraphs in English organize and connect sentences in a similar manner. ἐπειδὴ introduces a dependent relative adverbial clause: this clause is grammatically dependent on the one that follows. ἐπειδὴ = "when" or "since"
+
 
 - Εὐφιλήτῳ "to Euphiletos". 
 - γῆμαι "to marry" (an infinitive form of the verb [γαμέω](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n21556))
