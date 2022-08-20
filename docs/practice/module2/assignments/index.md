@@ -85,7 +85,10 @@ has_children: true
 - πολὺν χρόνον: "for much time," the accusative cases even without a preposition indicates duration or length of time.
 - οὕτως, an adverb, "this way"
 
-
+- οὐδέποτε, an adverb, "never" (note the initial οὐ indicating a negative)
+- **ὑπώπτευσεν**, from ὑποπτεύω, "be suspicious," another compund verb, ὑπό + ὀπτεύω. This is the third person aorist indicative active: as we saw above, the augment happens after the prefix, at the beginning of the verb stem. 
+- ἠλιθίως, another adverb, meaning something like "foolishly"
+- **διέκειτο**, from διάκειμαι, yet another compound verb where the augment is placed after the prefix διά (the alpha is elided before the ε augment). This is an idiomatic verb, meaning to be in a certain state of mind, and then the adverb expresses what state of mind that is. What would be an English expression that would convey a similar idea? 
 
 
 
