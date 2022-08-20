@@ -79,20 +79,10 @@ has_children: true
 - **ἐθήλαζεν** from the verb θηλάζω "to breastfeed." θηλάζω is a first principal part: what is the complete form of ἐθήλαζεν? Why would that tense be appropriate to what is being described?
 
 - **οὖν** signals that a conclusion is being drawn from what has been said. The original speech explained that Euphiletos didn't want his wife to risk falling going up and down the stairs in the night as she was feeding the baby, and so while the baby was young enough to need feeding during the night, the usual arrangement of domestic space was changed to accommodate that activity.
-- **διῃτᾶτο** is from the verb διαιτάω, "to live, spend one's time": the alpha at the end of its stem contracts with the thematic vowel as you learned in Module 1 with the model verb ὁράω. It is also a compound verb,  
+- **διῃτᾶτο** is from the verb διαιτάω, "to live, spend one's time": the alpha at the end of its stem contracts with the thematic vowel as you learned in Module 1 with the model verb ὁράω. It is also a compound verb, a combination of διά + αἰτάω. Compund verbs are augmented at the beginning of the verb stem, after the prefix, so the diphthing αι at the beginning of the verb stem becomes lengthened to ῃ with the iota becoming subscript. So this is the third person imperfect indicative middle-passive form. Is it middle or passive in this particular sentence? And what nuance does that voice give to the expressed idea?
+- 
 
-- Εὐφιλήτῳ "to Euphiletos". 
-- γῆμαι "to marry" (an infinitive form of the verb [γαμέω](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n21556))
-- γυναῖκα, "woman, wife".   In the Liddell-Scott Greek lexicon, read [definition B.1.2 for the verb ἄγω](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n27847). (You'll need to scroll a ways to find it!)  This definition specifically refers to using the noun γυναῖκα as the direct object of ἄγω.  
-- εἰς τὴν οἰκίαν "to his house".  Notice that in definition B.1.2 of ἄγω linked above, the second example (from the historian Herodotus, abbreviated "Hdt.") has the phrase γυναῖκα ἄ. ἐς τὰ οἰκία, an exactly equivalent phrase to Lysias' γυναῖκα ἄ. εἰς τὴν οἰκίαν.
-- παιδίον "a child" (subject of the verb)
-- αὐτῷ "to him" (refers to Euphiletos)
-- ἐν τῷ πρώτῳ χρόνῳ "at first" The whole phrase goes together:   the particles μὲν οὖν start a new clause, and the phrase "at first" is the first piece of that clause.
- - **ἦν** Understand Euphiletos' wife as the subject: "She was..."
-- πασῶν βελτίστη "the best of all women".
-- **μὲν οὖν ... ἀλλὰ** μέν starts a new topic; οὖν adds an additional nuance of empahsis to this clause -- "really, in fact".  Here, μέν is not continued by δέ; instead, the conjuncation ἀλλά introduces a strong contrasting clause (here in fact, two clauses joined by καί: their verbs are ἐτελεύτησε and ἐγένετο).
-- ἡ Εὐφιλήτου μήτηρ "Euphiletos' mother" (subject of the verb ἐτελεύτησε; assume it continues as subject of the following verb ἐγένετο as well).
-- πάντων τῶν κακῶν αἰτία "the cause of all his troubles".
+
 
 
 #### Translation
