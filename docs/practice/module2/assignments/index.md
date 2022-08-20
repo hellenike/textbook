@@ -25,7 +25,7 @@ has_children: true
 ἡ μήτηρ αὐτὸ **ἐθήλαζεν**. 
 
 
-ἐν **οὖν** ἐκείνῳ τῷ χρόνῳ, ὁ Εὐφίλητος **μὲν** ἄνω **διῄτωτο**, 
+ἐν **οὖν** ἐκείνῳ τῷ χρόνῳ, ὁ Εὐφίλητος **μὲν** ἄνω **διῃτᾶτο**, 
 
 αἱ **δὲ** γυναῖκες κάτω. 
 
@@ -79,7 +79,7 @@ has_children: true
 - **ἐθήλαζεν** from the verb θηλάζω "to breastfeed." θηλάζω is a first principal part: what is the complete form of ἐθήλαζεν? Why would that tense be appropriate to what is being described?
 
 - **οὖν** signals that a conclusion is being drawn from what has been said. The original speech explained that Euphiletos didn't want his wife to risk falling going up and down the stairs in the night as she was feeding the baby, and so while the baby was young enough to need feeding during the night, the usual arrangement of domestic space was changed to accommodate that activity.
-- διῄτωτο is from the verb διαιτάω, "to live, spend one's time": the alpha at the end of its stem contracts with the thematic vowel as you learned in Module 1 with the model verb ὁράω. It is also a compound verb,  
+- **διῃτᾶτο** is from the verb διαιτάω, "to live, spend one's time": the alpha at the end of its stem contracts with the thematic vowel as you learned in Module 1 with the model verb ὁράω. It is also a compound verb,  
 
 - Εὐφιλήτῳ "to Euphiletos". 
 - γῆμαι "to marry" (an infinitive form of the verb [γαμέω](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n21556))
