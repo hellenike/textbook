@@ -92,16 +92,16 @@ has_children: true
 
 - this next **μὲν** is signaling that there is more to come, and the following **δὲ** clause continues the events of the narration
 - **ἧκε**, understand Euphiletos as the subject, "he came"
-- ἀπροσδοκήτως, adverb, "unexpectedly"
+- ἀπροσδοκήτως, an adverb, "unexpectedly"
 - ἀγροῦ, from ἀγρός, ἀγροῦ, ὁ, "field." There is a lot of embedded cultural understanding in this expression: Euphiletos is a farmer, and his farmland is outside the city, while his house is in the city of Athens. The jury would understand that he goes to his farmland to work, and perhaps during busy times even stays out there overnight. So on this day, when he comes to his home in the city, his wife was not expecting him--she was likely assuming that he would stay out in the fields for the night.
 - τὸ δεῖπνον, "the meal, dinner": neuter singular accusative with the preposition μετά 
 - **ἐβόα** **καὶ** **ἐδυσκόλαινεν**: the conjunction καί connecting the two verbs, both with the subject τὸ παιδίον, **ἐβόα** from βοάω "cry, shout" and **ἐδυσκόλαινεν** from δυσκολαίνω "fuss, be irritable"
-- ἐπίτηδες, adverb, "on purpose, intentionally"
+- ἐπίτηδες, an adverb, "on purpose, intentionally"
 - **ἐλύπειτο** from λυπέω "cause pain, hurt"
 
 - **γὰρ** signals that this clause explains the previous one
-- ἔνδον, adverb, "inside" (the house)
-- ὕστερον, adverb, "later"
+- ἔνδον, an adverb, "inside" (the house)
+- ὕστερον, an adverb, "later"
 - ἅπαντα: the adjective ἅπας, ἅπασα, ἅπαν is an intensive form of πᾶς, πᾶσα, πᾶν and declines the same way. Reread the section on substantive adjectives to understand its use here.
 - **ἐπύθετο** from πυνθάνομαι (first principal part) "learn", especially to learn by asking, and be someone telling you the information. Its third principal part is ἐπυθόμην.
 
