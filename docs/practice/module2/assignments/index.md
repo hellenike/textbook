@@ -74,10 +74,12 @@ has_children: true
 - κατὰ τὴν γυναικωνῖτιν καὶ κατὰ τὴν ἀνδρωνῖτιν: prepositions in ancient Greek are used idiomatically, as they are in English. Use the form of the article to discern the gender, case, and number of the nouns γυναικωνῖτιν and ἀνδρωνῖτιν. Look back at the section on prepositions to see teh range of meaning κατά has with that case, and then think about how to make that idiomatic English to express the same idea.
 - γυναικωνῖτιν and ἀνδρωνῖτιν: notice that the beginnings of these words come from the nouns γυνή, γυναικός, ἡ and ἀνήρ, ἀνδρός, ὁ. They means something like "women's rooms" or "women's space" and "men's rooms" or "men's space." These are cultural concepts that we have to learn to correctly understand what is being described. 
 
-- ἐπειδὴ **δὲ**: δέ connects this sentence to the previous one, signalling that the train of thought is continuing. Paragraphs in English organize and connect sentences in a similar manner. ἐπειδὴ introduces a dependent relative adverbial clause: this clause is grammatically dependent on the one that follows. ἐπειδὴ = "when" or "since"
+- ἐπειδὴ **δὲ**: δέ connects this sentence to the previous one, signaling that the train of thought is continuing. Paragraphs in English organize and connect sentences in a similar manner. ἐπειδὴ introduces a dependent relative adverbial clause: this clause is grammatically dependent on the one that follows. ἐπειδὴ = "when" or "since"
 - ἡ μήτηρ: μήτηρ means "mother." What does the article indicate about its gender, case, and number? What are different options for translating the article in this context? Which option sounds most idiomatic in English to you?
 - **ἐθήλαζεν** from the verb θηλάζω "to breastfeed." θηλάζω is a first principal part: what is the complete form of ἐθήλαζεν? Why would that tense be appropriate to what is being described?
 
+- **οὖν** signals that a conclusion is being drawn from what has been said. The original speech explained that Euphiletos didn't want his wife to risk falling going up and down the stairs in the night as she was feeding the baby, and so while the baby was young enough to need feeding during the night, the usual arrangement of domestic space was changed to accommodate that activity.
+- διῄτωτο is from the verb διαιτάω, "to live, spend one's time": the alpha at the end of its stem contracts with the thematic vowel as you learned in Module 1 with the model verb ὁράω. It is also a compound verb,  
 
 - Εὐφιλήτῳ "to Euphiletos". 
 - γῆμαι "to marry" (an infinitive form of the verb [γαμέω](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n21556))
