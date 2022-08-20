@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Direct and indirect objects"
-parent: "Module 2, nouns and adjectives: practice"
+parent:  "Mastering module 2"
 grand_parent: "Practice"
 nav_order: 12
 has_children: true
 ---
 
-## Direct and indirect objects
+### Direct and indirect objects

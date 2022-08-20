@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Persistent accent"
-parent: "Module 2, nouns and adjectives: practice"
+parent:  "Mastering module 2"
 grand_parent: "Practice"
 nav_order: 3
 has_children: true
@@ -9,11 +9,11 @@ has_children: true
 
 
 
-## Persistent accent
+### Persistent accent
 
 Study and practice the following basic patterns of persistent accents on nouns.
 
-### Persistent accent on the antepenult 
+#### Persistent accent on the antepenult 
 
 Only acute accents live on antepenult, and it will be on the antepenult whenever the ultima is short (a requirement for the antepenult to be accented). When the ultima is long, the accent shifts to the penult, and will be acute.
 
@@ -35,7 +35,7 @@ Examples: ἄνθρωπος, ἀνθρώπου, ὁ / ἡ  "human being, person
 |   | Accusative | ἀνθρώπους  |
 |   | Vocative | ἄνθρωποι   |
 
-### Persistent accent on a long penult
+#### Persistent accent on a long penult
 
 Accent will remain on penult (with exception of genitive plural in first declension). If ultima is short, accent will be circumflex; if ultima is long, accent will be acute. Examples: γνώμη, γνώμης, ἡ "judgment, opinion" (first declension) and δῶρον, δώρου, τό "gift" (second declension)
  
@@ -54,7 +54,7 @@ Accent will remain on penult (with exception of genitive plural in first declens
 |   | Accusative | γνώμας  | δῶρα |
 |   | Vocative | γνῶμαι  | δῶρα |
 
-### Persistent accent on a short penult
+#### Persistent accent on a short penult
 
 The accent will remain on the penult and will remain acute (with exception of genitive plural in first declension). (Recall that circumflex accents are carried only by long vowels and diphthongs.) Examples: οἰκία, οἰκίας, ἡ "house" (first declension); χρόνος, χρόνου, ὁ "time, time period" (second declension); and ἔργον, ἔργου, τό "work, deed" (second declension).
 
@@ -73,7 +73,7 @@ The accent will remain on the penult and will remain acute (with exception of ge
 |   | Accusative | οἰκίας  | χρόνους | ἔργα |
 |   | Vocative | οἰκίαι   | χρόνοι | ἔργα |
 
-### Persistent accent on the ultima
+#### Persistent accent on the ultima
 
 |   | Case | Form |
 | --- | --- | --- |

@@ -3,10 +3,10 @@ layout: page
 title: "Module 1, verbs: reading"
 parent: "Module 1 portfolio"
 grand_parent: "Practice"
-nav_order: 5
+nav_order: 2
 ---
 
-## Reading from Lysias 1.7-1.8 (simplified)
+### Module 1 reading: Lysias 1.7-1.8 (simplified)
 
 
 > Each verbal unit is placed on a separate line. The verbal expression
@@ -32,7 +32,7 @@ nav_order: 5
 **καὶ** πάντων τῶν κακῶν αἰτία **ἐγένετο**.
 
 
-### Questions
+#### Questions
 
 1. Fully identify each of the following verbs (that is, identify their person, number, tense, mood and voice), and give their first principal part.
     - ἔδοξε
@@ -42,7 +42,7 @@ nav_order: 5
 2. Notice that ἐπίστευε and παρέδωκε are coordinated with καί, but are in different tenses.  Why do you think Lysias chooses the specific tenses he uses here?  The little adverb [ἤδη](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n46646) may gives us a clue for ἐπίστευε: it can mean that its clause only happened *after* the previously narrated events.
 
 
-### Glosses and notes
+#### Glosses and notes
 
 - Εὐφιλήτῳ "to Euphiletos". 
 - γῆμαι "to marry" (an infinitive form of the verb [γαμέω](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n21556))
@@ -58,7 +58,7 @@ nav_order: 5
 - πάντων τῶν κακῶν αἰτία "the cause of all his troubles".
 
 
-### Translation
+#### Translation
 
 
 Using the glosses below, and keeping in mind the insight you have gained from answering the preceding questions, please compose an idiomatic translation into English of the passage above.  
