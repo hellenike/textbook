@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Identifying clauses"
-parent: "Module 1, verbs: practice"
+parent:  "Mastering module 1"
 grand_parent: "Practice"
 nav_order: 10
 has_children: true

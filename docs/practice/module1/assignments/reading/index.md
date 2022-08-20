@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Module 1, verbs: reading"
-parent: "Module 1, verbs: practice"
+parent: "Module 1 portfolio"
 grand_parent: "Practice"
 nav_order: 5
 ---
