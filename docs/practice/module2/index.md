@@ -10,13 +10,13 @@ has_children: true
 
 
 
-- substantives and the article
-- persistent accent
-- the genitive case
-- direct and indirect objects
-- adjectives
-- pronouns
-- prepositions
+- [substantives and the article](practice/article)
+- [persistent accent](practice/persistent-accent)
+- [the genitive case](practice/genitive)
+- [direct and indirect objects](practice/objects)
+- [adjectives](practice/adjectives)
+- [pronouns](practice/pronouns)
+- [prepositions](practice/prepositions)
 
 
 
