@@ -94,6 +94,8 @@ has_children: true
 - **ἧκε**, understand Euphiletos as the subject, "he came"
 - ἀπροσδοκήτως, another adverb, "unexpectedly"
 - ἀγροῦ, from ἀγρός, ἀγροῦ, ὁ, "field." There is a lot of embedded cultural understanding in this expression: Euphiletos is a farmer, and his farmland is outside the city, while his house is in the city of Athens. The jury would understand that he goes to his farmland to work, and perhaps during busy times even stays out there overnight. So on this day, when he comes to his home in the city, his wife was not expecting him--she was likely assuming that he would stay out in the fields for the night.
+- τὸ δεῖπνον, "the meal, dinner": neuter singular accusative with the preposition μετά 
+- **ἐβόα** **καὶ** **ἐδυσκόλαινεν**: the conjunction καί connecting the two verbs, both with the subject τὸ παιδίον, **ἐβόα** from βοάω "cry, shout" and **ἐδυσκόλαινεν** from δυσκολαίνω "fuss, be irritable"
 
 
 #### Translation
