@@ -79,8 +79,13 @@ has_children: true
 - **ἐθήλαζεν** from the verb θηλάζω "to breastfeed." θηλάζω is a first principal part: what is the complete form of ἐθήλαζεν? Why would that tense be appropriate to what is being described?
 
 - **οὖν** signals that a conclusion is being drawn from what has been said. The original speech explained that Euphiletos didn't want his wife to risk falling going up and down the stairs in the night as she was feeding the baby, and so while the baby was young enough to need feeding during the night, the usual arrangement of domestic space was changed to accommodate that activity.
+- **μὲν** and **δὲ** are corrdinating and contrasting the two clauses. Note that the **δὲ** clause does not contain a highlighted verb. When two clauses are coordinated, the verb can "carry over" when it applies to both clauses. We can can do that in English, too: "I love you, but not him," we understand that "I love" is the subject and verb in both clauses and that the object is being contrasted. So in this sentence, understand the verb from the **μὲν** clause to be operating in the **δὲ** clause as well.
 - **διῃτᾶτο** is from the verb διαιτάω, "to live, spend one's time": the alpha at the end of its stem contracts with the thematic vowel as you learned in Module 1 with the model verb ὁράω. It is also a compound verb, a combination of διά + αἰτάω. Compund verbs are augmented at the beginning of the verb stem, after the prefix, so the diphthing αι at the beginning of the verb stem becomes lengthened to ῃ with the iota becoming subscript. So this is the third person imperfect indicative middle-passive form. Is it middle or passive in this particular sentence? And what nuance does that voice give to the expressed idea?
-- 
+
+- πολὺν χρόνον: "for much time," the accusative cases even without a preposition indicates duration or length of time.
+- οὕτως, an adverb, "this way"
+
+
 
 
 
