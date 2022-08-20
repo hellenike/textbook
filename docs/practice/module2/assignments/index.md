@@ -66,12 +66,12 @@ has_children: true
 #### Glosses and notes
 
 - οἰκίδιον is a diminutive form of the noun οἰκία, which is used elsewhere in the speech. So it means "little house" or "small house" instead of just "house." Why do you think Euphiletos might use this diminutive form when describing his house to the jury?
-- διπλοῦν, a neuter nominative adjective; the ending is contracted from διπλο- + -ον. It menas "double" or "twofold" so in this context something like "two floors"
+- διπλοῦν, a neuter nominative adjective; the ending is contracted from διπλο- + -ον. It means "double" or "twofold" so in this context something like "two floors"
 - **ἦν** third singular imperfect indicative active from εἰμί "to be"
 
 - ἴσα from the adjective ἴσος, ἴση, ἴσον "equal." Can you think of any English words derived from this Greek adjective?
 - ἄνω and κάτω are adverbs. ἄνω means "up" or "above" and κάτω means "down" or "below." Both are used here with forms of the article. Reread the section on substantive adjectives: the article is operating in a similar manner with these adverbs.
-- κατὰ τὴν γυναικωνῖτιν καὶ κατὰ τὴν ἀνδρωνῖτιν: prepositions in ancient Greek are used idiomatically, as they are in English. Use the form of the article to discern the gender, case, and number of the nouns γυναικωνῖτιν and ἀνδρωνῖτιν. Look back at the section on prepositions to see teh range of meaning κατά has with that case, and then think about how to make that idiomatic English to express the same idea.
+- κατὰ τὴν γυναικωνῖτιν καὶ κατὰ τὴν ἀνδρωνῖτιν: prepositions in ancient Greek are used idiomatically, as they are in English. Use the form of the article to discern the gender, case, and number of the nouns γυναικωνῖτιν and ἀνδρωνῖτιν. Look back at the section on prepositions to see the range of meaning κατά has with that case, and then think about how to make that idiomatic English to express the same idea.
 - γυναικωνῖτιν and ἀνδρωνῖτιν: notice that the beginnings of these words come from the nouns γυνή, γυναικός, ἡ and ἀνήρ, ἀνδρός, ὁ. They means something like "women's rooms" or "women's space" and "men's rooms" or "men's space." These are cultural concepts that we have to learn to correctly understand what is being described. 
 
 - ἐπειδὴ **δὲ**: δέ connects this sentence to the previous one, signaling that the train of thought is continuing. Paragraphs in English organize and connect sentences in a similar manner. ἐπειδὴ introduces a dependent relative adverbial clause: this clause is grammatically dependent on the one that follows. ἐπειδὴ = "when" or "since"
