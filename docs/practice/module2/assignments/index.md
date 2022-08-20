@@ -82,12 +82,12 @@ has_children: true
 - **μὲν** and **δὲ** are coordinating and contrasting the two clauses. Note that the **δὲ** clause does not contain a highlighted verb. When two clauses are coordinated, the verb can "carry over" when it applies to both clauses. We can do that in English, too: in an example like "I love you, but not him," we understand that "I love" is the subject and verb in both clauses and that the two objects of the verb "love" are being contrasted. So in this ancient Greek sentence, understand the verb from the **μὲν** clause to be operating in the **δὲ** clause as well.
 - **διῃτᾶτο** is from the verb διαιτάω, "to live, spend one's time": the alpha at the end of its stem contracts with the thematic vowel as you learned in Module 1 with the model verb ὁράω. It is also a compound verb, a combination of διά + αἰτάω. Compound verbs are augmented at the beginning of the verb stem, after the prefix, so the diphthong αι at the beginning of the verb stem becomes lengthened to ῃ (with the iota becoming subscript). So this is the third person imperfect indicative middle-passive form. Is it middle or is it passive in this particular sentence? And what nuance does that voice give to the expressed idea?
 
-- πολὺν χρόνον: "for much time," the accusative cases even without a preposition indicates duration or length of time.
+- πολὺν χρόνον: "for much time," the accusative case by itself (even without a preposition) indicates duration or length of time.
 - οὕτως, an adverb, "this way"
 
 - οὐδέποτε, an adverb, "never" (note the initial οὐ indicating a negative)
 - **ὑπώπτευσεν**, from ὑποπτεύω, "be suspicious," another compund verb, ὑπό + ὀπτεύω. This is the third person aorist indicative active: as we saw above, the augment happens after the prefix, at the beginning of the verb stem. 
-- ἠλιθίως, another adverb, meaning something like "foolishly"
+- ἠλιθίως, an adverb, meaning something like "foolishly"
 - **διέκειτο**, from διάκειμαι, yet another compound verb where the augment is placed after the prefix διά (the alpha is elided before the ε augment). This is an idiomatic verb, meaning to be in a certain state of mind, and then the adverb expresses what state of mind that is. What would be an English expression that would convey a similar idea? 
 
 - this next **μὲν** is signaling that there is more to come, and the following **δὲ** clause continues the events of the narration
@@ -95,15 +95,15 @@ has_children: true
 - ἀπροσδοκήτως, an adverb, "unexpectedly"
 - ἀγροῦ, from ἀγρός, ἀγροῦ, ὁ, "field." There is a lot of embedded cultural understanding in this expression: Euphiletos is a farmer, and his farmland is outside the city, while his house is in the city of Athens. The jury would understand that he goes to his farmland to work, and perhaps during busy times even stays out there overnight. So on this day, when he comes to his home in the city, his wife was not expecting him--she was likely assuming that he would stay out in the fields for the night.
 - τὸ δεῖπνον, "the meal, dinner": neuter singular accusative with the preposition μετά 
-- **ἐβόα** **καὶ** **ἐδυσκόλαινεν**: the conjunction καί connecting the two verbs, both with the subject τὸ παιδίον, **ἐβόα** from βοάω "cry, shout" and **ἐδυσκόλαινεν** from δυσκολαίνω "fuss, be irritable"
+- **ἐβόα** **καὶ** **ἐδυσκόλαινεν**: the conjunction καί connects the two verbs, both with the subject τὸ παιδίον. **ἐβόα** from βοάω "cry, shout" and **ἐδυσκόλαινεν** from δυσκολαίνω "fuss, be irritable"
 - ἐπίτηδες, an adverb, "on purpose, intentionally"
 - **ἐλύπειτο** from λυπέω "cause pain, hurt"
 
-- **γὰρ** signals that this clause explains the previous one
+- **γὰρ** signals that this clause explains the previous one. Note that two clauses in a row have **γὰρ**
 - ἔνδον, an adverb, "inside" (the house)
 - ὕστερον, an adverb, "later"
-- ἅπαντα: the adjective ἅπας, ἅπασα, ἅπαν is an intensive form of πᾶς, πᾶσα, πᾶν and declines the same way. Reread the section on substantive adjectives to understand its use here.
-- **ἐπύθετο** from πυνθάνομαι (first principal part) "learn", especially to learn by asking, and be someone telling you the information. Its third principal part is ἐπυθόμην.
+- ἅπαντα: the adjective ἅπας, ἅπασα, ἅπαν is an intensive form of πᾶς, πᾶσα, πᾶν and declines the same way (see the section on adjectives). Reread the section on substantive adjectives to understand its use here.
+- **ἐπύθετο** from πυνθάνομαι (first principal part) "learn", especially to learn by asking and/or by someone telling you the information. Its third principal part is ἐπυθόμην.
 
 #### Translation
 
