@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "Module 2: assignments/reading"
-parent: "Module 2, nouns and adjectives: practice"
-grand_parent: "Practice"
-nav_order: 15
+title: "Module 2 portfolio"
+parent: "Practice"
+nav_order: 4
 has_children: true
 ---
+
+
 
 ## Reading from Lysias 1.9-1.12 (simplified)
 

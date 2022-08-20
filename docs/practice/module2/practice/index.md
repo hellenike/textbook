@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Module 3, participles: practice"
+title: "Mastering module 2"
 parent: "Practice"
 nav_order: 3
 has_children: true
 ---
 
-## Participles: practice
+## Mastering module 2

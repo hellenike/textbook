@@ -7,4 +7,4 @@ has_children: true
 
 # Practice
 
-Studying a language requires practice.
+Studying a language requires practice.  For each module, we include a selection of exercises you can use to practice mastering 

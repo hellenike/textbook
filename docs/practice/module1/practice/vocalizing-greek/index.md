@@ -7,6 +7,6 @@ nav_order: 1
 has_children: true
 ---
 
-## Vocalizing Greek
+### Vocalizing Greek
 
 Read these words out loud.
