@@ -96,7 +96,7 @@ One important alpha contract verb is ὁράω "to see".
 
 | Person and Number | Imperfect Active | Imperfect Middle and Passive |
 | --- | --- | --- |
-| third singular | ὥρα  | ὡρᾶται |
+| third singular | ὥρα  | ὡρᾶτο  |
 | third plural | ὥρων | ὡρῶντο  |
 
 
