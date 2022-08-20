@@ -66,8 +66,11 @@ has_children: true
 #### Glosses and notes
 
 - οἰκίδιον is a diminutive form of the noun οἰκία, which is used elsewhere in the speech. So it means "little house" or "small house" instead of just "house." Why do you think Euphiletos might use this diminutive form when describing his house to the jury?
-- διπλοῦν, a neuter nominative adjective; the ending is contracted from διπλο- + -ον. "double" so in this context something like "two floors"
+- διπλοῦν, a neuter nominative adjective; the ending is contracted from διπλο- + -ον. It menas "double" or "twofold" so in this context something like "two floors"
 - **ἦν** third singular imperfect indicative active from εἰμί "to be"
+
+- ἴσα from the adjective ἴσος, ἴση, ἴσον "equal." Can you think of any English words derived from this Greek adjective?
+- ἄνω and κάτω are adverbs. ἄνω means "up" or "above" and κάτω means "down" or "below." Both are used here with forms of the article. Reread the section on substantive adjectives: the article is operating in a similar manner with these adverbs.
 
 
 - Εὐφιλήτῳ "to Euphiletos". 
