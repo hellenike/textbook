@@ -6,17 +6,19 @@ nav_order: 1
 has_children: true
 ---
 
-## Module 1, verbs: practice
+## Preliminaries and module 1, verbs: practice
+
+- [vocalizing Greek](practice/vocalizing-greek)
+- [accents](practice/accents)
+- [the aorist indicative](practice/aorist)
+- [the imperfect indicative](practice/imperfect)
+- [identifying clauses](practice/clauses)
+- [contract verbs](practice/contracts)
+- [the second aorist](practice/aorist2)
 
 
 
-- drills identifying verb forms?
-- drills on principal parts?
-- drills on singular<->plural?
-- drills on imperfect<->aorist?
-- drills changing voice?
-
-### Structured assignments
+### Portfolio assignments
 
 - mastering forms and syntax
 - reading: [analysis and translation](assignments/reading)
