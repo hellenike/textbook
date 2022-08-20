@@ -65,9 +65,11 @@ has_children: true
 
 #### Glosses and notes
 
-- 
-- 
-- 
+- οἰκίδιον is a diminutive form of the noun οἰκία, which is used elsewhere in the speech. So it means "little house" or "small house" instead of just "house." Why do you think Euphiletos might use this diminutive form when describing his house to the jury?
+- διπλοῦν, a neuter nominative adjective; the ending is contracted from διπλο- + -ον. "double" so in this context something like "two floors"
+- **ἦν** third singular imperfect indicative active from εἰμί "to be"
+
+
 - Εὐφιλήτῳ "to Euphiletos". 
 - γῆμαι "to marry" (an infinitive form of the verb [γαμέω](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n21556))
 - γυναῖκα, "woman, wife".   In the Liddell-Scott Greek lexicon, read [definition B.1.2 for the verb ἄγω](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n27847). (You'll need to scroll a ways to find it!)  This definition specifically refers to using the noun γυναῖκα as the direct object of ἄγω.  
