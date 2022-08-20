@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Module 4: the optative mood and some subordinate clauses"
+title: "Module 4: subordination"
 nav_order: 6
 has_children: true
 ---
