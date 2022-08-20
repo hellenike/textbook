@@ -75,6 +75,8 @@ has_children: true
 - γυναικωνῖτιν and ἀνδρωνῖτιν: notice that the beginnings of these words come from the nouns γυνή, γυναικός, ἡ and ἀνήρ, ἀνδρός, ὁ. They means something like "women's rooms" or "women's space" and "men's rooms" or "men's space." These are cultural concepts that we have to learn to correctly understand what is being described. 
 
 - ἐπειδὴ **δὲ**: δέ connects this sentence to the previous one, signalling that the train of thought is continuing. Paragraphs in English organize and connect sentences in a similar manner. ἐπειδὴ introduces a dependent relative adverbial clause: this clause is grammatically dependent on the one that follows. ἐπειδὴ = "when" or "since"
+- ἡ μήτηρ: μήτηρ means "mother." What does the article indicate about its gender, case, and number? What are different options for translating the article in this context? Which option sounds most idiomatic in English to you?
+- **ἐθήλαζεν** from the verb θηλάζω "to breastfeed." θηλάζω is a first principal part: what is the complete form of ἐθήλαζεν? Why would that tense be appropriate to what is being described?
 
 
 - Εὐφιλήτῳ "to Euphiletos". 
