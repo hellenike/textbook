@@ -11,17 +11,20 @@ nav_order: 0
 
 ## Organization
 
-After a brief section of "Preliminaries" introducing the Greek alphabet and accent, the chapters of this textbook introducing students to ancient Greek correspond to modules that we use as the basis for two to three weeks of our courses.  We expect to cover modules 1-4 together in the first semester of a two-semester, full-year course.  
+After a brief section of "Preliminaries" introducing the Greek alphabet and accent, the chapters of this textbook introducing students to ancient Greek correspond to modules that we use as the basis for two to three weeks of our courses.  We expect to cover modules 1-4 in the first semester of a two-semester, full-year course.  
 
-Each of these chapters has three sections:
+Each module has three sections:
 
 1.  *language*: introduction of new features of the Greek language
 2. *ancient Greek in action*: each module includes some reading or activites that ask students to relate content introducted in the language section of this module to some aspect of their life
-3. *reading*: a minimally modified passage from the target text (in this edition, Lysias 1).  This passage is the basis of an assignment we include in the section of the "Practice" chapter for this module.
+3. *reading*: a minimally modified passage from the target text (in this edition, Lysias 1).  This passage serves as the basis for  assignments we include in the section of the "Practice" chapter for this module.
 
-These chapters are followed by sections of the textbook with practice and review material for each module. In the "practice" section, we include for each module some short excercises using forms and syntax from that module, and structured series of three assignments that we incorporate in our course.  These series progress from an exercise to solidy mastery of basic forms and syntax, to an analysis and translation of the reading passage for the module, to a guided composition.
+The chapters covering each module are followed by a chapter entitled "Practice," with two groups of exercises for each module.  
 
-The "review" chapter includes summaries of forms and syntax and a list of required vocabulary.
+1. *Mastery* exercises are in the "Mastering module X" section.  These are a selection of short practice exercises that could be used in class or assigned for practice outside of class time.
+2. *Portfolio* exercises are a graduated trio of longer assignments for each module.  The first assignment is a systematic test of content covered in the mastery exercises; the second assignment is an exercise reading and analyzing a passage of connected Greek.  The thrid assignment is a guided composition in Greek.
+
+After the "Practice" chapter, a "Language review" summarizes key features of language for each module, and includes a list of vocabulary to memorize for that module.
 
 Finally, a reference section, offers a more comprehensive summary of forms.
 

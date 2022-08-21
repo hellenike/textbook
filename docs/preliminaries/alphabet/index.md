@@ -89,15 +89,6 @@ When iota combines with long alpha, eta, or omega, one modern convention is to w
 - we can't precisely recover ancient pronounciation, but try to distinguish sounds that are spelled differently (e.g., ο/ω ε/η ), and include accent in your pronounciation. Hear the difference between ἀστραπηβόλος, "one who throws lightning" (an adjective describing Zeus) and ἀστραπήβολος  "one struck by lightning". It makes a difference! English similarly distinguishes otherwise identical words based on (stress) accent. How does the way you pronounce the following English word change their meaning? *content, present, object, insult, permit*
 
 
-### Pronunciation practice 
-
-Practice reading these words out loud:
-
-- Ἐρατοσθένης  (name of the murdered man in Lysias, *Oration 1*)
-- Εὐφίλητος (name of the man accused of murder)
-- Σώστρατος (name of a friend of Εὐφίλητος)
-- Ἀθηναῖοι 
-
 
 ### Other resources
 

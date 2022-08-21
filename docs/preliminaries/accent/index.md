@@ -17,18 +17,6 @@ The *acute* accent indicated that your voice should rise on the accented syllabl
 
 Because English speakers are accustomed to stress accents, we will pronounce any accented syllable, regardless of type of accent, with a stress accent.
  
-### Pronunciation practice
-
-Practice pronouncing the following words. As you'll learn in Module 2, Greek nouns change their endings to indicate their function. Each 
-pair of words shows two forms of the same noun: pronounce them so that you can hear clearly which syllable is stressed in each instance.
-
-- Εὐφίλητος (name of the man accused of murder in Lysias 1)
-- Εὐφιλήτου
-- Ἀθηναῖοι (Athenians)
-- Ἀθηναίους
-- πολίτης (the word for citizen of a city-state, compare English "political")
-- πολιτῶν 
-
 
 
 ### Accented words
