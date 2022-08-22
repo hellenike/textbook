@@ -15,80 +15,79 @@ Study and practice the following basic patterns of persistent accents on nouns.
 
 #### Persistent accent on the antepenult 
 
-Only acute accents live on antepenult, and it will be on the antepenult whenever the ultima is short (a requirement for the antepenult to be accented). When the ultima is long, the accent shifts to the penult, and will be acute.
+Only acute accents can fall on the antepenult; moreover, accents can only fall on the antepenult when the ultima is short. When the ultima is long, the accent has to move forward to the penult. Since accents on the penult are always acute when the ultima is long, the shifted-forward accent will be acute.  Remember that final -οι and -αι count as short for accent.
 
-Examples: ἄνθρωπος, ἀνθρώπου, ὁ / ἡ  "human being, person"  (second declension); 
+*Example*: ἄνθρωπος, ἀνθρώπου, ὁ / ἡ  "human being, person"  (second declension); 
 
 
-|   | Case | Form |  |
-| --- | --- | --- | --- |
-| Singular |   |    |   | 
-|   | Nominative | ἄνθρωπος  | 
-|   | Genitive | ἀνθρώπου  |
-|   | Dative  | ἀνθρώπῳ |
-|   | Accusative | ἄνθρωπον |
-|   | Vocative | ἄνθρωπε |
-| Plural |    |    |
-|   | Nominative | ἄνθρωποι |
-|   | Genitive | ἀνθρώπων |
-|   | Dative  | ἀνθρώποις  |
-|   | Accusative | ἀνθρώπους  |
-|   | Vocative | ἄνθρωποι   |
+| Case and number| "human being, person" |
+| --- | --- |  
+| Nominative singular | ἄνθρωπος  | 
+| Genitive singular | ἀνθρώπου  |
+|  Dative singular  | ἀνθρώπῳ |
+|  Accusative singular | ἄνθρωπον |
+|  Vocative singular | ἄνθρωπε |
+|   Nominative plural | ἄνθρωποι |
+|   Genitive plural | ἀνθρώπων |
+|   Dative plural  | ἀνθρώποις  |
+|   Accusative plural | ἀνθρώπους  |
+|   Vocative plural | ἄνθρωποι   |
 
 #### Persistent accent on a long penult
 
-Accent will remain on penult (with exception of genitive plural in first declension). If ultima is short, accent will be circumflex; if ultima is long, accent will be acute. Examples: γνώμη, γνώμης, ἡ "judgment, opinion" (first declension) and δῶρον, δώρου, τό "gift" (second declension)
+Accent will remain on penult (with the exception of genitive plural in first declension). If the ultima is short, the accent will be circumflex; if the ultima is long, accent will be acute.  
+
+*Examples*: γνώμη, γνώμης, ἡ "judgment, opinion" (first declension) and δῶρον, δώρου, τό "gift" (second declension). Notice in the following table that the accent for δῶρον changes  from circumflex to acute in exactly the same places where the accent in ἄνθρωπος shifts from antenpenult to  penult.
  
-|   | Case | Form |   |
-| --- | --- | --- | --- |
-| Singular |    |  |
-|   | Nominative | γνώμη  | δῶρον |
-|   | Genitive | γνώμης  | δώρου   |
-|   | Dative  | γνώμῃ  | δώρῳ  |
-|   | Accusative | γνώμην  | δῶρον |
-|   | Vocative | γνώμη | δῶρον |
-| Plural |    |    |
-|   | Nominative | γνῶμαι | δῶρα |
-|   | Genitive | γνωμῶν  | δώρων |
-|   | Dative  | γνώμαις  | δώροις |
-|   | Accusative | γνώμας  | δῶρα |
-|   | Vocative | γνῶμαι  | δῶρα |
+| Case and number |   "judgment, opinion" | "gift" |
+| --- | --- |  --- |
+| Nominative singular | γνώμη  | δῶρον |
+| Genitive singular | γνώμης  | δώρου   |
+|  Dative singular  | γνώμῃ  | δώρῳ  |
+|  Accusative singular | γνώμην  | δῶρον |
+|  Vocative singular | γνώμη | δῶρον |
+| Nominative singular | γνῶμαι | δῶρα |
+| Genitive plural | γνωμῶν  | δώρων |
+|  Dative plural  | γνώμαις  | δώροις |
+|  Accusative plural | γνώμας  | δῶρα |
+|  Vocative plural | γνῶμαι  | δῶρα |
 
 #### Persistent accent on a short penult
 
-The accent will remain on the penult and will remain acute (with exception of genitive plural in first declension). (Recall that circumflex accents are carried only by long vowels and diphthongs.) Examples: οἰκία, οἰκίας, ἡ "house" (first declension); χρόνος, χρόνου, ὁ "time, time period" (second declension); and ἔργον, ἔργου, τό "work, deed" (second declension).
+The accent will remain on the penult and will remain acute (with the exception of the genitive plural in the first declension). (Recall that circumflex accents are carried only by long vowels and diphthongs.) 
 
-|   | Case | Form | |  |
-| --- | --- | --- | --- | ---|
-| Singular |   |    |  |  |
-|   | Nominative | οἰκία | χρόνος | ἔργον |
-|   | Genitive | οἰκίας   | χρόνου | ἔργου |
-|   | Dative  | οἰκίᾳ  | χρόνῳ | ἔργῳ |
-|   | Accusative | οἰκίαν  | χρόνον | ἔργον
-|   | Vocative | οἰκία   | χρόνε | ἔργον
-| Plural |    |    |  |  |
-|   | Nominative | οἰκίαι   | χρόνοι | ἔργα |
-|   | Genitive | οἰκιῶν  | χρόνων | ἔργων |
-|   | Dative  | οἰκίαις   | χρόνοις | ἔργοις |
-|   | Accusative | οἰκίας  | χρόνους | ἔργα |
-|   | Vocative | οἰκίαι   | χρόνοι | ἔργα |
+*Examples*: οἰκία, οἰκίας, ἡ "house" (first declension); χρόνος, χρόνου, ὁ "time, time period" (second declension); and ἔργον, ἔργου, τό "work, deed" (second declension).
+
+|   Case and number | "house" | "time" | "work, deed" |
+| --- | --- | --- | --- | 
+|  Nominative singular | οἰκία | χρόνος | ἔργον |
+|   Genitive singular | οἰκίας   | χρόνου | ἔργου |
+|   Dative singular  | οἰκίᾳ  | χρόνῳ | ἔργῳ |
+|   Accusative singular | οἰκίαν  | χρόνον | ἔργον
+|   Vocative singular | οἰκία   | χρόνε | ἔργον
+|  Nominative plural | οἰκίαι   | χρόνοι | ἔργα |
+|  Genitive plural | οἰκιῶν  | χρόνων | ἔργων |
+|   Dative plural  | οἰκίαις   | χρόνοις | ἔργοις |
+|   Accusative plural | οἰκίας  | χρόνους | ἔργα |
+|   Vocative plural | οἰκίαι   | χρόνοι | ἔργα |
+
 
 #### Persistent accent on the ultima
 
-|   | Case | Form |
-| --- | --- | --- |
-| Singular |   |    |
-|   | Nominative |   |
-|   | Genitive |  |
-|   | Dative  |   |
-|   | Accusative |   |
-|   | Vocative |   |
-| Plural |    |    |
-|   | Nominative |   |
-|   | Genitive |  |
-|   | Dative  |   |
-|   | Accusative |   |
-|   | Vocative |   |
+The accent on the ultima will always be circumflex in the genitive and dative cases, and acute in the nominative, accusative and vocative.
+
+| Case and number | Form |
+| --- | --- | 
+| Nominative singular | ἀγορά  |
+| Genitive singular | ἀγορᾶς |
+| Dative singular  |  ἀγορᾷ |
+|  Accusative singular | ἀγοράν  |
+|   Vocative singular |  ἀγορά |
+|  Nominative plural |  ἀγοραί |
+|   Genitive plural | ἀγορῶν |
+|   Dative plural  | ἀγοραῖς   |
+|   Accusative plural | ἀγοράς   |
+|   Vocative | ἀγοραί  |
 
 
 Identify the pattern to which each of the following nouns belongs to, and practice the accent pattern in the full declension of the noun:

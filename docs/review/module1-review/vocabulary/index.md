@@ -32,7 +32,6 @@ Links are to the standard scholarly reference lexicon for ancient Greek by Lidde
 
 For this module, memorize the first, third and sixth principal parts of each verb.
 
-- βαίνω, βήσομαι, ἔβην, βέβηκα, βέβαμαι, ἐβάθην go, walk, step
 - βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην throw, *hit (by throwing), strike (by throwing), pelt*
 - [γίγνομαι](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n22209), γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, — *become, come to be, be born, be*
 - δείκνυμι, δείξω, ἔδειξα δέδειχα, δέδειγμαι, ἐδείχθην *show, demonstrate*

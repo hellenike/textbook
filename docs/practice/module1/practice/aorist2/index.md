@@ -10,12 +10,6 @@ has_children: true
 ### The second aorist
 
 
-
-
-#### Practice
-
-Recall that the first, third and sixth principal parts of the verb "throw, hit (by throwing), strike (by throwing)" are βάλλω, ἔβαλον and ἐβλήθην.
-
 Compose the correct Greek form for the highlighted verb in the following English phrases, and fully identify the form (person, number, tense, mood, voice).
 
 1. She *used to throw* the dice.
