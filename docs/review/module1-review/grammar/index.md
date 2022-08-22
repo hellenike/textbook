@@ -10,6 +10,7 @@ nav_order: 2
 
 #### New terms in this module
 
+- iota subscript, rough breathing, smooth breathing
 - verbal unit
 - finite verb
 - person, number, tense, mood, voice

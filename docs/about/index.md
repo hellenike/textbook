@@ -24,7 +24,7 @@ These chapters are followed by a chapter entitled "Practice," with two groups of
 1. *Mastery* exercises (entitled "Mastering module X")offer a selection of short practice exercises that could be used in class or assigned for practice outside of class time.
 2. *Portfolio* exercises are a graduated trio of longer assignments for each module.  The first assignment is a systematic test of content covered in the mastery exercises; the second assignment is an exercise reading and analyzing a passage of connected Greek; the third assignment is a guided composition in Greek.
 
-After the "Practice" chapter, a "Language review" chapter summarizes key features of language for each module, and includes a list of vocabulary to memorize for that module.
+After the "Practice" chapter, a "Language review" chapter summarizes the language section of each module.  The summary includes paradigms, a list of vocabulary to memorize, and a list of technical terms new in this module.  (Their first appearance in the text is highlighted **like this**.)
 
 The final reference offers a more comprehensive set of paradigms, and two different English translations of Lysias 1.
 

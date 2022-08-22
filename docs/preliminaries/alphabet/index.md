@@ -12,7 +12,7 @@ parent: "Preliminaries"
 
 Greeks began experimenting with alphabetic writing in the eighth century BCE when they became familiar with the alphabets used to write Semitic languages like Phoenician and Aramaic. Several adaptations of these Semitic models were used in different parts of the Greek world, with different numbers of letters, and different sounds for some of the letters in each alphabet. In 403 BCE, Athens officially adopted the form of the alphabet used in Ionia. Over the next century, this script soon became the standard form throughout the Greek world, and is the ancestor of what we think of as "the" Greek alphabet.
 
-The alphabetic system defined sounds for each symbol. Another important feature was that it defined a *sequence* for the letters, just as we have maintained in our descendant of the Greek alphabet: it begins with "a", and is followed by "b", "c" etc. You must learn the order of the letters in the Greek alphabet as well as their pronunciation so that you are able to use a dictionary and other reference works that are organized alphabetically.
+The alphabetic system defined sounds for each symbol. Another important feature was that it defined a *sequence* for the letters, just as we have maintained in our descendant of the Greek alphabet: it begins with "a", and is followed by "b", "c" etc. You must learn the order of the letters in the Greek alphabet as well as their pronunciation so that you can use a dictionary and other reference works that are organized alphabetically.
 
 The classical Greeks always read aloud. You should do the same. As soon as you begin learning the letters of the Greek alphabet, practice reading aloud to become comfortable pronouncing Greek words you have not seen before. As you progress, continue reading aloud to gain ease in doing so.
 
@@ -57,8 +57,8 @@ Vowels can be long or short. As in a modern language like German, the long versi
 
 In addition to the letters listed above, if a word begins with a vowel or diphthong, a *breathing mark* is added to the initial vowel or diphthong (defined in the next section). There are two kinds of breathing marks:
 
-- smooth breathing looks like this ’ and adds no sound to the vowel
-- rough breathing looks like this ‘ and adds an ‘h’ sound to the vowel (words beginning with a rho also have a rough breathing, making it an ‘rh’ sound)
+- **smooth breathing** looks like this ’ and adds no sound to the vowel
+- **rough breathing** looks like this ‘ and adds an ‘h’ sound to the vowel (words beginning with a rho also have a rough breathing, making it an ‘rh’ sound)
 
 ### Diphthongs
 
@@ -78,9 +78,9 @@ Accents and breathing marks are written over the second vowel of a diphthong.
 
 ### Iota subscript
 
-When iota combines with long alpha, eta, or omega, one modern convention is to write the iota beneath the vowel as an “iota subscript,” which looks like this:   ᾳ, ῃ, ῳ.
+When iota combines with long alpha, eta, or omega, one modern convention is to write the iota beneath the vowel as an **iota subscript**, which looks like this:   ᾳ, ῃ, ῳ.
 
-"Iota subscript" became an alternate way of spelling a final iota when the final iota began to be dropped in pronounciation. Some guides suggest pronouncing such combinations as a diphthong; in practice, modern scholars commonly pronounce these identically to α, η, and ω. But in writing, the iota subscript is essential and cannot be ignored. 
+Iota subscript became an alternate way of spelling a final iota when the final iota began to be dropped in pronounciation. Some guides suggest pronouncing such combinations as a diphthong; in practice, modern scholars commonly pronounce these identically to ᾱ, η, and ω. But in writing, the iota subscript is essential and cannot be ignored. 
 
 
 ### Tips for reading
