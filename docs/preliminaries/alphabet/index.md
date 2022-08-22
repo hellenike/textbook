@@ -19,6 +19,8 @@ The classical Greeks always read aloud. You should do the same. As soon as you b
 
 ### The basic letters
 
+The following table presents the 24 letters of the classical Greek as they are normally printed in modern editions with an "upper case" and "lower case" form.  
+
 letter |	name	|  pronunciation guide	 |    practice Greek word
 --- | --- | --- | ---
 Α  α |  alpha	|  dr**a**m**a** (long, short) 	 |   ἀνήρ (“man”)	
@@ -62,7 +64,7 @@ In addition to the letters listed above, if a word begins with a vowel or diphth
 
 ### Diphthongs
 
-Diphthongs are combinations of two vowels that result in one syllable. English has them, too. In Greek, diphthongs are combinations of iota or upsilon with other vowels. 
+**Diphthongs** are combinations of two vowels that result in one syllable. English has them, too. In Greek, diphthongs are combinations of iota or upsilon with other vowels. 
 
 diphthong |	pronunciation guide	|  model Greek word
 --- | --- | ---
@@ -86,8 +88,7 @@ Iota subscript became an alternate way of spelling a final iota when the final i
 ### Tips for reading
 
 - read out loud (as the ancient Greeks did!) to practice recognizing and putting together letter forms and sounds.
-- we can't precisely recover ancient pronounciation, but try to distinguish sounds that are spelled differently (e.g., ο/ω ε/η ), and include accent in your pronounciation. Hear the difference between ἀστραπηβόλος, "one who throws lightning" (an adjective describing Zeus) and ἀστραπήβολος  "one struck by lightning". It makes a difference! English similarly distinguishes otherwise identical words based on (stress) accent. How does the way you pronounce the following English word change their meaning? *content, present, object, insult, permit*
-
+- we can't precisely recover ancient pronounciation, but try to distinguish sounds that are spelled differently (e.g., ο/ω ε/η ), and include accent in your pronounciation. Hear the difference between ἀστραπηβόλος, "one who throws lightning" (an adjective describing Zeus) and ἀστραπήβολος  "one struck by lightning". It makes a difference! English similarly distinguishes otherwise identical words based on (stress) accent. How does the way you pronounce the following English words change their meaning? *cóntent/contént, présent/presént, óbject/objéct, ínsult/insúlt, pérmit/permít*
 
 
 ### Other resources

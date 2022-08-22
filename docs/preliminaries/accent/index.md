@@ -9,19 +9,19 @@ nav_order: 2
 
 Ancient Greek in the fifth and fourth centuries BCE was spoken with a pitch accent: that is, the pitch of your voice would rise or fall on different syllables. Later, this evolved into a stress accent: as in English or modern Greek, accented syllables came to be pronounced instead with extra stress.  Ancient scholars worried about the "correct" pronounciation as pitch accent began to disappear, and devised a system of three accent marks to indicate the proper pitch for a syllable. Their word for these accents, τόνος, was also used to refer to systems of pitch in Greek music, and is the source of the English word "tone."
 
-The *acute* accent indicated that your voice should rise on the accented syllable, and was called ὀξύτονον, the "sharp" or "high pitch".  The *grave* accent indicated that the voice should fall. It was called the βαρύτονον, the "heavy" or "low pitch". The *circumflex* signaled that your voice should rise and then fall on a single syllable. Its name was the περισπόμενος τόνος, a pitch that is bent or wrapped around as it travels up and then down.  On an alpha, they could look like this:
+The **acute** accent indicated that your voice should rise on the accented syllable, and was called ὀξύτονον, the "sharp" or "high pitch".  The **grave** accent indicated that the voice should fall. It was called the βαρύτονον, the "heavy" or "low pitch". The **circumflex** signaled that your voice should rise and then fall on a single syllable. Its name was the περισπόμενος τόνος, a pitch that is bent or wrapped around as it travels up and then down.  On an alpha, they could look like this:
 
 - acute: ά
 - grave: ὰ
 - circumflex: ᾶ
 
-Because English speakers are accustomed to stress accents, we will pronounce any accented syllable, regardless of type of accent, with a stress accent.
+Because English speakers are accustomed to stress accents, we will pronounce any accented syllable, regardless of type of accent, with a stress accent.  If you are comfortable speaking a language that uses pitch to distinguish meaning, feel free to add pitch to your pronounciation of ancient Greek!
  
 
 
 ### Accented words
 
-Every Greek sentence was a flow of higher and lower pitches, and every word had its own accent, except for a very small number of special cases.  One group of small words that do not carry an accent or affect the accents of other words are called *proclitics.*  These include some forms of the article ("the"), ὁ, ἡ, οἱ, αἱ; a few prepositions like εἰς ("into"), ἐκ ("out of") , ἐν ("in"), and some conjunctions like εἰ ("if") and ὡς  ("as, that, since"). There are also *enclitics*, short words that affect the accents of other words in a sentence but do not have their own accent.  We'll learn more about enclitics in Module 2.
+Every Greek sentence was a flow of higher and lower pitches, and every word had its own accent, except for a very small number of special cases.  One group of small words that do not carry an accent or affect the accents of other words are called **proclitics**.  These include some forms of the article ("the"), ὁ, ἡ, οἱ, αἱ; a few prepositions like εἰς ("into"), ἐκ ("out of") , ἐν ("in"), and some conjunctions like εἰ ("if") and ὡς  ("as, that, since"). There are also **enclitics**, short words that affect the accents of other words in a sentence but do not have their own accent.  We'll learn more about enclitics in Module 2.
 
 
 ### General rules
@@ -30,9 +30,9 @@ Accents are always written over vowels. If a diphthong is accented, the accent i
 
 Accents appear on only the last three syllables of a word. Rather than refer to "the second syllable from the end," for example, it's traditional to use these names for the last three syllables: 
 
-- 	the *ultima* is the last syllable
--	the *penult* is the penultimate, or next to last, syllable
--	the *antepenult* is the one before the penult, or third from last
+- 	the **ultima** is the last syllable
+-	the **penult** is the penultimate, or next to last, syllable
+-	the **antepenult** is the one before the penult, or third from last
 
 Each accent can appear only in certain positions depending on the length of the vowels in the word.  Remember that η, and ω are always long, ε, and ο always short. α, ι, and υ may represent either long ᾱ, ῑ, ῡ or short ᾰ, ῐ, ῠ. Diphthongs are long, expect for final –αι, -οι in some forms. 
 
