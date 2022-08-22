@@ -18,7 +18,7 @@ The standard number of principal parts for ancient Greek verbs is six, although 
 
 Learning the principal parts of verbs is important so that you will be able to create correct verb forms and so that you will be able to recognize verb forms in a text, both for what person, number, tense, voice, and mood they are and also what verb they come from. In a glossary or a lexicon Greek verbs are listed according to the **first principal part**, and so if you are looking a verb up you will need to be able to move from a verb form made from any principal part to its first principal part in order to find it in the lexicon.
 
-### Forms of Prinicipal Parts
+### Forms of prinicipal parts
 
 All principal parts of an Ancient Greek verb are finite verb forms in the first person singular. 
 

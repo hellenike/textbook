@@ -33,10 +33,12 @@ has_children: true
 
 #### Possible position of accents
 
+Syllables in the following table are  marked as –  for long, ‿ for short, and ×  for a syllable that can be either long or short.
+
 | Accented syllable | Syllable length | Examples |
 | ---- | ---- | ---- |
 | *Acute on antepenult* | × × ‿   | ἄνθρωπος |
-| *Acute on penult* |  ×  –  |  ἀνθρώπου |
+| *Acute on penult* |  ×    |  ἀνθρώπου |
 | *Acute on penult* |  ‿‿  | φόνος  |
 | *Circumflex on penult* |    – ‿  | τοῦτο | 
 | *Acute on ultima* |     ×  | αὐτή, αὐτός   |

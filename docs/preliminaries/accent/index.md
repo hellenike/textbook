@@ -84,8 +84,7 @@ The next pair of examples are a pronoun meaning "that person".
 ### The acute accent
 
 
-An acute accent can appear on any of the last three syllables.  It only appears on the antepenult if the ultima is short.  It can be used on the penult anytime the ultima is long, or when both the penult and ultima are short.  These two pattens complement the use of the circumflex on the penult when the penult is long and the ultima short: taken together, these three patterns cover all instances of accent on the penult, as summarized here:
-
+An acute accent can appear on any of the last three syllables.  It only appears on the antepenult if the ultima is short.  It can be used on the penult anytime the ultima is long, or when both the penult and ultima are short.  These two pattens complement the use of the circumflex on the penult when the penult is long and the ultima short: taken together, these three patterns cover all instances of accent on the penult, as summarized in the following table, where syllables are  marked as –  for long, ‿ for short, and ×  for a syllable that can be either long or short.
 
 | Accent to use | Syllable length | Example |
 | ---- | ---- | ---- |

@@ -6,5 +6,3 @@ has_children: true
 ---
 
 # Reference
-
-| To be included in packet 2.

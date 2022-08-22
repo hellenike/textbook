@@ -7,7 +7,7 @@ nav_order: 5
 has_children: true
 ---
 
-### The genitive cas
+### The genitive case
 
 
 
