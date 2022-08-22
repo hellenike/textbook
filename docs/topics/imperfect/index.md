@@ -129,5 +129,6 @@ Compounds of δίδωμι will show exactly the same irregularities.  Here are 
 
 
 | Person and Number | Imperfect Active  | Imperfect Middle  | Imperfect Passive  |
+| --- | --- | --- | --- |
 | third singular |  ※  παρεδίδου  | παρεδίδοτο  | παρεδίδοτο |
 | third plural | παρεδίδοσαν  | παρεδίδοντο  | παρεδίδοντο|

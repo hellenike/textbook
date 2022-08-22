@@ -60,22 +60,6 @@ With that additional information, the process of forming the imperfect indicativ
 | third singular |  ἠδίκει | ἠδικεῖτο | ἠδικεῖτο |
 | third plural | ἡδίκουν | ἠδικοῦντο | ἠδικοῦντο |
  
-To practice, complete the following:
- 
-Imperfect indicative of δοκέω:
-
-| Person and Number | Imperfect Active | Imperfect Middle | Imperfect Passive |
-| --- | --- | --- | --- |
-| third singular |    |   |
-| third plural |  |   |
-
-Imperfect indicative of ποιέω:
-
-
-| Person and Number | Imperfect Active | Imperfect Middle | Imperfect Passive |
-| --- | --- | --- | --- |
-| third singular |    |   |
-| third plural |  |   |
 
 ### Stems ending in -α- 
 
@@ -88,7 +72,7 @@ One important alpha contract verb is ὁράω "to see".
 
 - (1) start by removing the first person singular ending (-ω or -ομαι) and accent from the first principal part, and add the augment.
     ὁράω -> ὡρα-
-- (2)  Add appropriate ending and **contract the vowel at the end of the stem with the vowel at the beginning of the personal ending**.   
+- (2)  Add the appropriate ending and **contract the vowel at the end of the stem with the vowel at the beginning of the personal ending**.   
 - (3) Apply recessive accent, keeping in mind the contraction.
 
 
@@ -101,9 +85,3 @@ One important alpha contract verb is ὁράω "to see".
 
 
 
-To practice, complete the table with the imperfect  indicative of βοάω "to shout, cry out."
-
-| Person and Number | Imperfect Active | Imperfect Middle | Imperfect Passive |
-| --- | --- | --- | --- |
-| third singular |    |   |
-| third plural |  |   |

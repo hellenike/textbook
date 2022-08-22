@@ -14,13 +14,12 @@ has_children: false
 
 A verbal unit containing a finite verb form is called a **clause**. A sentence consists of one or more clauses.
 
-
-Ancient Greek normally  connects, or **coordinates**, successive clauses and sentences explicity. In many styles of English, starting every sentence by connecting it to the previous one could quickly seem excessive, but doing so is more the norm in many styles of ancient Greek prose and even poetry, and serves to concisely clarify the relation of clauses to each.  The words that do this work in Greek are *conjunctions* and coordinating *particles*. 
+Ancient Greek normally  connects, or **coordinates**, successive clauses and sentences explicity. In many styles of English, starting every sentence by connecting it to the previous one could quickly seem excessive, but doing so is more the norm in many styles of ancient Greek prose and even poetry, and serves to concisely clarify the relation of clauses to each.  The words that do this work in Greek are **conjunctions** and coordinating **particles**. 
 
 
 ### Coordinating conjunctions 
 
-**Coordinating conjunctions** join together parallel clauses (that is, a verbal unit expressed by a finite verb). (In module 3, we will look at **subordinating conjunctions**.)  One of the most common coordinating conjunctions is καί.  Like the English *and*, it joins together two things of the same kind.  This could be a pair of nouns, like "peanut butter and jelly," or whole sentences, "I ate the sandwich and I drank the milk."
+**Coordinating conjunctions** join together parallel clauses (that is, a verbal unit expressed by a finite verb). (In module 4, we will look at **subordinating conjunctions**.)  One of the most common coordinating conjunctions is καί.  Like the English *and*, it joins together two things of the same kind.  This could be a pair of nouns, like "peanut butter and jelly," or whole sentences, "I ate the sandwich and I drank the milk."
 
 When joining a pair of nouns or short phrases, Lysias (like many prose authors) likes to put a καί before each of the items. The phrase ἐν δημοκρατίᾳ means "in a democracy"; ἐν ὀλιγαρχίᾳ means "in an oligarcy". When Lysias joins them like this
 
@@ -54,16 +53,14 @@ Euphiletos then uses καί to connect an additional clause to the second item:
 ἐκείνη **δὲ**  προστίθησι τὴν θύραν **καὶ** τὴν κλεῖν ἐφέλκεται ("She locks the door and takes the key")
 
 
-μέν and δέ beautifully outline that there are two thoughts here; καί continues the second thought.  Perhaps we should make a stronger contrast in English between the first two items?  We could also express this with:
-
-"I started to laugh, but she locks the door and takes the key."
+μέν and δέ beautifully outline that there are two thoughts here; καί continues the second thought.  Perhaps we should make a stronger contrast in English between the first two items?  We could also express this with, "I started to laugh, but she locks the door and takes the key."
 
 
 
 
 > #### Aside on reading and translating
 >     
-> The verb ἐγέλων is a first singular active in the imperfect tense, so one possibility is to take it as meaning "I started to laugh." The speaker uses the present tense for the wife's actions, just as we might in English switch into the present tense in narrating past events, to emphasize a vivid moment: "I laughed, and BOOM! she locks the door!"  One possibility for putting together **μὲν**  and **δὲ** here could be, "I started to laugh, then she locks the door and takes the key".  There is no single "correct" translation. One of the delights of reading ancient Greek is the opportunity to see a range of meaning that no single translation can capture.
+> The verb ἐγέλων is a first singular active in the imperfect tense, so one possibility is to take it as meaning "I started to laugh." The speaker uses the present tense for the wife's actions, just as we might in English switch into the present tense in narrating past events, to emphasize a vivid moment: "I laughed, and BOOM! she locks the door!"  One possibility for putting together μὲν  and δὲ here could be, "I started to laugh, then she locks the door and takes the key".  There is no single "correct" translation. One of the delights of reading ancient Greek is the opportunity to see a range of meaning that no single translation can capture.
 
 
 
