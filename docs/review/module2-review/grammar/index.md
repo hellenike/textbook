@@ -6,5 +6,9 @@ parent: "Module 2: reference and review"
 nav_order: 2
 ---
 
-### Summary of forms and grammar
 
+### Module 2: summary of forms and grammar
+
+#### New terms in this module
+
+- subject-verb agreement
