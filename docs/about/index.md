@@ -43,3 +43,20 @@ The resulting lexemes include:
 Our "core vocabulary" list also includes a relatively small number of nouns, and fewer adjectives:  these parts of speech vary more from one corpus to another.
 
 As we get further into the course, we focus on a second tier of vocabulary:  terms that are frequent in the target corpus and related or similar texts, but not necessarily in other Greek corpora.  The goal is to have a large enough vocabulary to recognize 75-90% of the lexical items in the target text, excluding proper nouns and adjectives.  For some target texts, a vocabulary of < 500 words may be adequate.  This second vocabulary tier will include more verbs, a larger number of nouns, and some additional adjectives.
+
+
+## Versions and source
+
+This release, **packet 1**, includes modules 1 and 2, roughly the first half of the first semester's materials. It is built from the openly licensed markdown source in [this github repository (https://github.com/hellenike/textbook)](https://github.com/hellenike/textbook), where you will also find work in progress on the rest of the text.
+
+
+You can also [download a PDF of this version (https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf)](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
+
+### Subsequent releases
+
+We plan to release the complete *Hellênikê/ἑλληνική* textbook in four packets, as follows:
+
+- **packet 1** (including modules 1 and 2) in August 2022.
+-  **packet 2** (including modules 3 and 4) in October 2022.
+- **packet 3** (with roughy the first half of the spring semester's materials) in January 2023.
+- **packet 4** (complete first-year textbook) in March 2023.
