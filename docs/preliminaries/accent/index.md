@@ -58,7 +58,7 @@ Consider the word **αὐτήν** (the pronoun "her with acute accent on the 
 αὐτήν is the last word of the first sentence: we'll pause at the period, and the accent can remain unchanged. In sentence 2, however, αὐτήν is followed by the accented word ἀπιέναι ("leave"); we have to change its acute to grave for the preferred sound and rhythm to the whole sentence.
 
 
-Notice that since the grave accent occurs only in the context of a sentence, when you examples of forms noun, adjective, or verb forms in this textbook, you will not see or use a grave accent!
+Notice that since the grave accent occurs only in the context of a sentence, when you encounter isolated examples of  noun, adjective, or verb forms in this textbook, you will not see or use a grave accent!
 
 
 ### The circumflex

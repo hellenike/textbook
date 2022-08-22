@@ -39,7 +39,7 @@ Over these two semesters of learning ancient Greek, we will consider six tenses,
 - Primary tenses: Present, Future, Perfect
 - Secondary tenses: Imperfect, Aorist, Pluperfect
 
-Multiple tenses for action in a particular "time" (such as the past) differ in **aspect**. **Aspect** emphasizes the type of action being represented, or how the action is being depicted. Aspects include **simple**, **ongoing or continuous** and **completed**. The tense of a finite verb can indicate both time and aspect, or, in some verb forms, aspect alone.
+Multiple tenses for action in a particular "time" (such as the past) differ in **aspect**. **Aspect** emphasizes the type of action being represented, or how the action is being depicted. Aspects include *simple*, *ongoing or continuous* and *completed*. The tense of a finite verb can indicate both time and aspect, or, in some verb forms, aspect alone.
 
 
 ### Mood

@@ -16,10 +16,17 @@ The imperfect, by contrast, expresses an action that is incomplete, repeated, co
 
 ### Forming the imperfect indicative of -ω or thematic verbs
 
-You form all three voices of the imperfect tense from the *first* principal part.  As with the aorist, you will drop the first-person ending, remove accents, and add the appropriate ending for the person and number you want. For the imperfect tense, you also add a prefix called the **augment**.
+You form all three voices of the imperfect tense from the *first* principal part.  As with the aorist, you will drop the first-person ending, remove accents, and add the appropriate ending for the person and number you want. 
+
+Past tenses in the indicative mood are indicated by two features: their set of personal endings, and a a prefix called the **augment** added to the front of the verb stem. Both the imperfect and the aorist are past tenses that will have augment. 
+
+Compare the first and third parts of verbs you already know.  Since the third principal part is an aorist indicative form, it already shows you an augmented form.  The third principal part (used for the aorist active and middle) shows the addition of an epsilon to the first prinicipal part's stem. If the stem begins with a consonant, you will see the epsilon in front of it. If the stem begins with a vowel, you will see that vowel lengthened. Either of these changes is called an **augment**. 
+
+The imperfect tense shows the same pattern, but uses the first principal part. Since the first principal part is a present tense form, you will need to add the augment to it in forming the imperfect.  Often, you can look to the third principal part to see what it should be. 
+
+The complete process to form the imperfect tense then is:
 
 
-**Augment**:  Past tenses in the indicative mood are indicated by two features: their set of personal endings, and an *augment* added to the front of the verb stem. Compare the first and third parts of verbs you already know. The third principal part (used for the aorist active and middle) shows the addition of an epsilon to the first prinicipal part's stem. If the stem begins with a consonant, you will see the epsilon in front of it. If the stem begins with a vowel, you will see that vowel lengthened. Either of these changes is called an **augment**. The imperfect tense shows the same pattern, but uses the first principal part. So when you need to add an augment, you can often look to the third principal part to see what it should be. 
 
 - (1) start by removing the first person singular ending (-ω or -ομαι) and accent from the first principal part, and add the augment 
 
@@ -27,7 +34,7 @@ You form all three voices of the imperfect tense from the *first* principal part
 >  
 > 
 
-- (2) Add the appropriate ending.  For this module, you should memorize the *third person* endings for singular and plural. Note that in *all* person-number combinations of the imperfect indicative, the middle and passive have identical endings.
+- (2) Add the appropriate ending.  For this module, you should memorize the third person* endings for singular and plural. Note that in *all* person-number combinations of the imperfect indicative, the middle and passive have identical endings.
 
 | Person and Number | Active ending | Middle ending | Passive ending |
 | --- | --- | --- | --- |
@@ -56,14 +63,14 @@ The imperfect indicative passive means that the subject is now the one receiving
 
 When we learned aorist forms, the third principal part of the verb δείκνυμι ("to show, demonstrate"), ἔδειξα, indicated that its forms were like that of any other first aorist. Since the imperfect is formed from the first principal part, we will notice that δείκνυμι belongs to the group of -μι verbs (or athematic verbs), rather than the -ω or thematic verbs. The meaning, usage, and formation of the imperfect indicative remains the same; the only difference is that -μι verbs use a slightly different set of endings.
 
-As with -ω/thematic verbs, for the imperfect indicative of -μι/athematic verbs, all three voices use the *first* principal part, with the addition of an augment;  like -ω/thematic verbs, the middle and passive voices of -μι/athematic verbs have identical forms in the imperfect.
+As with -ω/thematic verbs, for the imperfect indicative of -μι/athematic verbs, all three voices use the first principal part, with the addition of an augment;  like -ω/thematic verbs, the middle and passive voices of -μι/athematic verbs have identical forms in the imperfect.
 
 - (1) start by removing the first person singular ending (-μι or -μαι) and accent from the first principal part, and add the augment 
 
 > δείκνυμι  -> ἐδεικνυ-
 
 
-- (2) Add appropriate ending.  In this module, you should memorize the *third person* endings for singular and plural. The key difference in the endings is that they do not include the vowel.
+- (2) Add appropriate ending.  In this module, you should memorize the third person endings for singular and plural. The key difference between the endings of thematic and athematic verbs is that the thematic or -μι verbs do not include the combining vowel.
 
 | Person and Number | Active ending | Middle ending | Passive ending |
 | --- | --- | --- |

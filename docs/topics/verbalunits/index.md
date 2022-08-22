@@ -13,7 +13,7 @@ When people listen to their native language, we don't simply hear a stream of so
 
 As you learn how to read ancient Greek, we will emphasize this crucial skill.  Rather than simply analyzing one word at a time reading left to right, you will learn how to see sentences and whole paragraphs as compositions of smaller pieces, each with a recognizable structure and meaning.
 
-We will use the term **verbal unit** to refer to the most important underlying structure in Greek. A **verb** is a word that expresses an action or a state of being. (As [Schoolhouse Rock put it decades ago](https://www.youtube.com/watch?v=IrfZCvTe-Ko), "Verb: that's what happening.")  A verbal unit combines some form of a verb with a subject to express a complete idea.
+We will use the term **verbal unit** to refer to the most important underlying structure in Greek. A **verb** is a word that expresses an action or a state of being. (As [Schoolhouse Rock put it decades ago, "Verb: that's what happening](https://www.youtube.com/watch?v=IrfZCvTe-Ko).")  A verbal unit combines some form of a verb with a subject to express a complete idea.
 
 Compared to English, Greek has an extremely rich system of verb forms to create different kinds of verbal units.  In module 3, for example, we will learn  how Greek can use participles to form verbal units quite different from anything in English.
 

@@ -10,17 +10,17 @@ has_children: true
 
 ## Principal parts of verbs
 
-All verb forms in these many combinations of person, number, tense, mood and voice, as well as infinitives and participles, are formed using the verb's **principal parts**. 
+All verb forms in these many combinations of person, number, tense, mood and voice (as well as forms we will learn later, such as infinitives and participles), are formed using the verb's **principal parts**. 
 
-English verbs have a system of principal parts, too, although native speakers may not about them that way. In English, the principal parts can include the present, past, and past participle: for example, play, played, played; swim, swam, swum; go, went, gone; do, did, done. 
+English verbs have a system of principal parts, too, although native speakers may not think about them that way. In English, the principal parts can include the present tense, the past tense, and the past participle: for example, play, played, played; swim, swam, swum; go, went, gone; do, did, done. 
 
-The standard number of principal parts for ancient Greek verbs is six, although for some verbs fewer principal parts, even only one or two, may exist. Some verbs may have alternative forms so that its principal parts are represented by more than six forms. 
+The standard number of principal parts for ancient Greek verbs is six, although for some verbs fewer principal parts, even only one or two, may exist. Some verbs may have alternative forms for one or more principal parts so that its principal parts are represented by more than six forms. 
 
 Learning the principal parts of verbs is important so that you will be able to create correct verb forms and so that you will be able to recognize verb forms in a text, both for what person, number, tense, voice, and mood they are and also what verb they come from. In a glossary or a lexicon Greek verbs are listed according to the **first principal part**, and so if you are looking a verb up you will need to be able to move from a verb form made from any principal part to its first principal part in order to find it in the lexicon.
 
 ### Forms of Prinicipal Parts
 
-All principal parts of an Ancient Greek verb are first person singular forms. 
+All principal parts of an Ancient Greek verb are finite verb forms in the first person singular. 
 
 | Principal part | Form |
 | --- | --- |
@@ -28,7 +28,7 @@ All principal parts of an Ancient Greek verb are first person singular forms.
 | second	|	first person singular future active indicative OR 1st person singular future middle indicative if active forms do not exist |
 | third	|	first person singular aorist active indicative OR 1st person singular aorist middle indicative if active forms do not exist |
 | fourth	|	first person singular perfect active indicative |
-| fifth	|	first person singular perfect middle/passive indicative |
+| fifth	|	first person singular perfect middle or passive indicative. (Middle and passive forms are identical in the perfect system.) |
 | sixth	|	first person singular aorist passive indicative |
 
 ### Verb conjugations
@@ -90,7 +90,7 @@ The sixth principal part is always passive, and will end in -ην.
 
 #### Prefixes
 
-For the third and sixth principal parts, which are aorist (a secondary tense) you will see an **augment** prefixed to the verbal stem. The augment is an indication of a secondary tense in the indicative mood (all principal parts are in the indicative mood). The augment may appear as the addition of an ἐ- before a stem that begins with a consonant, or it may appear as the lengthening of the initial vowel if the stem begins with a vowel.
+For the third and sixth principal parts, which are aorist (a secondary tense) you will see an **augment** prefixed to the verbal stem. The augment is an indication of a secondary tense in the indicative mood (all principal parts are in the indicative mood). The augment may appear as the addition of an ἐ- before a stem that begins with a consonant, or it may appear as the lengthening of the initial vowel if the stem begins with a vowel.  (You'll learn more about the augment in the following section when you learn how to form the imperfect, another secondary tense.)
 
 For the fourth and fifth principal parts, which are in the perfect tense, the stem will show **reduplication** as a sign of the perfect tense. The reduplication may appear as a repetition of the initial consonant of the verb stem. If the initial consonant is aspirated (θ, φ, χ), the reduplication is the corresponding non-aspirated consonant (τ, π, κ, respectively). If the stem starts with multiple consonants, the reduplication will be simply ἐ-. If the stem starts with a vowel, the reduplication will appear as a lengthened vowel.
 

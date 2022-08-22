@@ -20,7 +20,7 @@ The indicative is one of the four moods of the ancient Greek verb. It is the mod
 
 Ancient Greek has more than one tense for narrating events in the past, but they differ in aspect — that is, how to think of or picture the action the verb is representing. 
 
-- the **aorist*** tense expresses an action as single and simple, without indication of its completion or continuation
+- the **aorist** tense expresses an action as single and simple, without indication of its completion or continuation
 - the **imperfect** tense expresses an action as continuous, started, ongoing, habitual or in any way incomplete
 
 The choice of verb tense, then, involves not only an indication that the events happened in the past, but other information about the event. Do you want to emphasize it as a single incident? Choose the aorist indicative if so. Or do you want to indicate that it happened over a length of time, was repeated or habitual, perhaps was started but not completed? The imperfect indicative will give you the means to add those shades of meaning.
@@ -142,12 +142,12 @@ The verb δίδωμι "to give" is very common.  Memorize its first, third and 
 
 
 
-In the aorist passive, its forms are exactly what you would expect, but it has some some irregular forms in the aorist active and middle.  Memorize the irregular forms (highlighted with the "little star," or ἀστερίσκος).
+In the aorist passive, its forms are exactly what you would expect, but it has some some irregular forms in the aorist active and middle.  You must memorize the unpredictably irregular forms (highlighted with the "little star," or ἀστερίσκος).
 
 | | Active | Middle | Passive |
 | --- | --- | --- | --- |
-| third singular |  ἔδωκε | ※ ἔδοτο | ἐδόθη |
-| third plural | ※ ἔδοσαν | ※ ἔδοντο | ἐδόθησαν  |
+| third singular |  ἔδωκε | * ἔδοτο | ἐδόθη |
+| third plural | * ἔδοσαν | * ἔδοντο | ἐδόθησαν  |
 
 
 
@@ -159,13 +159,5 @@ English readily creates new vocabulary with "phrasal verbs."  These add a specif
 Greek has a similar capacity for building new vocabulary by creating **compound verbs**.  Compound verbs add a prefixed word to each of the basic verb's principal parts. As with English phrasal verbs, the new verb has a specific meaning, but follows the forms of the basic form. For example, the verb ἐπιδείκνυμι adds the prefix ἐπι- to the verb δείκνυμι "to show", and gives it the sense "to demonstrate" or "prove." (This is the verb Euphiletos will use to talk about proving his case in court.)  In the third and sixth principal parts of δείκνυμι where the form starts with a vowel (ἔδειξα and ἐδείχθην), the ending vowel of ἐπι is elided.  Memorize the following two compound verbs: if you've already memorized the principal parts of the basic verbs, you've got two new vocabulary item for almost no additional effort!
 
 - **ἐπιδείκνυμι**, `ἐπιδείξω`, **ἐπέδειξα**, `ἐπιδέδειχα`, `ἐπιδέδειγμα`, **ἐπεδείχθην**, "[to demonstrate, prove](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n39125)"
-- **παραδίδωμι**, `παραδώσω`, **παρἔδωκα**, `παραδέδωκα`, `παραδέδομαι`, **παρἐδόθην**, "to hand over, transmit, entrust (a thing to a person)" 
-
-### Vocabulary to practice with (no need to memorize)
-
-- ἀπόλλυμι, ἀπολῶ, ἀπώλεσα, ἀπολώλεκα, ἀπόλλυμαι, ἀπωλόμην
-- καθεύδω, καθευδήσω, ἐκαθεύδησα, -, -, -
-- θηλάζω, θηλάσω, ἐθήλασα, τεθήλακα, τεθήλαμμαι, ἐθηλάσθην
-- ὀργίζω, ὀργιοῦμαι, ὤργισα, -, ὤργισμαι, ὠργίσθην "to anger". Use the middle voice to express "grew angry".
-- ὑποπτεύω, ὑποπτεύσω, ὑπώπτευσα, -, -, ὑπωπτεύθην
+- **παραδίδωμι**, `παραδώσω`, **παρέδωκα**, `παραδέδωκα`, `παραδέδομαι`, **παρεδόθην**, "to hand over, transmit, entrust (a thing to a person)" 
 
