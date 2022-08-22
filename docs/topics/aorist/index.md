@@ -146,8 +146,8 @@ In the aorist passive, its forms are exactly what you would expect, but it has s
 
 | | Active | Middle | Passive |
 | --- | --- | --- | --- |
-| third singular |  ἔδωκε | * ἔδοτο | ἐδόθη |
-| third plural | * ἔδοσαν | * ἔδοντο | ἐδόθησαν  |
+| third singular |  ἔδωκε | ※ ἔδοτο | ἐδόθη |
+| third plural | ※ ἔδοσαν | ※ ἔδοντο | ἐδόθησαν  |
 
 
 

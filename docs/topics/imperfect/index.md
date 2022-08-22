@@ -119,6 +119,7 @@ Notice that the only the first principle part begins with the stem διδ-. All 
 
 
 | Person and Number | Imperfect Active  | Imperfect Middle  | Imperfect Passive  |
+| --- | --- | --- | --- |
 | third singular |  *  ἐδίδου  | ἐδίδοτο  | ἐδίδοτο |
 | third plural | ἐδίδοσαν  | ἐδίδοντο  | ἐδίδοντο|
 
@@ -128,5 +129,5 @@ Compounds of δίδωμι will show exactly the same irregularities.  Here are 
 
 
 | Person and Number | Imperfect Active  | Imperfect Middle  | Imperfect Passive  |
-| third singular |  *  παρεδίδου  | παρεδίδοτο  | παρεδίδοτο |
+| third singular |  ※  παρεδίδου  | παρεδίδοτο  | παρεδίδοτο |
 | third plural | παρεδίδοσαν  | παρεδίδοντο  | παρεδίδοντο|
