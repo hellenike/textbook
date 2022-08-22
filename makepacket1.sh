@@ -9,7 +9,19 @@ JULIA=`which julia`
 echo Using $PANDOC and $JULIA
 
 $JULIA composite.jl $SETTINGS $SRC $COMPOSITE
-$PANDOC $COMPOSITE --from markdown --template eisvogel --pdf-engine=tectonic --table-of-contents --number-sections  --top-level-division=chapter -o $OUTFILE -V classoption=oneside
+echo "Created composite file. Now running pandoc."
+
+$PANDOC $COMPOSITE --from markdown -o $OUTFILE --pdf-engine=tectonic -V paper:letter -V 'sansfont:Lato' -V 'mainfont:Lato' --template eisvogel --table-of-contents --number-sections  --top-level-division=chapter -V classoption=oneside 
+
+
+
+
+#$PANDOC $COMPOSITE --from markdown --template eisvogel --pdf-engine=tectonic --table-of-contents --number-sections  --top-level-division=chapter -o $OUTFILE -V classoption=oneside -V 'mainfont:Cardo'
+
+
+
+
+#'mainfont:Open Sans'
 
 # -V 'mainfont:Lucida Grande'
 # -V classoption=oneside
