@@ -37,7 +37,6 @@ Accents appear on only the last three syllables of a word. Rather than refer to 
 Each accent can appear only in certain positions depending on the length of the vowels in the word.  Remember that η, and ω are always long, ε, and ο always short. α, ι, and υ may represent either long ᾱ, ῑ, ῡ or short ᾰ, ῐ, ῠ. Diphthongs are long, expect for final –αι, -οι in some forms. 
 
 
-
 1. The grave accent appears only on the ultima.
 2. The circumflex appears only on the ultima and penult.
 3. The acute accent appears on ultima, penult and antepenult.

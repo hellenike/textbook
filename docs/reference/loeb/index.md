@@ -71,10 +71,10 @@ The girl at first denied it, and bade me do what I pleased, for she knew nothing
 she accused him, first, of approaching her after the funeral, and then told how at last she became his messenger; how my wife in time was persuaded, and by what means she procured his entrances, and how at the Thesmophoria[*], while I was in the country, she went off to the temple with his mother. And the girl gave an exact account of everything else that had occurred.
 
 21
-When her tale was all told, I said,—Well now, see that nobody in the world gets knowledge of this; otherwise, nothing in your arrangement with me will hold good. And I require that you show me their guilt in the very act; I want no words, but manifestation of the fact, if it really is so. She agreed to do this.
+When her tale was all told, I said, —Well now, see that nobody in the world gets knowledge of this; otherwise, nothing in your arrangement with me will hold good. And I require that you show me their guilt in the very act; I want no words, but manifestation of the fact, if it really is so. She agreed to do this.
 
 22
-Then came an interval of four or five days⋯ as I shall bring strong evidence to show. But first I wish to relate what took place on the last day. I had an intimate friend named Sostratus. After sunset I met him coming from the country. As I knew that, arriving at that hour, he would find none of his circle at home, I invited him to dine with me; we came to my house, mounted to the upper room, and had dinner.
+Then came an interval of four or five days — as I shall bring strong evidence to show. But first I wish to relate what took place on the last day. I had an intimate friend named Sostratus. After sunset I met him coming from the country. As I knew that, arriving at that hour, he would find none of his circle at home, I invited him to dine with me; we came to my house, mounted to the upper room, and had dinner.
 
 23
 When he had made a good meal, he left me and departed; then I went to bed. Eratosthenes, sirs, entered, and the maid-servant roused me at once, and told me that he was in the house. Bidding her look after the door, I descended and went out in silence; I called on one friend and another, and found some of them at home, while others were out of town.
