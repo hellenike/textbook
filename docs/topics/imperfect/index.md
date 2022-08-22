@@ -95,6 +95,19 @@ The imperfect indicative passive means that the subject is now the one receiving
 
 
 
+### Forming the imperfect of compound verbs
+
+Review the third principal part of the the compound verbs ἐπɩδείκνυμɩ:  ἐπέδεɩξɑ.  Notice that the augment is placed on the basic verb stem, and the prefix then added to it.  You'll follow the same process with the imperfect tense when you add a compound to the first principal part. 
+
+For the basic verb δείκνυμι, we dropped the ending and added the augment like this
+
+> δείκνυμι  -> ἐδεικνυ-
+
+For its compound ἐπɩ+δείκνυμɩ, we will follow the same process. Note that we have to drop the final vowel of ἐπɩ before the epsilon of the augment.
+
+> ἐπɩ+δείκνυμɩ  -> ἐπ+εδεικνυ-
+
+
 ### Imperfect of δίδωμι
 
 As in the aorist active and middle, δίδωμι has some irregular verbs in the imperfect.  First, refresh your memory of its principal parts:
@@ -106,7 +119,14 @@ Notice that the only the first principle part begins with the stem διδ-. All 
 
 
 | Person and Number | Imperfect Active  | Imperfect Middle  | Imperfect Passive  |
-| third singular |  ※  ἐδίδου  | ἐδίδοτο  | ἐδίδοτο |
+| third singular |  *  ἐδίδου  | ἐδίδοτο  | ἐδίδοτο |
 | third plural | ἐδίδοσαν  | ἐδίδοντο  | ἐδίδοντο|
 
 Notice that as in all verbs in the imperfect,  middle and passive voice forms are identical.  Notice, too, that while the stem is not what you might have expected, once you recognize that the endings are being added to an augment + stem of ἐ + διδ-, most of the endings are regular.  Only the second singular active ending (highlighted here with the asterisk) looks irregular.
+
+Compounds of δίδωμι will show exactly the same irregularities.  Here are the imperfect forms of παραδίδωμι. 
+
+
+| Person and Number | Imperfect Active  | Imperfect Middle  | Imperfect Passive  |
+| third singular |  *  παρεδίδου  | παρεδίδοτο  | παρεδίδοτο |
+| third plural | παρεδίδοσαν  | παρεδίδοντο  | παρεδίδοντο|
