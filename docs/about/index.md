@@ -10,7 +10,7 @@ nav_order: 0
 
 ## Organization
 
-A brief section of "Preliminaries" introducing the Greek alphabet and accent is followed by modules that we use as the basis for two to three weeks of our courses.  We expect to cover modules 1-4 in the first semester of a two-semester, full-year course.  
+The textbook begins with a brief section of "Preliminaries" introducing the Greek alphabet and accent. This is followed by modules that we use as the basis for two to three weeks of our courses.  We expect to cover modules 1-4 in the first semester of a two-semester, full-year course.  
 
 Each module has three sections:
 
@@ -26,6 +26,9 @@ These chapters are followed by a chapter entitled "Practice," with two groups of
 After the "Practice" chapter, a "Language review" chapter summarizes the language section of each module.  The summary includes paradigms, a list of vocabulary to memorize, and a list of technical terms new in this module.  (Their first appearance in the text is highlighted **like this**.)
 
 The final reference offers a more comprehensive set of paradigms, and two different English translations of Lysias 1.
+
+The textbook has an accompanying youtube channel.  The [playlist here](https://www.youtube.com/playlist?list=PLhhpSgbqjgokrwa4HmReaGEptvqURz6Ns) has short videos where students can listen while following the text of  the reading selections for each module.
+
 
 
 ### A note on vocabulary
