@@ -22,7 +22,7 @@ All ancient Greek nouns have gender, case, and number.
 
 #### Dictionary entry of nouns 
 
-The dictionary entry of a noun efficiently encodes all the information you need to know in order to produce all of its cases and numbers. The first part tells you its nominative singular form, the second part is its genitive singular form, and the third part, in the form of the article, tells you its gender(s).
+The dictionary entry of a noun concisely encodes all the information you need to know in order to produce all of its cases and numbers. The first part tells you its nominative singular form, the second part is its genitive singular form, and the third part, in the form of the article, tells you its gender(s).
 
 #### Declension 
 

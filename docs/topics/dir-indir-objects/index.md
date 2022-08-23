@@ -15,18 +15,19 @@ In ancient Greek, the **accusative** case is the most common way of expressing a
 
 The **dative** case is the most common way of expressing the *indirect object*.
 
-### Direct Object: function of the accusative case
+### Direct object: function of the accusative case
 
-The direct object of a verb has the action that the verb is expressing done to it. 
+The direct object of a verb shows that the verb's action is done to it. 
 
-> She closed _the door_. 
+> She closed *the door*.
 
-The door is what is being closed, so in ancient Greek it goes into the accusative case: _τὴν θύραν_ προσέθηκεν.
+The door is what is being closed, so in ancient Greek it goes into the accusative case: *τὴν θύραν* προσέθηκεν.
 
 
-### Indirect Object: function of the dative case
+### Indirect object: function of the dative case
 
-One verb that makes it easy to see the role of the indirect object, in both English and Ancient Greek, is the verb "to give." In English, we can express the indirect object either by word order or with a preposition such as "to." 
+One verb that makes it easy to see the role of the indirect object, in both English and ancient Greek, is the verb "to give." 
+(Ancient Greek grammarians thought so, too: their name for the dative was ἡ δοτική πτῶσις, "the case connected with giving".)  In English, we can express the indirect object either by word order or with a preposition such as "to." 
 
 > "They gave gifts to her." or "They gave her gifts." 
 
@@ -36,7 +37,7 @@ Can you think of other verbs in English that frequently have both a direct and a
 
 In Ancient Greek, the indirect object is expressed with the dative case. Word order can be used for other kinds of emphasis. 
 
-> πάντα τὰ ἐμαυτοῦ _ἐκείνῃ_ παρέδωκα Lysias 1.6: "I gave over all of my things _to her_"
+> πάντα τὰ ἐμαυτοῦ *ἐκείνῃ* παρέδωκα Lysias 1.6: "I gave over all of my things *to her*. "
 
 ### Forms of Dative and Accusative Cases
 

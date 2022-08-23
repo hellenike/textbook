@@ -9,11 +9,13 @@ has_children: true
 
 
 ## The article 
+
 The article is used so frequently in ancient Greek that it must and will become familiar, with its uses and nuances grasped with practice. 
 
 English has a definite article, "the" and an indefinite article, "a" or "an." Ancient Greek has only one article, and its uses are both straightforward and subtle.
 
 ### Forms of the article
+
 The article modifying a noun agrees with it in gender, case, and number. There is a full paradigm of forms with all three genders in all cases and numbers, and it is important to learn to recognize these forms easily. Pay careful attention to and memorize the spelling, including accents, breathing marks, and iota subscripts, on these forms. There is no vocative form of the article.
 
 | Case  |    | Singular|    |     | Plural  |     |
@@ -26,7 +28,7 @@ The article modifying a noun agrees with it in gender, case, and number. There i
 | Accusative | τόν | τήν | τό | τούς | τάς | τά |
 
 > Note that the alpha in the neuter nominative and accusative plural form, τά, is a short alpha, while the alpha in the feminine accusative plural form, τάς, is a long alpha.  
-> The accent pattern of the article is that of a persistent accent on the ultima: acite in nominative and accusative cases——with the important exception here of the *proclitic* (unaccented) forms in the masculine/feminine nominative forms ὁ, ἡ, οἱ, αἱ——and circumflex on the genitive and dative forms.
+> The accent pattern of the article is that of a persistent accent on the ultima: acite in nominative and accusative cases — with the important exception here of the *proclitic* (unaccented) forms in the masculine/feminine nominative forms ὁ, ἡ, οἱ, αἱ — and circumflex on the genitive and dative forms.
 
 ### Some uses of the article
 
