@@ -22,8 +22,9 @@ nav_order: 2
 
 ἐπειδὴ **δὲ** τὸ παιδίον **ἐγένετο** αὐτοῖς, 
 
-ἡ μήτηρ αὐτὸ **ἐθήλαζεν**. 
+ἡ μήτηρ αὐτὸ **ἐθήλαζεν**,
 
+**ἀλλὰ** οὐκ **ἤθελε** κατὰ τῆς κλίμακος καταβαίνειν.
 
 ἐν **οὖν** ἐκείνῳ τῷ χρόνῳ, ὁ Εὐφίλητος **μὲν** ἄνω **διῃτᾶτο**, 
 
@@ -58,7 +59,6 @@ nav_order: 2
     - ἐγένετο
     - ἐγίγνετο
     - ἐλύπειτο
-    
 2. Identify the relative clause in the passage. What is the form (gender, case, and number) of the relative pronoun used? What is its antecedent, the noun it refers back to? Recall that it must be the same gender and number as the relative pronoun. 
 
 
