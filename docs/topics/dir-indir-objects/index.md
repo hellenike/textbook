@@ -3,7 +3,7 @@ layout: page
 title: "Direct and indirect objects"
 parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
-nav_order: 4
+nav_order: 3
 has_children: true
 ---
 

@@ -23,7 +23,7 @@ You will identify the declension of an adjective by the endings of the nominativ
 
 #### Examples of adjective declension
 
-Many three-ending adjectives are what we call "first and second declension" adjectives because the feminine forms use first declensions case endings while the masculine and neuter forms use second declension adjectives. A representative example of these adjectives is ἀγαθός, ἀγαθή, ἀγαθόν. An English translation for this adjective is "good," and like "good" in English, there is a range of ways people or things can be ἀγαθός, ἀγαθή, ἀγαθόν. As you see this adjective in your readings, what nuances of meaning does the context give to this adjective?  
+Many three-ending adjectives are what we call "first and second declension" adjectives because the feminine forms use first declensions case endings while the masculine and neuter forms use second declension case endings. A representative example of these adjectives is ἀγαθός, ἀγαθή, ἀγαθόν. An English translation for this adjective is "good," and like "good" in English, there is a range of ways people or things can be ἀγαθός, ἀγαθή, ἀγαθόν. As you see this adjective in your readings, what nuances of meaning does the context give to this adjective?  
 
 **Declension of ἀγαθός, ἀγαθή, ἀγαθόν**
 
@@ -35,7 +35,7 @@ Many three-ending adjectives are what we call "first and second declension" adje
 | Dative | ἀγαθῷ  | ἀγαθῇ | ἀγαθῷ | ἀγαθοῖς | ἀγαθαῖς  | ἀγαθοῖς |
 | Accusative | ἀγαθόν | ἀγαθήν | ἀγαθόν | ἀγαθούς  | ἀγαθάς  | ἀγαθά  |
 
-Other adjectives are called "first and third declension" adjectives because the feminine forms belong to the first declension while the masculine and neuter belong to the third declension. As we have already seen with verb prinicpal parts, the more common an adjective is, the more likely it is to be "irregular" in its forms. The most common adjective in our readings this year will be the adjective πᾶς, πᾶσα, πᾶν, and its compound form ἅπας, ἅπασα, ἅπαν. The English equivalents, depending on the particular use in context, include "all," "every" and "whole." That is, both adjectives indicate a completeness or entirety, and ἅπας, ἅπασα, ἅπαν emphasizes that quality even more. They decline the same way, although note the difference in persistent accent between the two.
+Other adjectives are called "first and third declension" adjectives because the feminine forms belong to the first declension while the masculine and neuter belong to the third declension. As we have already seen with verb principal parts, the more common an adjective is, the more likely it is to be "irregular" in its forms. The most common irregular adjective in our readings this year will be the adjective πᾶς, πᾶσα, πᾶν, and its compound form ἅπας, ἅπασα, ἅπαν. The English equivalents, depending on the particular use in context, include "all," "every" and "whole." That is, both adjectives indicate a completeness or entirety, and ἅπας, ἅπασα, ἅπαν emphasizes that quality even more. They decline the same way, although note the difference in persistent accent between the two.
 
 **Declension of πᾶς, πᾶσα, πᾶν**
 
@@ -75,24 +75,24 @@ Examples of noun-adjective agreement from Lysias 1.6-10
 
 Because of the lack in English of gender and case with nouns and lack of even number with adjectives, English does not have explicit rules about noun-adjective agreement (as it does for subject-verb agreement, for example). The adjective does not change form between *one green shoe* and *two green shoes*, an *old woman* or a group of *old men*. 
 
-But note that English has interesting “ingrained” rules about the _order_ of adjectives when there is more than one. Most native speakers of English know these rules as just what “sounds right” or “sounds wrong,”  “Old green shoes” obeys these rules while “green old shoes” does not. See more here [https://www.bbc.com/culture/article/20160908-the-language-rules-we-know-but-dont-know-we-know] for language rules English speakers know but don't know we know
-
-
-English language learners are sometimes asked to learn these rules about adjective order explicitly. That is a good reminder of the way in which language rules are sometimes defined for non-native-speakers (as we all are for ancient Greek) in a way that complicates the sense of a language meant to communicate.
+> **Aside**: But note that English has interesting "ingrained" rules about the *order* of adjectives when there is more than one. Most native speakers of English know these rules as just what “sounds right” or “sounds wrong.”  “Old green shoes” obeys these rules while “green old shoes” does not. See more in[the discussion this blog post](https://www.bbc.com/culture/article/20160908-the-language-rules-we-know-but-dont-know-we-know) for language rules English speakers know but don't know we know
+>
+> English language learners are sometimes asked to learn these rules about adjective order explicitly. That is a good reminder of the way in which language rules are sometimes defined for non-native-speakers (as we all are for ancient Greek) in a way that complicates the sense of a language meant to communicate.
 
 ### Adjective placement: attributive and predicate positions
 
-Adjectives can describe a noun, and thus in ancient Greek must agree with that noun in gender, case, and number, from different syntatical positions in a sentence. 
+Adjectives can describe a noun (and thus in ancient Greek agree with that noun in gender, case, and number) from different syntactical positions in a sentence. As we saw earlier in the section on the article, the **attributive** position is when the adjective is connected to the noun it describes by the article; the **predicate** position is the term for when the adjective is not joined to the article.
 
-As we saw earlier in the section on the article, one of those positions is called the **attributive** position, when the adjective qualifies the noun within a noun phrase. The other is called the **predicate** position, when the adjective is part of the predicate of the clause or sentence. Compare these exmaples in English:
+We use the terms attributive and predicate because they summarize the difference in meaning between the two positions of the adjective.  When an adjective is in attributive position, and functions as an *attribuite* of the noun; that is, it describes or qualifies the noun within a noun phrase. The grammatical term predicate refers to the part of a clause that contains a verb and states something about the subject.  Compare these exmaples in English:
 
-> _The tall woman went to the market._ The adjective "tall" is in the attributive position.
+> *The tall woman went to the market*. The adjective "tall" is in the attributive position, and is part of a noun phrase, "the tall woman." The entire noun phrase is the subject of the sentence, but if we dropped the adjective, the sentence would still make sense, we would just have a less precise description of the subject: "The woman went to the market."
 
-> _The woman is tall._ The adjective "tall" is in the predicate position, syntactically connected to the verb of the sentence.
+> *The woman is tall*. The adjective "tall" is in the predicate position. The linking verb *is* joins the subject, "The woman," and the predicate, "tall."  The predicate is an essential part of the sentence;  dropping the predicate completely alters the meaning of the sentence: "The woman is."  
 
 In both sentences, the adjective "tall" describes the woman, and so in ancient Greek would be the same gender, case, and number as the noun "woman": since "woman" is the subject of each sentence, the adjective will be feminine, nominative, singular, as the noun is.
 
 **Attributive** position in ancient Greek follows the article that modifies the noun. The article can be repeated to create this position:
+
 - ἡ μεγάλη γυνή  'the tall woman'
 - ἡ γυνὴ ἡ μεγάλη  'the tall woman'
 - γυνὴ ἡ μεγάλη 'the tall woman'

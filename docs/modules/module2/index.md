@@ -23,7 +23,7 @@ Module 2 introduces these features of Greek:
 
 ### Ancient Greek in action: overview
 
-Why do we use gender categories (masculine, feminine, neuter) to analyze grammatical forms?  Our practice derives directly from ancient Greek grammarians, but they did not always use three categories.  Module 2 introduces us to some of the ways ancient Greeks thought about language and gender. 
+Why do we use gender categories (masculine, feminine, neuter) to analyze grammatical forms?  Our practice derives directly from ancient Greek grammarians, but they did not always agree on which genders or how many genders to apply to grammatical forms.  Module 2 introduces us to some of the ways ancient Greeks thought about language and gender. 
 
 ### Practice, Reading, and Composition
 
