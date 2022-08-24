@@ -20,7 +20,7 @@ Based on Lysias 1, sections 7-8:  the early days of Euphiletos' marriage.
 
 ### Reading in context
 
-Beyond the challenge of decphering syntax and vocabulary, practically any sentence of Greek you read will also raise questions that arise from the cultural and historical distance between us and the text.  Reading this passage thoughtfully in Greek forces us to think about the institution of marriage in the classical Greek world.
+Beyond the challenge of deciphering syntax and vocabulary, practically any sentence of Greek you read will also raise questions that arise from the cultural and historical distance between us and the text.  Reading this passage thoughtfully in Greek forces us to think about the institution of marriage in the classical Greek world.
 
 The first sentence begins with *Euphiletos* making a decision to marry; he is also the grammatical subject of ἠγάγετο.  The next sentence continues with the statement that a child was born *to him*.  Beyond the grammatical construction, who is directing and significant in this marriage?  Who is invisible?
 
