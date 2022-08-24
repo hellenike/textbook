@@ -26,6 +26,7 @@ nav_order: 2
 - οἰκία, οἰκίας, ἡ "house, dwelling"
 - νόμος, νόμου, ὁ "law, custom"
 - παιδίον, παιδίου, τό "young child" or "young enslaved person"
+- πολίτης, πολίτου, ὁ "citizen"
 - πράγμα, πράγματος, τό "deed, act, matter, thing"
 - τιμωρία, τιμωρίας, ἡ "vengeance, retribution, penalty"
 - χρόνος, χρόνου, ὁ "time"

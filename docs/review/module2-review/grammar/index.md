@@ -13,6 +13,7 @@ nav_order: 2
 
 - gender, case
 - nominative, genitive, dative, accusative, vocative
+- declension
 - subject-verb agreement
 - article
 - attributive position, predicate position
@@ -22,6 +23,9 @@ nav_order: 2
 - transitive, intransitive and linking clauses
 - dependent, indepdent clauses
 
+#### Dictionary entries
+
+- the dictionary entry for a noun gives its nominative singular form, genitive singular form, and indicates its gender with the article
 
 #### The article
 

@@ -50,9 +50,9 @@ You'll also see this entry in the Module 2 vocabulary list:
 
 > ἄνθρωπος, ἀνθρώπου, ὁ or ἡ "person, human being"
 
-Listing the article as "ὁ or ἡ" means that the noun can be *either* grammatically mascuine *or* grammaticallyh feminine.
+Listing the article as "ὁ or ἡ" means that the noun can be *either* grammatically mascuine *or* grammatically feminine.
 
 #### Declension 
 
-Nouns are organized into “declensions,” a category of nouns that share the same set of endings. In ancient Greek, there are three declensions of nouns. In this module, we will learn forms of the nominative, genitive, dative, and accusative cases of all three declensions.
+We use the term **declension** to refer to a group of nouns that share the same set of endings. In ancient Greek, there are three declensions of nouns. In this module, we will learn the endings and formation of the nominative, genitive, dative, and accusative cases for all three declensions.
 
