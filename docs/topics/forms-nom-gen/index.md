@@ -11,7 +11,24 @@ has_children: true
 ## Forms of the nominative and genitive cases
 
 
-The case endings of nouns the singular nominative and genitive cases reflect both the noun's gender and what declension it belongs to.
+The case endings of nouns reflect both the noun's gender and what declension it belongs to.
+
+the singular nominative and genitive cases 
+
+FORMATION: HOW TO GET STEM
+
+ACCENT IS PERSISTENT: TRIES TO STAY PUT. DETAILS NEXT SETION BUT JUST FOLLOWS SAME RULES. PERSIST ON ANTENPENTU == RECESSIVE!
+
+δίκη, δίκης, ἡ “order, right, judgment, lawsuit”
+θύρα, θύρας, ἡ
+πολίτης, πολίτου, ὁ “citizen”
+Qerapaina
+θάνατος, θανάτου, ὁ “death”
+παιδίον, παιδίου, τό “young child” or “young enslaved person”
+
+πράγμα, πράγματος, τό 
+
+
 
 #### First declension
 
