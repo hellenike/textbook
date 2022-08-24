@@ -16,7 +16,7 @@ nav_order: 2
 
 - ἀγορά, ἀγορᾶς, ἡ "assembly, market, forum"
 - ἀγρός, οῦ, ὁ "field, land, farm"
-- ἄνθρωπος, ἀνθρώπου, ὁ "person, human being"
+- ἄνθρωπος, ἀνθρώπου, ὁ or ἡ "person, human being"
 - γνώμη, γνώμης, ἡ "judgment, opinion"
 - δίκη, δίκης, ἡ "order, right, judgment, lawsuit"
 - ζημία, ζημίας, ἡ "penalty"
