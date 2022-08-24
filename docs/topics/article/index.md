@@ -29,6 +29,7 @@ Here, the adjective "tall" is in the *predicate* position. Together with the lin
 
 ### The nominative and genitive forms of the article
 
+In the following section, we'll see how to describe one noun with a second noun using the genitive case.  Memorize the nominative and genitive forms of the article so that you can recognize whether or not nouns in the genitive case are in attributive position.
 
 |   Case  | Masculine singular| Feminine singular | Neuter singular | Masculine plural| Feminine plural | Neuter plural|
 | --- | --- | --- | --- | --- | --- | --- |

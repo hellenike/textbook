@@ -111,6 +111,3 @@ Ancient Greek tends to use substantive adjectives much more often than English d
 
 - τὸ ἀγαθόν neuter singular, "the good thing" or "the good" as an abstract quality; τὰ ἀγαθά "good things," "the good things," "goods" or "the good". Neuter plural substantives are especially flexible in meaning and thus can be used in a variety of contexts.
 
-
-In the following section, we'll use the genitive case
-

@@ -50,6 +50,7 @@ The irregular noun γυνή, γυναικός, ἡ "woman, wife" declines as fo
 #### Adjectives 
 
 - ἀγαθός, ἀγαθή, ἀγαθόν "good"
+- δίκαιος, δίκαια, δίκαιον "just, lawful, right"
 - φίλος, φίλη, φίλον "beloved, dear"
 
 
