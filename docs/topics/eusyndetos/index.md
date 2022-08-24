@@ -37,19 +37,6 @@ The clause contains a linking verb, whether expressed or implied. A linking clau
 
 
 
-#### Practice with coordinating clauses
-
-Find the subject (explicit or implicit) and verb of each clause. Categorize each as transitive, intransitive, or linking.
-
-ἧκον **μὲν** ἀπροσδοκήτως ἐξ ἀγροῦ, 
-
-μετὰ **δὲ** τὸ δεῖπνον τὸ παιδίον ἐβόα 
-
-**καὶ** ἐδυσκόλαινεν ... 
-
-ὁ **γὰρ** ἄνθρωπος ἔνδον ἦν:
-
-
 ### Independent and dependent clauses
 
 Another possible way of structuring sentences involves making one clause (or multiple clauses) *dependent* on another clause. 

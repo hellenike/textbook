@@ -19,6 +19,9 @@ nav_order: 2
 - direct, indirect object
 - transitive verb
 - substantive adjective
+- transitive, intransitive and linking clauses
+- dependent, indepdent clauses
+
 
 #### The article
 
