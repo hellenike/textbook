@@ -3,7 +3,7 @@ layout: page
 title: "Persistent accent"
 parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
-nav_order: 4
+nav_order: 8
 has_children: true
 ---
 

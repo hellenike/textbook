@@ -54,5 +54,38 @@ Listing the article as "ὁ or ἡ" means that the noun can be *either* grammati
 
 #### Declension 
 
-We use the term **declension** to refer to a group of nouns that share the same set of endings. In ancient Greek, there are three declensions of nouns. In this module, we will learn the endings and formation of the nominative, genitive, dative, and accusative cases for all three declensions.
+We use the term **declension** to refer to a group of nouns that share the same set of endings. In ancient Greek, there are three declensions of nouns which scholars of ancient Greek creatively refer to as the first, second and third declension.  You can recognize the declension of a noun by looking at the gender and endings of its dictionary forms, the nominative and genitive singular.  
 
+
+##### The first declension
+
+First declension nouns may be either masculine or feminine.
+
+*Feminine* nouns that have genitive singular forms ending in -ης  or -ας belong to the  first declension. Examples:
+
+- δίκη, δίκης, ἡ "order, right, judgment, lawsuit"
+- θύρα, θύρας, ἡ “door”
+
+
+*Masculine* nouns that have genitive singular forms ending  in -ου *and* nominative singular ending in -ης  or -ας belong to the  first declension.  Example:
+
+- πολίτης, πολίτου, ὁ “citizen”
+
+##### The second declension
+
+Second declension nouns may be either masculine or neuter.
+
+*Masculine* nouns that have genitive singular forms ending  in -ου *and* nominative singular ending in -ος belong to the  second declension.   Example: 
+
+- θάνατος, θανάτου, ὁ "death"
+
+*Neuter* nouns that have genitive singular forms ending  in -ου *and* nominative singular ending in -ον belong to the  second declension.   Example: 
+
+- παιδίον, παιδίου, τό "young child" or "young enslaved person"
+
+
+##### The third declension
+
+Third declension nouns may be either masculine, feminine or neuter.  The hallmark of the third declension is a genitive singular ending in -ος.  Example:
+
+- πράγμα, πράγματος, τό “deed, act, matter, thing”
