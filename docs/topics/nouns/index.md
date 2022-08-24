@@ -70,11 +70,13 @@ First declension nouns may be either masculine or feminine.
 
 ##### The second declension
 
-Second declension nouns may be either masculine or neuter.
+Second declension nouns may be masculine, feminine or neuter.
 
-*Masculine* nouns that have genitive singular forms ending  in -ου *and* nominative singular ending in -ος belong to the  second declension.   Example: 
+*Masculine* or *feminine* nouns that have genitive singular forms ending  in -ου *and* nominative singular ending in -ος belong to the  second declension.   Example: 
 
 - θάνατος, θανάτου, ὁ "death"
+- ὁδός, ὁδοῦ, ἡ  "way, road"
+
 
 *Neuter* nouns that have genitive singular forms ending  in -ου *and* nominative singular ending in -ον belong to the  second declension.   Example: 
 

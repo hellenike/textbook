@@ -22,6 +22,7 @@ The nouns in a prepositional phrase in ancient Greek will be one of the oblique 
 Therefore, it is important as you learn prepositions as vocabulary that you also learn which case(s) of noun each takes as its object, and how the case of the object affects the meaning of the preposition. Preposition usage in English is highly idiomatic, and so the practice of translation requires, as always, a good understanding of what the Greek is expressing and how English expresses that same idea, rather than a single equivalence of word to word.
 
 #### Frequently used prepositions that take only one case
+
 | Preposition | case of noun object | English near-equivalents
 | --- | --- | --- |
 ἀπό | + genitive | away from, from
@@ -34,6 +35,7 @@ Therefore, it is important as you learn prepositions as vocabulary that you also
 
 
 #### Frequently used prepositions that take more than one case
+
 | Preposition | case of noun object | English near-equivalents |
 |---|---|--- |
 ἐπί | + genitive | near, at, upon
@@ -63,7 +65,9 @@ Therefore, it is important as you learn prepositions as vocabulary that you also
 ὑπό | + accusative | under (motion toward)
 
 ### Compound Verbs
+
 The adverbial properties of prepositions can also be seen in so-called compound verbs, in which a preposition becomes a prefix on a verb and shades its meaning according. For example, ἔρχομαι 'to go' --> εἰσέρχομαι 'to go into, enter' 
 
 ### Agent: a use of the preposition ὑπό + genitive
+
 We have seen that the subject of a passive verb is the recipient of the action expressed by that verb: for example, "he is caught." To express who is the agent of the action of the passive verb, English uses the preposition "by": "he is caught by her husband." Ancient Greek expresses the personal agent of a passive verb with the preposition ὑπό plus a noun in the genitive. You can remember the three "P's" of personal agent: **p**assive verb, **p**reposition ὑπό, and **p**erson in the genitive case. 
