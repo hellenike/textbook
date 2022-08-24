@@ -3,7 +3,7 @@ layout: page
 title: "Enclitics"
 parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
-nav_order: 20
+nav_order: 25
 has_children: true
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: "Module 2: vocabulary"
 grand_parent: "Language summary and review"
 parent: "Module 2: language summary and review"
-nav_order: 2
+nav_order: 3
 ---
 
 
@@ -15,7 +15,7 @@ nav_order: 2
 
 
 - ἀγορά, ἀγορᾶς, ἡ "assembly, market, forum"
-- ἀγρός, οῦ, ὁ "field, land, farm"
+- ἀγρός, ἀγροῦ, ὁ "field, land, farm"
 - ἄνθρωπος, ἀνθρώπου, ὁ or ἡ "person, human being"
 - γνώμη, γνώμης, ἡ "judgment, opinion"
 - δίκη, δίκης, ἡ "order, right, judgment, lawsuit"
