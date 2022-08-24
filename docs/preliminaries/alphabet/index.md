@@ -93,7 +93,7 @@ Iota subscript became an alternate way of spelling a final iota when the final i
 
 ### Other resources
 
-A [youtube video](https://www.youtube.com/watch?v=8xDvcgvEpaQ&list=PLUcfS6VHaxZC1p_JRiWyYyI2gRKEDyPVh) showing you how to write ancient Greek.
+See a [youtube video showing you how to write ancient Greek](https://www.youtube.com/watch?v=8xDvcgvEpaQ&list=PLUcfS6VHaxZC1p_JRiWyYyI2gRKEDyPVh).
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8xDvcgvEpaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
