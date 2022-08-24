@@ -83,13 +83,6 @@ Because of the lack in English of gender and case with nouns and lack of even nu
 
 Adjectives can describe a noun (and thus in ancient Greek agree with that noun in gender, case, and number) from different syntactical positions in a sentence. As we saw earlier in the section on the article, the **attributive** position is when the adjective is connected to the noun it describes by the article; the **predicate** position is the term for when the adjective is not joined to the article.
 
-We use the terms attributive and predicate because they summarize the difference in meaning between the two positions of the adjective.  When an adjective is in attributive position, and functions as an *attribuite* of the noun; that is, it describes or qualifies the noun within a noun phrase. The grammatical term predicate refers to the part of a clause that contains a verb and states something about the subject.  Compare these exmaples in English:
-
-> *The tall woman went to the market*. The adjective "tall" is in the attributive position, and is part of a noun phrase, "the tall woman." The entire noun phrase is the subject of the sentence, but if we dropped the adjective, the sentence would still make sense, we would just have a less precise description of the subject: "The woman went to the market."
-
-> *The woman is tall*. The adjective "tall" is in the predicate position. The linking verb *is* joins the subject, "The woman," and the predicate, "tall."  The predicate is an essential part of the sentence;  dropping the predicate completely alters the meaning of the sentence: "The woman is."  
-
-In both sentences, the adjective "tall" describes the woman, and so in ancient Greek would be the same gender, case, and number as the noun "woman": since "woman" is the subject of each sentence, the adjective will be feminine, nominative, singular, as the noun is.
 
 **Attributive** position in ancient Greek follows the article that modifies the noun. The article can be repeated to create this position:
 
@@ -119,4 +112,5 @@ Ancient Greek tends to use substantive adjectives much more often than English d
 - τὸ ἀγαθόν neuter singular, "the good thing" or "the good" as an abstract quality; τὰ ἀγαθά "good things," "the good things," "goods" or "the good". Neuter plural substantives are especially flexible in meaning and thus can be used in a variety of contexts.
 
 
+In the following section, we'll use the genitive case
 

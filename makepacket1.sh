@@ -1,6 +1,6 @@
 #!/bin/sh
 
-OUTFILE=pdf/hellenike.pdf
+OUTFILE=pdf/hellenike-packet1.pdf
 COMPOSITE=composite.md
 SETTINGS=pdf/packet1.yaml
 PANDOC=`which pandoc`

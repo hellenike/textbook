@@ -36,19 +36,16 @@ The dictionary entry of a noun concisely encodes all the information you need to
 The following vocabulary entries are included in the required vocabulary list for this module.  Let's expand them to fuller English summaries:
 
 
-> δίκη, δίκης, ἡ "order, right, judgment, lawsuit"
->
-> νόμος, νόμου, ὁ "law, custom"
+- δίκη, δίκης, ἡ "order, right, judgment, lawsuit"
+- νόμος, νόμου, ὁ "law, custom"
 
-These mean
+The first noun has the meaning "order, right, judgment, lawsuit." Its nominative singular form is δίκη; the genitive singular form is δίκης; all of its forms are feminine.
 
-> The first noun has the meaning "order, right, judgment, lawsuit." Its nominative singular form is δίκη; the genitive singular form is δίκης; all of its forms are feminine.
->
-> The second noun has the meaning "law, custom." Its nominative singular form is νόμος; the genitive singular form is νόμου; all of its forms are masculine.
+The second noun has the meaning "law, custom." Its nominative singular form is νόμος; the genitive singular form is νόμου; all of its forms are masculine.
 
 You'll also see this entry in the Module 2 vocabulary list:
 
-> ἄνθρωπος, ἀνθρώπου, ὁ or ἡ "person, human being"
+- ἄνθρωπος, ἀνθρώπου, ὁ or ἡ "person, human being"
 
 Listing the article as "ὁ or ἡ" means that the noun can be *either* grammatically mascuine *or* grammatically feminine.
 

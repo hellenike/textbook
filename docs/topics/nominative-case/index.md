@@ -32,4 +32,4 @@ Consider these examples:
 
 > ταῦτα δίκαια ἦν, "These things were right."
 
-ταῦτα is the neuter nominative plural of a pronoun we'll learn in this module, "this."  You've already learned that ἦν is an imperfect indicative active form of "to be."  It is third person singular:  since ταῦτα is *neuter* plural, the singular verb agrees with the plural subject. (δίκαια is an adjective we'll learn in this module, meaning "just, right.")
+ταῦτα is the neuter nominative plural of a pronoun we'll learn in this module ("this, these").  You've already learned that ἦν is an imperfect indicative active form of "to be."  It is third person singular:  since ταῦτα is *neuter* plural, the singular verb agrees with the plural subject. (δίκαια is an adjective we'll learn in this module, meaning "just, right.")

@@ -15,21 +15,22 @@ English has a definite article, "the" and an indefinite article, "a" or "an." An
 
 ### The article and attributive and predicate positions
 
-Nouns can be modified in several ways. 
+Nouns can be modified in several ways, including by adjectives ("the small house") and by other nouns ("the man's house"). In ancient Greek, the article plays a crucial role in connecting these modifiers to the noun they modify.
 
-Word order of these modifiers in relation to the noun and its article can have an effect on meaning that we should pay attention to. Words can be placed between the article and noun to emphasize that those words are modifying the noun in particular ways. Or modifiers can be placed outside of the noun and its article to emphasize other kinds of relationships. These two different positions are called the **attributive** position and the **predicate** position.
+When a modifying word or phrase is connected to the noun it describes by the article, we call that the **attributive** position.  When the modifier is not connected to its noun by an article, we call that the **predicate** position. The terms "attributive" and "predicate" summarize the difference in meaning between the two positions.  When a word or phrase is in attributive position, it functions as an *attribute* of the noun; that is, it describes or qualifies the noun within a noun phrase. The grammatical term *predicate* refers to the part of a clause that contains a verb and states something about the subject.  Compare these examples in English:
+
+> *The tall woman went to the market*. 
+
+The adjective "tall" is in the *attributive* position, and is part of a noun phrase, "the tall woman." The entire noun phrase is the subject of the sentence, but if we dropped the adjective, the sentence would still make sense, we would just have a less precise description of the subject ("The woman went to the market.")
+
+> *The woman is tall*. 
+
+Here, the adjective "tall" is in the *predicate* position. Together with the linking verb *is*, it makes a statement about the subject ("The woman").  The complete predicate is an essential part of the sentence;  dropping the adjective from the predicate completely alters the meaning of the sentence ("The woman is.")
+
+### The nominative and genitive forms of the article
 
 
-
-
-**Attributive** position in ancient Greek follows the article that modifies the noun. The article can be repeated to create this position. So attributive position can look like any of the following
-
-- ἡ μεγάλη γυνή  'the tall woman' 
-- ἡ γυνὴ ἡ μεγάλη  'the tall woman'
-- γυνὴ ἡ μεγάλη 'the tall woman'
-
-    What nuance of emphasis might you infer that each of the three different ways of creating attributive position offer?
-
-**Predicate** position is a placement outside of the article + noun phrase.
-
-In the sections below on the genitive case, adjectives, and prepositions, pay attention to how these positions are used in different kinds of modifications of nouns.
+|   Case  | Masculine singular| Feminine singular | Neuter singular | Masculine plural| Feminine plural | Neuter plural|
+| --- | --- | --- | --- | --- | --- | --- |
+| Nominative | ὁ | ἡ | τό | οἱ | αἱ | τά |
+| Genitive | τοῦ | τῆς | τοῦ | τῶν | τῶν | τῶν |
