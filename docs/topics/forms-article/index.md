@@ -3,7 +3,7 @@ layout: page
 title: "The article: complete declension"
 parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
-nav_order: 12
+nav_order: 45
 has_children: true
 ---
 

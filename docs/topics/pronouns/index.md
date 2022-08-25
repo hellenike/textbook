@@ -3,7 +3,7 @@ layout: page
 title: "Demonstrative pronouns: full declensions"
 parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
-nav_order: 17
+nav_order: 60
 has_children: true
 ---
 
@@ -33,6 +33,7 @@ There are several types of pronouns in ancient Greek, as there are in English: p
 | Accusative | τόνδε | τήνδε | τόδε | τούσδε | τάσδε | τάδε |
 
 > Notes on the forms of ὅδε, ἥδε, τόδε:
+
 - ὅδε, ἥδε, τόδε is the article + the enclitic particle -δε. The enclitic nature of -δε accounts for the accents appearing on the masculine and feminine nominative forms (while the article forms are proclitics) and for the accents remaining what they are on the article on forms like τήνδε, τούσδε, and τάσδε, which seem to be "breaking" the rule about circumflex accents on a long penult when the ultima is short. 
 
 **Declension of οὗτος, αὕτη, τοῦτο**

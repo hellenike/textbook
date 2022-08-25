@@ -3,7 +3,7 @@ layout: page
 title: "Demonstrative pronouns"
 parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
-nav_order: 10
+nav_order: 35
 has_children: true
 ---
 

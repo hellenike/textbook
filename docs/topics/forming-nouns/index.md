@@ -3,7 +3,7 @@ layout: page
 title: "Forming nouns with case endings"
 parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
-nav_order: 7
+nav_order: 20
 has_children: true
 ---
 

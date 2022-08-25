@@ -3,7 +3,7 @@ layout: page
 title: "Nominative and genitive case endings"
 parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
-nav_order: 8
+nav_order: 21
 has_children: true
 ---
 
