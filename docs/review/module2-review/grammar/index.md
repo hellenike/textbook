@@ -22,6 +22,7 @@ nav_order: 4
 - transitive verb
 - substantive adjective
 - pronoun, demonstrative pronoun, antecedent
+- direct object, indirect object
 - transitive, intransitive and linking clauses
 - dependent, independent clauses
 
