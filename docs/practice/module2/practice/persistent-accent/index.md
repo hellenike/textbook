@@ -3,10 +3,14 @@ layout: page
 title: "Persistent accent"
 parent:  "Mastering module 2"
 grand_parent: "Practice"
-nav_order: 3
+nav_order: 100
 has_children: true
 ---
 
+
+
+
+*This practice is for use following sections 5.11, "Direct and indirect objects"*
 
 
 ### Persistent accent

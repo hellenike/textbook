@@ -7,6 +7,10 @@ nav_order: 16
 has_children: true
 ---
 
+
+
+*This practice is for use with section 5.9, "Adjecitves"*
+
 ### Adjective position
 
 

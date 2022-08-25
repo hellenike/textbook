@@ -1,13 +1,19 @@
 ---
 layout: page
-title: "Pronouns"
+title: "Demonstrative adjectives and pronouns"
 parent:  "Mastering module 2"
 grand_parent: "Practice"
-nav_order: 17
+nav_order: 30
 has_children: true
 ---
 
-### Pronouns
+
+
+
+
+*This practice is for use with section 5.10, "Demonstrative adjectives and pronouns"*
+
+### Demonstrative adjectives and pronouns
 
 
 
