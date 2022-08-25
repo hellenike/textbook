@@ -70,8 +70,8 @@ Endings for masculine first-declension nouns that end in -ης.    **Example**: 
 
 | Case | Singular | Plural |
 | --- |----------- | ----------- |
-| Nominative | πολίτης  | πολῖται |
-| Genitive | πολίτου | πολιτῶν |
+| Nominative | πολίτ**ης**  | πολῖτ**αι** |
+| Genitive | πολίτ**ου** | πολιτ**ῶν** |
 
 
 
@@ -85,16 +85,26 @@ Endings for masculine first-declension nouns that end in -ης.    **Example**: 
 
 
 
-#### Second declension
+### Second declension
 
-Endings for masculine or feminine second-declension nouns that end in -ος
+Endings for masculine or feminine second-declension nouns that end in -ος / -ου.  **Example**: ἄνθρωπος, ἀνθρώπου, ὁ or ἡ “person, human being”
 
 | Case | Singular | Plural |
 | --- |----------- | ----------- |
 | Nominative | -ος | -οι |
 | Genitive | -ου | -ων |
 
-For neuter second-declension nouns that end in -ον
+
+| Case | Singular | Plural |
+| --- |----------- | ----------- |
+| Nominative | ἄνθρωπ**ος** | ἄνθρωπ**οι** |
+| Genitive | ἀνθρώπ**ου** | ἀνθρώπ**ων** |
+
+
+
+Endings for neuter second-declension nouns that end in -ον / -ου.  **Example**: παιδίον, παιδίου, τό “young child” or “young enslaved person”
+
+
 
 | Case | Singular | Plural |
 | --- |----------- | ----------- |
@@ -102,27 +112,53 @@ For neuter second-declension nouns that end in -ον
 | Genitive | -ου | -ων |
 
 
-#### Third declension
+| Case | Singular | Plural |
+| --- |----------- | ----------- |
+| Nominative | παιδί**ον** | παιδί**α** |
+| Genitive |παιδί**ου** | παιδί**ων** |
 
-The third declension also contains nouns of all three genders: masculine, feminine, and neuter. The third declension is sometimes called the "consonant declension" because most nouns in this declension have stems ending in a consonant. Because of linguistic changes to different kinds of stems, a variety of patterns exists that you will need to become familiar with over time. Here we introduce just the basic pattern of endings that signify the third declension.
 
-For masculine or feminine third-declension nouns:
+
+
+
+### Third declension
+
+
+The third declension is sometimes called the "consonant declension" because most nouns in this declension have stems ending in a consonant. Because of linguistic changes to different kinds of stems, the basic endings summarized here appear in slightly different form in some patterns you will come to recognize over time.  In particular, the relation between the nominative singular and genitive singular form may not appear obvious.  Remember to use the genitive singular to find the stem for all other forms.
+
+
+Endings for masculine or feminine third-declension nouns. **Example**: μάρτυς, μάρτυρος, ὁ or ἡ,  "witness"
 
 | Case | Singular | Plural |
 | --- |----------- | ----------- |
 | Nominative | -ς or no ending | -ες  |
 | Genitive | -ος  | -ων |
 
-> Note that the *genitive* singular ending in this declension, -ος, is the same as the masculine or feminine ending of the *nominative* singular form in the second declension. That shows us that knowing what declension a noun belongs to, as well as what gender it is, is crucial for knowing what form the ending is indicating. 
 
-For neuter third-declension nouns:
+| Case | Singular | Plural |
+| --- |----------- | ----------- |
+| Nominative | μάρτυς | μάρτυρες  |
+| Genitive | μάρτυρος  | μαρτύρων |
+
+
+
+Endings for neuter third-declension neuter nouns.. **Example**: πράγμα, πράγματος, τό “deed, act, matter, thing”
 
 | Case | Singular | Plural |
 | --- |----------- | ----------- |
 | Nominative | - | -ᾰ |
 | Genitive | -ος | -ων |
 
-> Compare also the neuter nominative plural ending in both the second and third declensions, -ᾰ, and one of the feminine nominative singular forms in the first declension, also -ᾰ.
+| Case | Singular | Plural |
+| --- |----------- | ----------- |
+| Nominative | πράγμα | πράγματα |
+| Genitive | πράγματος | πραγμάτων |
+
+#### Notes on the third declension
+
+
+- Note that the *genitive* singular ending in this declension, -ος, is the same as the masculine or feminine ending of the *nominative* singular form in the second declension. That shows us that knowing what declension a noun belongs to, as well as what gender it is, is crucial for knowing what form the ending is indicating. 
+- Compare also the neuter nominative plural ending in both the second and third declensions, -ᾰ, and one of the feminine nominative singular forms in the first declension, also -ᾰ.
 
 
 
