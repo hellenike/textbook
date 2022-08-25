@@ -3,7 +3,7 @@ layout: page
 title: "Adjectives"
 parent: "Nouns and adjectives"
 grand_parent: "Module 2: nouns and adjectives"
-nav_order: 8
+nav_order: 9
 has_children: true
 ---
 
@@ -15,7 +15,21 @@ Like nouns, adjectives have gender, case, and number. To identify the form of an
 
 ### Dictionary entry and declension of adjectives
 
-The dictionary entry of an adjective will be all the nominative singular forms. The order of those nominative singular forms that dictionaries use is: masculine nominative singular, feminine nominative singular, and neuter nominative singular. For some adjectives, the feminine and masculine forms share the same endings, and so there will be only two sets of endings, the first listed for the masculine and feminine and the second for the neuter. Third declension adjectives have a wider variety of endings, just as the nouns do, and may also have different endings for the masculine, feminine, and neuter forms, or one set for the masculine and feminine and another for the neuter. 
+The dictionary entry for an adjective lists all the nominative singular forms. The order of the nominative singular forms that dictionaries use is: masculine nominative singular, feminine nominative singular, and neuter nominative singular.  For example, the vocabulary list for this unit includes this adjective entry:
+
+- ἀγαθός, ἀγαθή, ἀγαθόν “good”
+
+For some adjectives, the feminine and masculine forms share the same endings, and so there will be only two sets of endings, the first listed for the masculine and feminine and the second for the neuter. This entry
+
+- ἔξαρνος, ἔξαρνον, "denying"
+
+
+means that the form ἔξαρνος can be either masculine nominative singular *or* feminine nominative singular; ἔξαρνον is neuter nominative singular
+
+
+
+Third declension adjectives have a wider variety of endings, just as the nouns do, and may also have different endings for the masculine, feminine, and neuter forms, or one set for the masculine and feminine and another for the neuter. 
+
 
 Adjectives in ancient Greek are organized into the same three declensions as nouns, and like nouns, adjectives belong to each of the three declensions. An adjective of any declension can modify a noun of any declension.
 
