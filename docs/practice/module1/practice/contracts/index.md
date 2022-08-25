@@ -3,9 +3,15 @@ layout: page
 title: "Contract verbs"
 parent:  "Mastering module 1"
 grand_parent: "Practice"
-nav_order: 15
+nav_order: 35
 has_children: true
 ---
+
+
+*This practice is for use with section 4.11, "Contract verbs"*
+
+
+
 
 ### Contract verbs
 

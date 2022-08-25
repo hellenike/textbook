@@ -7,6 +7,11 @@ nav_order: 1
 has_children: true
 ---
 
+
+*This practice is for use with chapter 3, "Preliminaries"*
+
+
+
 ### Vocalizing Greek
 
 

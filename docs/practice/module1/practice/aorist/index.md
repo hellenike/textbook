@@ -3,9 +3,17 @@ layout: page
 title: "The aorist indicative"
 grand_parent: "Practice"
 parent:  "Mastering module 1"
-nav_order: 5
+nav_order: 15
 has_children: true
 ---
+
+
+
+
+*This practice is for use with section 4.7, "The aorist indicative"*
+
+
+
 
 ### The aorist indicative
 

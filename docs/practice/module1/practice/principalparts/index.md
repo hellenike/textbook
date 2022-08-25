@@ -3,9 +3,14 @@ layout: page
 title: "Principal parts"
 parent:  "Mastering module 1"
 grand_parent: "Practice"
-nav_order: 1
+nav_order: 5
 has_children: true
 ---
+
+
+*This practice is for use with section 4.5, "Principal parts of verbs"*
+
+
 
 ### Principal parts
 
