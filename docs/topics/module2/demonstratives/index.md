@@ -12,18 +12,10 @@ has_children: true
 
 **Pronoun** is a part of speech. Pronouns are used in place of and in reference to a noun: the Greek term for "pronoun" is ἀντωνυμία, literally "in place of a noun." The noun that a pronoun replaces and refers to is called the pronoun's **antecedent**.
 
-Like nouns, pronouns in ancient Greek have grammatical gender, case, and number. The case of a pronoun, like that of a noun, will tell you its function in a clause.
+Like nouns, pronouns in ancient Greek have grammatical gender, case, and number. The gender and number will **agree** with the antecedent;the case of a pronoun, like that of a noun, will tell you its function in a clause.  
 
+If the antecedent is implied or understood, rather than expressed, we understand a noun that matches the gender and number of the demonstrative pronoun: ἐκεῖνος "that man" (masculine and singular), ταῦτα "these things" (neuter and plural), τῆσδε "of this (here) woman" (feminine and singular).
 
-
-
-
-
-When used as pronouns, the demonstratives are used on their own. They receive their gender and case from their **antecedent**, the noun they refer back to, but the case expresses the use of the pronoun in its own clause. If the antecedent is implied or understood, rather than expressed, we understand a noun that matches the gender and number of the demonstrative pronoun: ἐκεῖνος "that man" (masculine and singular), ταῦτα "these things" (neuter and plural), τῆσδε "of this (here) woman" (feminine and singular).
-
-
-ἧκεν ἐκείνη καὶ τὴν θύραν ἀνέῳξεν
-αὕτη δὲ ὀργιζομένη καὶ ἀδικεῖσθαι νομίζουσα
 
 
 
