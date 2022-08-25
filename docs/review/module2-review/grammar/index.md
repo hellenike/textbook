@@ -20,6 +20,7 @@ nav_order: 4
 - direct, indirect object
 - transitive verb
 - substantive adjective
+- pronoun, demonstrative pronoun, antecedent
 - transitive, intransitive and linking clauses
 - dependent, independent clauses
 
