@@ -7,38 +7,104 @@ nav_order: 35
 has_children: true
 ---
 
-
-
-
 ## Demonstrative adjectives and pronouns
 
-A special group of adjectives are called the **demonstrative adjectives** because the "point to" a noun.  They are frequently used on their own, as a kind of **pronoun**, standing in for a noun. 
+A special group of very common adjectives are called the **demonstrative adjectives** because they "point to" a noun.  English has two demonstratives adjectives, "this" and "that."  Ancient Greek has *three*; it is important to understand the conceptual meaning of each demonstrative since you cannot simply equate each Greek demonstrative with an English demonstrative. The forms of the demonstrative adjectives are somewhat irregular, and the way they are constructed with nouns is different from other adjectives.
 
-English has two commonly used demonstratives: "this" and "that," which can also be used as adjectives modifying a noun ("this woman," "that house") or on their own as pronouns ("these", "those"). Ancient Greek has *three*  very commonly used demonstrative adjectives/pronouns.  It is important to understand the conceptual meaning of each pronoun.  They also have somewhat irregular forms, and are constructed differently from other adjectives. 
+As with other adjectives, the demonstrative adjectives will be listed in lexica with the masculine, feminine and neuter of the nominative singular.
 
+### Meaning and forms of ὅδε, ἥδε, τόδε
 
-As with other adjectives, they will be listed in lexica with the masculine, feminine and neuter of the nominative singular.
-
-### ὅδε, ἥδε, τόδε
-
-**ὅδε, ἥδε, τόδε** is points to something present and visible or immediate. It can often be translated with "this," and is similar to the colloquial English phrase "this here" to describe someone or something. 
+**ὅδε, ἥδε, τόδε**  points to something present and visible or immediate. It can often be translated with "this," and is similar to the colloquial English phrase "this here" to describe someone or something. 
 
 Conceptually, the speaker is always present or involved with what is being pointed at. Within a text or narrative, ὅδε, ἥδε, τόδε points *forward* to what comes *next*, similar in such a context to a phrase like "the following" in English.
 
 
+| Case  |    | Singular|    |     | Plural  |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|    | Masculine | Feminine | Neuter | Masculine | Feminine | Neuter |
+| Nominative | ὅδε | ἥδε | τόδε | οἵδε | αἵδε | τάδε |
+| Genitive | τοῦδε | τῆσδε | τοῦδε | τῶνδε | τῶνδε | τῶνδε |
 
 
-### οὗτος, αὕτη, τοῦτο
-**οὗτος, αὕτη, τοῦτο** ("this" or "that") is conceptually between the closeness of ὅδε, ἥδε, τόδε and the distance of ἐκεῖνος, ἐκείνη, ἐκεῖνο and is "second person" (closer to the addressee than the speaker). In contrast to ὅδε, ἥδε, τόδε in narrative or text, οὗτος, αὕτη, τοῦτο looks _back_ and so points to "the preceding." It points to something closer in text than ἐκεῖνος, ἐκείνη, ἐκεῖνο, and so means "the latter" in contrast to "the former" (for which ἐκεῖνος, ἐκείνη, ἐκεῖνο would be used).
 
-**ἐκεῖνος, ἐκείνη, ἐκεῖνο** ("that") is conceptually pointing further away than the other two demonstratives, as in a "third person" idea. The use of ἐκεῖνος, ἐκείνη, ἐκεῖνο may have an intentionally distancing effect, as "that" can in English ("I would never do _that_!")
+> **Note on the forms of ὅδε, ἥδε, τόδε** You can easily recognize the forms of the article in ὅδε, ἥδε, τόδε.  That's because the forms in fact come from the article plus an enclitic particle -δε.   The enclitic nature of -δε accounts for the unexpected accents (e.g., forms like τήνδε, τούσδε, and τάσδε, which seem to be "breaking" the rule about circumflex accents on a long penult when the ultima is short) 
+
+
+### Meaning and forms of  οὗτος, αὕτη, τοῦτο
+
+**οὗτος, αὕτη, τοῦτο** falls in between the other two demonstrative.  It describes a noun as less immediate than ὅδε, ἥδε, τόδε, but less remote than ἐκεῖνος, ἐκείνη, ἐκεῖνο. Conceptually, it points to something closer to the addressee than the speaker.  In English translation, it might appear as "this" or "that," depending on its context.
+
+In contrast to ὅδε, ἥδε, τόδε, when οὗτος, αὕτη, τοῦτο refers to narrative or text, it looks *back,* and so points to "the preceding." It points to something closer in text than ἐκεῖνος, ἐκείνη, ἐκεῖνο, and so means "the latter" in contrast to "the former" (for which ἐκεῖνος, ἐκείνη, ἐκεῖνο would be used).
+
+
+
+| Case  |    | Singular|    |     | Plural  |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|    | Masculine | Feminine | Neuter | Masculine | Feminine | Neuter |
+| Nominative | οὗτος | αὕτη | τοῦτο | οὗτοι | αὗται | ταῦτα |
+| Genitive | τούτου | ταύτης | τούτου | τούτων | τούτων | τούτων |
+
+
+
+### Meaning and forms of  ἐκεῖνος, ἐκείνη, ἐκεῖνο
+
+
+**ἐκεῖνος, ἐκείνη, ἐκεῖνο** points to something further away than the other two demonstratives, 
+conceptually not directly connected to the speaker or addressee.  The use of ἐκεῖνος, ἐκείνη, ἐκεῖνο may have an intentionally distancing effect, as "that" can in English ("I would never do *that*!")
+
+
+| Case  |    | Singular|    |     | Plural  |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|    | Masculine | Feminine | Neuter | Masculine | Feminine | Neuter |
+| Nominative | ἐκεῖνος  | ἐκείνη  | ἐκεῖνο  | ἐκεῖνοι | ἐκεῖναι  | ἐκεῖνα  |
+| Genitive | ἐκείνου | ἐκείνης | ἐκείνου | ἐκείνων | ἐκείνων | ἐκείνων |
+
+
+### Syntax of the demonstrative adjective
 
 When functioning as adjectives, demonstratives are used in ancient Greek along with the article and in predicate position. Examples:
+
 - ἥδε ἡ ἡμέρα  "this day" (meaning "this very day, this day now, today")
-- οὗτος ὁf ἄνθρωπος  "this/that person"
-- τὰ παιδία ἐκείνα "to/for those people"
+- οὗτος ὁ ἄνθρωπος  "this/that person"
+- τὰ παιδία ἐκείνα "those people"
 
 
 (Since English does not use its article along with demonstratives, we do not translate the article in these constructions. Leaving the article out of the translation is necessary to be idiomatic in English. That is another example of how translation is not a "one-to-one" substitution of words.)
 
+
+ἐν ἐκείνῃ τῇ ἡμέρᾳ
+
+
+
+περὶ τούτου τοῦ πράγματος
+τούτου γὰρ μόνου τοῦ ἀδικήματος
+ὑπὸ τούτου τοῦ ἀνθρώπου
+
+ταύτην ἔλαβον τὴν δίκην
+
+
+τοῦτον τὸν νόμον
+
+### Demonstrative pronouns
+
+
+Pronouns (ἡ ἀντωνυμία)
+
+They are frequently used on their own, as a kind of **pronoun**, standing in for a noun. 
+which can also be used as adjectives modifying a noun ("this woman," "that house") or on their own as pronouns ("these", "those").
+
+"Pronoun" is a part of speech. Pronouns are used in place of and in reference to a noun: the Greek name ἀντωνυμία means "in place of a noun." The noun that a pronoun replaces and refers to is called the pronoun's _antecedent_.
+
+Like nouns, pronouns in ancient Greek have grammatical gender, case, and number. The case of a pronoun, like that of a noun, will tell you its function in a clause.
+
+
+
+
+
+
 When used as pronouns, the demonstratives are used on their own. They receive their gender and case from their **antecedent**, the noun they refer back to, but the case expresses the use of the pronoun in its own clause. If the antecedent is implied or understood, rather than expressed, we understand a noun that matches the gender and number of the demonstrative pronoun: ἐκεῖνος "that man" (masculine and singular), ταῦτα "these things" (neuter and plural), τῆσδε "of this (here) woman" (feminine and singular).
+
+
+ἧκεν ἐκείνη καὶ τὴν θύραν ἀνέῳξεν
+αὕτη δὲ ὀργιζομένη καὶ ἀδικεῖσθαι νομίζουσα

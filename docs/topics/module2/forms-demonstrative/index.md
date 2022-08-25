@@ -7,17 +7,9 @@ nav_order: 60
 has_children: true
 ---
 
-### Full declension of demonstrative pronouns
+## Full declension of demonstrative pronouns
 
-Pronouns (ἡ ἀντωνυμία)
-
-"Pronoun" is a part of speech. Pronouns are used in place of and in reference to a noun: the Greek name ἀντωνυμία means "in place of a noun." The noun that a pronoun replaces and refers to is called the pronoun's _antecedent_.
-
-Like nouns, pronouns in ancient Greek have grammatical gender, case, and number. The case of a pronoun, like that of a noun, will tell you its function in a clause.
-
-There are several types of pronouns in ancient Greek, as there are in English: personal, demonstrative, relative, interrogative, indefinite, reflexive, and reciprocal. We know and use all of these types of pronouns without perhaps knowing their classification. In this section, we will learn the ancient Greek personal pronouns, demonstrative pronouns, and the relative pronoun.
-
-
+The 
 
 
 #### Declensions of demonstrative pronouns
@@ -26,21 +18,18 @@ There are several types of pronouns in ancient Greek, as there are in English: p
 
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|    | Masc | Fem | Neut | Masc | Fem | Neut |
+|    | Masculine | Feminine | Neuter | Masculine | Feminine | Neuter |
 | Nominative | ὅδε | ἥδε | τόδε | οἵδε | αἵδε | τάδε |
 | Genitive | τοῦδε | τῆσδε | τοῦδε | τῶνδε | τῶνδε | τῶνδε |
 | Dative | τῷδε | τῇδε | τῷδε | τοῖσδε | ταῖσδε | τοῖσδε |
 | Accusative | τόνδε | τήνδε | τόδε | τούσδε | τάσδε | τάδε |
 
-> Notes on the forms of ὅδε, ἥδε, τόδε:
-
-- ὅδε, ἥδε, τόδε is the article + the enclitic particle -δε. The enclitic nature of -δε accounts for the accents appearing on the masculine and feminine nominative forms (while the article forms are proclitics) and for the accents remaining what they are on the article on forms like τήνδε, τούσδε, and τάσδε, which seem to be "breaking" the rule about circumflex accents on a long penult when the ultima is short. 
 
 **Declension of οὗτος, αὕτη, τοῦτο**
 
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|    | Masc | Fem | Neut | Masc | Fem | Neut |
+|    | Masculine | Feminine | Neuter | Masculine | Feminine | Neuter |
 | Nominative | οὗτος | αὕτη | τοῦτο | οὗτοι | αὗται | ταῦτα |
 | Genitive | τούτου | ταύτης | τούτου | τούτων | τούτων | τούτων |
 | Dative | τούτῳ | ταύτῃ | τούτῳ | τούτοῖς | ταύταις | τούτοις |
@@ -58,7 +47,7 @@ There are several types of pronouns in ancient Greek, as there are in English: p
 
 | Case  |    | Singular|    |     | Plural  |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|    | Masc | Fem | Neut | Masc | Fem | Neut |
+|    | Masculine | Feminine | Neuter | Masculine | Feminine | Neuter |
 | Nominative | ἐκεῖνος  | ἐκείνη  | ἐκεῖνο  | ἐκεῖνοι | ἐκεῖναι  | ἐκεῖνα  |
 | Genitive | ἐκείνου | ἐκείνης | ἐκείνου | ἐκείνων | ἐκείνων | ἐκείνων |
 | Dative | ἐκείνῳ  | ἐκείνῃ | ἐκείνῳ | ἐκείνοις | ἐκείναις | ἐκείνοις  |

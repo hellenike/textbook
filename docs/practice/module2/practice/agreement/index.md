@@ -8,7 +8,13 @@ has_children: true
 ---
 
 
-## Noun-adjective agreement
+
+*This practice is for use with section 5.15, "Adjectives: full declension"*
+
+
+
+
+### Noun-adjective agreement
 
 Examples of noun-adjective agreement from Lysias 1.6-10
 
