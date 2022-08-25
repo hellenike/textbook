@@ -5,7 +5,7 @@ parent: "Module 2: nouns and adjectives"
 nav_order: 10
 ---
 
-## Reading
+## Module 2 reading selection
 
 
 Based on Lysias 1.9–1.12: the house of Euphiletos, and the beginning of his discoveries that all was not what he thought.
@@ -24,7 +24,7 @@ Based on Lysias 1.9–1.12: the house of Euphiletos, and the beginning of his di
 
 
 
-## Reading in context
+### Reading in context
 
 Euphiletos' narrative takes us into the interior of his family's dwelling.  It had two stories, and two distinct areas called the ἀνδρωνῖτις and the γυναικωνῖτις.  His text implies that the normal location of the γυναικωνῖτις would be upstairs, and the ἀνδρωνῖτις downstairs, but the two areas have been swapped so that Euphiletos' wife will not need to use the stairs at night as she cares for their new infant.
 
