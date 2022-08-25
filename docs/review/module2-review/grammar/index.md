@@ -21,7 +21,7 @@ nav_order: 4
 - transitive verb
 - substantive adjective
 - transitive, intransitive and linking clauses
-- dependent, indepdent clauses
+- dependent, independent clauses
 
 #### Dictionary entries
 
