@@ -13,6 +13,11 @@ The following tables summarize the nominative and genitive endings for the three
 
 ### First declension
 
+Nouns of the first declension have one important exception to the expected position of the accent:  the genitive plural ending of the first declension is *always* accented with a circumflex. (There is a historical reason for this apparent exception, which has to do with the linguistic development of these forms over time: the circumflex reflects a vowel contraction similar to those you have seen in contract verbs.)
+
+Masculine and feminine nouns of the first declension have different endings in the nominative and genitive singular.  The vowel of feminine singular forms varies between eta and alpha, but note that the plural endings are the same for all first declension masculines and feminines. 
+
+
 
 Endings for feminine first-declension nouns that end in -η / -ης. **Example**: γνώμη, γνώμης, ἡ “judgment, opinion”
  
@@ -77,15 +82,12 @@ Endings for masculine first-declension nouns that end in -ης.    **Example**: 
 
 
 
-#### Notes on the first declension
-
-
-- The first declension has one important exception to the expected position of the accent:  the genitive plural ending of the first declension is *always* accented with a circumflex! (There is a historical reason for this apparent exception, which has to do with the linguistic development of these forms over time: the circumflex reflects a vowel contraction similar to those you have seen in contract verbs.)
-- Note that while the vowel of the feminine singular forms varies between eta and alpha, the plural endings are *always* the same.
-
 
 
 ### Second declension
+
+
+
 
 Endings for masculine or feminine second-declension nouns that end in -ος / -ου.  **Example**: ἄνθρωπος, ἀνθρώπου, ὁ or ἡ “person, human being”
 
@@ -126,6 +128,11 @@ Endings for neuter second-declension nouns that end in -ον / -ου.  **Example
 
 The third declension is sometimes called the "consonant declension" because most nouns in this declension have stems ending in a consonant. Because of linguistic changes to different kinds of stems, the basic endings summarized here appear in slightly different form in some patterns you will come to recognize over time.  In particular, the relation between the nominative singular and genitive singular form may not appear obvious.  Remember to use the genitive singular to find the stem for all other forms.
 
+Note that the *genitive* singular ending in this declension, -ος, is the same as the masculine or feminine ending of the *nominative* singular form in the second declension. That reminds us that knowing what declension a noun belongs to, as well as what gender it is, is crucial for knowing what form the ending is indicating. 
+
+Take care as well with the neuter nominative plural ending in both the second and third declensions, -ᾰ, and one of the feminine nominative singular forms in the first declension, also -ᾰ.
+
+
 
 Endings for masculine or feminine third-declension nouns. **Example**: μάρτυς, μάρτυρος, ὁ or ἡ,  "witness"
 
@@ -153,12 +160,4 @@ Endings for neuter third-declension neuter nouns.. **Example**: πράγμα, π
 | --- |----------- | ----------- |
 | Nominative | πράγμα | πράγματα |
 | Genitive | πράγματος | πραγμάτων |
-
-#### Notes on the third declension
-
-
-- Note that the *genitive* singular ending in this declension, -ος, is the same as the masculine or feminine ending of the *nominative* singular form in the second declension. That shows us that knowing what declension a noun belongs to, as well as what gender it is, is crucial for knowing what form the ending is indicating. 
-- Compare also the neuter nominative plural ending in both the second and third declensions, -ᾰ, and one of the feminine nominative singular forms in the first declension, also -ᾰ.
-
-
 
