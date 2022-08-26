@@ -21,7 +21,7 @@ nav_order: 2
 **καὶ** ἴσα τὰ ἄνω τοῖς κάτω κατὰ τὴν γυναικωνῖτιν καὶ κατὰ τὴν ἀνδρωνῖτιν **εἶχεν**. 
 
 
-ἐπειδὴ **δὲ** τὸ παιδίον **ἐγένετο** αὐτοῖς, 
+> ἐπειδὴ **δὲ** τὸ παιδίον **ἐγένετο** αὐτοῖς, 
 
 ἡ μήτηρ αὐτὸ **ἐθήλαζεν**,
 
@@ -45,8 +45,8 @@ nav_order: 2
 
 **καὶ** **ἐδυσκόλαινεν**, 
 
-> **ὃ** ὑπὸ τῆς θεραπαίνης ἐπίτηδες **ἐλύπειτο**. 
-  
+
+τὸ **δὲ** παιδίον ὑπὸ τῆς θεραπαίνης ἐπίτηδες **ἐλύπειτο**.  
   
 ὁ **γὰρ** ἄνθρωπος ἔνδον **ἦν**. 
 
@@ -60,8 +60,6 @@ nav_order: 2
     - ἐγένετο
     - ἐγίγνετο
     - ἐλύπειτο
-2. Identify the relative clause in the passage. What is the form (gender, case, and number) of the relative pronoun used? What is its antecedent, the noun it refers back to? Recall that it must be the same gender and number as the relative pronoun. 
-
 
 
 #### Glosses and notes
