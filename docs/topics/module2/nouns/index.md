@@ -28,12 +28,12 @@ All ancient Greek nouns have three properties: **gender**, **case**, and **numbe
 
 #### Dictionary entry of nouns 
 
-The dictionary entry of a noun concisely encodes all the information you need to know in order to produce all of its cases and numbers. The first part tells you its nominative singular form, the second part is its genitive singular form, and the third part indirectly tells you its gender(s) by giving you the nominative singular form of the article.  We'll learn all the forms of the article in this module, but the nominative singular forms are ὁ for masculine, ἡ for feminine and τό for neuter.
+The dictionary entry of a noun concisely encodes all the information you need to know in order to produce all of its cases and numbers. The first part tells you its nominative singular form, the second part is its genitive singular form, and the third part indirectly tells you its gender(s) by giving you the nominative singular form of the article.  We'll learn all the forms of the article in the course of this module, but the nominative singular forms are ὁ for masculine, ἡ for feminine and τό for neuter.
 
 ##### Examples of dictionary entries
 
 
-The following vocabulary entries are included in the required vocabulary list for this module.  Let's expand them to fuller English summaries:
+The following vocabulary entries are included in the required vocabulary list for this module.  Let's unpack their information more fully:
 
 
 - δίκη, δίκης, ἡ "order, right, judgment, lawsuit"
