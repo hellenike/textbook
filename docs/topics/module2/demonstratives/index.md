@@ -10,21 +10,17 @@ has_children: true
 ## Demonstrative pronouns
 
 
-**Pronoun** is a part of speech. Pronouns are used in place of and in reference to a noun: the Greek term for "pronoun" is ἀντωνυμία, literally "in place of a noun." The noun that a pronoun replaces and refers to is called the pronoun's **antecedent**.
-
-Like nouns, pronouns in ancient Greek have grammatical gender, case, and number. The case of a pronoun, like that of a noun, will tell you its function in a clause.
+**Pronoun** is a part of speech. Pronouns are used in place of and in reference to a noun: the Greek term for "pronoun" is ἀντωνυμία, literally "in place of a noun." 
 
 
+The noun that a pronoun replaces and refers to is called the pronoun's **antecedent**.  Like nouns, pronouns in ancient Greek have grammatical gender, case, and number. The gender and number will **agree** with the antecedent;the case of a pronoun, like that of a noun, will tell you its function in a clause.  
+
+For example, when Euphiletos narrates his story to the jury, and says, "Eratosthenes seduced my wife," he uses the feminine singular noun γυνή to refer to his wife.  Euphiletos continues, "and he [Eratosthenes] *destroyed* that woman." He expresses "that woman" with a form of the demonstrative pronoun ἐκεῖνος, ἐκείνη, ἐκεῖνο. γυνή is the antecedent: "that woman" is his wife.  Since γυνή is feminine and singular, he uses a feminine singular form of ἐκεῖνος, ἐκείνη, ἐκεῖνο.  Euphiletos uses the case ending that indicates "that woman" is the direct object of the verb "destroyed." (As we'll see later in this module, that function is shown by the **accusative** case.)
 
 
+If the antecedent is implied or understood, rather than expressed, we understand a noun that matches the gender and number of the demonstrative pronoun: ἐκεῖνος "that man" (masculine and singular), ταῦτα "these things" (neuter and plural), τῆσδε "of this (here) woman" (feminine and singular).
 
-
-When used as pronouns, the demonstratives are used on their own. They receive their gender and case from their **antecedent**, the noun they refer back to, but the case expresses the use of the pronoun in its own clause. If the antecedent is implied or understood, rather than expressed, we understand a noun that matches the gender and number of the demonstrative pronoun: ἐκεῖνος "that man" (masculine and singular), ταῦτα "these things" (neuter and plural), τῆσδε "of this (here) woman" (feminine and singular).
-
-
-ἧκεν ἐκείνη καὶ τὴν θύραν ἀνέῳξεν
-αὕτη δὲ ὀργιζομένη καὶ ἀδικεῖσθαι νομίζουσα
-
+English divides demonstratives into two categories, "this" and "that."  Ancient Greek has *three* demonstrative pronouns. It is important to understand the conceptual meaning of each demonstrative since you cannot simply equate each Greek demonstrative with one English word.
 
 
 Like adjectives, pronouns will be listed in lexica with the masculine, feminine and neuter of the nominative singular.
@@ -107,28 +103,11 @@ conceptually not directly connected to the speaker or addressee.  The use of ἐ
 
 ### Demonstrative adjectives
 
-
-
-
-
-
-They are frequently used on their own, as a kind of **pronoun**, standing in for a noun. 
-which can also be used as adjectives modifying a noun ("this woman," "that house") or on their own as pronouns ("these", "those").
-
-A special group of very common adjectives are called the **demonstrative adjectives** because they "point to" a noun.  English has two demonstratives adjectives, "this" and "that."  Ancient Greek has *three*; it is important to understand the conceptual meaning of each demonstrative since you cannot simply equate each Greek demonstrative with an English demonstrative. The forms of the demonstrative adjectives are somewhat irregular, and the way they are constructed with nouns is different from other adjectives.
-
-
-
-### Syntax of the demonstrative adjective
-
-The demonstrative adjectives are exceptions in that they do **not** use the attributive position when they are part of a noun phrase.  Since they point to something definite, the noun they agree with normally includes the article.  Consider these examples:
+In addition to standing alone as pronouns, the demonstrative adjectives can be used together with a noun they describe, much like the English demonstratives "this" and "that:"   "this person," "that witness," "those laws."  Because the Greek demonstratives are pronouns, rather than adjectives, however, they do **not** use the attributive position when they are part of a noun phrase.  Since they point to something definite, the noun they agree with normally includes the article.  Consider these examples:
 
 - ἥδε ἡ ἡμέρα  "this day" (meaning "this very day, this day now, today")
 - οὗτος ὁ ἄνθρωπος  "this/that person"
 - περὶ τούτου τοῦ πράγματος "concerning this case"
 
-> Note that when we use the demonstratives "this" or "that" in English, we do **not** use an article.  An idiomatic translation in English, therefore, will not have an article, even though the Greek does.  This is another reminder that translation is not a "one-to-one" substitution of words.
+Notice that when we use the demonstratives "this" or "that" in English, we do **not** use an article.  An idiomatic translation in English, therefore, will not have an article, even though the Greek does.  This is another reminder that translation is not a "one-to-one" substitution of words.
 
-
-
-### Demonstrative pronouns

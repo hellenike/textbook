@@ -17,7 +17,7 @@ The dictionary entry for an adjective lists all the nominative singular forms. T
 
 - ἀγαθός, ἀγαθή, ἀγαθόν “good”
 
-
+> **Reading dictionary definitions**.  Like "good" in English, there is a range of ways people or things can be ἀγαθός, ἀγαθή, ἀγαθόν. As you encounter this adjective in your readings, don't stop by identifying it as "good": ask yourself what nuances of meaning  the context gives to this adjective.
 
 ### First- and second-declension (or 2-1-2) adjectives
 

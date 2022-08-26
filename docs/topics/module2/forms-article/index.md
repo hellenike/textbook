@@ -9,23 +9,13 @@ has_children: true
 
 ## The article: complete declension
 
+The table below lists all forms of the article. Note that almost all the new dative and accusative forms look like regular first and second declension endings applied to a stem of τ-.  The only exception is the neuter accusative singular τό -- which, like all neuter accusatives, is identical to the neuter nominative form of the same number.
 
-### Forms of the article
 
-The table below lists all forms of the article. 
-
-| Case  |    | Singular|    |     | Plural  |     |
+|  Case  | Masculine singular| Feminine singular| Neuter singular|Masculine plural | Feminine plural | Neuter plural |
 | --- | --- | --- | --- | --- | --- | --- |
-|    | Masc | Fem | Neut | Masc | Fem | Neut |
-|  |  |  |  |  |  |  |
 | Nominative | ὁ | ἡ | τό | οἱ | αἱ | τά |
 | Genitive | τοῦ | τῆς | τοῦ | τῶν | τῶν | τῶν |
-| Dative | τῷ | τῇ | τῷ | τοῖς | ταῖς | τοῖς |
-| Accusative | τόν | τήν | τό | τούς | τάς | τά |
+| Dative | τ**ῷ** | τ**ῇ** | τ**ῷ** | τ**οῖς** | ταῖς | τοῖς |
+| Accusative | τ**όν** | τ**ήν** | τ**ό** | τ**ούς** | τ**άς** | τ**ά** |
 
-
-Some points to note:
-
-- There is no vocative form of the article.
-- Note that the alpha in the neuter nominative and accusative plural form, τά, is a short alpha, while the alpha in the feminine accusative plural form, τάς, is a long alpha.  
--  The accent pattern of the article is that of a persistent accent on the ultima: acite in nominative and accusative cases — with the important exception here of the *proclitic* (unaccented) forms in the masculine/feminine nominative forms ὁ, ἡ, οἱ, αἱ — and circumflex on the genitive and dative forms.

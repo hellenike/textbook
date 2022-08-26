@@ -17,12 +17,15 @@ nav_order: 4
 - subject-verb agreement
 - article
 - attributive position, predicate position
+- preposition
 - direct, indirect object
 - transitive verb
 - substantive adjective
 - pronoun, demonstrative pronoun, antecedent
+- direct object, indirect object
 - transitive, intransitive and linking clauses
-- dependent, independent clauses
+- linking verb
+
 
 #### Dictionary entries
 

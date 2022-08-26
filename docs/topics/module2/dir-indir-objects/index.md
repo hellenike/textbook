@@ -9,7 +9,7 @@ has_children: true
 
 ## Direct and indirect objects
 
-Two more functions that nouns can have in a clause is to act as the direct object of the verb, or as the indirect object of the verb. In order for a verb to take an object, it must be a *transitive* verb, a verb that expresses an action that acts upon a recipient. The noun that is the recipient of the action is called the *direct object*. Some verbs may express actions that also involve a secondary recipient: that noun is acting as the *indirect object*. 
+In addition to functioning as the **subject** of a verb, nouns can act as the **direct object** of the verb, or as the **indirect object** of the verb. In order for a verb to take an object, it must be a **transitive** verb, a verb that expresses an action that acts upon a recipient. The noun that is the recipient of the action is called the direct object. Some verbs may express actions that also involve a secondary recipient: that noun is acting as the indirect object. 
 
 In ancient Greek, the **accusative** case is the most common way of expressing a *direct object*. 
 
@@ -38,24 +38,3 @@ Can you think of other verbs in English that frequently have both a direct and a
 In Ancient Greek, the indirect object is expressed with the dative case. Word order can be used for other kinds of emphasis. 
 
 > πάντα τὰ ἐμαυτοῦ *ἐκείνῃ* παρέδωκα Lysias 1.6: "I gave over all of my things *to her*. "
-
-### Forms of Dative and Accusative Cases
-
-We have already met some of the forms of the dative and accusative cases in the article. Those case endings will show up again in the first and second declensions of nouns and adjectives.
-
-| Case and number | 1st Declension F/M | Second Declension M/F | Second Declension N | Third Decelension M/F | Third Declension N |
-| --- | --- | --- | --- | --- | --- |
-| Dative Singular | -ῃ / -ᾳ | -ῳ | -ῳ | -ι | -ι |
-| Accusative Singular | -ην / -αν | -ον | -ον | -α | - (same form as nominative)|
-| Dative Plural | -αις | -οις | -οις | -σι | -σι |
-| Accusative Plural | -ας | -ους | -α | -ας | -α |
-
-Look for patterns in these endings that can help you recognize the case endings.
-
-> Note that for a neuter noun or adjective in any declension, the accusative singular form will always be the same as the nominative singular form, and the accusative plural forms will always be the same as the nominative plural form.
-> 
-> Note that the dative plural ending of third declension nouns will have a "moveable nu" placed on the ending if the next word in the sentence starts with a vowel or if it is the last word in a sentence. In paradigms, therefore, you will see both options, without and with the nu on the end.
-
-> Note that the alpha in the 1st declension accusative ending -ας is a long alpha, while in the third declension masculine/feminine accusative plural ending -ας the alpha is short.
-
-
