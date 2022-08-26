@@ -10,11 +10,14 @@ has_children: true
 
 ## Adjectives: full declensions
 
-The following tables illustrate full declensions of adjectives.  Notice that you already know the new dative and accusative endings from the noun forms you have learned.
 
 
 
 ### First- and second-declension (or 2-1-2) adjectives
+
+
+The following table illustrates the full declensions of 2-1-2 adjectives.  Notice that the new dative and accusative endings are the same ones you already know from the noun forms you have learned.
+
 
 |  Case  | Masculine singular| Feminine singular | Neuter singular| Masculine plural| Feminine plural | Neuter plural|     |
 | --- | --- | --- | --- | --- | --- | --- |

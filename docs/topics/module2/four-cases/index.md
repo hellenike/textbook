@@ -134,6 +134,10 @@ Endings for neuter second-declension nouns that end in -ον / -ου.  **Example
 
 ### Third declension
 
+As with the nominative and genitive cases, the underlying consonant stems of third-declension nouns can sometimes result in slight variations in the combined stem + ending.  Notice for example for the noun μάρτυς that in the dative plural, the final rho of the stem has elided with the initial sigma of the ending.
+
+
+
 Endings for masculine or feminine third-declension nouns. **Example**: μάρτυς, μάρτυρος, ὁ or ἡ,  "witness"
 
 | Case | Singular | Plural |
