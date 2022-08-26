@@ -24,7 +24,8 @@ nav_order: 4
 - pronoun, demonstrative pronoun, antecedent
 - direct object, indirect object
 - transitive, intransitive and linking clauses
-- dependent, independent clauses
+- linking verb
+
 
 #### Dictionary entries
 
