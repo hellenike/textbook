@@ -6,6 +6,6 @@ docs/Gemfile
 ns-local/
 Manifest.toml
 composite.md
-*.pdf
 db*
 debug*
+pdf/*packet1.pdf
