@@ -9,10 +9,7 @@ has_children: true
 
 ## Full declension of demonstrative pronouns
 
-The 
-
-
-#### Declensions of demonstrative pronouns
+The dative and accusative cases of the demonstrative pronouns are easy to recognize.
 
 **Declension of ὅδε, ἥδε, τόδε**
 
