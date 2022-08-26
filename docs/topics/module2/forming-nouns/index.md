@@ -19,7 +19,7 @@ Creating noun forms is similar to creating finite verb forms: (1) you find the s
 
 If we wanted to have a sentence with the word "children" as its subject, we could put the noun παιδίον in the nominative plural.
 
-The case ending we will use depends both on the noun's gender and what declension it belongs to. We can see from the dictionary listing above that this is a neuter noun with a genitive singular ending in -ου and and a nominative singular ending in -ον. Recall that that tells us we're working with a second declension noun.  
+The case ending we will use depends both on the noun's gender and what declension it belongs to. We can see from the dictionary listing above that this is a neuter noun with a genitive singular ending in -ου and and a nominative singular ending in -ον. That tells us we're working with a second declension noun.  
 
 Now we're ready to go through the three steps to create a form.  We can drop the -ου from the genitive singular and remove any accent to find the stem:
 
@@ -39,7 +39,7 @@ So step 2, apply the proper ending, looks like this:
 > (2) παιδι + α -> παιδια
 
 
-Finally, we need to apply the appropriate accent. Recall that for finite verbs, the accent is normally recessive: it goes back as far from the end as normal verb rules allow.  Nouns and adjectives follow a different principle: their accent is **persistent**.  That is, it "tries" to stay on the same syllable at all times, unless the standard accent rules force it to change.  Look at the nominative and genitive forms given in the dictionary entry to figure out what syllable the accent wants to persist on.  Here, we can see that both nominative and genitive are accented with an acute on the penult.  (If you're extra sharp on your accent rules, you'll notice that we have an acute both when the final syllable is long -ου and when it is short -ον, so the iota that the stem ends with must be short.)
+Finally, we need to apply the appropriate accent. Recall that for finite verbs, the accent is normally recessive: it goes back as far from the end as accent rules allow.  Nouns and adjectives follow a different principle: their accent is **persistent**.  That is, it "tries" to stay on the same syllable at all times, unless the standard accent rules force it to change.  Look at the nominative and genitive forms given in the dictionary entry to figure out what syllable the accent wants to persist on.  Here, we can see that both nominative and genitive are accented with an acute on the penult.  (If you're extra sharp on your accent rules, you'll notice that we have an acute both when the final syllable is long -ου and when it is short -ον, so the iota that the stem ends with must be short.)
 
 > (3) παιδια -> παιδία
 
@@ -67,17 +67,6 @@ Finally, we'll apply the persistent accent.  We can see that in both the nominat
 > (3) δωρα -> δῶρα 
 
 
-
-
-
-δίκη, δίκης, ἡ “order, right, judgment, lawsuit”
-θύρα, θύρας, ἡ
-πολίτης, πολίτου, ὁ “citizen”
-Qerapaina
-
-παιδίον, παιδίου, τό “young child” or “young enslaved person”
-
-πράγμα, πράγματος, τό 
 
 
 
