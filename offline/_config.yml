@@ -3,6 +3,10 @@ theme: "just-the-docs"
 footer_content: "All material is available under the Creative Commons Attribution Share-Alike license <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 <img height=\"15\" width=\"80\" src=\"https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png\" /></a> "
 
 aux_links:
+  "PDF":
+    - "https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf"
+  "Youtube playlist":
+    - "https://www.youtube.com/playlist?list=PLhhpSgbqjgokrwa4HmReaGEptvqURz6Ns"
   "Hellênikê: home":
     - "https://hellenike.github.io/"
 
