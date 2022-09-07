@@ -67,6 +67,7 @@ For this module, memorize the first, third and sixth principal parts of each ver
 ### Irregular forms: imperfect of δίδωμι
 
 | Person and Number | Imperfect Active  | Imperfect Middle  | Imperfect Passive  |
+| --- | --- | --- | --- |
 | third singular |  ※  ἐδίδου  | ἐδίδοτο  | ἐδίδοτο |
 | third plural | ἐδίδοσαν  | ἐδίδοντο  | ἐδίδοντο|
 
