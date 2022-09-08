@@ -18,13 +18,16 @@ In those examples, we can see that in English indirect statement and indirect qu
 ### Indirect Statement as a subordinate clause
 
 One way that ancient Greek expresses indirect statement has the following structure:
+
 - a subordinate clause beginning with the conjunction ὅτι or ὡς. (Note that these conjunctions have several uses.)
 - the clause uses a finite verb that retains the tense and voice of the direct statement. If the verb governing the subordinate clause of indirect statement is in a secondary (past) tense, then the mood of the finite verb in the subordinate clause may be changed to the optative of the same tense and voice. 
 
 > Example from Lysias 1.16. There Euphiletos, our speaker, quotes directly the speech of his informant:
+
 > ὁ γὰρ ἀνὴρ ὁ ὑβρίζων εἰς σὲ καὶ τὴν σὴν γυναῖκα ἐχθρὸς ὢν ἡμῖν τυγχάνει.
 
 If he were to use indirect speech instead, he could do so like this, maintaining the verb form in the finite clause:
+
 > ἡ ἄνθρωπος εἶπεν ὅτι ὁ γὰρ ἀνὴρ ὁ ὑβρίζων εἰς σὲ καὶ τὴν σὴν γυναῖκα ἐχθρὸς ὢν ἡμῖν τυγχάνει.
 
 Or the finite verb in the subordinate clause after the aorist verb εἶπε may be changed to the optative of the same tense and voice:
@@ -35,6 +38,7 @@ As you can see, the subordinate clause structure allows the statement to maintai
 ### Indirect Question as a subordinate clause
 
 The structure of indirect question in ancient Greek is similar: a subordinate clause using a finite verb.
+
 - for indirect question, the subordinate clause is introduced by an interrogative pronoun (such as τίς, τί) or adverb (like the English equivalents *where*, *when*, *how*)
 - the finite verb in the subordinate clause retains the tense and voice of the direct question. If the verb governing the subordinate clause of indirect question is in a secondary (past) tense, then the mood of the finite verb in the subordinate clause may be changed to the optative of the same tense and voice.
 

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Interrogative and Indefinite Pronouns"
+title: "Interrogative and indefinite pronouns"
 parent: "Subordination"
 grand_parent: "Module 4: subordination"
 nav_order: 18
 has_children: true
 ---
 
-## Interrogative and Indefinite Pronouns
+## Interrogative and indefinite pronouns
 
 In this module, we add two more types of pronouns to those pronouns you learned in Module 2: personal pronouns, demonstrative pronouns, and relative pronouns. As you have learned with those examples, these pronouns, **interrogative pronouns** and **indefinite pronouns**, take the place of nouns. As we will see, these pronouns resemble one another in ancient Greek, and so paying attention to accentuation is especially important in distinguishing them and understanding the .
 
@@ -31,15 +31,17 @@ Like *which* and *what* in English, the interrogative pronoun in ancient Greek c
 In ancient Greek the interrogative pronoun and adjective is τίς, τί. It belongs to the third declension, and it has one set of forms for the masculine and feminine, and another for the neuter. 
 
 **Declension of τίς, τί** 
+
 | Case | Singular |  | Plural |   |
 | --- | --- | --- | --- | --- |
-|     | Masc. & Fem. | Neuter | Masc. & Fem. | Neuter | 
+|     | Masculine & Feminine | Neuter | Masculine & Feminine | Neuter | 
 | Nominative | τίς | τί | τίνες | τίνα |
 | Genitive | τίνος  or τοῦ | τίνος  or τοῦ | τίνων | τίνων |
 | Dative | τίνι or τῷ | τίνι or τῷ | τίσι or τίσιν | τίσι or τίσιν |
 | Accusative | τίνα | τί | τίνας | τίνα |
 
 > Notes of the forms of τίς, τί
+
 - The acute accent on these forms **always** remains acute, even when the rules of accentuation in a sentence say that it should become grave. We can compare that raised tone of the acute to the raised tone in asking a question in American English.
 - More than one form exists in the gentive singular and dative singular, and the second form will have to be distinguished from the article in context. 
 - The dative plural τίσι will have a nu-moveable added when the next word begins with a vowel. 
@@ -61,6 +63,7 @@ The indefinite pronoun can also be used as an adjective, equivalent to English *
 > Any books left behind were removed.
 
 **Declension of τις, τι** 
+
 | Case | Singular |  | Plural |   |
 | --- | --- | --- | --- | --- |
 |     | Masc. & Fem. | Neuter | Masc. & Fem. | Neuter | 

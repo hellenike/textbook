@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "Enclitics"
-parent: "Nouns and adjectives"
-grand_parent: "Module 2: nouns and adjectives"
-nav_order: 8
+parent: "Subordination"
+grand_parent: "Module 4: subordination"
+nav_order: 19
 has_children: true
 ---
+
 
 ## Enclitics
 
