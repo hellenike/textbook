@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Indirect Statement and Indirect Question Using the Optative"
+title: "Indirect statement and indirect question using the optative"
 parent: "Subordination"
 grand_parent: "Module 4: subordination"
 nav_order: 20
 has_children: true
 ---
 
-## Indirect Statement and Indirect Question Using the Optative
+## Indirect statement and indirect question using the optative
 
 Here we add two more types of subordinate clauses that can use the optative. In future modules we will learn other ways that anicent Greek can structure this type of expression, and we limit our focus here to these types of subordinate clauses.
 
