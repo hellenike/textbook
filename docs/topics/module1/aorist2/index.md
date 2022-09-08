@@ -27,7 +27,7 @@ Formation of the second aorist follows the same process as first aorist active a
 > 
 > ἐγενόμην -> ἐγεν-
 >
-> εἶδον -> εἶδ-
+> εἶδον -> εἰδ-
 
 - (2) Add the appropriate ending. 
 
@@ -36,7 +36,7 @@ Formation of the second aorist follows the same process as first aorist active a
 | third singular |  -ε | -ετο |
 | third plural | -ον | -οντο |
 
-Notice that these endings are identical to the endings of the imperfect indicative. You will distinguish the imperfect from the aorist for these verbs by noticing which verb stem (which principal part) the ending is applied to. In the imperfect the ending is applied to the first principal part stem, and in the aorist the ending is applied to the third stem. Examples: ἤρχετο (imperfect) "She was going" vs. ἦλθε (aorist) "She went"; ἔλεγε "She was saying"  vs. εἶπε "She said"; εἶδον "They saw" vs. ὥρων "They were seeing."
+Notice that these endings are *identical to the endings of the imperfect indicative*. You will distinguish the imperfect from the aorist for these verbs by noticing which verb stem (which principal part) the ending is applied to. In the imperfect the ending is applied to the first principal part stem, and in the aorist the ending is applied to the third stem. Examples: ἤρχετο (imperfect) "She was going" vs. ἦλθε (aorist) "She went"; ἔλεγε "She was saying"  vs. εἶπε "She said"; εἶδον "They saw" vs. ὥρων "They were seeing."
 
 > Note that the first person singular active ending in the second aorist -ον is the same as that of the third personal plural active.
 
