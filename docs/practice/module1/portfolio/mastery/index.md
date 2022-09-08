@@ -30,7 +30,7 @@ The questions in Part A are about this passage adapted from Lysias 1.6:
 - παραδίδωμι == παρα + δίδωμι
 
 
-#### Part A: composing Greek forms
+#### Part B: composing Greek forms
 
 Complete a synopsis in the **third person singular of the indicative** using a table like this one for the following verbs.  If a form does not exist for a particular verb (e.g., a verb is not used in all three voices), put a `—` to indicate that.
 
