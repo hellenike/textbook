@@ -39,6 +39,9 @@ Complete a synopsis in the **third person singular of the indicative** using a t
 - ἔχω
 - δίδωμι
 - λαμβάνω
+- ἡγέομαι
+- δύναμαι
+
 
 
 | Tense, voice | |
