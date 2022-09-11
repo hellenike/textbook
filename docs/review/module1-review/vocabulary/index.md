@@ -37,7 +37,7 @@ For this module, memorize the first, third and sixth principal parts of each ver
 - [γίγνομαι](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n22209), γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, — *become, come to be, be born, be*
 - δείκνυμι, δείξω, ἔδειξα δέδειχα, δέδειγμαι, ἐδείχθην *show, demonstrate*
 - [δοκέω](http://folio2.furman.edu/lsj/?urn=urn:cite2:hmt:lsj.chicago_md:n27847).  *to think, suppose, have or form an opinion, decide*.  Especially in the latter sense, it is frequently used impersonally in the third person singular, *it seems best (to someone)* and therefore *(someone) decided*.  Example:  ἔδοξέ μοι, "I decided".  (μοι is a pronoun meaning "to me".)
-δύναμαι, δυνήσομαι, —, —, δεδύναμαι, ἐδυνήθην be able, can, be capable, have the power
+- δύναμαι, δυνήσομαι, —, —, δεδύναμαι, ἐδυνήθην be able, can, be capable, have the power
 - εἰμί, ἔσομαι, —, —, —, — be, exist.
 - ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, —, — go, come
 - ἔχω, ἕξω or σχήσω, ἔσχον, ἔσχηκα, -έσχημαι, ἐσχέθην have, hold, possess; be able; be (in a particular state)
