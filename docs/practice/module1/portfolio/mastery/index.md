@@ -14,7 +14,7 @@ nav_order: 1
 
 The questions in Part A are about this passage adapted from Lysias 1.6:
 
-> **ἔδοξε** γάρ μοι, ὦ Ἀθηναῖοι, γῆμαι καὶ γυναῖκα **ἠγαγόμην** εἰς τὴν οἰκίαν. τὸν μὲν ἄλλον χρόνον οὕτω **διεκείμην** ὥστε μήτε λυπεῖν μήτε λίαν ἐπʼ ἐκείνῃ εἶναι ὅ τι ἂν ἐθέλῃ ποιεῖν, **ἐφύλαττόν** τε καὶ **προσεῖχον** τὸν νοῦν.  παιδίον δέ μοι **ἐγένετο**, καὶ **ἐπίστευον** ἤδη καὶ πάντα τὰ ἐμαυτοῦ ἐκείνῃ **παρέδωκα**. 
+> **ἔδοξε** γὰρ τῷ Ἐυφιλήτῳ, ὦ Ἀθηναῖοι, γῆμαι καὶ γυναῖκα **ἠγάγετο** εἰς τὴν οἰκίαν. τὸν μὲν ἄλλον χρόνον οὕτω **διέκειτο** ὥστε μήτε λυπεῖν μήτε λίαν ἐπʼ ἐκείνῃ εἶναι ὅ τι ἂν ἐθέλῃ ποιεῖν, **ἐφύλαττέ** τε καὶ **προσεῖχε** τὸν νοῦν.  παιδίον δὲ αὐτῷ **ἐγένετο**, καὶ **ἐπίστευε** ἤδη καὶ πάντα τὰ ἐμαυτοῦ ἐκείνῃ **παρέδωκε**. 
 
 1. Fully identify the forms of the finite verbs highlighted **like this** in the selection above.  For verbs not included in the vocabulary list for Module 1, refer to the list of additional principal parts below.
 2. Break up the passage above into clauses.  Draw a vertical line between clauses, and circle conjunctions or connecting particles.
