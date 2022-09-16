@@ -25,5 +25,5 @@ The second clause should express that everything was managed wonderfully.  Use �
 
 Next, express "But then, his mother died."  Use ἡ μήτηρ as the subject.
 
-The next two clauses should say that Euphiletos’ wife was taking part in the funeral procession for his mother, and she was seen by Eratosthenes.  For Euphiletos’ wife, use ἡ γυνή.  To express "taking part in the funeral procession", you can use the Greek idiom "she followed the procession". Use the regular epsilon contract verb ἀκολουθέω ("to follow") with the phrase ἐπʼ ἐκφορὰν to convey this.  To exress "by Eratosthenes, use ὑπὸ Ἐρατοσθένους.
+The next two clauses should say that Euphiletos’ wife was taking part in the funeral procession for his mother, and she was seen by Eratosthenes.  For Euphiletos’ wife, use ἡ γυνή.  To express "taking part in the funeral procession," you can use the Greek idiom "she followed the procession." Use the regular epsilon contract verb ἀκολουθέω ("to follow") with the phrase ἐπʼ ἐκφορὰν to convey this.  To express "by Eratosthenes," use ὑπὸ Ἐρατοσθένους.
 
