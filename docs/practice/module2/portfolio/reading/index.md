@@ -36,7 +36,7 @@ nav_order: 2
 
 **καὶ** ὁ Εὐφίλητος οὐδέποτε **ὑπώπτευσεν**, 
 
-**ἀλλ᾽**  ἠλιθίως **διέκειτο**.  
+**ἀλλ᾽** ἠλιθίως **διέκειτο**.  
 
 
 ἐν δὲ τῇ ἡμέρᾷ τῇδε, **ἧκε** **μὲν** ἀπροσδοκήτως ἐξ ἀγροῦ, 
@@ -76,6 +76,8 @@ nav_order: 2
 - ἐπειδὴ **δὲ**: δέ connects this sentence to the previous one, signaling that the train of thought is continuing. Paragraphs in English organize and connect sentences in a similar manner--that is, if one sentence follows another in a paragraph, it is signalling that they are on the same topic. ἐπειδὴ introduces a dependent relative adverbial clause: this clause is grammatically dependent on the one that follows. ἐπειδὴ = "when" or "since"
 - ἡ μήτηρ: μήτηρ means "mother." What does the article indicate about its gender, case, and number? What are different options for translating the article in this context? Which option sounds most idiomatic in English to you?
 - **ἐθήλαζεν** from the verb θηλάζω "to breastfeed." θηλάζω is a first principal part: what is the form of ἐθήλαζεν? Why would that tense be appropriate to what is being described?
+- **ἤθελε** is from the verb ἐθέλω "to wish, to want"
+- **κλίμακος** means "ladder" or "staircase." What gender, case, and number does its article τῆς indicate the form κλίμακος is?
 
 - **οὖν** signals that a conclusion is being drawn from what has been said. The original speech explained that Euphiletos didn't want his wife to risk falling while going up and down the stairs in the dark of night as she was feeding the baby, and so while the baby was young enough to need feeding during the night, the usual arrangement of domestic space was changed to accommodate that activity.
 - **μὲν** and **δὲ** are coordinating and contrasting the two clauses. Note that the **δὲ** clause does not contain a highlighted verb. When two clauses are coordinated, the verb can "carry over" when it applies to both clauses. We can do that in English, too: in an example like "I love you, but not him," we understand that "I love" is the subject and verb in both clauses and that the two objects of the verb "love" are being contrasted. So in this ancient Greek sentence, understand the verb from the **μὲν** clause to be operating in the **δὲ** clause as well.
