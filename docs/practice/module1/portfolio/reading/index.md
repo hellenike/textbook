@@ -61,4 +61,4 @@ nav_order: 2
 #### Translation
 
 
-Using the glosses below, and keeping in mind the insight you have gained from answering the preceding questions, please compose an idiomatic translation into English of the passage above.  
+Using the glosses above, and keeping in mind the insight you have gained from answering the preceding questions, please compose an idiomatic translation into English of the passage above.  
