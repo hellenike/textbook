@@ -50,6 +50,11 @@ nav_order: 2
 - εἰς τὴν οἰκίαν "to his house".  Notice that in definition B.1.2 of ἄγω linked above, the second example (from the historian Herodotus, abbreviated "Hdt.") has the phrase γυναῖκα ἄ. ἐς τὰ οἰκία, an exactly equivalent phrase to Lysias' γυναῖκα ἄ. εἰς τὴν οἰκίαν.
 - παιδίον "a child" (subject of the verb)
 - αὐτῷ "to him" (refers to Euphiletos)
+- ἐπίστευε < πίστευω "trust"
+- ἤδη is an adverb, "already, at this point, only now"
+- πάντα "everything"
+- ἐκείνῃ "to that woman, to her"
+- **παρέδωκε** < παραδίδωμι, a compound verb, παρὰ + δίδωμι. See section 4.7.5, p. 23 in your textbook for the prinipal parts of δίδωμι and its aorist forms, as well as 4.7.6 on that page for the meaning of this compound verb. 
 - ἐν τῷ πρώτῳ χρόνῳ "at first" The whole phrase goes together:   the particles μὲν οὖν start a new clause, and the phrase "at first" is the first piece of that clause.
  - **ἦν** Understand Euphiletos' wife as the subject: "She was..."
 - πασῶν βελτίστη "the best of all women".
