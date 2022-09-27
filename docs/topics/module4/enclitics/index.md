@@ -3,7 +3,7 @@ layout: page
 title: "Enclitics"
 parent: "Subordination"
 grand_parent: "Module 4: subordination"
-nav_order: 19
+nav_order: 40
 has_children: true
 ---
 

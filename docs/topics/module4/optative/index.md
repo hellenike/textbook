@@ -3,7 +3,7 @@ layout: page
 title: "The optative mood"
 parent: "Subordination"
 grand_parent: "Module 4: subordination"
-nav_order: 25
+nav_order: 20
 has_children: true
 ---
 

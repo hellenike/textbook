@@ -3,7 +3,7 @@ layout: page
 title: "Sequence of moods"
 parent: "Subordination"
 grand_parent: "Module 4: subordination"
-nav_order: 20
+nav_order: 25
 has_children: true
 ---
 
