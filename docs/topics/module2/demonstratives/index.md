@@ -48,7 +48,7 @@ Conceptually, the speaker is always present or involved with what is being point
 
 
 
-> **Note on the forms of ὅδε, ἥδε, τόδε** You can easily recognize the forms of the article in ὅδε, ἥδε, τόδε.  That's because the forms in fact come from the article plus an enclitic particle -δε.   The enclitic nature of -δε accounts for the unexpected accents (e.g., forms like τήνδε, τούσδε, and τάσδε, which seem to be "breaking" the rule about circumflex accents on a long penult when the ultima is short).
+> **Note on the forms of ὅδε, ἥδε, τόδε** You can easily recognize the forms of the article in ὅδε, ἥδε, τόδε.  That's because the forms in fact come from the article plus an enclitic particle -δε.   The enclitic nature of -δε accounts for the unexpected accents (e.g., forms like οἵδε, which seem to be "breaking" the rule about circumflex accents on a long penult when the ultima is short).
 
 
 ### Meaning and forms of  οὗτος, αὕτη, τοῦτο
