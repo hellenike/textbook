@@ -50,14 +50,14 @@ As we get further into the course, we focus on a second tier of vocabulary:  ter
 
 ## Versions and source
 
-This release, **packet 1**, includes modules 1 and 2, roughly the first half of the first semester's materials. It is built from the openly licensed markdown source in [this github repository (https://github.com/hellenike/textbook)](https://github.com/hellenike/textbook), where you will also find work in progress on the rest of the text.
+This text is work in progress built from the openly licensed markdown source in [this github repository (https://github.com/hellenike/textbook)](https://github.com/hellenike/textbook).
 
 
 You can also [download a PDF of this version (https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf)](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
 
 ### Subsequent releases
 
-We plan to release the complete *Hellênikê/ἑλληνική* textbook in four packets, as follows:
+Over the course of the 2022-2023 academic year, we plan to release the complete *Hellênikê/ἑλληνική* textbook in four packets, as follows:
 
 - **packet 1** (including modules 1 and 2) in August 2022.
 -  **packet 2** (including modules 3 and 4) in October 2022.
