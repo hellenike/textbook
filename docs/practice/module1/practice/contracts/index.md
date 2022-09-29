@@ -38,3 +38,20 @@ Complete the table with the imperfect  indicative of βοάω "to shout, cry ou
 | --- | --- | --- | --- |
 | third singular |    |   |
 | third plural |  |   |
+
+
+
+Compose an appropriate Greek verb form to express the **highlighted expressions** below.
+
+1. **They were dying** from starvation.
+1. The Queen of England **died** on Thursday.
+2. **It was being made**.
+2. Epic poets **created** a new poem in every performance.
+1. He **composed** a speech to deliver in court.
+3. They **saw** me every day in class.
+4. They **saw** me today.
+5. It always **seemed best** to him to say less.
+5. He **decided** to say nothing.
+6. They **considered** discretion the better part of valor.
+7.  No matter how many times he argued, he **was not considered** to be persuasive.
+
