@@ -10,7 +10,7 @@ has_children: true
 ## Purpose clauses
 
 
-A purpose clause is a subordinate clause. As we have seen before, "clause" means it has its own subject and verb. "Subordinate" means that it is dependent on the main clause of the sentence and does not stand alone. The terms "dependent" and "subordinate" are interchangeable for our purposes. As the name indicates, *purpose* clauses explain the reason(s) behind the main action: why, or for what purpose, the action of the main clause was done. The verb of a purpose clause is never in the indicative mood.
+A purpose clause is a subordinate clause. As we have seen before, "clause" means it has its own subject and verb. "Subordinate" means that it is dependent on the main clause of the sentence and does not stand alone. Simple indicative dependent clauses, such as relative adverb and relative pronoun clauses, were introduced as dependent clauses eartlier in this module. The terms "dependent" and "subordinate" are interchangeable for our purposes. As the name indicates, *purpose* clauses explain the reason(s) behind the main action: why, or for what purpose, the action of the main clause was done. The verb of a purpose clause is never in the indicative mood.
 
 Identify the purpose expressed in these English sentences:
 - He told them everything so that they would understand.
