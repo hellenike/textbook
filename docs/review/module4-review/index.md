@@ -10,7 +10,7 @@ has_children: true
 
 ## Module 4: language summary and review
 
-Vocbaulary
+Vocabulary
 
 ἐπειδή when, since, after
 
