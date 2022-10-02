@@ -9,16 +9,16 @@ has_children: true
 
 ## The Optative Mood: Overview
 
-You were introduced to the indicative mood in Module 1. In this module, you will learn how to form verbs in the optative mood. The Greek name for the mood is εὐκτική, "expressing a wish," which was one of the functions of the optative when it was used as the main verb of a sentence. Verbs in the optative mood are used both in subordinate clauses (we will learn a few of them in this module) and in certain independent clauses (which you will learn about next semester).
+You were introduced to the indicative mood in Module 1 and have been using it ever since. In this module, you will learn how to form verbs in the optative mood. The Greek name for the mood is εὐκτική, "expressing a wish," which was one of the functions of the optative when it was used as the main verb of a sentence. Verbs in the optative mood are used both in subordinate clauses (we will learn a few of them in this module) and in certain independent clauses (which you will learn about next semester).
 
-You will recall that ancient Greek verbs have four moods: 
+Recall that ancient Greek verbs have four moods: 
 1. the indicative mood (which we have been working with) that is used to make factual statements; 
 2. the imperative mood, used to give commands, which we will meet next semester, and 
 3. and 4. the subjunctive and optative moods, which are used for potential or possible action in a variety of expressions. In some types of subordinate clauses, the verb would be in the subjunctive or the optative mood depending on whether the main clause is in a primary (present/future/perfect) or secondary tense (imperfect/aorist/pluperfect). Since we have been working with indicative verbs only in the secondary tenses of the imperfect and aorist, we will introduce the optative mood first.
 
 ### Important things to know about the optative:
 
-- The meaning of the optative mood and therefore the way we translate an optative verb form is entirely dependent on its context, its use in that particular clause. You must always first identify the type of "verbal chunk" they belong to. Therefore, we will not give translations to optative forms in the explanation of how to form them.
+- The meaning of the optative mood and therefore the way we translate an optative verb form is entirely dependent on its context, its use in that particular clause. You must always first identify the type of "verbal chunk" an optative verb belongs to before you can decide how to translate it. Therefore, we will not give translations to optative forms in the explanation of how to form them.
 - The "tense" of a verb in the optative mood represents the *aspect* of the action, not the *time*. A present optative expresses ongoing or continuous action, not necessarily action in the present time. An aorist optative expresses a single action, not necessarily action in the past.
 - Forming these verbs requires adding a new set of endings onto the same principal part stems that you have already learned.
 
