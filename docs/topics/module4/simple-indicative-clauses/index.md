@@ -22,6 +22,6 @@ Relative adverbs, such as "when, after, since, because" in English, show and def
 - "When our child was born, I was already trusting my wife."
 - "After my mother died, all my problems started."
 
-One ancient Greek relative adverb is **ἐπειδή** which can mean "when," "after" or "since." Notice its resemblance to the adverb you have already learned, ἔπειτα "then, next."
+One ancient Greek relative adverb is **ἐπειδή** which can mean "when," "after" or "since." Notice its resemblance to the adverb you have already learned, ἔπειτα "then, next." This type of relative clauses uses finite verbs in the indicative mood.
 
 Relative pronouns, "who, which, that," are used to create a clause that further describes or defines a noun in the main clause. In the next section, we will introduce the relative pronoun in ancient Greek and learn in more detail how they form relative clauses.
