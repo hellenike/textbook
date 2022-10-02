@@ -10,13 +10,13 @@ has_children: true
 ## Purpose clauses
 
 
-A purpose clause is a subordinate clause. As we have seen before, "clause" means it has its own subject and verb. "Subordinate" means that it is dependent on the main clause of the sentence and does not stand alone. The terms "dependent" (which we used back in Module 2) and "subordinate" are interchangeable for our purposes. As the name indicates, *purpose* clauses explain the reason(s) behind the main action: why, or for what purpose, the action of the main clause was done. The verb of a purpose clause is never in the indicative mood.
+A purpose clause is a subordinate clause. As we have seen before, "clause" means it has its own subject and verb. "Subordinate" means that it is dependent on the main clause of the sentence and does not stand alone. The terms "dependent" and "subordinate" are interchangeable for our purposes. As the name indicates, *purpose* clauses explain the reason(s) behind the main action: why, or for what purpose, the action of the main clause was done. The verb of a purpose clause is never in the indicative mood.
 
 Identify the purpose expressed in these English sentences:
-He told them everything so that they would understand.
-So that she wouldn't have to climb stairs, she slept on the first floor.
-The students practiced their Greek forms daily to learn them better.
-We live in order to love.
+- He told them everything so that they would understand.
+- So that she wouldn't have to climb stairs, she slept on the first floor.
+- The students practiced their Greek forms daily to learn them better.
+- We live in order to love.
 
 The structure of a purpose clause in ancient Greek has the following features:
 - it is introduced by a specific subordinating conjunction: ἵνα, ὡς, or ὅπως
@@ -25,9 +25,9 @@ The structure of a purpose clause in ancient Greek has the following features:
 
 ### Practice with purpose clauses
 
-In the reading for Module 2, the house and living arrangements of Euphiletos were described. In the speech, purpose clauses explain a bit more. They are modified here to use the optative forms. Let's go back and see why the usual arrangements were flipped, as we practice purpose clauses (and get some participles, too, back in now that we can practice those as well).
+In the reading for Module 2, the house and living arrangements of Euphiletos were described. In the speech, purpose clauses explain a bit more. They are modified here to use the optative forms. Let's go back and see why the usual arrangements were flipped, as we practice purpose clauses, as well as simple indicative subordinate clauses, and participles, too.
 
-In each of the following sections, identify the purpose clause, its boundaries and the form of the verb in it.
+In each of the following sections, identify the boundaries of each clause and the form of the verb in each. Which clauses are subordinate? Which are purpose clauses?
 
 ἐπειδὴ δὲ τὸ παιδίον ἐγένετο αὐτοῖς, ἡ μήτηρ αὐτὸ ἐθήλαζεν: ἵνα δὲ μή κινδυνεύοι κατὰ τῆς κλίμακος καταβαίνουσα, ἐγὼ μὲν ἄνω διῃτώμην, αἱ δὲ γυναῖκες κάτω. (modified from Lysias 1.9)
 
