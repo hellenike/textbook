@@ -17,3 +17,5 @@ The sequence is called either "Primary" or "Secondary." Primary tenses of verbs 
 | --- | --- | ---|
 | Primary | Present, Future, or Perfect | Subjunctive |
 | Secondary | Imperfect, Aorist, or Pluperfect | Optative |
+
+We have been using verbs in the imperfect and aorist tenses. Therefore, we will be looking at how subordinate clauses operate in secondary sequence and use the optative. Next semester, as we add the primary tenses we will also add the subjunctive mood and subordinate clauses in primary sequence.
