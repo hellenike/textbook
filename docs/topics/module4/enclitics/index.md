@@ -12,7 +12,7 @@ has_children: true
 
 There are two classes of words in ancient Greek that do not carry accents.
 
-You have already encountered some examples of the class of words called **proclitics** (such as the forms of the article ὁ, ἡ, οἱ, αἱ and the negating word οὐ) and will meet more in the section in this module on prepositions and in future modules. Proclitics do not carry an accent of their own, and do not affect the accent of other words in a sentence. Proclitics may be used as the first word in a clause.  
+You have already encountered some examples of the class of words called **proclitics**, such as the forms of the article ὁ, ἡ, οἱ, αἱ, the negating word οὐ and the prepositions εἰς, ἐκ/ἐξ, and ἐν. (There will be a few more in future modules.) Proclitics do not carry an accent of their own, and do not affect the accent of other words in a sentence. Proclitics may be used as the first word in a clause.  
 
 **Enclitics** do interact with the accent of the word that precedes them in a sentence: their name signifies their "leaning on" the word they follow. Enclictics cannot be the first word in a clause since they need a word ahead of them to lean on. Enclitics are generally listed without an accent in paradigms and in glossaries or lexica. Enclitic words are frequently one syllable but may be two syllables. In addition to the pronouns you are learning above, another enclitic you have already encountered in Module 1 is the conjunction τε. 
 
