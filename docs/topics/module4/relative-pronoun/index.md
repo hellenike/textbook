@@ -11,7 +11,7 @@ has_children: true
 ## The relative pronoun
 
 
-The relative pronoun is used to create dependent clauses that further describe or define a noun or pronoun in a sentence. The relative pronoun in English is *who, which,* or *that*. 
+The relative pronoun is used to create dependent clauses that further describe or define a noun or pronoun in a sentence. The relative pronoun in English is *who, which,* or *that*. When the relative pronoun refers to a person or persons, translate it *who* and notice that pronouns are inflected in English. The genitive is *whose*, the dative would be *to/for whom* and the accusative is *whom*.
 
 **Declension of ὅς, ἥ, ὅ**
 
