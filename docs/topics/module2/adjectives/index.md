@@ -9,7 +9,7 @@ has_children: true
 
 ## Adjectives (τὸ ἐπίθετον)
 
-"**Adjective**" is a part of speech that serves to describe or delinate nouns or pronoun.  Like nouns, adjectives have gender, case, and number; adjectives will have the same gender, case and number as the noun they describe. We previously used the term **agreement** to refer to subjects and verbs matching in person and number;  we also say that adjectives **agree** with the noun they modify when adjective and noun have the same gender, case and number.  As when you identify a noun form, to identify the form of an adjective, you must indicate its gender, case and number.
+"**Adjective**" is a part of speech that serves to describe or delineate nouns or pronoun.  Like nouns, adjectives have gender, case, and number; adjectives will have the same gender, case and number as the noun they describe. We previously used the term **agreement** to refer to subjects and verbs matching in person and number;  we also say that adjectives **agree** with the noun they modify when adjective and noun have the same gender, case and number.  As when you identify a noun form, to identify the form of an adjective, you must indicate its gender, case and number.
 
 ### Dictionary entry 
 
@@ -62,7 +62,7 @@ In this declension, all the endings are the same as second declension nouns.  Ag
 
 
 
-> **A note on English adjectives**: Because  English does not have endings for gender and case of nouns and even uses the same form of adjectives for both singular and plural, English lacks explicit rules about noun-adjective agreement. The adjective does not change form between *one green shoe* and *two green shoes*, an *old woman* or a group of *old men*. But note that English has interesting "ingrained" rules about the *order* of adjectives when there is more than one. Most native speakers of English know these rules as just what “sounds right” or “sounds wrong.”  “Old green shoes” obeys these rules while “green old shoes” does not. See more in[the discussion this blog post](https://www.bbc.com/culture/article/20160908-the-language-rules-we-know-but-dont-know-we-know) for language rules English speakers know but don't know we know
+> **A note on English adjectives**: Because  English does not have endings for gender and case of nouns and even uses the same form of adjectives for both singular and plural, English lacks explicit rules about noun-adjective agreement. The adjective does not change form between *one green shoe* and *two green shoes*, an *old woman* or a group of *old men*. But note that English has interesting "ingrained" rules about the *order* of adjectives when there is more than one. Most native speakers of English know these rules as just what “sounds right” or “sounds wrong.”  “Old green shoes” obeys these rules while “green old shoes” does not. See more in [the discussion this blog post](https://www.bbc.com/culture/article/20160908-the-language-rules-we-know-but-dont-know-we-know) for language rules English speakers know but don't know we know.
 >
 > English language learners are sometimes asked to learn these rules about adjective order explicitly. That is a good reminder of the way in which language rules are sometimes defined for non-native-speakers (as we all are for ancient Greek) in a way that complicates the sense of a language meant to communicate.
 
