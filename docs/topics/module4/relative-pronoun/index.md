@@ -11,7 +11,6 @@ has_children: true
 ## The relative pronoun
 
 
-
 The relative pronoun is used to create dependent clauses that further describe or define a noun or pronoun in a sentence. The relative pronoun in English is *who, which,* or *that*. 
 
 **Declension of ὅς, ἥ, ὅ**
@@ -29,14 +28,4 @@ The relative pronoun is used to create dependent clauses that further describe o
 
 - the forms of the relative pronoun are similar to those of the article, without the initial tau that the article has in most forms and with a rough breathing on all forms. Note the difference in the masculine nominative singular ὅς from the article ὁ. With forms of the relative pronoun like ἥ, οἵ, and αἵ, the only difference between the article and the relative pronoun is the accent on the relative pronoun form.
 - the accent pattern is also like that of the article, and like a persistent accent on the ultima: acute on nominative and accusative forms and circumflex on genitive and dative forms.
-
-#### Examples of relative clauses
-
-Identify the relative pronoun in the following sentences. What is its antecedent? What are the boundaries or the relative clause (where does it begin and where does it end)? What form of the relative pronoun would be used in ancient Greek (what is the gender, case, and number)?
-
-- The woman who goes to the market brought messages to my wife.
-- The house that I own has two floors.
-- The husband narrated to the jurors the events which occurred. 
-
-> Compose in English your own sentences in English with relative clauses. Can you find ways to use relative pronouns in all four cases?
 
