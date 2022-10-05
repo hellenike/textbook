@@ -59,10 +59,12 @@ Indefinite pronouns are used in place of or to refer to persons or things that a
 
 In ancient Greek the indefinite pronoun is τις, τι. Like the interrogative pronoun, it belongs to the third declension, and it has one set of forms for the masculine and feminine, and another for the neuter. The difference between the forms of two pronouns in ancient Greek **lies in the accent alone**.
 
-The indefinite pronoun can also be used as an adjective, equivalent to English *some* or *any*.
+The indefinite pronoun can also be used as an adjective, equivalent to English *some* or *any* or *[a] certain*.
 > He was talking to **some friends**.
 > 
 > **Any books** left behind were removed.
+
+> From Lysias 1.15: προσέρχεταί μοί τις πρεσβῦτις ἄνθρωπος "a certain elderly person approaches me"
 
 **Declension of τις, τι** 
 
