@@ -11,7 +11,7 @@ nav_order: 5
 **Overview**
 You will compose a paragraph containing eight clauses. Using the instructions for each clause below, you should compose an appropriate verb, put nouns and pronouns in the correct case, and decide on a word order for each individual clause. You will also have to use a particle or conjunction to coordinate each clause with the rest of the paragraph. Your composition will express:
 
-For a long time Euphiletos did not suspect his wife. He came from the field to his house and was eating dinner upstairs. The baby was crying downstairs, and therefore Euphiletos’s wife left and closed the doors. That man was in the house, but Euphiletos did not see him.
+> For a long time Euphiletos did not suspect his wife. He came from the field to his house and was eating dinner upstairs. The baby was crying downstairs, and therefore Euphiletos’s wife left and closed the doors. That man was in the house, but Euphiletos did not see him.
 
 **Specific instructions**
 The first clause should express that Euphiletos did not feel suspicious toward his life for a long time when they were first married.  To express “for a long time,” use the accusative of χρόνος, χρόνου, ὁ and the masculine accusative adjective πολύν. For the verb use ὑποπτεύω, which is a compound verb, ὑπ[ό] + ὀπτεύω. The forms of ὑποπτεύω are completely regular (compare κελεύω). “His wife” is the direct object of the verb.
