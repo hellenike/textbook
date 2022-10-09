@@ -11,4 +11,4 @@ has_children: true
 *This practice is for use with section 5.15, "Adjectives: full declension"*
 
 
-# Adjectives: full declensions
+## Adjectives: full declensions
