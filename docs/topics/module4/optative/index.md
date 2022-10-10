@@ -9,12 +9,14 @@ has_children: true
 
 ## The Optative Mood: Overview
 
-You were introduced to the indicative mood in Module 1 and have been using it ever since. In this module, you will learn how to form verbs in the optative mood. The Greek name for the mood is εὐκτική, "expressing a wish," which was one of the functions of the optative when it was used as the main verb of a sentence. Verbs in the optative mood are used both in subordinate clauses (we will learn a few of them in this module) and in certain independent clauses (which you will learn about next semester).
+You were introduced to the indicative mood in Module 1 and have been using it ever since. In this module, you will learn how to form verbs in the optative mood. The Greek name for the mood is εὐκτική, "expressing a wish," which is one of the functions of the optative when it is used as the main verb of a sentence. Verbs in the optative mood are used both in subordinate clauses (we will learn a few of them in this module) and in certain independent clauses (which you will learn about in future modules).
 
 Recall that ancient Greek verbs have four moods: 
 1. the indicative mood (which we have been working with) that is used to make factual statements; 
-2. the imperative mood, used to give commands, which we will meet next semester, and 
-3. and 4. the subjunctive and optative moods, which are used for potential or possible action in a variety of expressions. In some types of subordinate clauses, the verb would be in the subjunctive or the optative mood depending on whether the main clause is in a primary (present/future/perfect) or secondary tense (imperfect/aorist/pluperfect). Since we have been working with indicative verbs only in the secondary tenses of the imperfect and aorist, we will introduce the optative mood first.
+2. the imperative mood, used to give commands, which we will meet in later modules, and 
+3. and 4. the subjunctive and optative moods, which are used for potential or possible action in a variety of expressions. 
+
+In some types of subordinate clauses, the verb would be in the subjunctive or the optative mood depending on whether the main clause is in a primary (present/future/perfect) or secondary tense (imperfect/aorist/pluperfect). Since we have been working with indicative verbs only in the secondary tenses of the imperfect and aorist, we will introduce the optative mood first.
 
 ### Important things to know about the optative:
 
@@ -59,9 +61,9 @@ As with the indicative, you will only distinguish between "first" and "second" a
 
 Recall that principal parts are all 1st person indicative mood verb forms. The third and sixth principal parts, as aorist indicative forms, carry the augment that is one indication of a past tense in the indicative. Optative forms *never* carry an augment, so in forming aorist optative verb forms, you must **remove the augment** from the principal part. When the augment is an epsilon that has been added as a prefix, it is simple to remove it. When the augment is a lengthening of a vowel that begins the stem, you can often look to the first principal part to see what the unaugmented form is. Irregular verbs will, as we have come to expect, offer more variety between first and third prinicpal parts stems, and so we need to use more caution in thinking about what the unaugmented stem will be.
 
-**First aorist optative**
+#### First aorist optative
 
-- (1a) for the active and middle, start by removing the first person singular ending (-α or -άμην), augment, and accent from the third principal part:
+- (1a) for the active and middle, start by removing the first person singular ending (-α or -άμην), the augment, and the accent from the third principal part:
 
 > ἐκέλευσα  -> κελευσ-
 >  
@@ -69,7 +71,7 @@ Recall that principal parts are all 1st person indicative mood verb forms. The t
 > 
 > ἡγησάμην -> ἡγησ- (compare the first prinicpal part ἡγέομαι, which also begins with an eta) 
 
-- (1b) for the aorist passive, start by removing the first person singular ending (-ην), augment, and accent from the sixth principal part:
+- (1b) for the aorist passive, start by removing the first person singular ending (-ην), the augment, and the accent from the sixth principal part:
 
 > ἐκελεύσθην -> κελευσθ-
 > 
@@ -94,7 +96,7 @@ Recall that principal parts are all 1st person indicative mood verb forms. The t
 
 
 
-**Second aorist optative**
+#### Second aorist optative
 
 - (1a) for the active and middle, start by removing the first person singular ending (-ον or -όμην), augment, and accent from the third principal part:
 
