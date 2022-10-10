@@ -14,16 +14,16 @@ has_children: true
 ### Language
 
 Module 4 introduces
+- several types of dependent clauses, some using the indicatiove mood and some using the optative in secondary sequence
 - morphology of optative mood, all three voices, in the present and aorist tenses for the third singular and third plural persons
 - the optative in subordinate clauses after past tense verbs 
-- introducing subordinating conjunctions, use of μή
+- thrid-person pronouns, relative pronouns, interrogative and indiefinite pronouns
 
 ### Making Connections 
 
-- Phuc Tran on the power of a non-indicative mood
-- Jhumpa Lahiri on the optative?
+- [move Phuc Tran and Jhumpa Lahiri to Module 6... NEED SOMETHING ELSE HERE]
 
 ### Practice, Reading, and Composition
 
-- Continuing with Lysias 1, sections 20-22(?)
-- Can express purpose in two different ways
+- modified examples from Lysias 1.9 and 1.11 and 1.14
+
