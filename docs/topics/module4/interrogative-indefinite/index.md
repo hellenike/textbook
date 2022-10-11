@@ -9,7 +9,7 @@ has_children: true
 
 ## Interrogative and indefinite pronouns
 
-Here are two more types of pronouns to those pronouns you have already learned: demonstrative pronouns, personal pronouns for the third person, and relative pronouns. As you have learned with those examples, these pronouns, **interrogative pronouns** and **indefinite pronouns**, take the place of nouns. As we will see, these pronouns resemble one another in ancient Greek, and so paying attention to accentuation is especially important in distinguishing them and understanding the clause in which they appear.
+Now we add two more types of pronouns to those pronouns you have already learned, demonstrative pronouns, personal pronouns for the third person, and relative pronouns. As you have learned with those examples, these pronouns, **interrogative pronouns** and **indefinite pronouns**, take the place of nouns or modify nouns adjectivally. You will see that these pronouns in ancient Greek resemble one another, and so paying attention to accentuation is especially important in distinguishing them and understanding the clause in which they appear.
 
 ### Interrogative pronoun
 Interrogative pronouns are so named because they are used to ask questions. The interrogative pronouns in English are *who?*, *which?*, and *what?*.
@@ -23,14 +23,14 @@ Interrogative pronouns are so named because they are used to ask questions. The 
 
 We have already seen in that these English words are used as relative pronouns as well, and so the context of their use—-whether in a question or a relative clause—-indicates the type of pronoun. Ancient Greek has different pronouns for these uses. 
 
-As we saw with the relative pronoun, the English pronoun *who* when it is interrogative is inflected: *who* is nominative, *whose* is the possessive genitive, and *whom* is the objective case, used with prepositions in English and as the object of the verb, corresponding to other uses of the genitive, and uses of the dative and the accusative.
+As we saw with the relative pronoun, the English pronoun *who* as an interrogative is also inflected: *who* is nominative, *whose* is the possessive genitive, and *whom* is the objective case, used with prepositions in English and as the object of the verb, corresponding to other uses of the genitive, and uses of the dative and the accusative.
 
 Like *which* and *what* in English, the interrogative pronoun in ancient Greek can also be used as an interrogative adjectives, modifying a noun.
 > **Which friend** did she see?
 > 
 > **What crime** did he commit?
 
-In ancient Greek the interrogative pronoun and adjective is τίς, τί. It belongs to the third declension, and it has one set of forms for the masculine and feminine, and another for the neuter. 
+In ancient Greek the interrogative pronoun and adjective is τίς, τί. It belongs to the third declension, and it has one set of forms for the masculine and feminine, and another for the neuter. τίς, the masculine and feminine form, corresponds to "who, whose, whom?" The neuter τί corresponds to English "What?" and can also be used as "why?".
 
 **Declension of τίς, τί** 
 
@@ -63,8 +63,8 @@ The indefinite pronoun can also be used as an adjective, equivalent to English *
 > He was talking to **some friends**.
 > 
 > **Any books** left behind were removed.
-
-> From Lysias 1.15: προσέρχεταί μοί τις πρεσβῦτις ἄνθρωπος "a certain elderly person approaches me"
+>
+> "a certain elderly person approaches me" (from Lysias 1.15: προσέρχεταί μοί τις πρεσβῦτις ἄνθρωπος)
 
 **Declension of τις, τι** 
 
