@@ -23,7 +23,7 @@ You have already encountered some examples of the class of words called **procli
 4. A proclitic followed by an enclitic will receive an acute accent. An enclictic followed by another enclitic in a sentence will also receive that enclitic's accent on its ultima, which will remain acute.
 
 ### Practice recognizing enclitics
-Looking through the following passage (Lysias 1.6–7), identify which words are enclitics and how they have affected the accents of the preceding words. What rules are at play in these examples? Which words without accents are proclitics rather than enclitics?
+Looking through the following passage (Lysias 1.6–7), identify which words are enclitics and how they have affected the accents of the preceding words. Which of the rules above are involved in each example you identify? Which words without accents are proclitics rather than enclitics?
 
 ἐγὼ γάρ, ὦ Ἀθηναῖοι, ἐπειδὴ ἔδοξέ μοι γῆμαι καὶ γυναῖκα ἠγαγόμην εἰς τὴν οἰκίαν, τὸν μὲν ἄλλον χρόνον οὕτω διεκείμην ὥστε μήτε λυπεῖν μήτε λίαν ἐπ᾽ ἐκείνῃ εἶναι ὅ τι ἂν ἐθέλῃ ποιεῖν, ἐφύλαττόν τε ὡς οἷόν τε ἦν, καὶ προσεῖχον τὸν νοῦν ὥσπερ εἰκὸς ἦν. ἐπειδὴ δέ μοι παιδίον γίγνεται, ἐπίστευον ἤδη καὶ πάντα τὰ ἐμαυτοῦ ἐκείνῃ παρέδωκα, ἡγούμενος ταύτην οἰκειότητα μεγίστην εἶναι: ἐν μὲν οὖν τῷ πρώτῳ χρόνῳ, ὦ Ἀθηναῖοι, πασῶν ἦν βελτίστη: καὶ γὰρ οἰκονόμος δεινὴ καὶ φειδωλὸς ἀγαθὴ καὶ ἀκριβῶς πάντα διοικοῦσα: ἐπειδὴ δέ μοι ἡ μήτηρ ἐτελεύτησε, πάντων τῶν κακῶν ἀποθανοῦσα αἰτία μοι γεγένηται.
 
