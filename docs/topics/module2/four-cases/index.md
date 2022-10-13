@@ -163,10 +163,10 @@ Endings for neuter third-declension neuter nouns.. **Example**: πράγμα, π
 
 | Case | Singular | Plural |
 | --- |----------- | ----------- |
-| Nominative | πράγμα | πράγματα |
+| Nominative | πρᾶγμα | πράγματα |
 | Genitive | πράγματος | πραγμάτων |
 | Dative | πράγματ**ι** |   πράγμα**σι** or πράγμα**σιν** |
-| Accusative | πράγμα | πράγματ**α** |
+| Accusative | πρᾶγμα  | πράγματ**α** |
 
 
 
