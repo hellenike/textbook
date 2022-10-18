@@ -22,5 +22,5 @@ Identify the relative pronoun in the following sentences. What is its antecedent
 - The house that I own has two floors.
 - The husband narrated to the jurors the events which occurred. 
 
-> For practice, compose in English your own sentences in English with relative clauses. Can you find ways to use relative pronouns in all four cases?
+> For practice, compose in English your own sentences with relative clauses. Can you find ways to use relative pronouns in all four ancient Greek cases?
 
