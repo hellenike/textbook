@@ -55,8 +55,8 @@ nav_order: 4
 | Accusative singular | γνώμην  |οἰκίαν| θεράπαιναν | 
 | Nominative plural | γνῶμαι | οἰκίαι | θεράπαιναι | 
 | Genitive plural | γνωμῶν  | οἰκιῶν | θεραπαινῶν | 
-| Dative plural | γνώμαις | οἰκιάις | θεραπαίναις  | 
-| Accusative plural | γνώμας| οἰκιάς | θεραπαίνας |
+| Dative plural | γνώμαις | οἰκίαις | θεραπαίναις  | 
+| Accusative plural | γνώμας| οἰκίας | θεραπαίνας |
 
 
 
@@ -81,10 +81,10 @@ nav_order: 4
 
 | Case and number | Neuter  |  Feminine |
 | --- | --- | --- | 
-| Nominative singular | πράγμα |γυναικωνῖτις | 
+| Nominative singular | πρᾶγμα |γυναικωνῖτις | 
 | Genitive singular | πράγματος  |  γυναικωνίτιδος  | 
 | Dative singular |πράγματι | γυναικωνίτιδι | 
-| Accusative singular | πράγμα | γυναικωνίτιδα | 
+| Accusative singular | πρᾶγμα | γυναικωνῖτιν | 
 | Nominative plural | πράγματα | γυναικωνίτιδες |
 | Genitive plural | πραγμάτων | γυναικωνιτίδων  |
 | Dative plural | πράγμασι or πράγμασιν | γυναικωνίτισι or γυναικωνίτισιν | 
