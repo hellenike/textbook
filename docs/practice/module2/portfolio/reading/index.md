@@ -76,6 +76,7 @@ nav_order: 2
 - ἐπειδὴ **δὲ**: δέ connects this sentence to the previous one, signaling that the train of thought is continuing. Paragraphs in English organize and connect sentences in a similar manner--that is, if one sentence follows another in a paragraph, it is signalling that they are on the same topic. ἐπειδὴ introduces a dependent relative adverbial clause: this clause is grammatically dependent on the one that follows. ἐπειδὴ = "when" or "since"
 - ἡ μήτηρ: μήτηρ means "mother." What does the article indicate about its gender, case, and number? What are different options for translating the article in this context? Which option sounds most idiomatic in English to you?
 - **ἐθήλαζεν** from the verb θηλάζω "to breastfeed." θηλάζω is a first principal part: what is the form of ἐθήλαζεν? Why would that tense be appropriate to what is being described?
+- αὐτό is the neuter accusative singular of the 3rd person pronoun, "it." As a pronoun, it refers back to a noun of the same gender and number. What noun does it refer to?
 - **ἤθελε** is from the verb ἐθέλω "to wish, to want"
 - **κλίμακος** means "ladder" or "staircase." What gender, case, and number does its article τῆς indicate the form κλίμακος is?
 
