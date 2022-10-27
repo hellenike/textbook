@@ -16,3 +16,12 @@ Makes the links *definite and specific*
 
 ~ English relative clause
 
+Substatnive use:
+
+οἱ ἀγαθοί == "good people"
+
+
+
+τοὺς τὰ τοιαῦτα πράττοντας
+
+(τὰ τοιαῦτα = neut.acc.pl. "things of this sort")
