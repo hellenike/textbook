@@ -85,7 +85,7 @@ The first verbal unit is an independent clause with the finite verb εἶδε; t
 
 
 
-### Middle voice of first aorists: a 2-1- declension
+### Middle voice of first aorists: a 2-1-2 declension
 
 Follow a similar process to form the aorist middle participle:
 
@@ -115,4 +115,29 @@ Here is a complete declension of the aorist middle participle of κελεύω.
 
 
 
-### Passive voice
+### Passive voice: a 3-1-3 declension
+
+The aorist passive participle, like the finite forms of the aorist passive tense, is formed from the sixth principal part.  It uses third-declension endings for the masculine and neuter forms, and first-declension endings for feminine forms.  Compare the patterns of nominative/genitive singular in -είς/-έντος, -εῖσα/-είσης, -έν/-έντος  with the aorist active pattern -ας/-αντος, -ασα/άσης, -αν/-αντος.
+
+The accent of the aorist passive participle is persistent on the first syllable of the ending.
+
+
+
+1. Remove the augment and accent 
+2. For masculine and neuter forms, create a *third-declension* stem with nominative singular/genitive  singular ending **-είς**, **-έντος**  (masculine) or **-έν, -έντος**  (neuter); for feminine forms, create a *first-declension* stem with nominative singular/genitive  singular ending  **-εῖσα, -είσης**
+3. Add regular ending from second third (masculine, neuter) or first (feminine) declension to match the gender, case and number of the participle's subject.
+4. Apply the appropriate accent.  
+
+
+| Case, number | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| **Singular** | | | |
+| Nominative singular | κελευσθείς  | κελευσθεῖσα | κελευσθέν | 
+| Genitive singular | κελευσθέντος   | κελευσθείσης    | κελευσθέντος | 
+| Dative singular | κελευσθέντι | κελευσθείσῃ  | κελευσθέντι | 
+| Accusative singular | κελευσθέντα | κελευσθεῖσαν | κελευσθέν | 
+| **Plural** | | | |
+| Nominative plural | κελευσθέντες | κελευσθεῖσαι| κελευσθέντα | 
+| Genitive plural | κελευσθέντων  | κελευσθεισῶν  | κελευσθέντων | 
+| Dative plural | κελευσθεῖσι, κελευσθεῖσιν  | κελευσθείσαις   | κελευσθεῖσι, κελευσθεῖσιν | 
+| Accusative plural | κελευσθέντας  | κελεύσασας | κελευσθείσας | 
