@@ -1,6 +1,6 @@
 ---
 layout: page
-parent: "Module 4: subordination"
+parent: "Module 4: subordinate clauses"
 title: "Subordination"
 nav_order: 1
 has_children: true

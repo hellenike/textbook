@@ -2,7 +2,7 @@
 layout: page
 title: "Enclitics"
 parent: "Subordination"
-grand_parent: "Module 4: subordination"
+grand_parent: "Module 4: subordinate clauses"
 nav_order: 40
 has_children: true
 ---

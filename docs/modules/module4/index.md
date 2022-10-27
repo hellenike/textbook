@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Module 4: subordination"
+title: "Module 4: subordinate clauses"
 nav_order: 6
 has_children: true
 ---
 
 
-# Module 4:  subordination
+# Module 4:  subordinate clauses
 
 
 ## Overview of module 4

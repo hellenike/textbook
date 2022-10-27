@@ -2,7 +2,7 @@
 layout: page
 title: "Simple indicative clauses"
 parent: "Subordination"
-grand_parent: "Module 4: subordination"
+grand_parent: "Module 4: subordinate clauses"
 nav_order: 1
 has_children: true
 ---
