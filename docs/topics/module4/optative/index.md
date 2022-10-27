@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The optative mood"
-parent: "Subordination"
+parent: "Subordinate clauses"
 grand_parent: "Module 4: subordinate clauses"
 nav_order: 20
 has_children: true

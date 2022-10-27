@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Interrogative and indefinite pronouns"
-parent: "Subordination"
+parent: "Subordinate clauses"
 grand_parent: "Module 4: subordinate clauses"
 nav_order: 35
 has_children: true

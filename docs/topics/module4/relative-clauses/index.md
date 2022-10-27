@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Relative clauses"
-parent: "Subordination"
+parent: "Subordinate clauses"
 grand_parent: "Module 4: subordinate clauses"
 nav_order: 15
 has_children: true

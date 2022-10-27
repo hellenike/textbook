@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sequence of moods"
-parent: "Subordination"
+parent: "Subordinate clauses"
 grand_parent: "Module 4: subordinate clauses"
 nav_order: 25
 has_children: true

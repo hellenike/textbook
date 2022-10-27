@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Indirect statement and indirect question using the optative"
-parent: "Subordination"
+parent: "Subordinate clauses"
 grand_parent: "Module 4: subordinate clauses"
 nav_order: 45
 has_children: true

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The relative pronoun"
-parent: "Subordination"
+parent: "Subordinate clauses"
 grand_parent: "Module 4: subordinate clauses"
 nav_order: 10
 has_children: true
