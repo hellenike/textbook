@@ -67,3 +67,9 @@ The irregular adjective πᾶς, πᾶσα, πᾶν, "all, every, each" declines
 | Genitive | παντός  | πάσης   | παντός  | πάντων   | πασῶν  | πάντων  |
 | Dative | παντί  | πάσῃ | παντί | πᾶσι or πᾶσιν | πάσαις  | πᾶσι or πᾶσιν |
 | Accusative | πάντα | πᾶσαν | πᾶν  | πάντας   | πάσας   | πάντα   |
+
+#### Demonstrative pronouns and adjectives
+
+- ὅδε, ἥδε, τόδε "this, this here"; in connected prose refers to what is about to be said, "the following"
+- οὗτος, αὕτη, τοῦτο "this, that"; in connected prose, refers what was just said, "the preceding"; in a list, "the latter"
+- ἐκεῖνος, ἐκείνη, ἐκεῖνο "that"; in a list, "the former"
