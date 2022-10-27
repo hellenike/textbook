@@ -12,26 +12,39 @@ nav_order: 1
 
 In Module 1, we looked at an essential kind of verbal unit, the clause.  Recall that every clause has a finite verb (expressed or implied), and that explicit subjects of finite verbs are in the nominative case.
 
-A second essential kind of verbal unit in Greek is the **participle**.  Participles may have exactly the same kinds of objects or predicates as finite verb forms, depending on whether the verb transitive, intransitive, or a linking verb.  The relation of the participle to the subject of the verbal action is expressed differently, however. The participle always agrees with a noun or pronoun in the clause in gender, case and number, just like adjectives.  This noun or pronoun functions as the subject of the participle's action.  
+A second essential kind of verbal unit in Greek is the **participle**.  Participles may have exactly the same kinds of objects or predicates as finite verb forms, depending on whether the verb transitive, intransitive, or a linking verb.  The relation of the participle to the subject of the verbal action is expressed differently, however. The participle is always linked to a noun or pronoun in the clause; this noun or pronoun functions as the subject of the participle's action.
 
-Participles express 
+This means that participles can never stand alone as a verbal unit: they express an additional verbal idea, attached to another word in the clause.  In English, we most commonly express this kind of dependent verbal unit using a **subordinate clause** -- that is, a clause with its own finite verb form, but one that cannot stand by itself as a complete sentence.  Consider this English sentence from Caroline Falkner's translation of Lysias 1:
+
+"The person who is disgracing you and your wife happens to be our mutual enemy."
+
+We have two finite verbs ("is disgracing" and "happens to be"), and therefore two clauses.  The clause "The person happens to be our mutual enemy" is a perfectly coherent English sentence, but the clause "who is disgracing you and your wife" is not.
+
+In module 4, we'll see that, like English, Greek can express subordinate ideas like this using subordinate clauses, but even more frequently Greek prefers a participle. In this passage, for example, Lysias uses a participle to express the verbal idea in Falkner's phrase "who is disgracing you and your wife."  
+
+
+To clarify this subordinate structure, we will regular format texts using indentation to show subordinated constructions.
+
+
+> The person 
+>
+>> who is disgracing you and your wife 
+>    
+> happens to be our mutual enemy.
+
+Although English has some verb forms we refer to as "participles," the most important difference conceptual difference between them and Greek participles is that Greek participles express a verbal unit comparable to an English subordinate clause.
+
+
+> **⚠️ This means you will normally use an English subordinate clause to express the meaning of a Greek verbal unit with a participle.**
 
 
 
-Like finite verb forms, participles have tense and voice.  
-
-
-This is why the ancient Greek grammatical term for "participle," is μετοχή, literally  "a sharing:" participles share some of the properties of a finite verb (tense, voice), and some of the properties of an adjective (gender, case, number).
 
 
 ### Identifying and forming  participles
 
+Like finite verb forms, the form of participles indicate the  tense and voice of the verbal action.  Like adjectives, they agree in gender, case and number with a substantive functioning as the subject of the verbal action.  This is why the ancient Greek grammatical term for "participle," is μετοχή, literally  "a sharing:" participles share some of the properties of a finite verb (tense, voice), and some of the properties of an adjective (gender, case, number).  When you fully identify the form  of a participle therefore you should give its tense, voice, gender, case and number.
 
+In this module, we will use two tenses of the participle: the **aorist participle**, and the **present participle**. They differ in meaning in much the same way that the aorist and the imperfect tense of finite verbs differ: the aorist participle views the verbal action as a single, completed whole; the present participle, like the finite forms of the imperfect tense, sees the action as repeated, habitual, incomplete or in some other way *not* a single, whole action.
 
-
-
-
-
-
-
-
+To build these participles, you will use the same  principal parts  familiar to you from finite verb forms.  To form the aorist tense in the active or middle voice, we use the third principal part; to form the aorist tense in the passive voice, we use the sixth principal part.  To form the present participle in all three voices, we use the first principal part, just as we do to form all three voices of the imperfect indicative.
