@@ -8,3 +8,20 @@ nav_order:  9
 
 
 ## Participles: circumstantial position
+
+
+(*not* a predicate!)
+
+Attendant circumstance of any kind
+
+### Time
+
+### Causal
+
+
+### Manner
+
+
+### Descriptive
+
+

@@ -10,3 +10,9 @@ nav_order:  5
 
 
 ## Participles: attributive position
+
+
+Makes the links *definite and specific*
+
+~ English relative clause
+
