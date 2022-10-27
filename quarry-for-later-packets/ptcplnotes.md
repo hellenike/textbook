@@ -29,3 +29,7 @@ We can also add *ed* to a verb stem to create a participle in a past tense and p
 
 
 
+
+πρότερον δὲ μεθύων εἷλκες αὐτήν
+
+κἀγὼ τούτων οὐδὲν ἐνθυμούμενος οὐδ‘ ὑπονοῶν ἐκάθευδον ἄσμενος

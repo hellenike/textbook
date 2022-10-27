@@ -117,7 +117,7 @@ Here is a complete declension of the aorist middle participle of κελεύω.
 
 ### Passive voice: a 3-1-3 declension
 
-The aorist passive participle, like the finite forms of the aorist passive tense, is formed from the sixth principal part.  It uses third-declension endings for the masculine and neuter forms, and first-declension endings for feminine forms.  Compare the patterns of nominative/genitive singular in -είς/-έντος, -εῖσα/-είσης, -έν/-έντος  with the aorist active pattern -ας/-αντος, -ασα/άσης, -αν/-αντος.
+The aorist passive participle, like the finite forms of the aorist passive tense, is formed from the sixth principal part. It uses third-declension endings for the masculine and neuter forms, and first-declension endings for feminine forms.  Compare the patterns of nominative/genitive singular in -είς/-έντος, -εῖσα/-είσης, -έν/-έντος  with the aorist active pattern -ας/-αντος, -ασα/άσης, -αν/-αντος.
 
 The accent of the aorist passive participle is persistent on the first syllable of the ending.
 
