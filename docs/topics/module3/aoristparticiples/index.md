@@ -3,7 +3,7 @@ layout: page
 title: "Aorist participles"
 parent: "Participles"
 grand_parent: "Module 3: participles"
-nav_order: 7
+nav_order: 2
 ---
 
 ## Aorist participles

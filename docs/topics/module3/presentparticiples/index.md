@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Present-tense participles"
+title: "Present participles"
 parent: "Participles"
 grand_parent: "Module 3: participles"
-nav_order:  9
+nav_order:  3
 ---
 
 ## Present-tense participles
