@@ -10,7 +10,26 @@ nav_order: 1
 
 ## Participles: introduction
 
-Participles are a kind of adjective created from a verb. They share qualities of both verbs and adjectives (and in fact, the ancient Greek grammatical term for "participle," μετοχή, literally means "a sharing").  Like any other adjective, participles have gender, case and number, and agree with the noun they describe in all those properties. But like other verb forms, participles have tense and voice, and function alongside finite verbs as a second kind of verbal unit.
+In Module 1, we looked at an essential kind of verbal unit, the clause.  Recall that every clause has a finite verb (expressed or implied); explicit subjects of finite verbs are in the nominative case.
+
+A second essential kind of verbal unit is the **participle**.  The participial forms of a verb may be transitive,
+intransitive, or a linking verb, exactly like the finite forms of the same verb.  Like finite verb forms, participles also have tense and voice.  The relation of the participle to the subject of the verbal action is expressed differently, however. The participle is always associated with a noun in the clause, and agrees with that noun in gender, case and number, just like adjectives.  This is why the ancient Greek grammatical term for "participle," is μετοχή, literally  "a sharing:" participles share have some of the properties of a finite verb (tense, voice) and some of the properties of an adjective (gender, case, number).
+
+
+
+πάντων τῶν κακῶν ἀποθανοῦσα αἰτία μοι γεγένηται
+
+
+
+
+While English also has adjectives derived from verbs that we call "participles," the Greek participle is used quite differently.  It will be more helpful think of the participle that, like the clause, always has a subject and verbal action.  
+
+
+
+
+
+
+Like finite verbs, participles have tense and voice. Like any other adjective, participles have gender, case and number, and agree with the noun they describe in all those properties. But like other verb forms, participles have tense and voice, and function alongside finite verbs as a second kind of verbal unit.
 
 
 
