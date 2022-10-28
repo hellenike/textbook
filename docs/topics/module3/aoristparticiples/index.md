@@ -114,10 +114,10 @@ Here is a complete declension of the aorist middle participle of κελεύω.
 | Dative singular | κελευσαμένῳ | κελευσαμένῃ  | κελευσαμένῳ | 
 | Accusative singular | κελευσάμενον | κελευσαμένην | κελευσάμενος | 
 | **Plural** | | | |
-| Nominative plural | κελεύσαντες | κελεύσασαι| κελεύσαντα | 
-| Genitive plural | κελευσάντων  | κελευσασῶν  | κελευσάντων | 
-| Dative plural | κελεύσασι, κελεύσασιν  | κελευσάσαις   | κελεύσασι, κελεύσασιν | 
-| Accusative plural | κελεύσαντας  | κελεύσασας | κελεύσαντα | 
+| Nominative plural | κελευσάμενοι | κελευσάμεναι| κελευσάμενα | 
+| Genitive plural | κελευσαμένων  | κελευσαμένων  | κελευσαμένων | 
+| Dative plural | κελευσαμένοις  | κελευσαμέναις   | κελευσαμένοις | 
+| Accusative plural | κελευσαμένους  | κελευσαμένας | κελευσάμενα | 
 
 
 
