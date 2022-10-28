@@ -22,7 +22,7 @@ The circumstance might primarily be about time.
 The first example refers to a single, specific event; the second refers to the habitual practice of the slave girl. Both use the English conjunction "when."
 
 
-We can also add descriptive detail, like this example:
+We can also use subordinate clauses to add descriptive detail, like this example:
 
 > I have a modest, two storey house, which has equal space for the women’s and men’s quarters on the upper and lower floors.
 
@@ -42,29 +42,42 @@ You could easily extend this list, but these examples are enough to make a remar
 
 When participles are *not* tied directly to a noun by being placed in attributive position, they express an attendant circumstance of any kind.  Like attributive participles, they will agree with a noun or pronoun in the sentence that functions as the subject of the its verbal idea, but the meaning of the participle's verbal unit will apply to the clause's verbal action rather than more narrowly defining the noun.
 
+### A short example
 
 Let's look first at a minimal example. When Euphiletos tells his wife to go take care of their baby, she puts him off by saying: "You tried to grab her (the slave girl) before."  She shows that he didn't actually succeed by using the imperfect tense (εἷλκες); the direct object ("her") is a pronoun we'll learn in the next unit (αὐτήν); πρότερον is an adverb, "before", and the main clause is then πρότερον δὲ  εἷλκες αὐτήν. She adds to that clause a present participle of the verb μεθύω, "to be drunk": πρότερον δὲ  μεθύων εἷλκες αὐτήν. What does it mean?
 
-μεθύων is maculine, nominative, singular so it agrees with the subject of the verb ("you," implied in the verb form).  It's present tense so it describes
+μεθύων is maculine, nominative, singular so it agrees with the subject of the verb ("you," implied in the verb form).  It's present tense so it describes an event that was ongoing or not complete at the time of the main verb εἷλκες. We could take it simply as temporal: "while you were drunk," and the adverb πρότερον makes this the most natural immediate interpretation. But could it also be causal?  "Earlier, you tried to grab her *because* you were drunk"?
+
+The syntax of the circumstantial participle is open to either interpretation.  In fact, one reason a Greek author might choose to use a participle to express a subordinate verbal idea is precisely it that might simultaneously imply more than one kind of circumstance.  It's not wrong to read this passage as "Earlier, you tried to grab her when you were drunk (and by the way, that's why you lacked the judgment to restrain yourself)."  That's an intolerably awkward English tranlsation, but it is good to remind ourselves how much could be contained in the single word of a participle.
 
 
 
-Pres. ptcpl good for time/ongoing/circum: WHILE YOU WERE DRUNK. Or causal? ALL OF THE ABOVE!
+### A typical pattern: fast narrative
+
+One pattern that Greek particular favors for narrating events that are happening in rapid succession is to use a series of one or more aorist participles with an aorist finite verb.  Consider these examples from Euphiletos' narrative of when he and his friends caught Eratotsthenes in bed with Euphiletos' wife.
+
+> ὤσαντες δὲ τὴν θύραν τοῦ δωματίου αὐτὸν εἴδον
+
+ὤσαντες is an aorist active participle (from the verb ὠθέω, "thrust, push back"); since it's nominative plural, it's agreeing with the implied subject of the aorist verb εἴδον.  The action of the aorist participle was complete before the one-time event ("they saw him").  The implication is that the two events happened back to back: "They burst open the door of the room, and they saw him!"
 
 
-FAST NARRATIVE
+### A more complex example
 
-Aorist ptcpl good for rapid narration of successive events: TIME
+Let's consider part of the argument that Euphiletos makes to the jury at the end of his speech.  People who comment unjust acts, he claims, make their listeners angry at people who are acting justly.
 
-ὤσαντες δὲ τὴν θύραν τοῦ δωματίου αὐτὸν  εἴδον
-καὶ δᾷδας λαβόντες ἐκ τοῦ ἐγγύτατα καπηλείου εἰσερχόμεθα
+The verb is a present tense form we'll learn later on, παρασκευάζουσι, but it means "prepare, contrive."  The Greek idiom Lysias uses is that "people rouse the anger of their listeners," using the accusative direct object ὀργὰς ("anger, emotion") with an indirect object (the listeners).  He uses the preposition κατὰ with the genitive to show who their are angry with: people rouse the anger of their listeners *against* people who are doing  the right thing. (It is a timeless message.)
+
+For the subject, the indirect object and the object of the preposition κατὰ, Lysias uses attributive participles. The people who do unjust things are οἱ τὰ ἄδικα πράττοντες (nominative); the listeners are τοῖς ἀκούουσι (dative); the object of the preposition is τῶν τὰ δίκαια πραττόντων (genitive).  The expressive result is
+
+> οἱ τὰ ἄδικα πράττοντες ὀργὰς τοῖς ἀκούουσι κατὰ τῶν τὰ δίκαια πραττόντων παρασκευάζουσι.
+
+But Lysias adds one further participle, a simple circumstantial participle
+
+>
+οἱ τὰ ἄδικα πράττοντες ψευδόμενοι καὶ τὰ τοιαῦτα μηχανώμενοι ὀργὰς τοῖς ἀκούουσι κατὰ τῶν τὰ δίκαια πραττόντων παρασκευάζουσι
 
 
-
-οὐκ εἰσαρπασθεὶς ἐκ τῆς ὁδοῦ, οὐδ' ἐπὶ τὴν ἑστίαν καταφυγών
-
-
-time, causal, manner, concessive
+He uses an attributive participle for the subject of his sentence:  οἱ τὰ ἄδικα πράττοντες.  
 
 
 
@@ -72,6 +85,7 @@ time, causal, manner, concessive
 By lying:  MANNER
 
 ψευδόμενοι
+
 
 ALL OF IT
 
