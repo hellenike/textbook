@@ -31,6 +31,6 @@ As an indication of time, the participle is relative to the finite verb of the c
 
 You're aware that adjectives can be used together with the article as substantives. οἱ ἀγαθοί is a perfectly good concise way to say, "good people," equivalent to οἱ ἀγαθοί ἄνθρωποι or οἱ ἄνθρωποι οἱ ἀγαθοί.  Notice that this is essentially the attributive expression omitting the implied noun.
 
-Attributive participles are also used substantivally in exactly the same way. Lysias could use an attributive participle to appeal to the jury with an argument that "People who do things of this sort": οἱ ἄνθρωποι οἱ τὰ τοιαῦτα πράττοντες. (τὰ τοιαῦτα is neuter accusative plural, "things of this sort.") But in fact he prefers the briefer substantive use: οἱ τὰ τοιαῦτα πράττοντες, "[people] who do things of this sort."  
+Attributive participles are used substantivally in exactly the same way. Lysias could use an attributive participle to appeal to the jury with an argument that "People who do things of this sort": οἱ ἄνθρωποι οἱ τὰ τοιαῦτα πράττοντες. (τὰ τοιαῦτα is neuter accusative plural, "things of this sort.") But in fact he prefers the briefer substantive use: οἱ τὰ τοιαῦτα πράττοντες, "[people] who do things of this sort."  
 
-Note that Lysias uses a present-tense participle to identify this general class of people.  You could use an aorist participle if you wanted to refer to specifically to "The people who did this," (οἱ ταῦτα πραξαντες).
+Note that Lysias uses a present-tense participle to identify this general class of people.  You could use an aorist participle if you wanted to refer to specifically to "The people who did this," (οἱ ταῦτα πράξαντες).
