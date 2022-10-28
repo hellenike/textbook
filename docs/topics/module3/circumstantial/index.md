@@ -84,20 +84,21 @@ For the subject, the indirect object and the object of the preposition κατα�
 
 But Lysias adds one further participle, a simple circumstantial participle in the masculine nominative plural: ψευδόμενοι, from the verb ψεύδομαι, "to lie."
 
->
-οἱ τὰ ἄδικα πράττοντες ψευδόμενοι καὶ τὰ τοιαῦτα μηχανώμενοι ὀργὰς τοῖς ἀκούουσι κατὰ τῶν τὰ δίκαια πραττόντων παρασκευάζουσι
+> οἱ τὰ ἄδικα πράττοντες ψευδόμενοι  ὀργὰς τοῖς ἀκούουσι κατὰ τῶν τὰ δίκαια πραττόντων παρασκευάζουσι
 
-
-ψευδόμενοι
-
-
-ALL OF IT
-
-οἱ τὰ ἄδικα πράττοντες ψευδόμενοι καὶ τὰ τοιαῦτα μηχανώμενοι ὀργὰς τοῖς ἀκούουσι κατὰ τῶν τὰ δίκαια πραττόντων παρασκευάζουσι
-
-people who commit crimes do not admit when their enemies are speaking the truth, but make up lies and invent stories to make their listeners angry at those who are acting within their rights
+The circumstance that is the background of this complex action is therefore that the subject (people who do unjust things) are lying.  Lysias places the circumstantial participle next to the subject.  The circumstance suggests that this is *how* unjust people manage to rouse their listeners' anger against just people: by lying. 
 
 
 
 
 ### The genitive absolute
+
+The participle offers a concise way to express complex verbal ideas, that can be flexibly arranged in a clause to achieve a variety of effects.  The one limitation is that a participle must be in agreement with a noun in the clause.  But what if you want to add a subordinate verbal idea about circumstances that don't have a direct connection to something in the clause?  Consider this selection from Falkner's translation of Lysias 1:
+
+> After some time had passed, an old woman came up to me.
+
+We have a subordinate clause introduced with "After".  The subject of the subordinate idea is "time."  But the word "time" appears nowhere in the main clause, "An old woman came up to me."  Here, too, Falkner's translation actually expresses an idea Lysias conveys with a participle.
+
+Greek allows you to add a noun + participle combination to a clause even when the noun that the participle agrees with does not appear in the clause.  In this situation, the noun goes in the genitive case.  The participle of course agrees with the noun, so it, too, will be in the genitive case.  The phrase that Falkner translates, "After some time had passed" is χρόνου διαγενομένου.  χρόνου is indefinite: there is no article, just "a period of time."  διαγενομένου is the aorist middle particle of διαγίγνομαι, a compound of γίγνομαι that adds to the root sense of "happen, come about" the nuance of a thoroughness or duration  (as often with compounds in δια-).  The tense is aorist: a period of time passed or elapsed prior to the action of the main verb. 
+
+This construction is called the **genitive absolute**.  The noun is "absolute" in the grammatical sense that it stands by itself, and is otherwise not grammatically connected to the rest of the sentence.  Otherwise, it is no different from any other circumstantial participle.
