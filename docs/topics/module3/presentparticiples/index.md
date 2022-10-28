@@ -46,13 +46,13 @@ Like the aorist middle, the accent of the present middle and passive participles
 | Case, number | Masculine | Feminine | Neuter |
 | --- | --- | --- | --- |
 | **Singular** | |||
-| Nominative singular | 	κελευόμενος | | κελευόμενον|
-| Genitive singular |	κελευομένου | | κελευομένου|
-| Dative singular |	κελευομένῳ| | κελευομένῳ|
-| Accusative singular |	κελευόμενον | | κελευόμενον|
+| Nominative singular | 	κελευόμενος | κελευομένη | κελευόμενον|
+| Genitive singular |	κελευομένου | κελευομένης | κελευομένου|
+| Dative singular |	κελευομένῳ| κελευομένῃ | κελευομένῳ|
+| Accusative singular |	κελευόμενον | κελευομένην | κελευόμενον|
 | **Plural** | |||
-| Nominative  plural | κελευόμενοι | | κελευόμενα|
-| Genitive plural |	 κελευομένων| | κελευομένων |
-| Dative plural |κελευομένοις 	 | |κελευομένοις  |
-| Accusative plural |	κελευομένους  | | κελευόμενος|
+| Nominative  plural | κελευόμενοι | κελευόμεναι | κελευόμενα|
+| Genitive plural |	 κελευομένων| κελευομένων | κελευομένων |
+| Dative plural |κελευομένοις 	 | κελευομέναις |κελευομένοις  |
+| Accusative plural |	κελευομένους  | κελευομένας | κελευόμενος|
 
