@@ -49,3 +49,6 @@ Pres. ptcpl good for time/ongoing/circum: WHILE YOU WERE DRUNK. Or causal? ALL O
 >> τοῖς ἀκούουσι 
 >>> κατὰ τῶν τὰ δίκαια πραττόντων 
 > παρασκευάζουσι
+
+
+### The genitive absolute
