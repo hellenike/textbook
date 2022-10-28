@@ -61,19 +61,19 @@ In Greek, our main clause will be εἶδε ἐρατοσθένην.  We'll exp
 
 To form the participle, we'll take the third principal part, and remove accent and augment
 
-(1) ἔπραξα -> πραξ-
+> (1) ἔπραξα -> πραξ-
 
 We'll be using a masculine form to agree with Eratosthenes, so we'll form its third-declension pattern:
 
-(2) πραξ- -> πραξας, πραξαντος
+> (2) πραξ- -> πραξας, πραξαντος
 
 We will take the stem from the genitive singular form, and add the third-declension ending for masculine, accusative, singular :
 
-(3) πραξαντος -> πραξαντ- + α
+> (3) πραξαντος -> πραξαντ- + α
 
 Finally, we'll apply the accent.  The accent of the aorist active participle tries to persist on the *antepenult*.
 
-(4) πραξαντ + α -> πράξαντα 
+> (4) πραξαντ + α -> πράξαντα 
 
 
 
@@ -132,7 +132,7 @@ The accent of the aorist passive participle is persistent on the first syllable 
 1. Remove the augment and accent 
 2. For masculine and neuter forms, create a *third-declension* stem with nominative singular/genitive  singular ending **-είς**, **-έντος**  (masculine) or **-έν, -έντος**  (neuter); for feminine forms, create a *first-declension* stem with nominative singular/genitive  singular ending  **-εῖσα, -είσης**
 3. Add regular ending from second third (masculine, neuter) or first (feminine) declension to match the gender, case and number of the participle's subject.
-4. Apply the appropriate accent.  
+4. Apply the appropriate accent to the first syllable of the ending.
 
 
 | Case, number | Masculine | Feminine | Neuter |
