@@ -50,6 +50,4 @@ In this module, we will use two tenses of the participle: the **aorist participl
 To build these participles, you will use the same  principal parts  familiar to you from finite verb forms.  To form the aorist tense in the active or middle voice, we use the third principal part; to form the aorist tense in the passive voice, we use the sixth principal part.  To form the present participle in all three voices, we use the first principal part, just as we do to form all three voices of the imperfect indicative.  
 
 
-
-
-You will be happen to learn that the participles use the same endings as adjectives you have already learned.  Like adjectives (and other substantives), participles have *persistent* accent. 
+You will be happy to discover that participles use the same endings as adjectives you have already learned.  Like adjectives (and other substantives), participles have *persistent* accent. 
