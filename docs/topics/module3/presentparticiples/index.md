@@ -15,6 +15,8 @@ The present participle creates a subordinate verbal unit that views the action s
 
 It uses third-declension endings for the masculine and neuter forms, and first-declension endings for feminine forms.  Compare the present active participle's pattern of nominative/genitive singular in -είς/-έντος, -εῖσα/-είσης, -έν/-έντος  with the aorist active pattern -ας/-αντος, -ασα/άσης, -αν/-αντος.
 
+Like the aorist active, the accent of the present active participle tries to persist on the *antepenult*.
+
 
 
 | Case, number | Masculine | Feminine | Neuter |
