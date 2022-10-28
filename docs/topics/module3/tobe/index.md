@@ -3,7 +3,7 @@ layout: page
 title: "Participles: εἰμί"
 parent: "Participles"
 grand_parent: "Module 3: participles"
-nav_order: 4
+nav_order: 11
 ---
 
 
