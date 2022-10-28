@@ -60,6 +60,17 @@ One pattern that Greek particular favors for narrating events that are happening
 
 ὤσαντες is an aorist active participle (from the verb ὠθέω, "thrust, push back"); since it's nominative plural, it's agreeing with the implied subject of the aorist verb εἴδον.  The action of the aorist participle was complete before the one-time event ("they saw him").  The implication is that the two events happened back to back: "They burst open the door of the room, and they saw him!"
 
+In this passage, Lysias appends a present participle: 
+
+> ὤσαντες δὲ τὴν θύραν τοῦ δωματίου αὐτὸν ἔτι εἴδον  κατακείμενον παρὰ τῇ γυναικί.
+
+κατακείμενον agrees with αὐτὸν; as the adverb ἔτι, "still," shows, the force of this verbal unit is that at the moment they saw him, he was still in the bed lying next to Euphiletos' wife.  It is typical for Greek to use one or more aorist participles in sequence *before* the finite verb for the narrative action, and to follow the verb with present participles setting the scene.
+
+>> ὤσαντες δὲ τὴν θύραν τοῦ δωματίου 
+>
+> αὐτὸν ἔτι εἴδον 
+>
+>> κατακείμενον παρὰ τῇ γυναικί.
 
 ### A more complex example
 
@@ -71,18 +82,11 @@ For the subject, the indirect object and the object of the preposition κατα�
 
 > οἱ τὰ ἄδικα πράττοντες ὀργὰς τοῖς ἀκούουσι κατὰ τῶν τὰ δίκαια πραττόντων παρασκευάζουσι.
 
-But Lysias adds one further participle, a simple circumstantial participle
+But Lysias adds one further participle, a simple circumstantial participle in the masculine nominative plural: ψευδόμενοι, from the verb ψεύδομαι, "to lie."
 
 >
 οἱ τὰ ἄδικα πράττοντες ψευδόμενοι καὶ τὰ τοιαῦτα μηχανώμενοι ὀργὰς τοῖς ἀκούουσι κατὰ τῶν τὰ δίκαια πραττόντων παρασκευάζουσι
 
-
-He uses an attributive participle for the subject of his sentence:  οἱ τὰ ἄδικα πράττοντες.  
-
-
-
-
-By lying:  MANNER
 
 ψευδόμενοι
 
@@ -94,15 +98,6 @@ ALL OF IT
 people who commit crimes do not admit when their enemies are speaking the truth, but make up lies and invent stories to make their listeners angry at those who are acting within their rights
 
 
-
-ὤσαντες δὲ τὴν θύραν τοῦ δωματίου οἱ μὲν πρῶτοι εἰσιόντες ἔτι εἴδομεν  κατακείμενον παρὰ τῇ γυναικί,
-
-
-
-> ὀργὰς 
->> τοῖς ἀκούουσι 
->>> κατὰ τῶν τὰ δίκαια πραττόντων 
-> παρασκευάζουσι
 
 
 ### The genitive absolute
