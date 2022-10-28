@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Participles: attributive usage"
+title: "Participles: attributive participles"
 parent: "Participles"
 grand_parent: "Module 3: participles"
 nav_order:  5
@@ -15,7 +15,14 @@ Participles expressing a subordinate verbal idea may be added to a clause in two
 
 The syntax of the attributive participle is identical to the syntax for adjectives in attributive position.  The attributive form with repeated article is probably more common with participles.  ὁι ἄνθρωποι ὁι ταῦτα πράξαντες is a good way to refer to "the people who did these things."
 
-The attributive participle makes the link between the participle and its substantive definite and specific: the participle describes or identifies the substantive it agrees with.  In English, we can use relative clauses to express the same kind of identification.  When the elderly messenger suggests to Euphiletos that he question "the servant girl" (τὴν θεράπαιναν), she uses an attributive participle to further specify who she means - "you know, the one who regularly goes to the market place."  In Greek, that is τὴν θεράπαιναν τὴν εἰς ἀγορὰν βαδίζουσαν.  She uses the present active participle of βαδίζω, "to walk," because she identifies as the servant girl who repeatedly or regularly goes there.
+The attributive participle makes the link between the participle and its substantive definite and specific: the participle describes or identifies the substantive it agrees with.  In English, we can use relative clauses to express the same kind of identification.  When the elderly messenger suggests to Euphiletos that he question "the servant girl" (τὴν θεράπαιναν), she uses an attributive participle to further specify who she means - "you know, the one who regularly goes to the market place."  In Greek, that is τὴν θεράπαιναν τὴν εἰς ἀγορὰν βαδίζουσαν. 
+
+### Time and participial verbal units
+
+As with finite verbs, the tense of participles expresses both time and aspect. Lysias' phrase τὴν θεράπαιναν τὴν εἰς ἀγορὰν βαδίζουσαν uses the present active participle of βαδίζω, "to walk," and so identifies the servant girl who repeatedly or regularly goes to the market.
+
+As an indication of time, the participle is relative to the finite verb of the clause it depends on. If you wanted to point out the woman who walked to the market once on a particular occasion, you could choose the aorist tense. ἡ ἄνθρωπος ἡ εἰς ἀγορὰν βαδίσασα would identify the person as the one who went to market; since the action is now complete, it must have been completed *before* the time of the clause's finite verb.
+
 
 
 
