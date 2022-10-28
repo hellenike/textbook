@@ -9,6 +9,10 @@ nav_order: 2
 ## First aorist participles
 
 
+You form participles using the same  principal parts  familiar to you from finite verb forms.  To form the aorist tense in the active or middle voice, we use the third principal part; to form the aorist tense in the passive voice, we use the sixth principal part.  To form the present participle in all three voices, we use the first principal part, just as we do to form all three voices of the imperfect indicative.  
+
+You will be happy to discover that participles use the same endings as adjectives you have already learned.  Like adjectives (and other substantives), participles have *persistent* accent. 
+
 ### Formation of participles
 
 You have learned that finite verb forms add an augment to the beginning of the form for tenses referring to past time.  Recall that the first principal part does *not* include an augment, while the third and sixth principal parts *do*, so when you form the imperfect tense, you need to add an augment to the  first principal part's stem.

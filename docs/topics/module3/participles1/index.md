@@ -47,7 +47,7 @@ Like finite verb forms, the form of participles indicate the  tense and voice of
 
 In this module, we will use two tenses of the participle: the **aorist participle**, and the **present participle**. They differ in meaning in much the same way that the aorist and the imperfect tense of finite verbs differ: the aorist participle views the verbal action as a single, completed whole; the present participle, like the finite forms of the imperfect tense, sees the action as repeated, habitual, incomplete or in some other way *not* a single, whole action.
 
-To build these participles, you will use the same  principal parts  familiar to you from finite verb forms.  To form the aorist tense in the active or middle voice, we use the third principal part; to form the aorist tense in the passive voice, we use the sixth principal part.  To form the present participle in all three voices, we use the first principal part, just as we do to form all three voices of the imperfect indicative.  
+We'll first see how to form the aorist and present participles in all three voices, then will turn to two kinds of verbal unit: the **attributive participle** to describe or identify a particular noun or prounoun, and the **circumstantial participle** to qualify the action of the finite verb with a subordinate verbal idea.
 
 
-You will be happy to discover that participles use the same endings as adjectives you have already learned.  Like adjectives (and other substantives), participles have *persistent* accent. 
+
