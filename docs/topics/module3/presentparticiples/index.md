@@ -39,6 +39,10 @@ Like the aorist active, the accent of the present active participle tries to per
 
 Like finite verb forms built on the first principal part, the middle and passive forms of the present particle are identical.  They use second-declension endings for the masculine and neuter forms, and first-declension endings for feminine forms.  Compare the present active participle's pattern of nominative singular in -όμενος, ομένη, -όμενον with the aorist middle pattern -άμενος, -αμένη, -άμενον.
 
+Like the aorist middle, the accent of the present middle and passive participles tries to persist on the *antepenult*.
+
+
+
 | Case, number | Masculine | Feminine | Neuter |
 | --- | --- | --- | --- |
 | **Singular** | |||
