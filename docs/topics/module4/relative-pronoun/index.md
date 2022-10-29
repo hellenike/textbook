@@ -29,6 +29,6 @@ The relative pronoun is used to create dependent clauses that further describe o
 
 > Notes on the forms of ὅς, ἥ, ὅ
 
-- the forms of the relative pronoun are similar to those of the article, *without* the initial tau that the article has in most forms and with a rough breathing on all forms. Note the difference in the masculine nominative singular ὅς from the article ὁ. With forms of the relative pronoun like ἥ, οἵ, and αἵ, the only difference between the article and the relative pronoun is the accent on the relative pronoun form.
+- the forms of the relative pronoun are similar to those of the article, *without* the initial tau that the article has in most forms and with **a rough breathing on all forms**. Note the difference in the masculine nominative singular ὅς from the article ὁ. With forms of the relative pronoun like ἥ, οἵ, and αἵ, the only difference between the article and the relative pronoun is the accent on the relative pronoun form.
 - the accent pattern is also like that of the article, and like a persistent accent on the ultima: acute on nominative and accusative forms and circumflex on genitive and dative forms.
 
