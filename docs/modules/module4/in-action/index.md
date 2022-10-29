@@ -5,8 +5,4 @@ parent: "Module 4: subordinate clauses"
 nav_order: 4
 ---
 
-## Ancient Greek in action: NEED TO REVISE
-
-- Watch Phuc Tran's TED Talk, "The Dark Side of the Subjunctive." 
-
-  Our discussion of Tran's talk will examine the power of verbal moods (other than the indicative), and how they expand the universe of ideas we can describe.
+## Ancient Greek in action: 
