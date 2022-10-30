@@ -19,7 +19,7 @@ Pronouns are among the words in English that still have cases. We have a "subjec
 
 ### Forms of personal pronoun for third person, singular and plural
 
-The personal pronoun for the third person is αὐτός, αὐτή, αὐτό. It has masculine, feminine, and neuter forms. Compare English prnouns "he, she, it." It declines with regular second declension endings in the masculine and neuter (with the exception of the neuter singular nominative and accusative αὐτό) and with first declension endings in the feminine. The persistent accent is on the ultima and follows that pattern, having an acute on the nominative and accusative forms and a circumflex on the genitive and dative forms. 
+The personal pronoun for the third person is αὐτός, αὐτή, αὐτό. It has masculine, feminine, and neuter forms. Compare English pronouns "he, she, it." It declines with regular second declension endings in the masculine and neuter (with the exception of the neuter singular nominative and accusative αὐτό) and with first declension endings in the feminine. The persistent accent is on the ultima and follows that pattern, having an acute on the nominative and accusative forms and a circumflex on the genitive and dative forms. 
 
 The nominative forms are not used as personal pronouns, to mean sinmply "he, she, it, they." Recall that ancient Greek does not need a nominative pronoun since the verb form contains that information about the person and number of the subject. (This pronoun has two other uses that we will learn later for which the nominative is used.) So the following introduces only those cases and forms that are used for the pronoun in the oblique cases "him, her, it, them."  
 
