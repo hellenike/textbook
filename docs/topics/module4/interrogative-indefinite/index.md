@@ -53,7 +53,7 @@ In ancient Greek the interrogative pronoun and adjective is τίς, τί. It b
 Indefinite pronouns are used in place of or to refer to persons or things that are unspecified, unknown, or uncertain. In English, indefinite pronouns include *anyone*, *anybody*, *anything*, *someone*, *somebody*, and *something*. 
 > He talks to **anyone**.
 > 
-> **Someone** came in the room.
+> **Someone** came into the room.
 > 
 > She did not see **anything**.
 
