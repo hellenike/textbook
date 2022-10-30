@@ -9,7 +9,7 @@ has_children: true
 
 
 
-*This practice is for use with section 5.9, "Adjecitves"*
+*This practice is for use with section 5.9, "Adjectives"*
 
 ### Adjective position
 

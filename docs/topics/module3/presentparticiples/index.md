@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Present participles"
+title: "Present participles of -ω (thematic) verbs"
 parent: "Participles"
 grand_parent: "Module 3: participles"
 nav_order:  3
 ---
 
-## Present participles
+## Present participles of -ω (thematic) verbs
 
 
 ### The present active participle:  a 3-1-3 declension
