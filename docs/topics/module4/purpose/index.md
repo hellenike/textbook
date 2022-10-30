@@ -29,9 +29,9 @@ In the reading for Module 2, the house and living arrangements of Euphiletos wer
 
 In each of the following sections, identify the boundaries of each clause and copy each clause onto a separate line. Underline connecting words; circle finite verbs and identify the form of the verb in each clause. Which clauses are subordinate? Which are purpose clauses?
 
-ἐπειδὴ δὲ τὸ παιδίον ἐγένετο αὐτοῖς, ἡ μήτηρ αὐτὸ ἐθήλαζεν: ἵνα δὲ μή κινδυνεύοι κατὰ τῆς κλίμακος καταβαίνουσα, ἐγὼ μὲν ἄνω διῃτώμην, αἱ δὲ γυναῖκες κάτω. (modified from Lysias 1.9)
+ἐπειδὴ δὲ τὸ παιδίον ἐγένετο αὐτοῖς, ἡ μήτηρ αὐτὸ ἐθήλαζεν: ἵνα δὲ μή κινδυνεύοι κατὰ τῆς κλίμακος καταβαίνουσα, ὁ μὲν Εὐφίλητος ἄνω διῃτᾶτο, αἱ δὲ γυναῖκες κάτω. (modified from Lysias 1.9)
 
-προϊόντος δὲ τοῦ χρόνου, ἧκον μὲν ἀπροσδοκήτως ἐξ ἀγροῦ, μετὰ δὲ τὸ δεῖπνον τὸ παιδίον ἐβόα καὶ ἐδυσκόλαινεν ὑπὸ τῆς θεραπαίνης ἐπίτηδες λυπούμενον, ἵνα ταῦτα ποιοῖ. ὁ γὰρ ἄνθρωπος ἔνδον ἦν. (modified from Lysias 1.11)
+προϊόντος δὲ τοῦ χρόνου, ἧκ μὲν ἀπροσδοκήτως ἐξ ἀγροῦ, μετὰ δὲ τὸ δεῖπνον τὸ παιδίον ἐβόα καὶ ἐδυσκόλαινεν ὑπὸ τῆς θεραπαίνης ἐπίτηδες λυπούμενον, ἵνα ταῦτα ποιοῖ. ὁ γὰρ ἄνθρωπος ἔνδον ἦν. (modified from Lysias 1.11)
 
 
 
