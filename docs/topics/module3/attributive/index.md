@@ -13,7 +13,7 @@ nav_order:  5
 
 Participles expressing a subordinate verbal idea may be added to a clause in two ways, which we call the **attributive** and the **circumstantial** use of the participle. In either use, the participle will always agree in gender, case and number with the noun or pronoun that serves as the subject of the verbal unit.  
 
-The syntax of the attributive participle is identical to the syntax for adjectives in attributive position.  The attributive form with repeated article is probably more common with participles.  ὁι ἄνθρωποι ὁι ταῦτα πράξαντες is a good way to refer to "the people who did these things."
+The syntax of the attributive participle is identical to the syntax for adjectives in attributive position.  The attributive form with repeated article is probably more common with participles.  οἱ ἄνθρωποι οἱ ταῦτα πράξαντες is a good way to refer to "the people who did these things."
 
 The attributive participle makes the link between the participle and its substantive definite and specific: the participle describes or identifies the substantive it agrees with.  In English, we can use relative clauses to express the same kind of identification.  When the elderly messenger suggests to Euphiletos that he question "the servant girl" (τὴν θεράπαιναν), she uses an attributive participle to further specify who she means - "you know, the one who regularly goes to the market place."  In Greek, that is τὴν θεράπαιναν τὴν εἰς ἀγορὰν βαδίζουσαν. 
 

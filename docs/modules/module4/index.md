@@ -15,7 +15,7 @@ has_children: true
 
 Module 4 introduces
 - several types of dependent clauses, some using the indicative mood and some using the optative in secondary sequence
-- morphology of optative mood, all three voices, in the present and aorist tenses for the third singular and third plural persons
+- morphology of the optative mood, all three voices in the present and aorist tenses for the third singular and third plural persons
 - the optative in subordinate clauses after past tense verbs 
 - third-person pronouns, relative pronouns, interrogative and indefinite pronouns
 
