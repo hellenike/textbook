@@ -53,14 +53,14 @@ Here is a complete declension of the aorist active participle of κελεύω.
 
 We'll devote much of this module to looking at how participles are used, but let's walk through one concrete example.
 
-The clause εἶδε ἐρατοσθένην ("He saw Eratosthenes) is a complete sentence.  The verb form is third person singular aorist indiciative active ("he saw"), and the direct object ("Eratosthenes") is in the masculine accusative singular.  Let's modify this sentence to add a subordinate idea, that Eratosthenes did these things.  In English, we could do that with a subordinate clause:
+The clause εἶδε Ἐρατοσθένην ("He saw Eratosthenes) is a complete sentence.  The verb form is third person singular aorist indiciative active ("he saw"), and the direct object ("Eratosthenes") is in the masculine accusative singular.  Let's modify this sentence to add a subordinate idea, that Eratosthenes did these things.  In English, we could do that with a subordinate clause:
 
 > He saw Eratosthenes,
 >
 >> who did these things.
 
 
-In Greek, our main clause will be εἶδε ἐρατοσθένην.  We'll express the subordinate idea with a participle from πράττω.  
+In Greek, our main clause will be εἶδε Ἐρατοσθένην.  We'll express the subordinate idea with a participle from πράττω.  
 
 
 To form the participle, we'll take the third principal part, and remove accent and augment
