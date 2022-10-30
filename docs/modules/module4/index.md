@@ -21,8 +21,9 @@ Module 4 introduces
 
 ### Making Connections 
 
+- TBA
 
 ### Practice, Reading, and Composition
 
-- modified examples from Lysias 1.9 and 1.11 and 1.14
+- TBA
 
