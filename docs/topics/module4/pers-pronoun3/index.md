@@ -10,7 +10,7 @@ has_children: true
 
 ## The pronoun αὐτός as the third-person pronoun
 
-The designation "personal" for personal pronouns is connected to the idea of "person" as a feature of verbs: that is, first person, second person, and third person, just as we use those terms for verbs. Thus for these pronouns, gender and number have a relationship with person. First person ("I" in the singular and "we" in the plural) and second person ("you") personal pronouns, which we will learn in a later module, are understood to have grammatical gender corresponding to embodied gender of the person or persons they are referring to. 
+The designation "personal" for personal pronouns is connected to the idea of "person" as a feature of verbs: that is, first person, second person, and third person, just as we use those terms for verbs. For these pronouns, gender and number have a relationship with person. First person ("I" in the singular and "we" in the plural) and second person ("you") personal pronouns, which we will learn in a later module, are understood to have grammatical gender corresponding to embodied gender of the person or persons they are referring to. 
 
 Third person pronouns ("he, she, it" in singular, "they" in plural) in ancient Greek have different forms in the singular of grammatical gender depending on the gender (grammatical or embodied) of the person or thing referred to. That is, grammatical gender of nouns will be reflected in the grammatical gender of the pronoun that refers to it.
 
