@@ -30,7 +30,7 @@ Module 3 introduces these features of Greek:
 
 ### Making Connections
 
-Reading the Second Amendment
+- [Reading the Second Amendment](./in-action/)
 
 ### Practice, Reading, and Composition
 
