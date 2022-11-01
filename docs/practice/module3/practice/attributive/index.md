@@ -24,7 +24,7 @@ Use an attributive participle to compose an expression in Greek for each of the 
 
 
 1. **The man who did these things** was Eratosthenes.
-1. The name of **the man who did these things* was Eratosthenes.
+1. The name of **the man who did these things** was Eratosthenes.
 1. We saw her with **the man who did these things**.
 1. We also saw **the man who did these things**.
 1. According to Euphiletos, **people who do such things** deserve punishment.
