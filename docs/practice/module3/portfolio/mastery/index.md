@@ -21,3 +21,8 @@ The questions in Part A are about this passage adapted from Lysias 1.15-1.16.
 1. Fully identify the forms of the participles highlighted **like this** in the selection above. For verbs not included in required vocabulary lists, refer to the list of additional principal parts below.
 2. For each participle, find the noun or pronoun it agrees with, and identify its kind construction as circumstantial, attributive or supplementary.
 
+
+
+- ὀργίζω
+- ὑβρίζω
+- ἐπιτηρέω
