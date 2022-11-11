@@ -38,7 +38,7 @@ Here is a complete paradigm of the aorist active participle for λαμβάνω.
 
 
 
-### Second aorist active
+### Second aorist middle
 
 In the middle voice, participles of second aorist verbs have persistent accent on antepenult.
 
