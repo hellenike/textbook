@@ -30,6 +30,7 @@ You should use each vocabulary item in the list below at least once.
 - ἐπιτήδειος, ἐπιτηδείου, ὁ "friend"  
 - ἥλιος, ἡλίου, ὁ "sun"
 - ἡμέρα, ἡμέρας, ἡ "day"
+- οἴκοι adverb, "at home". (Same root as the noun οἰκία)
 - συνδειπνέω, regular epsilon contract, "to dine together"
 - τηρέω, regular episolon contract, "watch over, observe, guard"
 - ὡς, preposition + acc., "to (a person, or a person's house)"
