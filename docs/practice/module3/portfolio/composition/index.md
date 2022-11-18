@@ -25,7 +25,7 @@ You should use each vocabulary item in the list below at least once.
 
 #### Vocabulary
 
-- ἀπαντάω, regular alpha contract, "meet, encounter" a person + dat.
+- ἀπαντάω, regular alpha contract, "meet, encounter" a person + dat.; 3rd principal part, ἀπήντησα
 - δύνω, δύσω, ἔδυσα, δέδυκα, δέδυμαι, ἐδύθην "go down, sink, set"
 - ἐπιτήδειος, ἐπιτηδείου, ὁ "friend"  
 - ἥλιος, ἡλίου, ὁ "sun"
