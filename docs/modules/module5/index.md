@@ -14,6 +14,10 @@ has_children: true
 ### Language
 
 Main areas of focus are:
+- morphology of 3rd decelension nouns and adjectives, and some other common irregular adjectives
+- forms of common athemtic, irregular verbs: εἰμί, εἶμι, and φημί 
+- forms and uses of infinitives
+- the three syntatcical structures of indirect speech: subordinate clauses, accustaive + infinitive, and supplementary participle
 
 
 ### Making Connections 
