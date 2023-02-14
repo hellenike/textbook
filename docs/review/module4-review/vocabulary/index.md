@@ -13,6 +13,8 @@ nav_order: 3
 
 ἐπειδή when, since, after
 
+αὐτοῦ, αὐτῆς, αὐτοῦ 3rd person pronoun, oblique cases only: him, her, it, them
+
 ὅς, ἥ, ὅ  (relative pronoun) who, which, that
 
 τίς, τί (interrogative pronoun) who? what? which?
