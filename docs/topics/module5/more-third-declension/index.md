@@ -9,9 +9,10 @@ nav_order: 1
 ## Addtional Third-Declension Noun Patterns
 Two very common nouns in ancient Greek are the words ἀνήρ, ἀνδρός, ὁ (‘man, husband’) and πόλις, πολέως, ἡ (‘city-state, polis’), both belonging to the third declension. Learn their declensions and accent patterns.
 
-			ἀνήρ, ἀνδρός, ὁ 			πόλις, πόλεως, ἡ 
-Singular
-Nominative		ἀνήρ					πόλις
+|---|---|---|---|
+|			|ἀνήρ, ἀνδρός, ὁ |			| πόλις, πόλεως, ἡ |
+|**Singular**|   |   |   |
+|Nominative|		| ἀνήρ	|				| πόλις |
 
 Genitive		ἀνδρός					πόλεως 
 
@@ -20,7 +21,7 @@ Dative			ἀνδρί					πόλει
 Accusative		ἄνδρα 					πόλιν 
 
 
-Plural
+**Plural**
 Nominative		ἄνδρες 				πόλεις 
 
 Genitive		ἀνδρῶν 				πόλεων
@@ -30,6 +31,7 @@ Dative			ἀνδράσι 				πόλεσι
 Accusative		ἄνδρας 				πόλεις 
 
 
+### Notes on forms
 Declined in a manner similar to ἀνήρ, ἀνδρός, ὁ are the common nouns πατήρ, πατρός, ὁ (‘father, ancestor’), μήτηρ, μητρός, ἡ (‘mother’), and θυγάτηρ, θυγατρός, ἡ (‘daughter’). 
 
 What is happening with the accent in the genitive singular and genitive plural of πόλις? An earlier form of the genitive singular was πόληος, which underwent “quantitative metathesis” of its vowels, but the accent remained where it was. The genitive plural just copied that (“assimilation”).
