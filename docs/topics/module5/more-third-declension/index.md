@@ -9,38 +9,17 @@ nav_order: 1
 ## Addtional Third-Declension Noun Patterns
 Two very common nouns in ancient Greek are the words ἀνήρ, ἀνδρός, ὁ (‘man, husband’) and πόλις, πολέως, ἡ (‘city-state, polis’), both belonging to the third declension. Learn their declensions and accent patterns.
 
-| **Case** | **ἀνήρ, ἀνδρός, ὁ** | **πόλις, πόλεως, ἡ** | **** | **** | **** | **** | **** | **** | **** |
-|------|------|------|------|------|------|------|------|------|------|
-| **Nominative sing.** |  ἀνήρ    |   πόλις   |      |      |      |      |      |      |      |
-| **** |      |      |      |      |      |      |      |      |      |
-| **** |      |      |      |      |      |      |      |      |      |
-| **** |      |      |      |      |      |      |      |      |      |
-| **** |      |      |      |      |      |      |      |      |      |
-| **** |      |      |      |      |      |      |      |      |      |
-| **** |      |      |      |      |      |      |      |      |      |
-| **** |      |      |      |      |      |      |      |      |      |
-| **** |      |      |      |      |      |      |      |      |      |
-
-
-| Case  |    |   |
-|---|---|---|
-
-|Nominative sing.| 	|				  |
-
-|Genitive|		ἀνδρός		|			πόλεως |
-
-|Dative	|		ἀνδρί			|		πόλει		|
-
-|Accusative	|	ἄνδρα 		|			πόλιν |
-
-
-|Nominative	pl. |	ἄνδρες 		|		πόλεις |
-
-|Genitive	|	ἀνδρῶν 		|		πόλεων |
-
-| Dative	|		ἀνδράσι 	|			πόλεσι |
-
-| Accusative	|	ἄνδρας 		|		πόλεις |
+| **Case** | **ἀνήρ, ἀνδρός, ὁ** | **πόλις, πόλεως, ἡ** | 
+|------|------|------|
+| **Nominative sing.** |  ἀνήρ    |   πόλις   |     
+| **Genitive** |   ἀνδρός   |   πόλεως   |   
+| **Dative** |   ἀνδρί   |   πόλει   |   
+| **Accusative** |   ἄνδρα   |  πόλιν    |  
+| **** |      |      |    
+| **Nominative	pl.** |  ἄνδρες    |  πόλεις    |   
+| **Genitive** | ἀνδρῶν     |  πόλεων    | 
+| **Dative** |  ἀνδράσι    |   πόλεσι   |    
+| **Accusative** |  ἄνδρας    |   πόλεις   |   
 
 
 ### Notes on forms
