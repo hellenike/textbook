@@ -9,21 +9,19 @@ nav_order: 1
 ## Addtional Third-Declension Noun Patterns
 Two very common nouns in ancient Greek are the words ἀνήρ, ἀνδρός, ὁ (‘man, husband’) and πόλις, πολέως, ἡ (‘city-state, polis’), both belonging to the third declension. Learn their declensions and accent patterns.
 
-| Case  | ἀνήρ, ἀνδρός, ὁ   | πόλις, πόλεως, ἡ  |
-|---|---|---|
+|Number| Case  | ἀνήρ, ἀνδρός, ὁ   | πόλις, πόλεως, ἡ  |
+Singular|---|---|---|
 
-|**Singular**|   |   |
-|Nominative| ἀνήρ	|				 πόλις |
+|-|Nominative| ἀνήρ	|				 πόλις |
 
-|Genitive|		ἀνδρός		|			πόλεως |
+|-|Genitive|		ἀνδρός		|			πόλεως |
 
-|Dative	|		ἀνδρί			|		πόλει		|
+|-|Dative	|		ἀνδρί			|		πόλει		|
 
-|Accusative	|	ἄνδρα 		|			πόλιν |
+|-|Accusative	|	ἄνδρα 		|			πόλιν |
 
-
-**Plural**
-Nominative		ἄνδρες 				πόλεις 
+|Plural|---|---|---|
+|Nominative		ἄνδρες 				πόλεις 
 
 Genitive		ἀνδρῶν 				πόλεων
 
