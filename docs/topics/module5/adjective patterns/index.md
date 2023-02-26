@@ -24,30 +24,29 @@ The adjectives ἀληθής, ἀληθές (‘true’) and ψευδής, ψ
 
 ### Common slightly irregular 2-1-2 adjectives
 
-Learn also the following three very common adjectives and their only slightly irregular declensions (they are mostly 2-1-2). Irregular forms are underlined for your attention.
+Learn also the following three very common adjectives and their only slightly irregular declensions (they are mostly 2-1-2). Irregular forms are **emphasized** like this for your attention.
 
-**ἄλλος, ἄλλη, ἄλλο**  _another, other_; with the article, _the rest_. Declines as a regular 2-1-2 adjective except for the neuter singular nominative and accusative, which is ἄλλο rather than the expected ἄλλον. Note that the accent on the penult distinguishes the neuter nominative/accusative plural ἄλλα from the conjunction ἀλλά (‘but’).
+**ἄλλος, ἄλλη, ἄλλο**  _another, other_; with the article, _the rest_. Declines as a regular 2-1-2 adjective except for the neuter singular nominative and accusative, which is **ἄλλο** rather than the expected ἄλλον. Note that the accent on the penult distinguishes the neuter nominative/accusative plural ἄλλα from the conjunction ἀλλά (‘but’).
 
 **μέγας, μεγάλη, μέγα** _big, large, great_. Note the irregular forms in the masculine and neuter nominative and accusative. Otherwise a 2-1-2 declension pattern with a persistent accent on the penult.
 
-				Singular					Plural
-		M		F		N		M		F		N
-
-Nominative	μέγας 		μεγάλη		μέγα		μεγάλοι	μεγάλαι	μεγάλα							
-Genitive	μεγάλου	μεγάλης 	μεγάλου 	μεγάλων	μεγάλων	μεγάλων				
-Dative		μεγάλῳ	μεγάλῃ		μεγάλῳ	μεγάλοις 	μεγάλαις 	μεγάλοις 
-
-Accusative	μέγαν		μεγάλην	μέγα 		μεγάλους 	μεγάλας 	μεγάλα 		
+									
+| Case  | M Singular	|	F Singular	|	N Singular	|	M Plural |		F Plural	|	N Plural |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nominative |	**μέγας** |	μεγάλη	| **μέγα**	|	μεγάλοι |	μεγάλαι |	μεγάλα	|						
+| Genitive |	μεγάλου	| μεγάλης |	μεγάλου  |	μεγάλων |	μεγάλων | 	μεγάλων	|			
+| Dative |	μεγάλῳ	| μεγάλῃ	|	μεγάλῳ |	μεγάλοις |	μεγάλαις |	μεγάλοις |
+| Accusative |	**μέγαν** |	μεγάλην |	**μέγα** |		μεγάλους |	μεγάλας |	μεγάλα 	|	
 
 **πολύς, πολλή, πολύ** _much, many_. Irregular forms also in the masculine and neuter nominative and accusative. Otherwise a 2-1-2 declension pattern with a persistent accent on the ultima.
 
 				Singular				Plural
 		M		F		N		M		F		N
 
-Nominative	πολύς 		πολλή 		πολύ 		πολλοί 	πολλαί 	πολλά 	
+Nominative	**πολύς** 		πολλή 		**πολύ** 		πολλοί 	πολλαί 	πολλά 	
 
 Genitive	πολλοῦ 	πολλῆς 	πολλοῦ 	πολλῶν 	πολλῶν 	πολλῶν 
 
 Dative		πολλῷ		πολλῇ		πολλῷ		πολλοῖς 	πολλαῖς 	πολλοῖς 	
 	
-Accusative	πολύν 		πολλήν 	πολύ 		πολλούς 	πολλάς 	πολλά 	
+Accusative	**πολύν** 		πολλήν 	**πολύ** 		πολλούς 	πολλάς 	πολλά 	
