@@ -40,13 +40,10 @@ Learn also the following three very common adjectives and their only slightly ir
 
 **πολύς, πολλή, πολύ** _much, many_. Irregular forms also in the masculine and neuter nominative and accusative. Otherwise a 2-1-2 declension pattern with a persistent accent on the ultima.
 
-				Singular				Plural
-		M		F		N		M		F		N
-
-Nominative	**πολύς** 		πολλή 		**πολύ** 		πολλοί 	πολλαί 	πολλά 	
-
-Genitive	πολλοῦ 	πολλῆς 	πολλοῦ 	πολλῶν 	πολλῶν 	πολλῶν 
-
-Dative		πολλῷ		πολλῇ		πολλῷ		πολλοῖς 	πολλαῖς 	πολλοῖς 	
-	
-Accusative	**πολύν** 		πολλήν 	**πολύ** 		πολλούς 	πολλάς 	πολλά 	
+								
+| Case |	M Singular |	F Singular |	N Singular |	M Plural |	F Plural |	N Plural |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nominative |	**πολύς** 	|	πολλή 	|	**πολύ** |	πολλοί |	πολλαί |	πολλά |	
+| Genitive |	πολλοῦ |	πολλῆς |	πολλοῦ |	πολλῶν |	πολλῶν |	πολλῶν |
+| Dative |	πολλῷ	|	πολλῇ	|	πολλῷ	|	πολλοῖς |	πολλαῖς |	πολλοῖς |	
+| Accusative |	**πολύν**  |	πολλήν | 	**πολύ** |		πολλούς |	πολλάς |	πολλά 	|
