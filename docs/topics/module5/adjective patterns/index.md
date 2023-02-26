@@ -14,16 +14,13 @@ The adjectives ἀληθής, ἀληθές (‘true’) and ψευδής, ψ
 
 #### Learn the declension of ἀληθής, ἀληθές:
 
-				Singular				Plural
-			M/F		N			M/F		N
-
-Nominative		ἀληθής		ἀληθές			ἀληθεῖς 	ἀληθῆ 
-
-Genitive		ἀληθοῦς 	ἀληθοῦς 		ἀληθῶν 	ἀληθῶν 
-
-Dative			ἀληθεῖ 		ἀληθεῖ			ἀληθέσι 	ἀληθέσι 
-
-Accusative		ἀληθῆ 		ἀληθές 		ἀληθεῖς 	ἀληθῆ 
+								
+| Case 	|	M/F Singular |	N Singular |	M/F Plural	|	N Plural |
+| --- | --- | --- | --- | --- |
+| Nominative	|	ἀληθής	|	ἀληθές		|	ἀληθεῖς |	ἀληθῆ |
+| Genitive	|	ἀληθοῦς |	ἀληθοῦς 	|	ἀληθῶν |	ἀληθῶν |
+| Dative	|	ἀληθεῖ 	|	ἀληθεῖ		|	ἀληθέσι |	ἀληθέσι |
+| Accusative	|	ἀληθῆ 	|	ἀληθές 		| ἀληθεῖς 	| ἀληθῆ |
 
 ### Common slightly irregular 2-1-2 adjectives
 
