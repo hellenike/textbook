@@ -23,15 +23,21 @@ You have already been introduced in Module 1 to the verb εἰμί “be, exist
 #### εἰμί
 
 Present Indicative Active
+	
 	Third singular	ἐστί (or ἐστίν)	
+	
 	Third plural	εἰσί (or εἰσίν)			
 
 Imperfect Indicative Active
+	
 	Third singular	ἦν	
+	
 	Third plural	ἦσαν	
 
 Present Optative Active
+	
 	Third singular	εἴη 	
+	
 	Third plural	εἶεν or εἴησαν 	
   
 Present active participle	ὤν, οὖσα, ὄν	
