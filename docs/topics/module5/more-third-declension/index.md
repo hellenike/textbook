@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "More third-declension patterns"
-parent: "Indirect Speech"
+parent: "Indirect speech"
 grand_parent: "Module 5: indirect speech"
 nav_order: 1
 has children: true
