@@ -53,15 +53,21 @@ Present active infinitive	εἶναι
 
 #### εἶμι 	
 Present Indicative Active
-	Third singular	εἶσι (or εἶσιν)		
+
+	Third singular	εἶσι (or εἶσιν)
+	
 	Third plural	ἴασι (or ἴασιν)			
 
 Imperfect Indicative Active
+
 	Third singular	ᾔει 	
+	
 	Third plural	ᾖσαν or ᾔεσαν 	
 
 Present Optative Active
-	Third singular	ἴοι 	
+
+	Third singular	ἴοι 
+	
 	Third plural	ἴοιεν	 
 
 Present active participle	ἰών, ἰοῦσα, ἰόν	
@@ -75,15 +81,21 @@ Present active infinitive	ἰέναι
 #### φημί 
 
 Present Indicative Active
+
 	Third singular	φησί (or φησίν)	
+	
 	Third plural	φασί (or φασίν)		
 
 Imperfect Indicative Active
+
 	Third singular	ἔφη
+	
 	Third plural	ἔφασαν
 
 Present Optative Active
+
 	Third singular	φαίη 
+	
 	Third plural	φαῖεν or φαίησαν 
 
 Present active participle	φάς, φᾶσα, φάν	
