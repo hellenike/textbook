@@ -9,8 +9,7 @@ nav_order: 15
 ### Module 5 reading 
 
 The following is a modified version of Lysias 1.19–20. 
-
-Euphiletos has taken the enslaved woman away from the house and is confronting her with what he has been told about Eratosthenes and his wide.
+_Euphiletos has taken the enslaved woman away from the house and is confronting her with what he has been told about Eratosthenes and his wife._
 
 ἡ θεράπαινα τὸ μὲν πρῶτον ἔξαρνος ἦν, καὶ Εὐφίλητον ποιεῖν ἐκέλευεν ὅ τι βούλεται: οὐδὲν γὰρ εἰδέναι. ἐπειδὴ δὲ Εὐφίλητος ἔφη τὸ ὄνομα Ἐρατοσθένους πρὸς αὐτήν, καὶ εἶπεν ὅτι οὗτος ὁ φοιτῶν εἴη πρὸς τὴν γυναῖκα, ἐκείνη ἐξεπλάγη ἡγησαμένη αὐτὸν πάντα ἀκριβῶς εἰδέναι. καὶ τότε κατηγόρει πρῶτον μὲν ὡς μετὰ τὴν ἐκφορὰν αὐτῇ προσίοι, ἔπειτα ὡς αὐτὴ τελευτῶσα εἰσαγγείλειε καὶ ὡς ἐκείνη τῷ χρόνῳ πεισθείη, καὶ τἆλλα τὰ γενόμενα πάντα ἀκριβῶς διηγήσατο.
 
@@ -44,7 +43,7 @@ Euphiletos has taken the enslaved woman away from the house and is confronting h
 
 αὐτὴ note that the nominative is intensive referring to the subject “she herself,” distinguishing the enslaved woman whose speech is being reported from the wife
 
-τελευτῶσα < τελευτάω “accomplish, finish, bring to pass”—the participle is used to mean something adverbial like “at last, in the end”
+τελευτῶσα < τελευτάω “accomplish, finish, bring to pass”—-the participle is used to mean something adverbial like “at last, in the end”
 
 εἰσαγγείλειε < compound verb εἰς + ἀγγέλλω, whose 3rd principal part is εἰσήγγειλα, “bring messages to” 
 
