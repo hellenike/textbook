@@ -75,7 +75,7 @@ Present active participle	ἰών, ἰοῦσα, ἰόν
 Present active infinitive	ἰέναι 
 
 **Notes on forms or usage**
-— εἶμι has a future sense to its present indicative forms in Attic Greek prose. Its forms are used for the future of ἔρχομαι in Attic prose instead of those derived from ἐλεύσομαι (the second principal part of ἔρχομαι). 
+- εἶμι has a future sense to its present indicative forms in Attic Greek prose. Its forms are used for the future of ἔρχομαι in Attic prose instead of those derived from ἐλεύσομαι (the second principal part of ἔρχομαι). 
 
 
 #### φημί 
@@ -104,6 +104,5 @@ Present active participle	φάς, φᾶσα, φάν
 Present active infinitive	φάναι 
 
 **Notes on forms or usage**
-— The 3rd principal part of φημί, ἔφησα, is a regular first aorist, but only active forms are made from it. The imperfect is more commonly used than the aorist. Distinguish the present active participle φάς, φᾶσα, φάν from the aorist active, φήσας, φήσασα, φήσαν 
-
-— φημί can mean “say yes, say so” and its negative οὐ φημί means “say no, deny, refuse” rather than “not say.”
+- The 3rd principal part of φημί, ἔφησα, is a regular first aorist, but only active forms are made from it. The imperfect is more commonly used than the aorist. Distinguish the present active participle φάς, φᾶσα, φάν from the aorist active, φήσας, φήσασα, φήσαν.
+- φημί can mean “say yes, say so” and its negative οὐ φημί means “say no, deny, refuse” rather than “not say.”
