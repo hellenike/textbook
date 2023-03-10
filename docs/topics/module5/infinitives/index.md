@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Infinitives"
+title: "Infinitives in ancient Greek"
 parent: "Indirect speech"
 grand_parent: "Module 5: indirect speech"
 nav_order: 15
@@ -60,7 +60,7 @@ Remove the augment and the personal ending from the appropriate principal part a
 #### Forming second aorist infinitives
 Remove the augment and the personal ending from the appropriate principal part and add the infinitive ending. The accent for the active and middle second aorist are on the first syllable of the infinitive ending, which will also help distinguish these from the present infinitives of the same verb. The accent of the aorist passive infinitive is always on the eta of the infinitive ending.
 
-EXAMPLES
+**EXAMPLES**
 
 #### First aorist active and middle infinitives
 ἐκέλευσα, unaugmented stem κελευσ- —> κελεῦσαι (active); κελεύσασθαι (middle)
