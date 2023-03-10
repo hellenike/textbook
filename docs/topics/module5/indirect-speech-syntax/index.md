@@ -12,15 +12,15 @@ As we have already seen in Module 4, indirect speech (also called ‘indirect st
 
 ### Verbs that introduce indirect speech
 Some verbs that introduce indirect speech that we have been working with:
-δείκνυμι, δείξω, ἔδειξα δέδειχα, δέδειγμαι, ἐδείχθην show, demonstrate
-ἡγέομαι, ἡγήσομαι, ἡγησάμην, —, ἥγημαι, ἡγήθην  think, consider, believe
-λέγω, λέξω, ἔλεξα or εἶπον, εἴρηκα, λέλεγμαι, ἐλέχθην  say, speak, tell
-ὁράω, ὄψομαι, εἶδον, ἑώρακα or ἑόρακα, ἑώραμαι or ὦμμαι, ὤφθην  see, look, understand
-φημί, φήσω, ἔφησα, —, —, —  say, assert, affirm
+- δείκνυμι, δείξω, ἔδειξα δέδειχα, δέδειγμαι, ἐδείχθην show, demonstrate
+- ἡγέομαι, ἡγήσομαι, ἡγησάμην, —, ἥγημαι, ἡγήθην  think, consider, believe
+- λέγω, λέξω, ἔλεξα or εἶπον, εἴρηκα, λέλεγμαι, ἐλέχθην  say, speak, tell
+- ὁράω, ὄψομαι, εἶδον, ἑώρακα or ἑόρακα, ἑώραμαι or ὦμμαι, ὤφθην  see, look, understand
+- φημί, φήσω, ἔφησα, —, —, —  say, assert, affirm
 
 Now add:
-ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, — , ἠκούσθην  hear, listen to
-νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην  think, believe
+- ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, — , ἠκούσθην  hear, listen to
+- νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην  think, believe
 
 ### 1. Indirect Speech as Subordinate Clause 
 Verbs of saying, such as λέγω, are generally followed by a clause introduced by ὅτι or ὡς (“that”) with a finite verb. εἶπον and λέγω in the active use this construction, while λέγω is the passive (e.g., “it was said”) may take construction #2 below, with an infinitive. The verb ἀκούω may take this construction or #3 below, with a participle.
