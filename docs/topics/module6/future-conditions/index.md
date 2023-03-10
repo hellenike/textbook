@@ -10,7 +10,10 @@ nav_order: 12
 ## Future conditions 
 
 - Unlike past and present, don't (can't) fall into categories of "factual/contrafactual"
-- instead: "more vivid" / "less vivid"
+- instead: "more vivid" / "less vivid" statements about the future.
+- meaning:
+    - "More vivid": a confident statement ("this will happen")
+    - "Less vivid": maybe this will happen.
 
 
 
@@ -19,14 +22,13 @@ nav_order: 12
 | More vivid | ἐάν + subjunctive | future indicative|
 | Less vivid | εἰ + optative | optative  + ἄν  |
 
+Formation:
+
+- "more vivid" uses an indicative, like stating a fact ("this *will* happen - if the condition comes about")
+- "less vivid":  optative in both clauses, ἄν in apodosis.  (Not contrafactual: that's indicative mood + ἄν.) "This *could* happen, if the condition comes about -- but I'm not at all sure that it will."
 
 
-"More vivid": a confident statement ("this will happen"), uses future indicative.  
-
-"Less vivid": maybe this will happen.  Optative in both clauses, ἄν in apodosis.  (Not contrafactual: that's indicative mood + ἄν.)
-
-
-Choice of tenses in subjunctive optative: reflects aspect
+Choice of tenses in subjunctive and optative (both in protasis and apodosis) reflects aspect (just like in protasis of generalizing conditions).
 
 
 
