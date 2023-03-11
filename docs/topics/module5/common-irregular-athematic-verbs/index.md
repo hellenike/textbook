@@ -20,7 +20,7 @@ You have already been introduced in Module 1 to the verb εἰμί “be, exist
 
 ### Forms to learn now
 
-#### εἰμί
+**εἰμί**
 
 Present Indicative Active
 	
@@ -51,7 +51,7 @@ Present active infinitive	εἶναι
 — When you see the accented forms ἔστι(ν), it is asserting existence, similar to English “There is,” “There exists,” or even “It is possible.” It will often come at the beginning of the clause.
 
 
-#### εἶμι 	
+**εἶμι** 	
 Present Indicative Active
 
 	Third singular	εἶσι (or εἶσιν)
@@ -78,7 +78,7 @@ Present active infinitive	ἰέναι
 - εἶμι has a future sense to its present indicative forms in Attic Greek prose. Its forms are used for the future of ἔρχομαι in Attic prose instead of those derived from ἐλεύσομαι (the second principal part of ἔρχομαι). 
 
 
-#### φημί 
+**φημί** 
 
 Present Indicative Active
 
