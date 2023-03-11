@@ -18,10 +18,8 @@ Main areas of focus are:
 - forms of common athematic, irregular verbs: εἰμί, εἶμι, and φημί 
 - forms and uses of infinitives
 - the three syntactical structures of indirect speech: subordinate clauses, accustaive + infinitive, and supplementary participle
-
-
-### Making Connections 
-
  
 
 ### Practice, Reading, and Composition
+
+Reading selection based on Lysias 1.19–20.
