@@ -36,9 +36,7 @@ Verbs:
 Nouns:
 
 - δίκη, δίηκς, ἡ: In the abstract, "right, justice"; concretely in a legal context, "a judgment, a lawsuit, or legal proceeding." With λαμβάνω: λαμβάνω δίκην "take punishment, vengeance; impose or exact a penalty, punish" (with παρά + genitive to express "from a person").
-
 - δικάζω (regular): "to judge".  Can be used with direct object δίκην, "give a judgment on a legal case."
-
 - δικαστής, οῦ, ὁ: Etynmologically, a person who does the verb δικάζω; "juror."
 
 
