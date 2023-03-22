@@ -21,7 +21,7 @@ As in English, τηε protasis may either precede or follow the apodosis.
 
 *Simple conditions* use the *indicative* mood in both clauses. They present the statement as a straightforward factual relation: when the protasis is true, the apodosis is also true.  You choose the tense as you would for any other indicative statement (e.g., for past time, the aorist will refer to a single, contained event, the imperfect to a repeated or ongoing action).
 
-
+In all forms of conditions, the regular negative adverb οὐ is used in the apodosis. In the protasis, the normal negative adverb is μή.
 
 
 ### Introducing the present indicative
