@@ -27,3 +27,11 @@ Greek makes contrafactual statements with the indicative mood, but marks them as
 
 ### Examples of contrafactual conditions
 
+> εἰ μὴ ἐνόμιζoν αὐτὸν αἴτιον εἶναι, οἱ γραψάμενοι οὐκ ἂν ἐγράφοντο αὐτόν.
+
+̣"If they did not think he was guilty, the plaintiffs would not be suing him in court." (In fact, they think he *is* guilty, and they are suing him.)
+
+
+> εἰ μὴ ἐμοίχευσεν ὁ ᾿Ερατοσθένης τὴν γυναῖκα, οὐκ ἂν ἀπέκτεινε αὐτὸν ὁ Εὐφίλητος.
+
+"If Eratosthenes had not committed adultery with the woman, Euphiletos would not have killed him." (In fact, Eratoshenes *did* commit adultery with the woman, and we know what happened as a result.)
