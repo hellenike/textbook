@@ -80,3 +80,24 @@ Similarly, compare the aorist tense of the three moods in the third person.  Not
 
 
 
+#### Examples of generalizing conditions
+
+
+
+Past general, here with aorist optative in the protasis:
+
+> εἰ οἱ γραψάμενοι γράψαιντο φόνου, τοῦ φόνου ἐδικάζετο ἐν Ἀρείου πάγῷ.
+
+"If the plaintiffs ever presented a charge of murder, the murder case was heard in the Areopagus."
+
+
+Present general:
+
+> ἐὰν οἱ γραψάμενοι γράψωνται φόνου, τοῦ φόνου δικάζεται  ἐν Ἀρείου πάγῷ.
+
+"If the plaintiffs ever present a charge of murder, the murder case is heard in the Areopagus."
+
+
+
+
+

@@ -47,14 +47,14 @@ The *present indicative* refers to events that are happening at the time of the 
 
 Aorist indicative in both protasis and apodosis:
 
-> εἰ ἐγράψαντο Εὐφιλήτου φόνου, οἱ δικασταὶ δίκην ἐδίκασαν αὐτοῖς.
+> εἰ ἐγράψαντο Εὐφιλήτον φόνου, οἱ δικασταὶ δίκην ἐδίκασαν αὐτοῖς.
 
 "If they charged Euphiletos with murder, then the jurors decided the case between them."
 
 Present indicative in both protasis and apodosis:
 
 
-> εἰ γράφονται Εὐφιλήτου φόνου, οἱ δικασταὶ δίκην δικάζουσιν αὐτοῖς.
+> εἰ γράφονται Εὐφιλήτον φόνου, οἱ δικασταὶ δίκην δικάζουσιν αὐτοῖς.
 
 "If they charge Euphilos with murder, then the jurors decide the case between them."
 
