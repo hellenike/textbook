@@ -43,3 +43,20 @@ Like the imperfect tense, all three voices of the present are built on the stem 
 
 The *present indicative* refers to events that are happening at the time of the statement. It does not distinguish aspect the way that our contrast of imperfect and aorist does for past-time narrative, and might, in different contexts, correspond to an English simple present ("they write"), progressive present ("they are writing") or emphatic present ("they do write").
 
+### Examples of simple conditions
+
+Aorist indicative in both protasis and apodosis:
+
+> εἰ ἐγράψαντο Εὐφιλήτου φόνου, οἱ δικασταὶ δίκην ἐδίκασαν αὐτοῖς.
+
+"If they charged Euphiletos with murder, then the jurors decided the case between them."
+
+Present indicative in both protasis and apodosis:
+
+
+> εἰ γράφονται Εὐφιλήτου φόνου, οἱ δικασταὶ δίκην δικάζουσιν αὐτοῖς.
+
+"If they charge Euphilos with murder, then the jurors decide the case between them."
+
+
+
