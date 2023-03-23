@@ -10,7 +10,15 @@ nav_order: 16
 
 ## The perfect system: participles
 
+### Reviewing principal parts
 
+So far, we have worked with the following principal parts of the Greek verb:
+
+| First | Second | Third | Sixth | 
+| --- | --- | --- | --- |
+| present and imperfect, all voices | future active and middle | aorist active and middle | future passive, aorist passive |
+
+We will now add the final tense system, called the *perfect tense*.  It uses the fourth principal part for the active voice, and the fifth principal part for the middle and passive voices.
 
 ### Meaning
 
