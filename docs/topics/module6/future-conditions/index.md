@@ -9,6 +9,10 @@ nav_order: 12
 
 ## Future conditions 
 
+Whether we are talking about present or past time, Greek can characterize conditions as either factual (simple, generalizing) or contrafactual, but conditional statements about the future are different: who can say what is a *fact* in the future?
+
+Instead, Greek presents conditional statements as either *more vivid* or *less vivid*. More vivid statements are confident claims: if the hypothesized "if" clause actually happens, then the apodosis states what will happen, and it's entirely possible that the "if" clause will take place. Less vivid statements, on the other, are more sceptical: *maybe* this will happen
+
 - Unlike past and present, don't (can't) fall into categories of "factual/contrafactual"
 - instead: "more vivid" / "less vivid" statements about the future.
 - meaning:
