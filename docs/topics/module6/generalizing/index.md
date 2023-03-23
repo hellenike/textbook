@@ -9,34 +9,28 @@ nav_order: 3
 
 ## Generalizing conditions: present and past time
 
+Greek can use a special form of the protasis to emphasize that a condition refers not just to a specific incident, but is generally true. Examples in English are, "If (ever, whenever) there was a charge of murder, the case was heard in the Areopagus" (past time), or "If (ever, whenever) there is a charge of murder, the case is heard in the Areopagus" (present time).
 
-### Generalizing conditions about present or past time
+The apodosis has exactly the form you would expect:  the imperfect indicative if the statement is about past time, the present indicative if it is about present.
+
+To mark the conditional statement as generalizing, Greek does *not* use the indicative mood in the protasis, however. Instead, it uses the optative mood when generalizing about the past, and the subjunctive mood when generalizing about the present.  Choose the tense of either mood as you would for any other optative construction:  aorist for single, completed actions, versus present tense for ongoing, repeated actions.
+
+The complete formula for marking a protasis as generalizing is summarized here:
+
 
 | Time | Protasis | Apodosis |
 | --- | --- | --- |
 | Past | εἰ + optative | imperfect indicative |
 | Present | ἐάν (= εἰ + ἄν)  + subjunctive | present indicative |
 
-εἰ + ἄν normally contracts to ἐάν 
-
-Note that the form of the apodosis is equally possible in a particular statement, and 
-can stand alone as a statement about repeated action: imperfect indicative for past time, present indicative for present time. 
-
-The form of the protasis explicitly generalizes the conditional statement.
-
-#### Introducing the subjunctive mood
-
-- as with optative, choose present vs. aorist to express aspect.
-
-Formation:
+ἄν is a particle that we will see in other conditional constructions. Most frequently, it contracts with a preceding εἰ, and is written as ἐάν.
 
 
-- endings characterized by long vowel
-- endings for present and aorist subjunctive are identical
-- as with all verb forms, use the first part for the present system, third and sixth parts for aorist
-- the aorist passive forms are actually a contraction of the ending's long vowel with the regular stem -θε- : notice the accent!
+#### Formation of the present and aorist subjunctive
 
-Endings for present and aorist subjunctive :
+The present and aorist tenses of subjunctive mood are formed on the stems of the same principal parts as all other forms of the Greek verb: first part for all voices of the present, third part for aorist active and middle, and sixth part for aorist passive.  The endings of the subjunctive mood are characterized by long vowels (η, ω) in their base.  You'll be happy to learn that the subjunctive uses the same endings for both present and aorist tenses:  you can distinguish the tense by the principal part it is formed on.
+
+The third person endings of the subjunctive are:
 
 | Person/number | Active | Middle | Passive |
 | --- | --- | --- | --- |
@@ -45,9 +39,13 @@ Endings for present and aorist subjunctive :
 
 
 
-Compare the formation of indicative, subjunctive and optative in present and aorist:
+Compare the  present tense of the indicative, subjunctive and optative moods in the third person singular of all three voices.  Notice that 
 
-3.sing of the present:
+- all forms are built on the same stem
+- middle and passive voices use the same endings
+- the vowel joining ending to stem makes the subjunctive and optative moods easily distinguishable from the indicative
+
+
 
 | Tense + Voice | Indicative | Subjunctive | Optative |
 | --- | --- | --- | --- | 
@@ -56,10 +54,18 @@ Compare the formation of indicative, subjunctive and optative in present and aor
 | Present Passive | ἄρχ-**εται** | ἄρχ-**ηται** | ἄρχ-**οιτο** | 
 
 
-3. sing of the aorist.  2 notes:
+Similarly, compare the aorist tense of the three moods in the third person.  Notice that:
 
-1. recall that only indicative forms have the augment
-2. notice the accent of the aorist passive!
+
+
+
+
+- only indicative forms have the augment
+- the accent of the aorist subjunctive passive is not recessive!
+
+> Historically, the aorist passive forms are actually a contraction of the ending's long vowel with the regular stem -θε-, e.g., ἀρχθε + ῃ.  Like other forms including contractions, the accent remains on the syllable it would have fallen on in an uncontracted form, e.g., ἀρχθέῃ > ἀρχθῇ.
+
+
 
 | Tense + Voice | Indicative | Subjunctive | Optative |
 | --- | --- | --- | --- | 
@@ -69,6 +75,27 @@ Compare the formation of indicative, subjunctive and optative in present and aor
 
 
 
+
+
+
+
+
+#### Examples of generalizing conditions
+
+
+
+Past general, here with aorist optative in the protasis:
+
+> εἰ οἱ γραψάμενοι γράψαιντο φόνου, τοῦ φόνου ἐδικάζετο ἐν Ἀρείου πάγῷ.
+
+"If the plaintiffs ever presented a charge of murder, the murder case was heard in the Areopagus."
+
+
+Present general:
+
+> ἐὰν οἱ γραψάμενοι γράψωνται φόνου, τοῦ φόνου δικάζεται  ἐν Ἀρείου πάγῷ.
+
+"If the plaintiffs ever present a charge of murder, the murder case is heard in the Areopagus."
 
 
 
