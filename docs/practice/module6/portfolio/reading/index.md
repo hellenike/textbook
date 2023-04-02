@@ -33,11 +33,11 @@ Using the following glosses and notes, compose an idiomatic translation in Engli
 
 - συκοφάντης, ου, ὁ "informer, swindler; someone who brings contrived lawsuits"
 - ἐπιχειρέω (regular) "put one's hand to, attempt". Constructed with a complementary infinitive.
-- ἀπόλλυμι, ἀπολῶ, ἀπώλεσα, ἀπολώλεκα or ἀπόλωλα, ἀπόλλυμαι, - 
+- ἀπόλλυμι, ἀπολῶ, ἀπώλεσα, ἀπολώλεκα or ἀπόλωλα, ἀπόλλυμαι, - active: "kill, destroy; lose" middle: "perish, die"
 - ἐλπίζω (regular) "hope for, expect". Can take indirect statement with infinitive.
--  ἦν...ἠδικημένος: ἠδικημένος is the perfect passive participle of ἀδικέω. Used together with εἰμί, it has the sense of an English pluperfect: "he had been wronged" (literally, "he was in a state of having been wronged")
+- ἦν...ἠδικημένος: ἠδικημένος is the perfect passive participle of ἀδικέω. Used together with εἰμί, it has the sense of an English pluperfect: "he had been wronged" (literally, "he was in a state of having been wronged")
 - ἆθλον, ἄθλου, τό "prize of a contest"
-- ἁμαρτάνω, ἁμαρτήσομαι, ἥμαρτον, ἡμάρτηκα, ἡμάρτημαι, ἡμαρτήθην "miss the mark, err", mostly with genitive object of the error; in an absolute sense "to err, commit a wrong" with accusative object ἁμάρτημα or  ἁμαρτίαν.
+- ἁμαρτάνω, ἁμαρτήσομαι, ἥμαρτον, ἡμάρτηκα, ἡμάρτημαι, ἡμαρτήθην "miss the mark, err", mostly with genitive object of the error; in an absolute sense "to err, commit a wrong" with accusative object ἁμάρτημα or ἁμαρτίαν.
 - ἁμάρτημα, ατος, τό "failure, fault"
 - ἧττον adverbial, "less"
 - πολὺ κάλλιον adverbial "better by far"
