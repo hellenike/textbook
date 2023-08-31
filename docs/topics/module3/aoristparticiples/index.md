@@ -116,7 +116,7 @@ Here is a complete declension of the aorist middle participle of κελεύω.
 | Nominative singular | κελευσάμενος  | κελευσαμένη | κελευσάμενον | 
 | Genitive singular | κελευσαμένου  | κελευσαμένης   | κελευσαμένου | 
 | Dative singular | κελευσαμένῳ | κελευσαμένῃ  | κελευσαμένῳ | 
-| Accusative singular | κελευσάμενον | κελευσαμένην | κελευσάμενος | 
+| Accusative singular | κελευσάμενον | κελευσαμένην | κελευσάμενον | 
 | **Plural** | | | |
 | Nominative plural | κελευσάμενοι | κελευσάμεναι| κελευσάμενα | 
 | Genitive plural | κελευσαμένων  | κελευσαμένων  | κελευσαμένων | 
@@ -150,4 +150,4 @@ The accent of the aorist passive participle is persistent on the first syllable 
 | Nominative plural | κελευσθέντες | κελευσθεῖσαι| κελευσθέντα | 
 | Genitive plural | κελευσθέντων  | κελευσθεισῶν  | κελευσθέντων | 
 | Dative plural | κελευσθεῖσι, κελευσθεῖσιν  | κελευσθείσαις   | κελευσθεῖσι, κελευσθεῖσιν | 
-| Accusative plural | κελευσθέντας  | κελεύσασας | κελευσθείσας | 
+| Accusative plural | κελευσθέντας  | κελεύσασας | κελευσθέντα | 

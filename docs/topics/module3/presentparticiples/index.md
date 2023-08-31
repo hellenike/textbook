@@ -54,5 +54,5 @@ Like the aorist middle, the accent of the present middle and passive participles
 | Nominative  plural | κελευόμενοι | κελευόμεναι | κελευόμενα|
 | Genitive plural |	 κελευομένων| κελευομένων | κελευομένων |
 | Dative plural |κελευομένοις 	 | κελευομέναις |κελευομένοις  |
-| Accusative plural |	κελευομένους  | κελευομένας | κελευόμενος|
+| Accusative plural |	κελευομένους  | κελευομένας | κελευόμενα|
 
