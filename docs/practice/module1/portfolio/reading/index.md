@@ -9,7 +9,7 @@ nav_order: 2
 ### Module 1 reading: Lysias 1.7-1.8 (simplified)
 
 
-> Each verbal unit is placed on a separate line. The verbal expression
+> Each verbal expression is placed on a separate line. The verbal expression
 > and any connecting words are **highlighted like this**.
 
 

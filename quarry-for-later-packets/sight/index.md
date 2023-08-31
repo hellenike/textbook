@@ -18,15 +18,15 @@ As we have done throughout this textbook, rather than simply reading one word or
 
 > Do *not* write out an English translation as you work through a passage.  If you do, you cannot help but focus on the version in the familiar language, rather than on recognizing the structure of the Greek passage.
 
-In Greek, these larger structures can be grouped into *verbal units*: the most important of these are clauses, participial expressions, and indirect statement.
+In Greek, these larger structures can be grouped into *verbal expressions*: the most important of these are clauses, participial expressions, and indirect statement.
 
 
-## A hierarchy of verbal units
+## A hierarchy of verbal expressions
 
 
-Remember that the only verbal units that can appear alone are *main clauses*:  that is,  a clause with a finite verb, normally introduced or continued from previous clauses by a conjunction or connecting particle.  *Subordinate clauses* depend on a main clause (explicitly or implicitly): they also have a finite verb, but are introduced by a subordinating conjunction.  Participial expressions are attached to (and agree in gender, case and number with) a noun in a clause.  Indirect statment is introduced by some other verbal unit (most often a finite verb in a clause), and is constructed with either an infinitive (after a verb expressing *speaking* or *thinking*), or a participle (after a verb expressing *perceiving*), with the subject of the indirect statement in the accusative case.
+Remember that the only verbal expressions that can appear alone are *main clauses*:  that is,  a clause with a finite verb, normally introduced or continued from previous clauses by a conjunction or connecting particle.  *Subordinate clauses* depend on a main clause (explicitly or implicitly): they also have a finite verb, but are introduced by a subordinating conjunction.  Participial expressions are attached to (and agree in gender, case and number with) a noun in a clause.  Indirect statment is introduced by some other verbal expression (most often a finite verb in a clause), and is constructed with either an infinitive (after a verb expressing *speaking* or *thinking*), or a participle (after a verb expressing *perceiving*), with the subject of the indirect statement in the accusative case.
 
-Every Greek sentence, in other words, contains a *hierarchy* of verbal units, with a main clause at its root, and zero or more dependent verbal units (which, in turn, may have their own dependent verbal expressions).  To make sense of a sentence you are looking at for the first time, begin by identifying its hierarchy of verbal units. (This is why our reading practice regularly formats new passages indented to show their hierarchy of verbal units.)
+Every Greek sentence, in other words, contains a *hierarchy* of verbal expressions, with a main clause at its root, and zero or more dependent verbal expressions (which, in turn, may have their own dependent verbal expressions).  To make sense of a sentence you are looking at for the first time, begin by identifying its hierarchy of verbal expressions. (This is why our reading practice regularly formats new passages indented to show their hierarchy of verbal expressions.)
 
 
 ### Main clauses
@@ -83,7 +83,7 @@ After you have found any participles used as supplementary participles with verb
 
 Like any adjective, the participle will take not only its gender and number, but also its case from the noun it agrees with. When the participle agrees with a noun that has no syntactic relation to the rest of the syntax, they are normally in the genitive case (the “absolute” usage of the noun, the genitive absolute).
 
-As with any other verbal unit, you should look for any [complements](#complements) (such as objects) that depend on the participle.
+As with any other verbal expression, you should look for any [complements](#complements) (such as objects) that depend on the participle.
 
 
 

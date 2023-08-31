@@ -81,7 +81,7 @@ Finally, we'll apply the accent.  The accent of the aorist active participle tri
 
 
 
-We want to attach the participle to Eratosthenes because he will be the subject of the subordinate verbal unit.  We'll look in  detail at how to attach participles to nouns, but for this example let's just put it in attributive position after the article: τὸν  πράξαντα.  Just like finite verb forms, participles can have direct objects, so we'll include the direct object "these things" within the attributive phrase: τὸν ταῦτα πράξαντα.  Here's our complete sentence:
+We want to attach the participle to Eratosthenes because he will be the subject of the subordinate verbal expression.  We'll look in  detail at how to attach participles to nouns, but for this example let's just put it in attributive position after the article: τὸν  πράξαντα.  Just like finite verb forms, participles can have direct objects, so we'll include the direct object "these things" within the attributive phrase: τὸν ταῦτα πράξαντα.  Here's our complete sentence:
 
 
 
@@ -90,7 +90,7 @@ We want to attach the participle to Eratosthenes because he will be the subject 
 > >  τὸν ταῦτα **πράξαντα**.
 
 
-The first verbal unit is an independent clause with the finite verb εἶδε; the second verbal unit is a participial expression. The subject of εἶδε is third singular (implied "he, she, it").  The subject of πράξαντα is ἐρατοσθένη (agreement in gender, case, number).  Together these two verbal units express the equivalent of the two English clauses, "He saw Eratosthenes, who did these things."
+The first verbal expression is an independent clause with the finite verb εἶδε; the second verbal expression is a participial expression. The subject of εἶδε is third singular (implied "he, she, it").  The subject of πράξαντα is ἐρατοσθένη (agreement in gender, case, number).  Together these two verbal expressions express the equivalent of the two English clauses, "He saw Eratosthenes, who did these things."
 
 
 

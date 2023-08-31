@@ -11,7 +11,7 @@ nav_order: 2
 ## Reading from Lysias 1.9-1.12 (simplified)
 
 
-> Each verbal unit is placed on a separate line; indentation indicates the level of subordination.
+> Each verbal expression is placed on a separate line; indentation indicates the level of subordination.
 > The verbal expression
 > and any connecting words are **highlighted like this**.
 

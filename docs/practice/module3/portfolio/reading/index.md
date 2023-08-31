@@ -11,7 +11,7 @@ nav_order: 5
 
 #### Analysis
 
-In the passage below, break out verbal units and indent subordinated verbal units.  Highlight finite verbs by underlining or italicizing *like this*; highlight participles by double underlining or bolding **like this**. 
+In the passage below, break out verbal expressions and indent subordinated verbal expressions.  Highlight finite verbs by underlining or italicizing *like this*; highlight participles by double underlining or bolding **like this**. 
 
 For example, consider this paragraph (modelled on Lysias 1.24).
 
@@ -19,7 +19,7 @@ For example, consider this paragraph (modelled on Lysias 1.24).
 >
 > "Ater this, they took torches from the shop, and entered, since the door had been prepared by the girl."
 
-You would isolate the verbal units like this:
+You would isolate the verbal expressions like this:
 
 
 μετὰ δὲ ταῦτα 

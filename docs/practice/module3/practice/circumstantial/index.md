@@ -15,7 +15,7 @@ has_children: true
 ### The circumstantial participle
 
 
-Use a participle to compose a verbal unit express the **highlighted clause** in each of these sentences from Carolyn Falkner's translation of Lysias 1.  Supplement your vocabulary with the following: 
+Use a participle to compose a verbal expression express the **highlighted clause** in each of these sentences from Carolyn Falkner's translation of Lysias 1.  Supplement your vocabulary with the following: 
 
 - μεθύω, μεθύσω, ἐμέθυσα, μεμέθυκα, μεμέθυμαι, ἐμεθύσθην, "to drink heavily, be drunk"
 - ὀργίζω, "anger"; middle voice, "grow angry."

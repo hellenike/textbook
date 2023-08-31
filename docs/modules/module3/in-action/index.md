@@ -10,7 +10,7 @@ nav_order: 4
 
 >  A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.
 
-The preceding sentence is the complete text of the Second Amendment to the United States Constitution.  It has two verbal units:  a main clause, and a subordinate verbal idea expressed with a participle. 
+The preceding sentence is the complete text of the Second Amendment to the United States Constitution.  It has two verbal expressions:  a main clause, and a subordinate verbal idea expressed with a participle. 
 
 
 This sentence is a tragic illustration that syntax matters. The Founding Fathers used an absolute participle in imitation of Latin and Greek style.  Unlike a subordinate clause with a conjunction giving it an explicit meaning ("because", "when", "if"...), the meaning of the participial expression is open ended. 

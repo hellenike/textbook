@@ -16,7 +16,7 @@ has_children: true
 Module 1 introduces these features of Greek:
 
 
-- verbal units expressing a subject and action
+- verbal expressions expressing a subject and action
 - how to recognize finite verb forms and identify them with person, number, tense, mood, voice
 - principal parts of Greek verbs
 - the aorist and imperfect indicative tenses

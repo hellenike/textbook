@@ -19,7 +19,7 @@ nav_order: 2
 
 ### Passage to analyze
 
-Write each verbal unit on a separate line.  Highlight the coordinating particle or conjunction, and identify the verb.
+Write each verbal expression on a separate line.  Highlight the coordinating particle or conjunction, and identify the verb.
 
 ### A. Grammatical analysis
 

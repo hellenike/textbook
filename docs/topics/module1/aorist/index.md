@@ -10,7 +10,7 @@ has_children: true
 ## The aorist indicative
 
 
-The form of a finite verb in ancient Greek expresses the **subject** as well as the **verb**: it is a complete verbal unit by itself. Example: the form ἐκέλευσε means "he or she ordered"; the form ἐκέλευσαν means "they ordered." These are already complete sentences that do not need a separate word for "he," "she" or "they."
+The form of a finite verb in ancient Greek expresses the **subject** as well as the **verb**: it is a complete verbal expression by itself. Example: the form ἐκέλευσε means "he or she ordered"; the form ἐκέλευσαν means "they ordered." These are already complete sentences that do not need a separate word for "he," "she" or "they."
 
 ### The indicative mood and narrating events in the past
 

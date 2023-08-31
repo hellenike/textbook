@@ -10,7 +10,7 @@ nav_order: 2
 
 #### New terms in this module
 
-- verbal unit
+- verbal expression
 - finite verb
 - person, number, tense, mood, voice
 - aspect

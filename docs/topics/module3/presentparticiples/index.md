@@ -11,7 +11,7 @@ nav_order:  3
 
 ### The present active participle:  a 3-1-3 declension
 
-The present participle creates a subordinate verbal unit that views the action similarly to the aspect of the finite forms of the imperfect tense.  Like the imperfect tense, it uses the first principal part to construct its forms.
+The present participle creates a subordinate verbal expression that views the action similarly to the aspect of the finite forms of the imperfect tense.  Like the imperfect tense, it uses the first principal part to construct its forms.
 
 It uses third-declension endings for the masculine and neuter forms, and first-declension endings for feminine forms.  Compare the present active participle's pattern of nominative/genitive singular in -είς/-έντος, -εῖσα/-είσης, -έν/-έντος  with the aorist active pattern -ας/-αντος, -ασα/άσης, -αν/-αντος.
 

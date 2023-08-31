@@ -19,7 +19,7 @@ Practice, reading and composition based on Lysias 1, sections 16-19:  an elderly
 
 Module 3 introduces these features of Greek:
 
-- the **participle** is a verbal unit that expresses a subordinate verbal idea, similar to a  subordinate clause in English.
+- the **participle** is a verbal expression that expresses a subordinate verbal idea, similar to a  subordinate clause in English.
 - the aorist and present tenses of the participle view verbal actions similarly to the finite forms of the aorist and imperfect tenses
 - participles in the **attributive position** describe a substantive, similar to an English relative clause
 - a few verbs like ἄρχω and τυγχάνω take a **supplementary participle** to complete the sense of the verb

@@ -12,14 +12,14 @@ has_children: false
 ## Clauses and coordination
 
 
-A verbal unit containing a finite verb form is called a **clause**. A sentence consists of one or more clauses.
+A verbal expression containing a finite verb form is called a **clause**. A sentence consists of one or more clauses.
 
 Ancient Greek normally  connects, or **coordinates**, successive clauses and sentences explicity. In many styles of English, starting every sentence by connecting it to the previous one could quickly seem excessive, but doing so is more the norm in many styles of ancient Greek prose and even poetry, and serves to concisely clarify the relation of clauses to each.  The words that do this work in Greek are **conjunctions** and coordinating **particles**. 
 
 
 ### Coordinating conjunctions 
 
-**Coordinating conjunctions** join together parallel clauses (that is, a verbal unit expressed by a finite verb). (In module 4, we will look at **subordinating conjunctions**.)  One of the most common coordinating conjunctions is καί.  Like the English *and*, it joins together two things of the same kind.  This could be a pair of nouns, like "peanut butter and jelly," or whole sentences, "I ate the sandwich and I drank the milk."
+**Coordinating conjunctions** join together parallel clauses (that is, a verbal expression expressed by a finite verb). (In module 4, we will look at **subordinating conjunctions**.)  One of the most common coordinating conjunctions is καί.  Like the English *and*, it joins together two things of the same kind.  This could be a pair of nouns, like "peanut butter and jelly," or whole sentences, "I ate the sandwich and I drank the milk."
 
 When joining a pair of nouns or short phrases, Lysias (like many prose authors) likes to put a καί before each of the items. The phrase ἐν δημοκρατίᾳ means "in a democracy"; ἐν ὀλιγαρχίᾳ means "in an oligarcy". When Lysias joins them like this
 
