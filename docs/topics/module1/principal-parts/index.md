@@ -10,13 +10,13 @@ has_children: true
 
 ## Principal parts of verbs
 
-All verb forms in these many combinations of person, number, tense, mood and voice (as well as forms we will learn later, such as infinitives and participles), are formed using the verb's **principal parts**. 
+All verb forms in these many combinations of tense, voice, mood, person and number (as well as forms we will learn later, such as infinitives and participles), are formed using the verb's **principal parts**. 
 
 English verbs have a system of principal parts, too, although native speakers may not think about them that way. In English, the principal parts can include the present tense, the past tense, and the past participle: for example, play, played, played; swim, swam, swum; go, went, gone; do, did, done. 
 
 The standard number of principal parts for ancient Greek verbs is six, although for some verbs fewer principal parts, even only one or two, may exist. Some verbs may have alternative forms for one or more principal parts so that its principal parts are represented by more than six forms. 
 
-Learning the principal parts of verbs is important so that you will be able to create correct verb forms and so that you will be able to recognize verb forms in a text, both for what person, number, tense, voice, and mood they are and also what verb they come from. In a glossary or a lexicon Greek verbs are listed according to the **first principal part**, and so if you are looking a verb up you will need to be able to move from a verb form made from any principal part to its first principal part in order to find it in the lexicon.
+Learning the principal parts of verbs is important so that you will be able to create correct verb forms and so that you will be able to recognize verb forms in a text, both for what tense, voice, mood, person and number they are and also what verb they come from. In a glossary or a lexicon Greek verbs are listed according to the **first principal part**, and so if you are looking a verb up you will need to be able to move from a verb form made from any principal part to its first principal part in order to find it in the lexicon.
 
 ### Forms of prinicipal parts
 

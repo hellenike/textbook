@@ -15,7 +15,7 @@ has_children: true
 ### The second aorist
 
 
-Compose the correct Greek form for the highlighted verb in the following English phrases, and fully identify the form (person, number, tense, mood, voice).
+Compose the correct Greek form for the highlighted verb in the following English phrases, and fully identify the form (tense, voice, mood, person, number).
 
 1. She *used to throw* the dice.
 2. He *hit* Pandorus with a spear.

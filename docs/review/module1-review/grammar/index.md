@@ -12,7 +12,7 @@ nav_order: 2
 
 - verbal expression
 - finite verb
-- person, number, tense, mood, voice
+- tense, voice, mood, person, number
 - aspect
 - voice: active, passive, middle
 - moods: indicative, imperative, subjunctive, optative

@@ -14,7 +14,7 @@ The form of a finite verb in ancient Greek expresses the **subject** as well as 
 
 ### The indicative mood and narrating events in the past
 
-As already described above, finite verbs have five properties: person, number, tense, mood, and voice. 
+As already described above, finite verbs have five properties: tense, voice, moode, person, and number.
 
 The indicative is one of the four moods of the ancient Greek verb. It is the mode of verb used for narrating factual events, and for that reason is frequently seen in most texts.
 
@@ -29,7 +29,7 @@ The choice of verb tense, then, involves not only an indication that the events 
 
 The aorist indicate represents the action as "single," "simple," "distinct," the equivalent of a snapshot of the action. The tense that is the closest to this idea in English is the "simple past," the past tense formed in the active voice by adding *-ed* to the verb stem, or made by changes to the stem, with no other "helping" verbs. Examples of the "simple past" in the active voice: "He walked," "she ran," "they watched," "She taught," "they learned."
 
-To understand a verb form, you must take into account all five properties: person, number, tense, mood and voice. In the active voice, the subject performs the action. In the passive voice, the subject receives the action. The middle voice is, as the name indicates, in between active and passive, where the subject performs the action in some way for themselves.
+To understand a verb form, you must take into account all five properties: tense, voice, mood, person and number. In the active voice, the subject performs the action. In the passive voice, the subject receives the action. The middle voice is, as the name indicates, in between active and passive, where the subject performs the action in some way for themselves.
 
 The verb ἄρχω in the active voice, for example, means "to be first" and from that sense can mean "to rule".  In the passive voice, it means "to be ruled".  The middle voice means "to make yourself first" or "put yourself at the first position" of something, and therefore "to begin" something.
 
@@ -49,7 +49,7 @@ The aorist tense forms the active and middle voices from the *third* principal p
 
 
 
-As you look at the third principal part, there are two different patterns of endings. These are referred to as **first** and **second aorists**. The different endings do not have different meanings except in rare cases when both exist for the same verb. That is, both first and second aorists, both sets of endings, represent the single action in the past, and you will accordingly translate each with the English simple past. Compare the two systems of past-tense formation in English: adding "-ed" to the verb stem (which are called "regular" or "weak" verbs) or a change in the verb stem ("irregular" or "strong" verbs): "I walked" (weak) vs. "I went" (strong). "I consumed" (weak) vs. "I ate" (strong).
+As you look at the third principal part, there are two different patterns of endings. These are referred to as **first** and **second aorists**. The different endings do not have different meanings except for a small number of rare cases when both exist for the same verb. That is, both first and second aorists, both sets of endings, represent the single action in the past, and you will accordingly translate each with the English simple past. Compare the two systems of past-tense formation in English: adding "-ed" to the verb stem (which are called "regular" or "weak" verbs) or a change in the verb stem ("irregular" or "strong" verbs): "I walked" (weak) vs. "I went" (strong). "I consumed" (weak) vs. "I ate" (strong).
 
 You can recognize a verb that has a **first aorist** by a third principal ending in -α or -άμην. Verbs that have a **second aorist** have a third principal part that ends in -ον or -όμην. We will return to the second aorist forms later in this module.
 

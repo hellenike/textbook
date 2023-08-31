@@ -55,7 +55,7 @@ nav_order: 2
 
 ### Questions
 
-1. Fully identify each of the following verbs (that is, identify their person, number, tense, mood and voice), and give their first principal part.
+1. Fully identify each of the following verbs (that is, identify their tense, voice, mood, person and number), and give their first principal part.
     - εἶχεν
     - ἐγένετο
     - ἐγίγνετο
