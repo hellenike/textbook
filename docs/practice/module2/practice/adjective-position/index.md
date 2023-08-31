@@ -18,7 +18,7 @@ In Lysias 1.7, Euphiletos describes to the jury his wife at the beginning of the
 
 ὦ Ἀθηναῖοι, πασῶν ἦν βελτίστη· καὶ γὰρ οἰκονόμος δεινὴ καὶ φειδωλὸς ἀγαθὴ
 
-First, let's break it up into verbal units:
+First, let's break it up into verbal expressions:
 
 
 ὦ Ἀθηναῖοι, πασῶν ἦν βελτίστη

@@ -124,7 +124,7 @@ When used as pronouns, the demonstratives are used on their own. They receive th
 
 ### Relative pronoun
 
-The relative pronoun is used to create dependent clauses that further describe or define a noun or pronoun in a sentence. The relative pronoun in English is _who, which,_ or _that_. Relative clauses are dependent clauses, appearing with an independent clause in a sentence. The relative clause begins with a relative pronoun, which refers to a noun or pronoun in the independent clause, its _antecedent_. Because the relative clause is modifying that noun or pronoun, the form of the relative pronoun matches the antecedent in **gender** and **number**. Because the relative clause is its own verbal unit, with its own subject and verb, the **case** of the relative pronoun is determined by its use in its own clause. 
+The relative pronoun is used to create dependent clauses that further describe or define a noun or pronoun in a sentence. The relative pronoun in English is _who, which,_ or _that_. Relative clauses are dependent clauses, appearing with an independent clause in a sentence. The relative clause begins with a relative pronoun, which refers to a noun or pronoun in the independent clause, its _antecedent_. Because the relative clause is modifying that noun or pronoun, the form of the relative pronoun matches the antecedent in **gender** and **number**. Because the relative clause is its own verbal expression, with its own subject and verb, the **case** of the relative pronoun is determined by its use in its own clause. 
 
 **Declension of ὅς, ἥ, ὅ**
 | Case  |    | Singular|    |     | Plural  |     |

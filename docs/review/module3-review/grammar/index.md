@@ -15,23 +15,6 @@ nav_order: 4
 
 #### Models: participles of first aorist verbs
 
-
-Aorist passive:
-
-
-| Case, number | Masculine | Feminine | Neuter |
-| --- | --- | --- | --- |
-| **Singular** | | | |
-| Nominative singular | κελευσθείς  | κελευσθεῖσα | κελευσθέν | 
-| Genitive singular | κελευσθέντος   | κελευσθείσης    | κελευσθέντος | 
-| Dative singular | κελευσθέντι | κελευσθείσῃ  | κελευσθέντι | 
-| Accusative singular | κελευσθέντα | κελευσθεῖσαν | κελευσθέν | 
-| **Plural** | | | |
-| Nominative plural | κελευσθέντες | κελευσθεῖσαι| κελευσθέντα | 
-| Genitive plural | κελευσθέντων  | κελευσθεισῶν  | κελευσθέντων | 
-| Dative plural | κελευσθεῖσι, κελευσθεῖσιν  | κελευσθείσαις   | κελευσθεῖσι, κελευσθεῖσιν | 
-| Accusative plural | κελευσθέντας  | κελεύσασας | κελευσθείσας | 
-
 Aorist middle:
 
 | Case, number | Masculine | Feminine | Neuter |
@@ -40,7 +23,7 @@ Aorist middle:
 | Nominative singular | κελευσάμενος  | κελευσαμένη | κελευσάμενον | 
 | Genitive singular | κελευσαμένου  | κελευσαμένης   | κελευσαμένου | 
 | Dative singular | κελευσαμένῳ | κελευσαμένῃ  | κελευσαμένῳ | 
-| Accusative singular | κελευσάμενον | κελευσαμένην | κελευσάμενος | 
+| Accusative singular | κελευσάμενον | κελευσαμένην | κελευσάμενον | 
 | **Plural** | | | |
 | Nominative plural | κελευσάμενοι | κελευσάμεναι| κελευσάμενα | 
 | Genitive plural | κελευσαμένων  | κελευσαμένων  | κελευσαμένων | 
@@ -63,7 +46,7 @@ Aorist passive:
 | Nominative plural | κελευσθέντες | κελευσθεῖσαι| κελευσθέντα | 
 | Genitive plural | κελευσθέντων  | κελευσθεισῶν  | κελευσθέντων | 
 | Dative plural | κελευσθεῖσι, κελευσθεῖσιν  | κελευσθείσαις   | κελευσθεῖσι, κελευσθεῖσιν | 
-| Accusative plural | κελευσθέντας  | κελεύσασας | κελευσθείσας | 
+| Accusative plural | κελευσθέντας  | κελεύσασας | κελευσθέντα | 
 
 
 
@@ -109,7 +92,7 @@ Present middle:
 | Nominative  plural | κελευόμενοι | κελευόμεναι | κελευόμενα|
 | Genitive plural |	 κελευομένων| κελευομένων | κελευομένων |
 | Dative plural |κελευομένοις 	 | κελευομέναις |κελευομένοις  |
-| Accusative plural |	κελευομένους  | κελευομένας | κελευόμενος|
+| Accusative plural |	κελευομένους  | κελευομένας | κελευόμενα|
 
 
 
@@ -128,5 +111,5 @@ Present passive:
 | Nominative  plural | κελευόμενοι | κελευόμεναι | κελευόμενα|
 | Genitive plural |	 κελευομένων| κελευομένων | κελευομένων |
 | Dative plural |κελευομένοις 	 | κελευομέναις |κελευομένοις  |
-| Accusative plural |	κελευομένους  | κελευομένας | κελευόμενος|
+| Accusative plural |	κελευομένους  | κελευομένας | κελευόμενα|
 

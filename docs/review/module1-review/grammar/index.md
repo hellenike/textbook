@@ -10,9 +10,9 @@ nav_order: 2
 
 #### New terms in this module
 
-- verbal unit
+- verbal expression
 - finite verb
-- person, number, tense, mood, voice
+- tense, voice, mood, person, number
 - aspect
 - voice: active, passive, middle
 - moods: indicative, imperative, subjunctive, optative

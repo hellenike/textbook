@@ -11,7 +11,7 @@ nav_order: 2
 ## Reading from Lysias 1.9-1.12 (simplified)
 
 
-> Each verbal unit is placed on a separate line; indentation indicates the level of subordination.
+> Each verbal expression is placed on a separate line; indentation indicates the level of subordination.
 > The verbal expression
 > and any connecting words are **highlighted like this**.
 
@@ -55,7 +55,7 @@ nav_order: 2
 
 ### Questions
 
-1. Fully identify each of the following verbs (that is, identify their person, number, tense, mood and voice), and give their first principal part.
+1. Fully identify each of the following verbs (that is, identify their tense, voice, mood, person and number), and give their first principal part.
     - εἶχεν
     - ἐγένετο
     - ἐγίγνετο

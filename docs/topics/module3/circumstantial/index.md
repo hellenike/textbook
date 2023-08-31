@@ -40,7 +40,7 @@ You could easily extend this list, but these examples are enough to make a remar
 
 ### Syntax and meaning of circumstantial participles
 
-When participles are *not* tied directly to a noun by being placed in attributive position, they express an attendant circumstance of any kind.  Like attributive participles, they will agree with a noun or pronoun in the sentence that functions as the subject of the its verbal idea, but the meaning of the participle's verbal unit will apply to the clause's verbal action rather than more narrowly defining the noun.
+When participles are *not* tied directly to a noun by being placed in attributive position, they express an attendant circumstance of any kind.  Like attributive participles, they will agree with a noun or pronoun in the sentence that functions as the subject of the its verbal idea, but the meaning of the participle's verbal expression will apply to the clause's verbal action rather than more narrowly defining the noun.
 
 ### A short example
 
@@ -64,7 +64,7 @@ In this passage, Lysias appends a present participle:
 
 > ὤσαντες δὲ τὴν θύραν τοῦ δωματίου αὐτὸν ἔτι εἴδον  κατακείμενον παρὰ τῇ γυναικί.
 
-κατακείμενον agrees with αὐτὸν; as the adverb ἔτι, "still," shows, the force of this verbal unit is that at the moment they saw him, he was still in the bed lying next to Euphiletos' wife.  It is typical for Greek to use one or more aorist participles in sequence *before* the finite verb for the narrative action, and to follow the verb with present participles setting the scene.
+κατακείμενον agrees with αὐτὸν; as the adverb ἔτι, "still," shows, the force of this verbal expression is that at the moment they saw him, he was still in the bed lying next to Euphiletos' wife.  It is typical for Greek to use one or more aorist participles in sequence *before* the finite verb for the narrative action, and to follow the verb with present participles setting the scene.
 
 >> ὤσαντες δὲ τὴν θύραν τοῦ δωματίου 
 >

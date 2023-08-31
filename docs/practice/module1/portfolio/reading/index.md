@@ -9,7 +9,7 @@ nav_order: 2
 ### Module 1 reading: Lysias 1.7-1.8 (simplified)
 
 
-> Each verbal unit is placed on a separate line. The verbal expression
+> Each verbal expression is placed on a separate line. The verbal expression
 > and any connecting words are **highlighted like this**.
 
 
@@ -34,7 +34,7 @@ nav_order: 2
 
 #### Questions
 
-1. Fully identify each of the following verbs (that is, identify their person, number, tense, mood and voice), and give their first principal part.
+1. Fully identify each of the following verbs (that is, identify their tense, voice, mood, person and number), and give their first principal part.
     - ἔδοξε
     - ἠγάγετο
     - ἐγένετο
