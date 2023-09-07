@@ -85,7 +85,7 @@ In the the same way, the sixth principal parts can be used to form aorist passiv
 
 > ἐδείχθην -> ἐδειχθ-
 >
-> ἐκελεύθην -> ἐκελευθ-
+> ἐκελεύσθην -> ἐκελευσθ-
 
 
 - (2) Add the appropriate ending for the person and number:
@@ -110,8 +110,8 @@ In the the same way, the sixth principal parts can be used to form aorist passiv
 
 | | Active | Middle | Passive |
 | --- | --- | --- | --- |
-| third singular |  ἐκέλευσε or ἐκέλευσεν | ἐκελεύσατο | ἐκελεύθη |
-| third plural | ἐκέλευσαν | ἐκελεύσαντο | ἐκελεύθησαν  |
+| third singular |  ἐκέλευσε or ἐκέλευσεν | ἐκελεύσατο | ἐκελεύσθη |
+| third plural | ἐκέλευσαν | ἐκελεύσαντο | ἐκελεύσθησαν  |
 
 
 
