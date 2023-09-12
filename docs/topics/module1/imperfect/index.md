@@ -75,7 +75,7 @@ As with -ω/thematic verbs, for the imperfect indicative of -μι/athematic verb
 | Person and Number | Active ending | Middle ending | Passive ending |
 | --- | --- | --- |
 | third singular |  — | -το | -το |
-| third plural | -ν | -ντο | -ντο |
+| third plural | -σαν | -ντο | -ντο |
 
 
 - (3) Apply recessive accent.  
@@ -85,7 +85,7 @@ Example of δείκνυμι "show, demonstrate" (note that the upsilon is a lon
 | Person and Number | Imperfect Active  | Imperfect Middle  | Imperfect Passive  |
 | --- | --- | --- | --- |
 | third singular |  ἐδείκνυ  | ἐδείκνυτο  | ἐδείκνυτο |
-| third plural | ἐδείκνυν  | ἐδείκνυντο  | ἐδείκνυντο |
+| third plural | ἐδείκνυσαν  | ἐδείκνυντο  | ἐδείκνυντο |
 
 To repeat, the meaning and usage of these forms is the same. The range of meaning for the active forms could include "she/he/it was showing" or "he/she/it used to show" (3rd singular) or "they were showing" (3rd plural), etc.
 
