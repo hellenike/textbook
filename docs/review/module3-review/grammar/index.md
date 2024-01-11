@@ -15,6 +15,23 @@ nav_order: 4
 
 #### Models: participles of first aorist verbs
 
+
+Aorist active:
+
+| Case, number | Masculine | Feminine | Neuter |
+| --- | --- | --- | --- |
+| **Singular** | | | |
+| Nominative singular | κελεύσας | κελεύσασα | κέλευσαν |
+| Genitive singular | κελεύσαντος | κελευσάσης | κελεύσαντος |
+| Dative singular | κελεύσαντι | κελευσάσῃ | κελεύσαντι |
+| Accusative singular | κελεύσαντα |κελεύσασαν| κέλευσαν|
+| **Plural** | | | |
+| Nominative plural | κελεύσαντες  | κελεύσασαι | κελεύσαντα  |
+| Genitive plural | κελευσάντων | κελευσάσων | κελευσάντων |
+| Dative plural | κελεύσασι | κελευσάσαις | κελεύσασι |
+| Accusative plural | κελεύσαντας | κελεύσασας | κελεύσαντα |
+
+
 Aorist middle:
 
 | Case, number | Masculine | Feminine | Neuter |
