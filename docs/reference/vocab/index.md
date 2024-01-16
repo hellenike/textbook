@@ -7,7 +7,7 @@ has_children: true
 ---
 
 
-# Complete vocabulary list for Lysias 1
+## Complete vocabulary list for Lysias 1
 
 The English translations in this list are taken from the valuable available from Haverford College's  project [The Bridge](https://bridge.haverford.edu).
 

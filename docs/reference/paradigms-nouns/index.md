@@ -6,4 +6,4 @@ nav_order: 6
 has_children: true
 ---
 
-# Complete paradigms of important nouns
+## Complete paradigms of important nouns

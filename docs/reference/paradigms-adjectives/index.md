@@ -6,4 +6,4 @@ nav_order: 7
 has_children: true
 ---
 
-# Complete paradigms of important adjectives
+## Complete paradigms of important adjectives

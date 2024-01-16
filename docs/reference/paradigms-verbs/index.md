@@ -6,4 +6,4 @@ nav_order: 5
 has_children: true
 ---
 
-# Complete paradigms of important verbs
+## Complete paradigms of important verbs
