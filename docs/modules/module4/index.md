@@ -1,29 +1,25 @@
 ---
 layout: page
-title: "Module 4: subordinate clauses"
-nav_order: 6
+title: "Module 4: indirect speech"
+nav_order: 7
 has_children: true
 ---
 
 
-# Module 4:  subordinate clauses
+# Module 4:  indirect speech
 
 
 ## Overview of module 4
 
 ### Language
 
-Module 4 introduces
-- several types of dependent clauses, some using the indicative mood and some using the optative in secondary sequence
-- morphology of the optative mood, all three voices in the present and aorist tenses for the third singular and third plural persons
-- the optative in subordinate clauses after past tense verbs 
-- third-person pronouns, relative pronouns, interrogative and indefinite pronouns
-
-### Making Connections 
-
-- TBA
+Main areas of focus are:
+- morphology of 3rd declension nouns and adjectives, and some other common irregular adjectives
+- forms of common athematic, irregular verbs: εἰμί, εἶμι, and φημί 
+- forms and uses of infinitives
+- the three syntactical structures of indirect speech: subordinate clauses, accustaive + infinitive, and supplementary participle
+ 
 
 ### Practice, Reading, and Composition
 
-- TBA
-
+Reading selection based on Lysias 1.19–20.

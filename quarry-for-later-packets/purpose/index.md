@@ -2,7 +2,7 @@
 layout: page
 title: "Purpose clauses"
 parent: "Subordinate clauses"
-grand_parent: "Module 4: subordinate clauses"
+grand_parent: "Module 5: subordinate clauses"
 nav_order: 8
 has_children: true
 ---
