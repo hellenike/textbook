@@ -8,7 +8,7 @@ nav_order: 2
 
 
 
-## Reading from Lysias 1.9-1.12 (simplified)
+### Reading from Lysias 1.9-1.12 (simplified)
 
 
 > Each verbal expression is placed on a separate line; indentation indicates the level of subordination.

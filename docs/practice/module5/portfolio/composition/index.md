@@ -6,7 +6,7 @@ grand_parent: "Practice"
 nav_order: 20
 ---
 
-## Module 5 Composition assignment
+### Module 5 Composition assignment
 
 Compose a paragraph of five connected sentences that conveys the narrative of Euphiletos hearing about his wife’s affair, asking the enslaved woman about it, and the enslaved woman’s confession about what had happened.
 

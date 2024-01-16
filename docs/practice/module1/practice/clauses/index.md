@@ -10,7 +10,7 @@ has_children: true
 *This practice is for use with section 4.9, "Clauses and coordination"*
 
 
-## Identifying clauses
+### Identifying clauses
 
 
 Every time you have a finite verb form, you have a clause!  *Conjunctions* and *particles* will help you recognize clause boundaries, and understand how they are connected logically.

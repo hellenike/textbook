@@ -54,12 +54,3 @@ This text is work in progress built from the openly licensed markdown source in 
 
 
 You can also [download a PDF of this version (https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf)](https://github.com/hellenike/textbook/raw/main/pdf/hellenike.pdf).
-
-### Subsequent releases
-
-Over the course of the 2022-2023 academic year, we plan to release the complete *Hellênikê/ἑλληνική* textbook in four packets, as follows:
-
-- **packet 1** (including modules 1 and 2) in August 2022.
--  **packet 2** (including modules 3 and 4) in October 2022.
-- **packet 3** (with roughy the first half of the spring semester's materials) in January 2023.
-- **packet 4** (complete first-year textbook) in March 2023.
