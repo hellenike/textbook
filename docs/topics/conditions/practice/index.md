@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "Module 6, conditions: reading"
-parent: "Module 6 portfolio"
-grand_parent: "Practice"
-nav_order: 5
+title: "Practice with conditions"
+grand_parent: "Beyond Lysias 1"
+parent: "Conditions"
+nav_order: 16
 ---
 
-## Module 6, conditions: reading
+
+
+## Practice with conditions: reading
 
 The following passage is a lightly modified selection from sections 43-48 of Lysias 1.  This passage is presenting Euphiletos' closing arguments to the jury.
 

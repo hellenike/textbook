@@ -6,4 +6,4 @@ nav_order: 4
 has_children: true
 ---
 
-# Most frequent vocabulary in Lysias 1
+## Most frequent vocabulary in Lysias 1
