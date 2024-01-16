@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Reference"
+title: "Reference to Lysias 1"
 nav_order: 18
 has_children: true
 ---
 
-# Reference
+# Reference to Lysias 1

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Simple conditions: present and past time"
-grand_parent: "Module 6: conditions"
+grand_parent: "Beyond Lysias 1"
 parent: "Conditions"
 nav_order: 1
 ---

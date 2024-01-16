@@ -2,7 +2,7 @@
 layout: page
 title: "Approaching a passage at sight"
 parent: "Reading Greek"
-grand_parent: "Module 8: reading Greek"
+grand_parent: "Module 6: reading Greek"
 nav_order: 1
 has_children: true
 ---
