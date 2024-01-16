@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Translation of Lysias 1 by Caroline Falkner"
-parent: "Reference"
+parent: "Reference to Lysias 1"
 nav_order: 100
 has_children: true
 ---

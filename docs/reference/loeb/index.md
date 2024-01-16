@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Translation  of Lysias 1 by W.R.M. Lamb"
-parent: "Reference"
+parent: "Reference to Lysias 1"
 nav_order: 101
 has_children: true
 ---
