@@ -13,7 +13,7 @@ So far, we have worked with the following principal parts of the Greek verb:
 
 | First | Third | Sixth | 
 | --- | --- | --- |
-| imperfect, all voices | aorist active and middle | aorist passive |
+| present and imperfect, all voices | aorist active and middle | aorist passive |
 
 We will now add the *perfect* system.  It uses the fourth principal part for the active voice, and the fifth principal part for the middle and passive voices.
 
