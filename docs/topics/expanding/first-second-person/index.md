@@ -9,7 +9,7 @@ nav_order: 2
 
 Here we provide the personal endings and describe the formation of the first and second persons, singular and plural, for the tenses (aorist and imperfect) of the indicative mood that we encountered earlier in Module 1. We show the third persons, singular and plural, in the charts, so that you can see how the personal endings relate to one another. Now you will be able to form verbs whose subjects are first person singular ("I"), second person singular ("you"), first person plural ("we"), and second person plural ("you all").
 
-###Aorist active, middle, and passive voice
+### Aorist active, middle, and passive voice
 
 For the aorist active and middle indicative, you take the third principal part, drop the final -α, and add the personal endings in the chart below. For the aorist passive, you take the sixth principal part, drop the final -ην, and add the personal endings in the far-right column below.
 
@@ -33,7 +33,7 @@ Example:
 | Second plural | ἐκελεύσατε | ἐκελεύσασθε | ἐκελεύσθητε |
 | Third plural | ἐκέλευσαν | ἐκελεύσαντο | ἐκελεύσθησαν |
 
-###Second aorist active and middle indicative
+### Second aorist active and middle indicative
 
 The category of "second aorist" is only relevant to the aorist active and middle forms of the verb; it can be identified when the third principal part ends in -ον. (The passive voice is formed off of the sixth principal part, so there are no changes for the passive.) 
 
@@ -57,7 +57,7 @@ Example from λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴ
 | Second plural | ἐλάβετε | ἐλάβεσθε |
 | Third plural | ἔλαβον| ἐλάβοντο |
 
-###Aorist active and middle indicative of δίδωμι
+### Aorist active and middle indicative of δίδωμι
 
 The aorist active and middle forms of the verb δίδωμι are irregular and require special attention, as some of the forms are built on an alternative stem δο-:
 
@@ -70,7 +70,7 @@ The aorist active and middle forms of the verb δίδωμι are irregular and re
 | Second plural | ἔδοτε | ἔδοσθε |
 | Third plural | ἔδοσαν| ἔδοντο |
 
-###Imperfect active, middle/passive indicative
+### Imperfect active, middle/passive indicative
 
 Here we fill out the remaining persons and numbers of the imperfect indicative, active, middle, and passive voices.  As you learned in Module 1, you will use the stem from the first principal part (obtained by removing the final -ω), adding the past indicative augment to the front of the stem or lengthening an initial vowel, then adding the following endings. You will observe that the second aorist active and middle personal endings are shared with the thematic imperfect indicative active, and middle/passive.
 
@@ -94,7 +94,7 @@ Example from κελεύω:
 | Second plural | ἐκελεύετε | ἐκελεύεσθε |
 | Third plural | ἐκέλευον | ἐκελεύοντο |
 
-###Imperfect active, middle/passive indicative of athematic verbs δείκνυμι and δίδωμι
+### Imperfect active, middle/passive indicative of athematic verbs δείκνυμι and δίδωμι
 
 For the athematic verbs δείκνυμι and δίδωμι, the full paradigms are provided below. The personal endings will still be familiar to you from the imperfect endings for thematic verbs above. 
 
