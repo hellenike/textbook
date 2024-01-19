@@ -44,4 +44,5 @@ has_children: true
 ### Participles
 
 
-- Complete declension of all [participles of κελεύω](participles)
+- Complete declension of all participles or a [regular verb, κελεύω](participles), κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευμαι, ἐκελεύσθην. 
+- Complete declension of aorist participles of a [second aorist verb, λαμβάνω](aor2participles), λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην
