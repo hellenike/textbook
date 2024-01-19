@@ -41,3 +41,7 @@ has_children: true
 - οἶδα
 
 
+### Participles
+
+
+- Complete declension of all [participles of κελεύω](participles)
