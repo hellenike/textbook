@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Indirect statement with participles"
-parent: "Indirect statement"
-grand_parent: "Module 4: indirect statement"
+parent: "Indirect speech"
+grand_parent: "Module 4: indirect speech"
 nav_order: 16
 ---
 

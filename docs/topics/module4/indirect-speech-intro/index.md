@@ -1,12 +1,15 @@
 ---
 layout: page
-title: "Indirect statement: introduction"
-parent: "Indirect statement"
-grand_parent: "Module 4: indirect statement"
+title: "Indirect speech: introduction"
+parent: "Indirect speech"
+grand_parent: "Module 4: indirect speech"
 nav_order: 1
 ---
 
-## Indirect statement: introduction
+## Indirect speech: introduction
+
+
+
 
 
 
@@ -26,6 +29,10 @@ Now add:
 
 - ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, — , ἠκούσθην  hear, listen to
 - νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην  think, believe
+
+
+
+
 
 ### 1. Indirect Speech as Subordinate Clause 
 

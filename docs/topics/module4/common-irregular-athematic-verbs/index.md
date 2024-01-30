@@ -2,8 +2,8 @@
 layout: page
 title: "Common Irregular Athematic Verbs"
 parent: "Indirect speech"
-grand_parent: "Module 4: indirect statement"
-nav_order: 10
+grand_parent: "Module 4: indirect speech"
+nav_order: 40
 ---
 
 ## The common irregular athematic verb εἰμί, εἶμι, φημί 
