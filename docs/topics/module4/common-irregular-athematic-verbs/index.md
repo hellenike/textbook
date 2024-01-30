@@ -2,7 +2,7 @@
 layout: page
 title: "Common Irregular Athematic Verbs"
 parent: "Indirect speech"
-grand_parent: "Module 4: indirect speech"
+grand_parent: "Module 4: indirect statement"
 nav_order: 10
 ---
 

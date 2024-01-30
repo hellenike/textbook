@@ -1,12 +1,17 @@
 ---
 layout: page
-title: "Infinitives in ancient Greek"
-parent: "Indirect speech"
-grand_parent: "Module 4: indirect speech"
+title: "Indirect statement with the infinitive"
+parent: "Indirect statement"
+grand_parent: "Module 4: indirect statement"
 nav_order: 15
 ---
 
-## Infinitives in ancient Greek
+
+
+
+
+## Indirect statement with the infinitive
+
 Infinitives are a verbal form which do not limit person and number as finite verb forms do. They also do not have mood as finite verb forms do. Like other verbal forms, infinitives are formed using a verb’s principal parts.
 
 Infinitives have **tense** and **voice**. 

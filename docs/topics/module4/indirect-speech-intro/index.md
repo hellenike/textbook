@@ -1,17 +1,21 @@
 ---
 layout: page
-title: "Indirect speech syntax"
-parent: "Indirect speech"
-grand_parent: "Module 4: indirect speech"
-nav_order: 20
+title: "Indirect statement: introduction"
+parent: "Indirect statement"
+grand_parent: "Module 4: indirect statement"
+nav_order: 1
 ---
 
-## Three Structures of Indirect Speech
+## Indirect statement: introduction
+
+
 
 As we have already seen in Module 4, indirect speech (also called ‘indirect statement’ or ‘indirect discourse’) is way of representing some kind of verbal activity—speaking, asking, thinking, hearing, any representation of words in speech or thought. We began learning the construction of indirect speech in ancient Greek as a subordinate clause introduced by ὅτι or ὡς, which is similar to the English use of a subordinate clause introduced by that. We will now review that construction and add two other ways ancient Greek constructs indirect speech: by using an infinitive or by using a participle. Which construction is used depends on the type of verb introducing the indirect speech and on idiom, which also means that native speakers/writers may change these up. Some verbs may take two or even all three of these constructions, so the rules of which verbs introduce which construction are not hard and fast.
 
 ### Verbs that introduce indirect speech
+
 Some verbs that introduce indirect speech that we have been working with:
+
 - δείκνυμι, δείξω, ἔδειξα δέδειχα, δέδειγμαι, ἐδείχθην show, demonstrate
 - ἡγέομαι, ἡγήσομαι, ἡγησάμην, —, ἥγημαι, ἡγήθην  think, consider, believe
 - λέγω, λέξω, ἔλεξα or εἶπον, εἴρηκα, λέλεγμαι, ἐλέχθην  say, speak, tell
@@ -19,15 +23,18 @@ Some verbs that introduce indirect speech that we have been working with:
 - φημί, φήσω, ἔφησα, —, —, —  say, assert, affirm
 
 Now add:
+
 - ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, — , ἠκούσθην  hear, listen to
 - νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην  think, believe
 
 ### 1. Indirect Speech as Subordinate Clause 
+
 Verbs of saying, such as λέγω, are generally followed by a clause introduced by ὅτι or ὡς (“that”) with a finite verb. εἶπον and λέγω in the active use this construction, while λέγω is the passive (e.g., “it was said”) may take construction #2 below, with an infinitive. The verb ἀκούω may take this construction or #3 below, with a participle.
  
 In the subordinate clause introduced by ὅτι or ὡς, the same tense and mood of the direct statement is retained. This makes it easy to know what tense the verb in the original statement was! English makes the tense of the verb in the indirect statement relative to the tense of the verb of speaking, so, for example, a past tense verb in the original statement in English is shifted to further in the past when the verb of speaking is put in the past.
 
 #### Examples
+
 - αὕτη λέγει ὅτι ὁ Ἐρατοσθένης ταῦτα ἔπραττεν. 
 ‘This woman says that Eratosthenes was doing these things.’
 
@@ -41,6 +48,8 @@ If the verb of speaking is in a secondary tense (imperfect, aorist, pluperfect),
 
 
 ### 2. Indirect Speech using an Infinitive, with subject accusative
+
+
 The verb of saying φημί and also verbs of thinking or believing, such as νομίζω and ἡγέομαι, often represent the original direct statement as a subject accusative plus an infinitive of the same tense as the original verb in the direct speech. In this type of indirect speech, the tense of the infinitive shows time as well as aspect. If the original verb was in the imperfect, the present infinitive can be used to replace it in indirect statement.
  
 #### Examples
@@ -59,11 +68,14 @@ If a predicate adjective is used in the indirect statement, it is nominative:
 
 
 ### 3. Indirect Speech using a Participle (a type of supplementary participle)
+
+
 Verbs of sense perception (such as seeing and hearing), knowing, and showing often take a supplementary participle to express indirect speech. This category includes verbs such as δείκνυμι, ὁράω, and ἀκούω. The tense of the participle retains the tense of the original statement, with the present participle used for an original imperfect verb.
 
 If the subject of the indirect speech is different from the subject of the introductory verb, then it is expressed usually as a subject accusative with which the participle agrees in gender, case, and number. If the subject of the indirect speech is the same as the subject of the introductory verb, the participle is in the nominative and the subject is not generally repeated.
 
 #### Examples
+
 - ἐδείκνυ Ἐρατοσθένη ταῦτα πράττοντα.
 ‘He was showing that Eratosthenes was doing these things.’
 

@@ -1,14 +1,12 @@
 ---
 layout: page
-parent: "Module 4: indirect speech"
-title: "Indirect speech"
+title: "Indirect statement"
+parent: "Module 4: indirect statement"
 nav_order: 1
 has_children: true
 ---
 
-## Indirect speech
+## Indirect statement
 
 
-- the infinitive
-- indirect speech with infinitive
-- indirect speech with participle
+This unit focuses on a verbal expressions that report **indirect speech**. 
