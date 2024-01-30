@@ -38,14 +38,3 @@ Examples:
 Notice that although the infinitive is used as a substantive whose function is the subject of the clause, it still has “verbal” properties such as taking its own object. Notice that that object goes into attributive position.
 - τὸ ταῦτα μὴ πράττειν κάκιον ἦν ‘Not doing these things was worse’ or ‘To not do these things was worse.’
 - πρὸς τῷ ταῦτα πράττειν, ἄλλα ἔπραττεν. ‘In addition to doing these things, he was doing other things.’
-
-
-
-Infinitives are a verbal form which do not limit person and number as finite verb forms do. They also do not have mood as finite verb forms do. Like other verbal forms, infinitives are formed using a verb’s principal parts.
-
-Infinitives have **tense** and **voice**. 
-- **Tense**: In ancient Greek the tenses for the infinitive include the present, the future, the aorist, and the perfect. We will learn the present and aorist tenses in this module. In some uses, tense represents aspect rather than time: the present represents an ongoing, continuous, or repeated aspect, and the aorist, the single or simple aspect. In other uses, tense does indicate something about the time of the action. As you learn different uses, learn these distinctions.
-
-- **Voice**: there are infinitives forms for all three voices: active, middle, and passive.
-
-To fully identify an infinitive, identify its tense, voice, that it is an infinitive, and what verb it comes from. For example, ποιεῖν (appears in Lysias 1.6 and Lysias 1.33) would be identified as: present active infinitive from ποιέω.
