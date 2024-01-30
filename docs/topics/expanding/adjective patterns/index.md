@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "Adjective declensions"
-parent: "Indirect speech"
-grand_parent: "Module 4: indirect speech"
+parent: "Expanding on modules 1-3"
 nav_order: 5
 ---
 

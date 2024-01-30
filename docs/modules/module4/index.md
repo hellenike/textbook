@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Module 4: indirect speech"
+title: "Module 4: indirect discourse"
 nav_order: 7
 has_children: true
 ---
@@ -13,11 +13,10 @@ has_children: true
 
 ### Language
 
-Main areas of focus are:
-- morphology of 3rd declension nouns and adjectives, and some other common irregular adjectives
-- forms of common athematic, irregular verbs: εἰμί, εἶμι, and φημί 
-- forms and uses of infinitives
-- the three syntactical structures of indirect speech: subordinate clauses, accustaive + infinitive, and supplementary participle
+Module 4 introduces these features of Greek:
+
+- **indirect discourse** refers to speech that reports what another speaker says
+
  
 
 ### Practice, Reading, and Composition
