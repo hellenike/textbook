@@ -1,20 +1,19 @@
 ---
 layout: page
-title: "Indirect statement with the infinitive"
+title: "Formation of the infinitive"
 parent: "Indirect statement"
 grand_parent: "Module 4: indirect statement"
-nav_order: 15
+nav_order: 16
 ---
 
 
+## Formation of the infinitive
 
-
-
-## Indirect statement with the infinitive
 
 Infinitives are a verbal form which do not limit person and number as finite verb forms do. They also do not have mood as finite verb forms do. Like other verbal forms, infinitives are formed using a verb’s principal parts.
 
 Infinitives have **tense** and **voice**. 
+
 - **Tense**: In ancient Greek the tenses for the infinitive include the present, the future, the aorist, and the perfect. We will learn the present and aorist tenses in this module. In some uses, tense represents aspect rather than time: the present represents an ongoing, continuous, or repeated aspect, and the aorist, the single or simple aspect. In other uses, tense does indicate something about the time of the action. As you learn different uses, learn these distinctions.
 
 - **Voice**: there are infinitives forms for all three voices: active, middle, and passive.
