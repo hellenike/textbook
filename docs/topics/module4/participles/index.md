@@ -3,7 +3,7 @@ layout: page
 title: "Indirect statement with participles"
 parent: "Indirect speech"
 grand_parent: "Module 4: indirect speech"
-nav_order: 16
+nav_order: 20
 ---
 
 ## Indirect statement with participles
