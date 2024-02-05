@@ -7,6 +7,11 @@ nav_order: 2
 
 ## The first and second persons
 
+Up until now, we have been reading texts entirely in the third person (“he”, “she”, “they”, “it”). A significant part of Lysias 1 is narrated in the first person (“I”, “we”) as Euphiletos tells the jury about his personal experience, and at several points he directly speaks to the jury members in the second person (“you”). In addition, the narrative section includes quoted conversations where people speak to each other in the first and second person.
+
+To form the first and second person forms, you follow exactly the same process as you do for third-person forms: you will use the same principal parts, and apply augment to the imperfect and aorist indicative exactly as you have done before, but you will use the appropriate ending for the first and second person-number combinations.
+
+
 Here we provide the personal endings and describe the formation of the first and second persons, singular and plural, for the tenses (aorist and imperfect) of the indicative mood that we encountered earlier in Module 1. We show the third persons, singular and plural, in the charts, so that you can observe patterns across the personal endings. Now you will be able to form verbs whose subjects are first person singular ("I"), second person singular ("you"), first person plural ("we"), and second person plural ("you all").
 
 ### Aorist active, middle, and passive indicative
