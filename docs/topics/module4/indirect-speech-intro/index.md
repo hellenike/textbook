@@ -17,18 +17,38 @@ As we have already seen in Module 4, indirect speech (also called ‘indirect st
 
 ### Verbs that introduce indirect speech
 
-Some verbs that introduce indirect speech that we have been working with:
+Some important verbs introducing indirect speech that we have been working with:
 
+- ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, — , ἠκούσθην  hear, listen to
 - δείκνυμι, δείξω, ἔδειξα δέδειχα, δέδειγμαι, ἐδείχθην show, demonstrate
 - ἡγέομαι, ἡγήσομαι, ἡγησάμην, —, ἥγημαι, ἡγήθην  think, consider, believe
 - λέγω, λέξω, ἔλεξα or εἶπον, εἴρηκα, λέλεγμαι, ἐλέχθην  say, speak, tell
+- νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην  think, believe
 - ὁράω, ὄψομαι, εἶδον, ἑώρακα or ἑόρακα, ἑώραμαι or ὦμμαι, ὤφθην  see, look, understand
 - φημί, φήσω, ἔφησα, —, —, —  say, assert, affirm
 
-Now add:
 
-- ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, — , ἠκούσθην  hear, listen to
-- νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην  think, believe
+φημί has only active voice forms. In the present indicative, its slightly irregular forms are enclitic:
 
 
 
+
+Present:
+
+| Person | Singular | Plural |
+| --- | --- | --- |
+| first | φημί |  φαμέν |
+| second |φῇς |  φατέ |
+| third |φησί, φησίν | φασί, φασίν |
+
+
+The imperfect also has some minor irregularities:
+
+
+Imperfect:
+
+| Person | Singular | Plural |
+| --- | --- | --- |
+| first |ἔφην | ἔφαμεν |
+| second |ἔφης, ἔφησθα | ἔφατε |
+| third |ἔφη | ἔφασαν |

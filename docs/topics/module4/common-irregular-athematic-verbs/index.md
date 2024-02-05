@@ -8,7 +8,7 @@ nav_order: 40
 
 ## The common irregular athematic verb εἰμί, εἶμι, φημί 
 
-You have already been introduced in Module 1 to the verb εἰμί “be, exist” and its 3rd person imperfect indicative, ἦν ‘she/he/it was’. We now add to that with other forms as well as learn forms of two other common and irregular athematic verbs, εἶμι “will go” and φημί “speak, say” 
+You have already been introduced in Module 1 to the verb εἰμί “be, exist” and its third person imperfect indicative, ἦν ‘she/he/it was’. We now add to that with other forms as well as learn forms of two other common and irregular athematic verbs, εἶμι “will go” and φημί "speak, say" 
 
 ### Principal parts and English equivalents:
 
@@ -16,7 +16,9 @@ You have already been introduced in Module 1 to the verb εἰμί “be, exist
 
 εἶμι, —, —, —, —, —  *(will) go, come*
 
-φημί, φήσω, ἔφησα, —, —, — *say, assert, affirm* Note: enclitic in the present indicative, active voice only in all tenses/moods
+
+
+
 
 ### Forms to learn now
 
