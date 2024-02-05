@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Sequence of moods"
-parent: "Subordinate clauses"
-grand_parent: "Module 5: subordinate clauses"
-nav_order: 25
-has_children: true
+title: "Sequence of Moods"
+parent: "Indirect speech"
+grand_parent: "Module 4: indirect speech"
+nav_order: 26
 ---
+
 
 ## Sequence of Moods: Overview
 
