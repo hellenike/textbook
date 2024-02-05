@@ -8,7 +8,6 @@ nav_order: 11
 
 ## Complete declension: aorist participles of λαμβάνω
 
-
 ## Aorist tense
 
 **Active voice**
@@ -23,7 +22,7 @@ nav_order: 11
 | *plural* |  |  |  |
 | nominative | λαβόντες | λαβοῦσαι | λαβόντα |
 | genitive | λαβόντων | λαβούσων | λαβόντων |
-| dative | λαβόντοις | λαβούσαις | λαβόντοις |
+| dative | λαβοῦσι | λαβούσαις | λαβοῦσι |
 | accusative | λαβόντας | λαβούσας | λαβόντα |
 
 **Middle voice**
