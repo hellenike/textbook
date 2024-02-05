@@ -9,7 +9,9 @@ nav_order: 5
 
 ### Third Declension Adjectives in -ής, -ές 
 
-The adjectives ἀληθής, ἀληθές (‘true’) and ψευδής, ψευδές (‘false’) follow a common third declension adjective pattern to learn, where the epsilon at the end of the stem contracts with the vowels of the case ending. These belong to the “consonant” declension because the noun stem used to end with a sigma, which in the historical development of Greek, drops out between vowels (“loss of intervocalic sigma”). The first form is both masculine and feminine singular, the second is the neuter singular.
+The adjectives ἀληθής, ἀληθές (‘true’) and ψευδής, ψευδές (‘false’) illustrate a common variation on third-declension adjective patterns. For both of these adjectives, the stem ends in an epsilon, which contracts with the ending when the ending begins with a vowel. (Historically, the adjective stem ended with a sigma, but this dropped out between vowels.) Again, if you recall patterns you have seen in epsilon contract verbs, you'll recognize the regular pattern beneath these surface forms: the genitive forms come frοm ἀληθε- plus the regular endings -ος (singular) and -ων (plural); the dative contracts from ἀληθε- plus the regular ending -ι, and the dative singular starts with the consonant -σι, so the epsilon of the stem is unaffected.  Accusative forms also come from regular endings. In the accusative singular of masculine and feminine forms, the regular ending -α contracts with epsilon to produce -η, while the plural ending -ες  contracts with epsilon and yields -εις (just like contract verbs).
+
+Note that adjectives like ἀληθής, ἀληθές have only two sets of endings: one for both masculine and feminine forms, the other for neuter forms.
 
 #### Learn the declension of ἀληθής, ἀληθές:
 
