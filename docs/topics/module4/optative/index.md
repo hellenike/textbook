@@ -19,8 +19,6 @@ Both the subjunctive and optative refer to potential or possible action in a var
 
 The strange-sounding term "optative" is a translation of the Greek grammatical term ἡ εὐκτικὴ ἔγκλισις, literally, "the form expressing a wish." While expressing a wish is one function of the optative when it is used as the main verb of a sentence, it appears much more frequently in subordinate clauses after a verb in a secondary tense. (For more information about independent uses of the optative, please refer to the section "Beyond Lysias 1.") 
 
-To express 
-
 
 
 

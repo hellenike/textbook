@@ -41,8 +41,20 @@ As we will see further in the following module, many kinds of subordinate clause
 
 In subordinate clauses introduced by ὅτι or ὡς to express indirect statement, when the main verb is in secondary sequence, the verb of the subordinate clause is often changed from the indicative to the optative, keeping the same tense. (Remember that the imperfect tense exists only in the indicative mood: there are no other moods, no participles, no infinitives of the imperfect. When the optative mood replaces an imperfect form, the present optative is used to express the idea of continued, repated or otherwise incomplete action.)
 
-Consider the following example. The verb πράττοι is in the present tense of the optative:
+The choice to use an optative rather than an indicative probably places more emphasis on the remoteness of the past event: it marks the reported statement as less vivid than an indicative.
+
+Consider the following examples.  We might translate the following indirect statement using πράττει in the present indicative like this:
+
+
+> αὕτη εἶπεν ὅτι ὁ Ἐρατοσθένης ταῦτα πράττει.
+> 
+> ‘This woman said that Eratosthenes was doing these things.’
+
+
+If we replace πράττει with the present optative form πράττοι, we might arrive at the same translation in English:
 
 > αὕτη εἶπεν ὅτι ὁ Ἐρατοσθένης ταῦτα πράττοι.
 > 
 > ‘This woman said that Eratosthenes was doing these things.’
+
+In Greek, however, the second example distances the speaker just a little bit from the claim of the indirect statement. The claim that Eratosthenes was doing these things is not characterized as simply factual, but the result of a second-hand report -- and perhaps therefore subject to question?
