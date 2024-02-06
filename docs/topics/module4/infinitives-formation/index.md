@@ -107,7 +107,7 @@ That rule give us τιμᾶν for the present active infinitive,  τιμᾶσθ�
 
 
 
-#### Irregular verbs
+### Irregular verbs
 
 Learn the present active infinitives of these three extremely common irregular verbs:
 
