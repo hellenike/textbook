@@ -28,6 +28,10 @@ In the subordinate clause introduced by ὅτι or ὡς, the same tense and moo
 
 Recall that we use the term *secondary tense*  to refer to a group of tenses referring to past time (including the imperfect and aorist tenses). This is in contrast to *primary tenses* that express action in the present or future.
 
+When the main verb is in a primary tense, we say that any subordinate clause depending on it is in *primary sequence*; when the main verb is a secondary tense, we say that any of its subordinate clauses are in *secondary sequence*. 
+
+
+As we will see further in the following module, many kinds of subordinate clauses in secondary sequence can use the *optative mood*; subordinate in primary sequence often use the *subjunctive mood*.
 
 
 | Sequence | Tense of the main verb | Mood of the verb in subordinate clause |
@@ -35,12 +39,9 @@ Recall that we use the term *secondary tense*  to refer to a group of tenses ref
 | Primary | Present, Future, or Perfect | Subjunctive |
 | Secondary | Imperfect, Aorist, or Pluperfect | Optative |
 
+In subordinate clauses introduced by ὅτι or ὡς to express indirect statement, when the main verb is in secondary sequence, the verb of the subordinate clause is often changed from the indicative to the optative, keeping the same tense. (Remember that the imperfect tense exists only in the indicative mood: there are no other moods, no participles, no infinitives of the imperfect. When the optative mood replaces an imperfect form, the present optative is used to express the idea of continued, repated or otherwise incomplete action.)
 
-When the main verb is in a primary tense, we say that any subordinate clause depending on it is in *primary sequence*; when the main verb is a secondary tense, we say that any of its subordinate clauses are in *secondary sequence*. 
-
-As we will see in the following module, many kinds of subordinate clauses in secondary sequence can use the *optative mood*, a mood we have not previously encountered. When a subordinate clause expressing indirect statement after ὅτι or ὡς is in secondary, the verb of the subordinate clause is often changed from the indicative to the optative, keeping the same tense. Remember that the imperfect tense exists only in the indicative mood: there are no other moods, no participles, no infinitives of the imperfect. When the optative mood replaces an imperfect form, the present optative is used to express the idea of continued, repated or otherwise incomplete action.
-
-In the following sentence, πράττοι is in the present tense of the optative:
+Consider the following example. The verb πράττοι is in the present tense of the optative:
 
 > αὕτη εἶπεν ὅτι ὁ Ἐρατοσθένης ταῦτα πράττοι.
 > 
