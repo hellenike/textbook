@@ -9,14 +9,8 @@ nav_order: 16
 
 ## Formation of the infinitive
 
+To form the infinitive, use the endings in the following chart with the stems you already known. As a kind of noun form, infinitives have persistent accent, as you can see from the perfect infinitives and second aorist infinitives, which clearly are not recessive. Notice also that second aorist infinitives use the same endings as the present infinitive, but, like the active participle, with a different persistent accent.
 
-
-To fully identify an infinitive, identify its tense, voice, that it is an infinitive, and what verb it comes from. For example, ποιεῖν (appears in Lysias 1.6 and Lysias 1.33) would be identified as: present active infinitive from ποιέω.
-
-
-### Forming present infinitives
-
-Find the stem from the first principal part by removing the personal ending, and add the appropriate infinitive ending and accent.
 
 
 | Tense | Active | Middle | Passive |
@@ -26,13 +20,34 @@ Find the stem from the first principal part by removing the personal ending, and
 | Second aorist | -εῖν | -έσθαι | -έσθαι |
 | Perfect | -έναι  | -σθαι | -σθαι |
 
-**EXAMPLES**
 
-#### Thematic verbs
-Present active infinitive of κελεύω —> κελεύειν 
-Present middle/passive infinitive of κελεύω —> κελεύεσθαι 
+Applying these endings to the thematic verb κελεύω, we have this set of infinitives:
 
-Present middle infinitive from γίγνομαι —> γίγνεσθαι 
+
+| Tense | Active | Middle | Passive |
+| --- | --- | --- | ---  |
+| Present | κελεύειν|  κελεύεσθαι |   κελεύεσθαι |
+| Aorist | κελεῦσαι | κελεύσασθαι | κελευσθῆναι |
+| Perfect |  κεκελευκέναι|  κεκελεύσθαι | κεκελεύσθαι |
+
+For a deponent verb like γίγνομαι, with no active forms in the present or aorist, we would have present middle infintive γίγνεσθαι, and (from its third part ἐγενόμην), the second aorist middle γενέσθαι.
+
+
+
+Athematic (-μι) verbs work identically:
+
+
+| Tense | Active | Middle | Passive |
+| --- | --- | --- | ---  |
+| Present | δεικνύειν|  δεικνύεσθαι |   δεικνύεσθαι |
+| Aorist | δεῖξαι | δείξασθαι | δειχθῆσαι |
+| Perfect |  δεδειχέναι| δεδείχθαι   |  δεδείχθαι |
+
+
+For a deponent athematic verb like δύναμαι, with no active forms in the present or aorist, we would have
+
+Present middle infinitive from δύναμαι —> δύνασθαι 
+
 
 #### Thematic contract verbs
 The short vowel at the end of the stem contracts with the vowel of the infinitive ending
@@ -44,11 +59,7 @@ Present middle/passive infinitive of ποιέω —> ποιεῖσθαι
 Present active infinitive of ὁράω  —> ὁρᾶν 
 Present middle/passive infinitive of ὁράω —> ὁρᾶσθαι 
 
-#### Athematic verbs
-Present active infinitive of δείκνυμι  —> δεικνύναι  
-Present middle/passive infinitive of δείκνυμι —> δείκνυσθαι 
 
-Present middle infinitive from δύναμαι —> δύνασθαι 
 
 #### Irregular verbs
 Learn also the present active infinitives of these common irregular verbs
@@ -57,91 +68,12 @@ Learn also the present active infinitives of these common irregular verbs
 φημί —> φάναι
 
 
-### Forming Aorist infinitives
-Like the indicative, optative, and participle forms we have been working with, the third principal part is used to form the aorist infinitive in the active and middle voices and the sixth principal part is used to form the aorist passive infinitive. For the third principal part, we must continue to distinguish between first and second aorists. Recall that only the indicative is augmented, so like the participle and optative forms, the third and sixth principal parts must be removed in forming the infinitive.
-
-#### Forming first aorist infinitives of thematic verbs and athematic verbs like δείκνυμι 
-Remove the augment and the personal ending from the appropriate principal part and add the infinitive ending. The accent of the aorist active and middle will be persistent on the last syllable of the verb stem, and final -αι counts as short. The accent of the aorist passive infinitive is always on the eta of the infinitive ending.
-
-#### Forming second aorist infinitives
-Remove the augment and the personal ending from the appropriate principal part and add the infinitive ending. The accent for the active and middle second aorist are on the first syllable of the infinitive ending, which will also help distinguish these from the present infinitives of the same verb. The accent of the aorist passive infinitive is always on the eta of the infinitive ending.
-
-**EXAMPLES**
-
-#### First aorist active and middle infinitives
-ἐκέλευσα, unaugmented stem κελευσ- —> κελεῦσαι (active); κελεύσασθαι (middle)
-ἔδειξα, unaugmented stem δειξ- —> δεῖξαι (active); δείξασθαι (middle)
-ἐποίησα, unaugmented stem ποιησ- —> ποιῆσαι (active); ποιήσασθαι (middle)
-
-#### Second aorist active and middle infinitives
-ἔλαβον, unaugmented stem λαβ- —> λαβεῖν (active); λαβέσθαι (middle)
-εἶδον, unaugmented stem ἰδ- —> ἰδεῖν (active); ἰδέσθαι (middle)
-ἐγενόμην, unaugmented stem γεν- —> γενέσθαι (middle)
-
-#### Aorist passive infinitives
-ἐκελεύσθην, unaugmented stem κελευσθ- —> κελευσθῆναι 
-ἐποιήθην, unaugmented stem ποιηθ- —> ποιηθῆναι 
-ἐλήφθην, unaugmented stem ληφθ- —> ληφθῆναι 
 
 
 
-### Forming present infinitives
-Find the stem from the first principal part by removing the personal ending, and add the appropriate infinitive ending and accent.
-
-**EXAMPLES**
-
-#### Thematic verbs
-Present active infinitive of κελεύω —> κελεύειν 
-Present middle/passive infinitive of κελεύω —> κελεύεσθαι 
-
-Present middle infinitive from γίγνομαι —> γίγνεσθαι 
-
-#### Thematic contract verbs
-The short vowel at the end of the stem contracts with the vowel of the infinitive ending
-- Epsilon-contract verbs: ε + ει = ει ; ε + ε = ει 
-Present active infinitive of ποιέω  —> ποιεῖν 
-Present middle/passive infinitive of ποιέω —> ποιεῖσθαι 
-
-- Alpha-contract verbs: α + ει normally = ᾳ but in this case α (long); α + ε = α (long)
-Present active infinitive of ὁράω  —> ὁρᾶν 
-Present middle/passive infinitive of ὁράω —> ὁρᾶσθαι 
-
-#### Athematic verbs
-Present active infinitive of δείκνυμι  —> δεικνύναι  
-Present middle/passive infinitive of δείκνυμι —> δείκνυσθαι 
-
-Present middle infinitive from δύναμαι —> δύνασθαι 
 
 #### Irregular verbs
 Learn also the present active infinitives of these common irregular verbs
 εἰμί —> εἶναι
 εἶμι —> ἰέναι
 φημί —> φάναι
-
-
-### Forming Aorist infinitives
-Like the indicative, optative, and participle forms we have been working with, the third principal part is used to form the aorist infinitive in the active and middle voices and the sixth principal part is used to form the aorist passive infinitive. For the third principal part, we must continue to distinguish between first and second aorists. Recall that only the indicative is augmented, so like the participle and optative forms, the third and sixth principal parts must be removed in forming the infinitive.
-
-#### Forming first aorist infinitives of thematic verbs and athematic verbs like δείκνυμι 
-Remove the augment and the personal ending from the appropriate principal part and add the infinitive ending. The accent of the aorist active and middle will be persistent on the last syllable of the verb stem, and final -αι counts as short. The accent of the aorist passive infinitive is always on the eta of the infinitive ending.
-
-#### Forming second aorist infinitives
-Remove the augment and the personal ending from the appropriate principal part and add the infinitive ending. The accent for the active and middle second aorist are on the first syllable of the infinitive ending, which will also help distinguish these from the present infinitives of the same verb. The accent of the aorist passive infinitive is always on the eta of the infinitive ending.
-
-**EXAMPLES**
-
-#### First aorist active and middle infinitives
-ἐκέλευσα, unaugmented stem κελευσ- —> κελεῦσαι (active); κελεύσασθαι (middle)
-ἔδειξα, unaugmented stem δειξ- —> δεῖξαι (active); δείξασθαι (middle)
-ἐποίησα, unaugmented stem ποιησ- —> ποιῆσαι (active); ποιήσασθαι (middle)
-
-#### Second aorist active and middle infinitives
-ἔλαβον, unaugmented stem λαβ- —> λαβεῖν (active); λαβέσθαι (middle)
-εἶδον, unaugmented stem ἰδ- —> ἰδεῖν (active); ἰδέσθαι (middle)
-ἐγενόμην, unaugmented stem γεν- —> γενέσθαι (middle)
-
-#### Aorist passive infinitives
-ἐκελεύσθην, unaugmented stem κελευσθ- —> κελευσθῆναι 
-ἐποιήθην, unaugmented stem ποιηθ- —> ποιηθῆναι 
-ἐλήφθην, unaugmented stem ληφθ- —> ληφθῆναι 
-
