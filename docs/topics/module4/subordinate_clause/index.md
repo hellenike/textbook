@@ -13,7 +13,7 @@ To express indirect statement with a verb indicating speaking, such as λέγω
  
 In the subordinate clause introduced by ὅτι or ὡς, the same tense and mood of the direct statement is retained. This makes it easy to know what tense the verb in the original statement was! English makes the tense of the verb in the indirect statement relative to the tense of the verb of speaking, so, for example, a past tense verb in the original statement in English is shifted to further in the past when the verb of speaking is put in the past.
 
-#### Examples
+**Examples**:
 
 > αὕτη λέγει ὅτι ὁ Ἐρατοσθένης ταῦτα ἔπραττεν. 
 >
@@ -24,9 +24,10 @@ In the subordinate clause introduced by ὅτι or ὡς, the same tense and moo
 > ‘This woman said that Eratosthenes had been doing these things.’
 
 
-## Indirect statement in secondary sequence
+### Indirect statement in secondary sequence
 
-Recall that the term *secondary tense*  to refer to a group of tenses referring to past time, (including the imperfect and aorist tenses).  When the verb of speaking is in a secondary tense, we say that any subordinate clause depending on it is in *secondary sequence*. In secondary sequence, the verb of the subordinate is often changed from the indicative to the *optative*, a mood we have not previously encountered.
+Recall that we use the term *secondary tense*  to refer to a group of tenses referring to past time (including the imperfect and aorist tenses). This is in contrast to *primary tenses* that express action in the present or future.
+
 
 
 | Sequence | Tense of the main verb | Mood of the verb in subordinate clause |
@@ -34,16 +35,13 @@ Recall that the term *secondary tense*  to refer to a group of tenses referring 
 | Primary | Present, Future, or Perfect | Subjunctive |
 | Secondary | Imperfect, Aorist, or Pluperfect | Optative |
 
-The sequence is called either "Primary" or "Secondary." Primary tenses of verbs are those that express action in the present or future, while secondary tenses are those that express action in the past. The subjunctive mood is associated with the primary tenses. The optative mood is associated with the secondary tenses.
 
+When the main verb is in a primary tense, we say that any subordinate clause depending on it is in *primary sequence*; when the main verb is a secondary tense, we say that any of its subordinate clauses are in *secondary sequence*. 
 
-We have been using verbs in the imperfect and aorist tenses. Therefore, we will be looking at how subordinate clauses operate in secondary sequence and use the optative. As we add the primary tenses in future modules, we will also add the subjunctive mood and subordinate clauses in primary sequence.
+As we will see in the following module, many kinds of subordinate clauses in secondary sequence can use the *optative mood*, a mood we have not previously encountered. When a subordinate clause expressing indirect statement after ὅτι or ὡς is in secondary, the verb of the subordinate clause is often changed from the indicative to the optative, keeping the same tense. Remember that the imperfect tense exists only in the indicative mood: there are no other moods, no participles, no infinitives of the imperfect. When the optative mood replaces an imperfect form, the present optative is used to express the idea of continued, repated or otherwise incomplete action.
 
+In the following sentence, πράττοι is in the present tense of the optative:
 
-
-TENSE KEPT SAME
-
-If the verb of speaking is in a secondary tense (imperfect, aorist, pluperfect), the mood of the verb in the indirect statement is often changed from the indicative to the optative of the same tense. Since there is no imperfect optative, the present optative is used to replace an imperfect indicative. The translation into English remains the same.
-
-- αὕτη εἶπεν ὅτι ὁ Ἐρατοσθένης ταῦτα πράττοι.
-‘This woman said that Eratosthenes had been doing these things.’
+> αὕτη εἶπεν ὅτι ὁ Ἐρατοσθένης ταῦτα πράττοι.
+> 
+> ‘This woman said that Eratosthenes was doing these things.’
