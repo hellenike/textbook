@@ -6,108 +6,77 @@ grand_parent: "Module 4: indirect speech"
 nav_order: 40
 ---
 
-## The common irregular athematic verbs εἰμί, εἶμι, φημί 
+## The common irregular athematic verbs εἰμί, εἶμι
 
 
 ### εἰμί "to be, exist"
 
-You have already been introduced in Module 1 to the verb εἰμί “be, exist” and its third person imperfect indicative, ἦν ‘she/he/it was’.
+You have already been introduced in Module 1 to the verb εἰμί “be, exist” and its third person imperfect indicative, ἦν ‘she/he/it was’. We'll now learn the rest of its indicative and optative forms.
+
+εἰμί has only two principal parts:
+
+- εἰμί, ἔσομαι, —, —, —, —
+
+Think about what this implies.  Why do you think there are no aorist or perfect forms of εἰμί in Greek?
+
+εἰμί illustrates the general principle that the most irregular forms are found in the most common words.  It is precisely because they are so frequently used that common words like "to be" resist change or regularization as a language evolves. We summarize here the present tense forms of εἰμί in both indicative and optative moods.
 
 
-εἰμί, ἔσομαι, —, —, —, — 	*be, exist* 
+ | | Indicative |  Optative |
+| --- | --- | --- | 
+| **first singular** | εἰμί |  εἴην |
+| **second singular** | εἶ  | εἴης |
+| **third singular** | ἐστί(ν) | εἴη |
+| **first plural** | ἐσμέν | εἴημεν |
+| **second plural** | ἐστέ | εἴητε |
+| **third plural** | εἰσί(ν) | εἴησαν, εἴεν |
 
-Note: enclitic in the present indicative
+Note that, like φημί, the present indicative forms of εἰμί are enclitic. As with φημί, we write them here with accent on the ultima of two-syllable forms. Note that in the third person plural, two quite distinct forms are possible in the optative.
 
- We will complete its first and second persons forms in both present and imperfect tenses
- | | Indicative | Subjunctive | Optative |
-| --- | --- | --- | --- |
-| **first singular** | εἰμί | ὦ | εἴην |
-| **second singular** | εἶ | ᾖς | εἴης |
-| **third singular** | ἐστι, ἐστί, ἐστίν, ἐστι, ἐστιν, ἔστι, ἔστιν | ᾖ | εἴη |
-| **first plural** | ἐσμέν | ὦμεν | εἴημεν |
-| **second plural** | ἐστέ | ἦτε | εἴητε |
-| **third plural** | εἰσί, εἰσίν, εἰσι, εἰσιν | ὦσι | εἴησαν, εἴεν |
+When you see the accented forms ἔστι(ν) (with a normal recessive accent), it is asserting existence, similar to English “There is,” “There exists,” or even “It is possible,”  rather than merely linking a subject and predicate. In this existential usage, ἔστι will often come at the beginning of the clause.
+
+The present active participle of εἰμί has nominative singular forms ὤν, οὖσα, ὄν. You will be happy to see that its forms look like accented versions of the  endings you already know from regular present active participles.
+
+
+The only past tense forms of εἰμί are the imperfect.
+
+| |  Singular | Plural |
+| --- | --- | --- | 
+| **first person** | ἦν, ἦ | ἦμεν |
+| **second person** | ἦσθα | ἦτε |
+| **third person** | ἦν |ἦσαν |
+
+
 ### εἶμι "to go"
 
-, and add another common irregular athematic verbs, εἶμι “will go.” Notice the difference in their accents.
+Another common irregular athematic verbs is εἶμι “will go.”  It has a single principal part:
+
+-  εἶμι, —, —, —, —, — 
+
+In the following summary, notice that in contrast to εἰμί "to be", εἶμι "to go" has regular recessive accent.
 
 
-### Principal parts and English equivalents:
+Present active indicative of εἶμι:
+
+| |  Singular | Plural |
+| --- | --- | --- | 
+| **first person** | εἶμι | ἴμεν |
+| **second person** | εἶ | ἴτε  |
+| **third person** |  εἶσι, εἶσιν | ἴασι, ἴασιν |
+
+In Attic Greek prose, the present indicative forms of εἶμι have a future sense, and the present forms of εἶμι are used for the future of ἔρχομαι (rather than forms dervied from ἐλεύσομαι, the second principal part that would normally be used for forming future tense forms).
+
+The present active participle of εἶμι is ἰών, ἰοῦσα, ἰόν.  The (very short!) stem ι- is clearly visible in all forms, but note that the accent persists on the ending, rather than on the stem as it does in regular verbs like κελεύων, κελεύουσα, κελεύον.
+
+In the present optative, we see the same stem ι- with familiar 
+
+Present active optative of εἶμι:
 
 
-εἶμι, —, —, —, —, —  *(will) go, come*
+| |  Singular | Plural |
+| --- | --- | --- | 
+| **first person** | ἴοιμι or ἰοίην | ἴοιμεν |
+| **second person** | ἴοις  |  ἴοιτε  |
+| **third person** |  ἴοι | ἴοιεν |
 
 
-
-| | Indicative | Subjunctive | Optative |
-| --- | --- | --- | --- |
-| **first singular** | εἶμι |  |  |
-| **second singular** | εἶ |  |  |
-| **third singular** |  |  |  |
-| **first plural** | ἴμεν |  |  |
-| **second plural** | ἴτε |  |  |
-| **third plural** | ἴα_σι, ἴα_σιν |  |  |
-
-
-### Forms to learn now
-
-**εἰμί**
-
-Present Indicative Active
-	
-	Third singular	ἐστί (or ἐστίν)	
-	
-	Third plural	εἰσί (or εἰσίν)			
-
-Imperfect Indicative Active
-	
-	Third singular	ἦν	
-	
-	Third plural	ἦσαν	
-
-Present Optative Active
-	
-	Third singular	εἴη 	
-	
-	Third plural	εἶεν or εἴησαν 	
-  
-Present active participle	  ὤν, οὖσα, ὄν	
-
-Present active infinitive	  εἶναι 
-
-**Notes on forms or usage**
-
-
-- Enclitic forms (present indicative of εἰμί and φημί) are shown with the accent on the ultima for two-syllable forms, which is how they would be accented if they ever are. But you will often see them without an accent.
-- The present indicative forms may have a nu-moveable, which is shown in parentheses.
-– Two distinct forms exist for the third plural present optative.
-— When you see the accented forms ἔστι(ν), it is asserting existence, similar to English “There is,” “There exists,” or even “It is possible.” It will often come at the beginning of the clause.
-
-
-**εἶμι** 
-
-Present Indicative Active
-
-	Third singular	εἶσι (or εἶσιν)
-	
-	Third plural	ἴασι (or ἴασιν)			
-
-Imperfect Indicative Active
-
-	Third singular	ᾔει 	
-	
-	Third plural	ᾖσαν or ᾔεσαν 	
-
-Present Optative Active
-
-	Third singular	ἴοι 
-	
-	Third plural	ἴοιεν	 
-
-Present active participle	  ἰών, ἰοῦσα, ἰόν	
-
-Present active infinitive	  ἰέναι 
-
-**Notes on forms or usage**
-
-- εἶμι has a future sense to its present indicative forms in Attic Greek prose. Its forms are used for the future of ἔρχομαι in Attic prose instead of those derived from ἐλεύσομαι (the second principal part of ἔρχομαι). 
