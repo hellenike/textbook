@@ -128,3 +128,18 @@ Middle:
 
 
 All aorist passives use the sixth principal part, and are formed in the same way.
+
+
+
+
+
+### An irregular verb: the present optative of φημί
+
+Like φημί's forms in the present and imperfect indicative, the present optative endings show slight irregularities, but can easily be recognized when compared to regular forms.
+
+| |  Singular | Plural | 
+| --- | --- | --- | --- |
+| **first person** | φαίην | φαῖμεν or φαίημεν|
+| **second person** |  φαίης | φαῖητε |
+| **third person** | φαίη | φαῖεν or φαῖησαν |
+

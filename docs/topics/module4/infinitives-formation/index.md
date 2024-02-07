@@ -117,4 +117,3 @@ Learn the present active infinitives of these three extremely common irregular v
 - φημί ("to say"):  present active infinitive φάναι
 
 
-

@@ -6,18 +6,47 @@ grand_parent: "Module 4: indirect speech"
 nav_order: 40
 ---
 
-## The common irregular athematic verb εἰμί, εἶμι, φημί 
+## The common irregular athematic verbs εἰμί, εἶμι, φημί 
 
-You have already been introduced in Module 1 to the verb εἰμί “be, exist” and its third person imperfect indicative, ἦν ‘she/he/it was’. We now add to that with other forms as well as learn forms of two other common and irregular athematic verbs, εἶμι “will go” and φημί "speak, say" 
+
+### εἰμί "to be, exist"
+
+You have already been introduced in Module 1 to the verb εἰμί “be, exist” and its third person imperfect indicative, ἦν ‘she/he/it was’.
+
+
+εἰμί, ἔσομαι, —, —, —, — 	*be, exist* 
+
+Note: enclitic in the present indicative
+
+ We will complete its first and second persons forms in both present and imperfect tenses
+ | | Indicative | Subjunctive | Optative |
+| --- | --- | --- | --- |
+| **first singular** | εἰμί | ὦ | εἴην |
+| **second singular** | εἶ | ᾖς | εἴης |
+| **third singular** | ἐστι, ἐστί, ἐστίν, ἐστι, ἐστιν, ἔστι, ἔστιν | ᾖ | εἴη |
+| **first plural** | ἐσμέν | ὦμεν | εἴημεν |
+| **second plural** | ἐστέ | ἦτε | εἴητε |
+| **third plural** | εἰσί, εἰσίν, εἰσι, εἰσιν | ὦσι | εἴησαν, εἴεν |
+### εἶμι "to go"
+
+, and add another common irregular athematic verbs, εἶμι “will go.” Notice the difference in their accents.
+
 
 ### Principal parts and English equivalents:
 
-εἰμί, ἔσομαι, —, —, —, — 	*be, exist* Note: enclitic in the present indicative
 
 εἶμι, —, —, —, —, —  *(will) go, come*
 
 
 
+| | Indicative | Subjunctive | Optative |
+| --- | --- | --- | --- |
+| **first singular** | εἶμι |  |  |
+| **second singular** | εἶ |  |  |
+| **third singular** |  |  |  |
+| **first plural** | ἴμεν |  |  |
+| **second plural** | ἴτε |  |  |
+| **third plural** | ἴα_σι, ἴα_σιν |  |  |
 
 
 ### Forms to learn now
@@ -47,6 +76,8 @@ Present active participle	  ὤν, οὖσα, ὄν
 Present active infinitive	  εἶναι 
 
 **Notes on forms or usage**
+
+
 - Enclitic forms (present indicative of εἰμί and φημί) are shown with the accent on the ultima for two-syllable forms, which is how they would be accented if they ever are. But you will often see them without an accent.
 - The present indicative forms may have a nu-moveable, which is shown in parentheses.
 – Two distinct forms exist for the third plural present optative.
@@ -78,34 +109,5 @@ Present active participle	  ἰών, ἰοῦσα, ἰόν
 Present active infinitive	  ἰέναι 
 
 **Notes on forms or usage**
+
 - εἶμι has a future sense to its present indicative forms in Attic Greek prose. Its forms are used for the future of ἔρχομαι in Attic prose instead of those derived from ἐλεύσομαι (the second principal part of ἔρχομαι). 
-
-
-**φημί** 
-
-Present Indicative Active
-
-	Third singular	φησί (or φησίν)	
-	
-	Third plural	φασί (or φασίν)		
-
-Imperfect Indicative Active
-
-	Third singular	ἔφη
-	
-	Third plural	ἔφασαν
-
-Present Optative Active
-
-	Third singular	φαίη 
-	
-	Third plural	φαῖεν or φαίησαν 
-
-Present active participle	  φάς, φᾶσα, φάν	
-				  in Attic Greek, borrowed from a related verb: φάσκων, φάσκουσα, φάσκον
-
-Present active infinitive	  φάναι 
-
-**Notes on forms or usage**
-- The 3rd principal part of φημί, ἔφησα, is a regular first aorist, but only active forms are made from it. The imperfect is more commonly used than the aorist. Distinguish the present active participle φάς, φᾶσα, φάν from the aorist active, φήσας, φήσασα, φήσαν.
-- φημί can mean “say yes, say so” and its negative οὐ φημί means “say no, deny, refuse” rather than “not say.”

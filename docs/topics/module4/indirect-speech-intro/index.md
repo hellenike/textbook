@@ -23,8 +23,15 @@ Some important verbs introducing indirect speech that you have already encounter
 - ὁράω, ὄψομαι, εἶδον, ἑώρακα or ἑόρακα, ἑώραμαι or ὦμμαι, ὤφθην  see, look, understand
 - φημί, φήσω, ἔφησα, —, —, —  say, assert, affirm
 
+### φημί, "to say, assert, affirm"
 
-φημί has only active voice forms. In the present indicative, its slightly irregular forms are enclitic.
+#### The present indicative of φημί
+
+The verb φημί is used only in the active voice. Its third principal part, ἔφησα, is a regular first aorist, but only active forms are made from it. 
+
+φημί can mean “say yes, say so” and its negative οὐ φημί means “say no, deny, refuse” (rather than “not say”).
+
+In the present indicative, its slightly irregular forms are enclitic. For two-syllable forms, we show them with the accent on the ultima, which is how they would appear accented if they ever are accented.
 
 | Person | Singular | Plural |
 | --- | --- | --- |
@@ -32,11 +39,20 @@ Some important verbs introducing indirect speech that you have already encounter
 | second |φῇς |  φατέ |
 | third |φησί, φησίν | φασί, φασίν |
 
+The present active participle is φάς, φᾶσα, φάν. Distinguish it  from the regularly formed aorist active participle φήσας, φήσασα, φήσαν.
 
-The imperfect of φημί also has some minor irregularities.
+Attic Greek can also substitute a participle borrowed from a related verb: φάσκων, φάσκουσα, φάσκον.
+
+#### The imperfect indicative of φημί
+
+The imperfect of φημί also has some minor irregularities. The imperfect is more commonly used than the aorist. (We can infer that ancient Greeks rarely stop talking.)
 
 | Person | Singular | Plural |
 | --- | --- | --- |
 | first |ἔφην | ἔφαμεν |
 | second |ἔφης, ἔφησθα | ἔφατε |
 | third |ἔφη | ἔφασαν |
+
+
+- 
+
