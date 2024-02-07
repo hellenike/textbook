@@ -28,7 +28,7 @@ When the complementary infinitive is negated, the negative adverb is μή.  Com
 - οὐκ ἐδύνατο λέγειν.  ‘He was not able to speak.’ 
 - ἐδύνατο μὴ λέγειν. ‘He was able not to speak.’
 
-In the first sentence, οὐ negates the finite verb ἐδύνατο.  In the second sentence, μή negates the infinitive λέγειν.  Can you explain the difference in meaning bewteen those two English sentences?
+In the first sentence, οὐ negates the finite verb ἐδύνατο.  In the second sentence, μή negates the infinitive λέγειν.  Can you explain the difference in meaning between those two English sentences?
 
 #### Other verbs taking a complementary infinitive
 
@@ -37,7 +37,7 @@ The verbs βούλομαι, "to want, wish, desire" and ἐθέλω, "to be wi
 - βούλομαι, βουλήσομαι, —, —, βεβούλημαι, ἐβουλήθην 
 - ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα, —, — 
 
-> Think about these principal parts. Why does βούλομαι lack a third and fourth part?  Why does it mean that ἐθέλω lacks fifth and sixth principal parts?
+> Think about these principal parts. Why does βούλομαι lack a third and fourth part?  What does it mean that ἐθέλω lacks fifth and sixth principal parts?
 
 While both of these verbs could overlap in sense with the English verb "want," their ideas are quite distinct in Greek.  βούλομαι refers to an active desire: something you want. ἐθέλω refers to something you tolerate.
 
@@ -56,11 +56,11 @@ Examples:
 
 > τὸ ταῦτα πράττειν κακὸν ἦν. 
 >
-> "Doing these things was bad.", or "To do these things was bad."
+> "Doing these things was bad", or "To do these things was bad."
 
-Notice that although the infinitive is used as a noun (functioning here as the subject of the clause), it still can sill take an object, like any other verbal form. When an articular infinitive has an object, it appears in attributive position (between the article and infinitive).
+Notice that although the infinitive is used as a noun (functioning here as the subject of the clause), it  can still take an object, like any other verbal form. When an articular infinitive has an object, it appears in attributive position (between the article and infinitive).
 
-> τὸ ταῦτα μὴ πράττειν κάκιον ἦν 
+> τὸ ταῦτα μὴ πράττειν κάκιον ἦν.
 >
 > "Not doing these things was worse" or "Not to do these things was worse."
 

@@ -20,8 +20,8 @@ For regular thematic (-ω) verbs, apply the following endings:
 | Tense | Active | Middle | Passive |
 | --- | --- | --- | --- |
 | Present | -ειν | -εσθαι | -εσθαι |
-| First aorist | -αι | -ασθαι | -ασθαι |
-| Second aorist | -εῖν | -έσθαι | -έσθαι |
+| First aorist | -αι | -ασθαι | -ῆναι |
+| Second aorist | -εῖν | -έσθαι | -ῆναι |
 | Perfect | -έναι  | -σθαι | -σθαι |
 
 
@@ -32,7 +32,7 @@ Since infinitives are a kind of noun form, they have persistent accent. You can 
 | --- | --- | --- | ---  |
 | Present | κελεύειν|  κελεύεσθαι |   κελεύεσθαι |
 | Aorist | κελεῦσαι | κελεύσασθαι | κελευσθῆναι |
-| Perfect |  κεκελευκέναι|  κεκελεύσθαι | κεκελεύσθαι |
+| Perfect |  κεκελευκέναι|  κεκελεῦσθαι | κεκελεῦσθαι |
 
 
 As you have seen throughout the finite and participle forms you already know, second aorists use the same endings as forms from the present system. The following chart illustrates the infinitives of βάλλω (third principal part: ἔβαλον). Notice that the accent of the second aorist active and middle persists on the ending, in contrast to the present active and middle infinitives. (This can be a helpful clue if you encounter a new verb and don't recognize its principal parts.)
@@ -41,7 +41,7 @@ As you have seen throughout the finite and participle forms you already know, se
 | --- | --- | --- | ---  |
 | Present | βάλλειν|  βάλλεσθαι |   βάλλεσθαι |
 | Aorist | βαλεῖν | βαλέσθαι | βληθῆναι |
-| Perfect |  βεβληκέναι|  βεβλήσθαι | βεβλήσθαι |
+| Perfect |  βεβληκέναι|  βεβλῆσθαι | βεβλῆσθαι |
 
 Of course for verbs that are deponent in one or more principal parts (that is, that do not have active forms), there is no active infinitive. γίγνομαι, for example, has no active forms in the present or aorist (third principal part ἐγενόμην). These stems give us the present middle infintive γίγνεσθαι, the (second) aorist middle infinitive γενέσθαι.
 
@@ -59,18 +59,18 @@ Outside of the present system, regular athematic verbs like δείκνυμι fo
 
 | Tense | Active | Middle | Passive |
 | --- | --- | --- | ---  |
-| Present | δεικνύειν|  δεικνύεσθαι |   δεικνύεσθαι |
-| Aorist | δεῖξαι | δείξασθαι | δειχθῆσαι |
+| Present | δεικνύναι|  δείκνυσθαι |   δείκνυσθαι |
+| Aorist | δεῖξαι | δείξασθαι | δειχθῆναι |
 | Perfect |  δεδειχέναι| δεδεῖχθαι   |  δεδεῖχθαι |
 
-And of course deponent athematic verbs will have no active infinitives. The verb δύναμαι, for example, is an athematic verb with only passive forms. From the first principal part δύναμαι, we drop the athematic ending -μαι and add the ending -σθαι direcelty to the stem δυνα-.  We use the fifth and sixth parts δεδύνημαι and ἐδυνήθην work just as we would for any thematic or athematic verb, so that we have the following set of passive infinitives for δύναμαι:
+And of course deponent athematic verbs will have no active infinitives. The verb δύναμαι, for example, is an athematic verb with only passive forms. From the first principal part δύναμαι, we drop the athematic ending -μαι and add the ending -σθαι direcelty to the stem δυνα-.  We use the fifth and sixth parts δεδύνημαι and ἐδυνήθην just as we would for any thematic or athematic verb, so that we have the following set of passive infinitives for δύναμαι:
 
 
 | Tense | Passive |
 | --- | --- | --- | ---  |
 | Present |   δύνασθαι |
 | Aorist |  δυνηθῆναι |
-| Perfect | δεδυνήσθαι |
+| Perfect | δεδυνῆσθαι |
 
 
 
@@ -86,7 +86,7 @@ These rules produce the following entirely predictable infinitive forms:
 | Tense | Active | Middle | Passive |
 | --- | --- | --- | ---  |
 | Present | ποιεῖν|  ποιεῖσθαι |   ποιεῖσθαι |
-| Aorist | ποιῆσαι | ποιήσασθαι | ποίησθαι |
+| Aorist | ποιῆσαι | ποιήσασθαι | ποιηθῆναι |
 | Perfect |  πεποιηκέναι|  πεποιῆσθαι  |  πεποιῆσθαι |
 
 

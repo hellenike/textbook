@@ -14,7 +14,7 @@ The tense of the participle has the same sense as the tense of the infinitive in
 
 If the subject of the indirect speech is different from the subject of the introductory verb, it is usually expressed in the accusative case. Like any participle, the participle in the indirect statement will agree with its subject in gender, case, and number. If the subject of the indirect speech is the same as the subject of the introductory verb, the participle is in the nominative and the subject is not generally repeated.
 
-#### Examples
+### Examples
 
 > ἐδείκνυ Ἐρατοσθένη ταῦτα πράττοντα.
 >
@@ -52,7 +52,7 @@ So a participle can modify the genitive object to represent what was being heard
 
 Or the participle can represent indirect speech, with an accusative + participle:
 
-> - ὁ ἀνὴρ ἤκουσε τὴν γυναῖκά τινι λέγουσαν. 
+> ὁ ἀνὴρ ἤκουσε τὴν γυναῖκά τινι λέγουσαν. 
 > 
 > ‘The husband heard that his wife was speaking to someone.’
 

@@ -27,9 +27,9 @@ Think about what this implies.  Why do you think there are no aorist or perfect 
 | **first singular** | εἰμί |  εἴην |
 | **second singular** | εἶ  | εἴης |
 | **third singular** | ἐστί(ν) | εἴη |
-| **first plural** | ἐσμέν | εἴημεν |
-| **second plural** | ἐστέ | εἴητε |
-| **third plural** | εἰσί(ν) | εἴησαν, εἴεν |
+| **first plural** | ἐσμέν | εἴημεν / εἶμεν |
+| **second plural** | ἐστέ | εἴητε / εἶτε|
+| **third plural** | εἰσί(ν) | εἴησαν / εἴεν |
 
 Note that, like φημί, the present indicative forms of εἰμί are enclitic. As with φημί, we write them here with accent on the ultima of two-syllable forms. Note that in the third person plural, two quite distinct forms are possible in the optative.
 
@@ -66,9 +66,9 @@ Present active indicative of εἶμι:
 
 In Attic Greek prose, the present indicative forms of εἶμι have a future sense, and the present forms of εἶμι are used for the future of ἔρχομαι (rather than forms dervied from ἐλεύσομαι, the second principal part that would normally be used for forming future tense forms).
 
-The present active participle of εἶμι is ἰών, ἰοῦσα, ἰόν.  The (very short!) stem ι- is clearly visible in all forms, but note that the accent persists on the ending, rather than on the stem as it does in regular verbs like κελεύων, κελεύουσα, κελεύον.
+The present active participle of εἶμι is ἰών, ἰοῦσα, ἰόν.  The (very short!) stem ι- is clearly visible in all forms, but note that the accent persists on the ending, rather than on the stem as it does in regular verbs like κελεύων, κελεύουσα, κελεῦον.
 
-In the present optative, we see the same stem ι- with familiar 
+In the present optative, we see the same stem ι- with familiar personal endings.
 
 Present active optative of εἶμι:
 

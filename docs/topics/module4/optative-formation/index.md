@@ -17,14 +17,18 @@ Optative active endings:
 | |  Present| Aorist |
 | --- | --- | --- |
 | **first singular** | -οιμι | -αιμι |
-| **second singular** | -οις | -αις |
-| **third singular** | -οι | -αι |
+| **second singular** | -οις | -αις / -ειας |
+| **third singular** | -οι | -αι / -ειε(ν) |
 | **first plural** | -οιμεν | -αιμεν  |
 | **second plural** | -οιτε | -αιτε  |
-| **third plural** | -οιεν | -αιεν |
+| **third plural** | -οιεν | -αιεν / -ειαν |
 
 
-Notice how closely they resemble indicative endings you already know.  Compare the optative forms of κελεύω with the present indicative
+One important point to note for correct accentuation: the third singular endings -οι and -αι count as *long* in determining accent.
+
+
+
+Notice how closely the optative endings resemble indicative endings you already know.  Compare the optative forms of κελεύω with the present indicative
 
 
 
@@ -32,13 +36,13 @@ Notice how closely they resemble indicative endings you already know.  Compare t
 | --- | --- | --- | --- | 
 | **first singular** | κελεύω | κελεύοιμι | κελεύσαιμι |
 | **second singular** | κελεύεις | κελεύοις | κελεύσαις, κελεύσειας |
-| **third singular** | κελεύει |  κέλευοι | κέλευσαι, κελεύσειε |
+| **third singular** | κελεύει |  κελεύοι | κελεύσαι, κελεύσειε |
 | **first plural** | κελεύομεν | κελεύοιμεν | κελεύσαιμεν |
 | **second plural** | κελεύετε | κελεύοιτε | κελεύσαιτε |
-| **third plural** | κελεύουσι | κελεύωσι | κελεύσαιεν |
+| **third plural** | κελεύουσι | κελεύoιεν | κελεύσαιεν, κελεύσειαν |
 
 
-When you are identifying verb forms, make a habit of first finding the principal part: this will limit the possibilities for tense and mood. When you have find the stem, look at the connecting vowel: the optative's diphthongs will point you to the correct mood. Finally look at the ending to find the person and number.
+When you are identifying verb forms, make a habit of first finding the principal part: this will limit the possibilities for tense and voice. When you have find the stem, look at the connecting vowel: the optative's diphthongs will point you to the correct mood. Finally look at the ending to find the person and number.
 
 
 The middle voice forms show a similar pattern with present endings marked by connecting -οι- diphthong and aorist endings marked by -αι.
@@ -76,22 +80,22 @@ Passive endings:
 | |  Aorist |
 | --- | --- | --- | 
 | **first singular** | -είην |
-| **second singular** | -είη |
+| **second singular** | -είης  |
 | **third singular** |-είη |
-| **first plural** |  -εῖμεν |
-| **second plural** |  -εῖτε |
-| **third plural** |  -εῖεν |
+| **first plural** |  -εῖμεν / -είημεν |
+| **second plural** |  -εῖτε / -είητε |
+| **third plural** |  -εῖεν / -είησαν |
 
 Compare the indicative and optative forms of the aorist passive.
 
 | | Indicative |  Optative |
 | --- | --- | --- | 
 | **first singular** | ἐκελεύσθην | κελευσθείην |
-| **second singular** | ἐκελεύσθης |  κελευσθείη |
+| **second singular** | ἐκελεύσθης |  κελευσθείης |
 | **third singular** | ἐκελεύσθη |  κελευσθείη |
-| **first plural** | ἐκελεύσθημεν |  κελευσθεῖμεν |
-| **second plural** | ἐκελεύσθητε |κελευσθεῖτε |
-| **third plural** | ἐκελεύσθησαν |  κελευσθεῖεν |
+| **first plural** | ἐκελεύσθημεν |  κελευσθεῖμεν / κελευσθείημεν |
+| **second plural** | ἐκελεύσθητε |κελευσθεῖτε / κελευσθείητε|
+| **third plural** | ἐκελεύσθησαν |  κελευσθεῖεν / κελεσθείησαν |
 
 
 
@@ -138,6 +142,6 @@ Like φημί's forms in the present and imperfect indicative, the present opta
 | |  Singular | Plural | 
 | --- | --- | --- | --- |
 | **first person** | φαίην | φαῖμεν or φαίημεν|
-| **second person** |  φαίης | φαῖητε |
-| **third person** | φαίη | φαῖεν or φαῖησαν |
+| **second person** |  φαίης | φαῖτε or φαίητε |
+| **third person** | φαίη | φαῖεν or φαίησαν |
 

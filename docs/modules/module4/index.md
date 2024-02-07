@@ -11,7 +11,7 @@ has_children: true
 
 ## Overview of module 4
 
-Practice, reading and composition are based on Lysias 1, sections 19-20: Euphiletos confronts the slave girl with his discovery that she has been cooperating with Eratosthenes.
+Practice, reading and composition are based on Lysias 1, sections 19-20: Euphiletos confronts the enslaved woman with his discovery that she has been cooperating with Eratosthenes.
 
 ### Language
 

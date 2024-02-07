@@ -9,14 +9,14 @@ nav_order: 1
 ## Indirect speech: introduction
 
 
-Indirect speech (also called ‘indirect statement’ or ‘indirect discourse’) is a way of representing some kind of verbal activity — speaking, asking, thinking, hearing, any representation of words in speech or thought. We began learning the construction of indirect speech in ancient Greek as a subordinate clause introduced by ὅτι or ὡς, which is similar to the English use of a subordinate clause introduced by "that." In this module we will review that construction and add two other ways ancient Greek can form indirect speech: by using an infinitive or by using a participle. Which construction is used depends on the type of verb introducing the indirect speech and on idiom, which also means that native speakers/writers may change these up. Some verbs may allow two or even all three of these possible constructions, so the rules of which verbs introduce which construction are not hard and fast.
+Indirect speech (also called ‘indirect statement’ or ‘indirect discourse’) is a way of representing some kind of mental activity — speaking, asking, thinking, hearing, any representation of words in speech or thought. We began learning the construction of indirect speech in ancient Greek as a subordinate clause introduced by ὅτι or ὡς, which is similar to the English use of a subordinate clause introduced by "that." In this module we will review that construction and add two other ways ancient Greek can form indirect speech: by using an infinitive or by using a participle. Which construction is used depends on the type of verb introducing the indirect speech and on idiom, which also means that native speakers/writers may change these up. Some verbs may allow two or even all three of these possible constructions, so the rules of which verbs introduce which construction are not hard and fast.
 
 ### Verbs that introduce indirect speech
 
 Some important verbs introducing indirect speech that you have already encountered
 
 - ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, — , ἠκούσθην  hear, listen to
-- δείκνυμι, δείξω, ἔδειξα δέδειχα, δέδειγμαι, ἐδείχθην show, demonstrate
+- δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην show, demonstrate
 - ἡγέομαι, ἡγήσομαι, ἡγησάμην, —, ἥγημαι, ἡγήθην  think, consider, believe
 - λέγω, λέξω, ἔλεξα or εἶπον, εἴρηκα, λέλεγμαι, ἐλέχθην  say, speak, tell
 - νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην  think, believe
@@ -39,7 +39,7 @@ In the present indicative, its slightly irregular forms are enclitic. For two-sy
 | second |φῇς |  φατέ |
 | third |φησί, φησίν | φασί, φασίν |
 
-The present active participle is φάς, φᾶσα, φάν. Distinguish it  from the regularly formed aorist active participle φήσας, φήσασα, φήσαν.
+The present active participle is φάς, φᾶσα, φάν. Distinguish it  from the regularly formed aorist active participle φήσας, φήσασα, φῆσαν.
 
 Attic Greek can also substitute a participle borrowed from a related verb: φάσκων, φάσκουσα, φάσκον.
 
