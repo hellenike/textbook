@@ -21,4 +21,4 @@ The strange-sounding term "optative" is a translation of the Greek grammatical t
 
 The meaning of the optative mood (and therefore the way we translate an optative verb form) is entirely dependent on its context, its use in a particular clause. For that reason, we will not give translations for optative forms when we explain how to form them, without any further context.
 
-When the optative ais used in a secondary sequence, its tense represents the *aspect* of the action, not the *time*. A present optative expresses ongoing or continuous action (which frequently is *not*  action in the present time!). An aorist optative expresses a single action, not necessarily action in the past.
+When the optative is used in a secondary sequence, its tense represents the *aspect* of the action, not the *time*. A present optative expresses ongoing or continuous action (which frequently is *not*  action in the present time!). An aorist optative expresses a single action, not necessarily action in the past.
