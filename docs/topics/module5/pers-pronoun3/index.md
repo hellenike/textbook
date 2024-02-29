@@ -3,7 +3,7 @@ layout: page
 title: "The pronoun αὐτός"
 parent: "Subordinate clauses"
 grand_parent: "Module 5: subordinate clauses"
-nav_order: 5
+nav_order: 50
 has_children: true
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: "The relative pronoun"
 parent: "Subordinate clauses"
 grand_parent: "Module 5: subordinate clauses"
-nav_order: 10
+nav_order: 5
 has_children: true
 ---
 

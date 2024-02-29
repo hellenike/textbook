@@ -3,7 +3,7 @@ layout: page
 title: "Relative clauses"
 parent: "Subordinate clauses"
 grand_parent: "Module 5: subordinate clauses"
-nav_order: 15
+nav_order: 3
 has_children: true
 ---
 

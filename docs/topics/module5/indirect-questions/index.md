@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Indirect statement and indirect question using the optative"
+title: "Indirect question using the optative"
 parent: "Subordinate clauses"
 grand_parent: "Module 5: subordinate clauses"
-nav_order: 45
+nav_order: 30
 has_children: true
 ---
 
 ## Indirect statement and indirect question using the optative
 
-Here we add two more types of subordinate clauses that can use the optative. In future modules we will learn other ways that ancient Greek can structure this type of expression, and we limit our focus here to these types of subordinate clauses.
+
 
 The term **indirect** in **indirect statement** and **indirect question** indicates that that the statement or question is being reported as having been said or asked (or thought, or any other way in which speech is used by human beings). So instead of a direct statement ("She left the house.") or a direct question ("Why did she leave the house?") or a direct quotation (He asked, "Why did she leave the house?"), indirect statement reports that the statement was made: "She said that she left the house," and indirect question reports that a question was asked: "He asked why she left the house." Indirect questions can also follow verbs of speech that are not directly expressing the asking, such as "He *knew* why she left the house."
 
