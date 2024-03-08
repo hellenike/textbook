@@ -49,9 +49,9 @@ Example:
 
 The future participle follows the same pattern as well! 
 
--for the future active participle, add the present active participle endings to the second principal part. Decline the participle like a 3-1-3 adjective. The nominative and genitive singulars are provided in the chart below as a reminder.
--for the future middle participle, add the present middle participle endings to the second principal part. Decline the participle like a 2-1-2 adjective.
--for the future passive participle, add the present passive participle endings to the sixth principal part, extended with -ησ-. Decline the participle like a 2-1-2 adjective.
+- for the future active participle, add the present active participle endings to the second principal part. Decline the participle like a 3-1-3 adjective. The nominative and genitive singulars are provided in the chart below as a reminder.
+- for the future middle participle, add the present middle participle endings to the second principal part. Decline the participle like a 2-1-2 adjective.
+- for the future passive participle, add the present passive participle endings to the sixth principal part, extended with -ησ-. Decline the participle like a 2-1-2 adjective.
 
 Example, with the nominative and genitive singular of each gender provided:
 
