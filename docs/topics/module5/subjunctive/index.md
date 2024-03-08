@@ -25,7 +25,7 @@ The personal endings of the subjunctive are:
 The aorist passive subjunctive borrows the active endings, but with a fixed accent:
 
 |  Person and Number | Aorist Passive (6th principal part) |
-| --- | --- | --- | --- |
+| --- | --- |
 | First singular | -ῶ | 
 | Second singular | -ῇς | 
 | Third singular | -ῇ | 
