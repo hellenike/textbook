@@ -76,7 +76,7 @@ The indefinite pronoun can also be used as an adjective, equivalent to English *
 | Dative | τινι or τῳ | τινι or τῳ | τισι or τισιν | τισι or τισιν |
 | Accusative | τινα  | τι  |τινας  | τινα  |
 
-> Notes of the forms of τις, τι
+> Notes on the forms of τις, τι
 - These forms are **enclitic**. See the following section for more on accent rules for enclitics. Accent is what distinguishes the interrogative form from the indefinite. According to the rules of accentuation, if the two-syllable forms are accented in a sentence, the accent will be on the ultima. That will continue to help to distinguish them from the interrogative forms, which are accented on the penult.
 - More than one form exists in the gentive singular and dative singular, and the second form will have to be distinguished from the article in context. These forms are also enclitic.
 - The dative plural τισι will have a nu-moveable added when the next word begins with a vowel. 
