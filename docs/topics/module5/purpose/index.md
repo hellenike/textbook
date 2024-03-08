@@ -22,6 +22,7 @@ The structure of a purpose clause in ancient Greek has the following features:
 - it is introduced by a specific subordinating conjunction: ἵνα, ὡς, or ὅπως
 - if the verb in the purpose clause is negated, it is negated by μή 
 - the verb within the purpose clause will be in the subjunctive or the optative mood, according to the sequence of moods. Purposes clauses that are introduced by clauses whose verb is in a primary tense (like present or future) will use the subjunctive mood. The optative is used when that verb is in a secondary (or past) tense
+- the tense of the verb in the purpose clause (present vs. aorist) expresses the *aspect* of the action, not time. The relative time of the action in a purpose clause is subsequent to the main verb (something happens in the main clause in order for something to happen later).  
 
 ### Practice with purpose clauses
 
