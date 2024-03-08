@@ -21,18 +21,20 @@ Identify the purpose expressed in these English sentences:
 The structure of a purpose clause in ancient Greek has the following features:
 - it is introduced by a specific subordinating conjunction: ἵνα, ὡς, or ὅπως
 - if the verb in the purpose clause is negated, it is negated by μή 
-- the verb within the purpose clause will be in the subjunctive or the optative mood, according to the sequence of moods. The optative is used when that verb is in a secondary (or past) tense: since we have been practicing with the secondary tenses of the imperfect and aorist indicative, we will practice in this module with purpose clauses that use the optative mood. Later, we will add the subjunctive mood and see their use in purpose clauses that are governed by clauses whose verb is in a primary tense like the present or future.
+- the verb within the purpose clause will be in the subjunctive or the optative mood, according to the sequence of moods. Purposes clauses that are introduced by clauses whose verb is in a primary tense (like present or future) will use the subjunctive mood. The optative is used when that verb is in a secondary (or past) tense
 
 ### Practice with purpose clauses
 
 In the reading for Module 2, the house and living arrangements of Euphiletos were described in simplified prose. In the original speech, purpose clauses explain a bit more. They are modified here to use the optative forms. Let's return to that passage and see why the usual arrangements were flipped, as we practice purpose clauses, as well as simple indicative subordinate clauses, and participles, too.
 
-In each of the following sections, identify the boundaries of each clause and copy each clause onto a separate line. Underline connecting words; circle finite verbs and identify the form of the verb in each clause. Which clauses are subordinate? Which are purpose clauses?
+In each of the following sections, identify the boundaries of each clause and copy each clause onto a separate line. Underline connecting words; circle finite verbs and identify the form of the verb in each clause. Which clauses are subordinate? Which are purpose clauses? What is the sequence of the purpose clause?
 
 ἐπειδὴ δὲ τὸ παιδίον ἐγένετο αὐτοῖς, ἡ μήτηρ αὐτὸ ἐθήλαζεν: ἵνα δὲ μή κινδυνεύοι κατὰ τῆς κλίμακος καταβαίνουσα, ὁ μὲν Εὐφίλητος ἄνω διῃτᾶτο, αἱ δὲ γυναῖκες κάτω. (modified from Lysias 1.9)
 
+Now contrast with: ἐπειδὴ δὲ τὸ παιδίον ἐγένετο αὐτοῖς, ἡ μήτηρ αὐτὸ ἐθήλαζεν: ἵνα δὲ μή κινδυνεύῃ κατὰ τῆς κλίμακος καταβαίνουσα, ὁ μὲν Εὐφίλητος ἄνω διαιτᾶτο, αἱ δὲ γυναῖκες κάτω. (modified from Lysias 1.9)
+
 προϊόντος δὲ τοῦ χρόνου, ἧκε μὲν ἀπροσδοκήτως ἐξ ἀγροῦ, μετὰ δὲ τὸ δεῖπνον τὸ παιδίον ἐβόα καὶ ἐδυσκόλαινεν ὑπὸ τῆς θεραπαίνης ἐπίτηδες λυπούμενον, ἵνα ταῦτα ποιοῖ. ὁ γὰρ ἄνθρωπος ἔνδον ἦν. (modified from Lysias 1.11)
 
-
+Now contrast with: προϊόντος δὲ τοῦ χρόνου, ἧκε μὲν ἀπροσδοκήτως ἐξ ἀγροῦ, μετὰ δὲ τὸ δεῖπνον τὸ παιδίον ἐβόα καὶ ἐδυσκόλαινεν ὑπὸ τῆς θεραπαίνης ἐπίτηδες λυπούμενον, ἵνα ταῦτα ποιῇ. ὁ γὰρ ἄνθρωπος ἔνδον ἦν. (unmodified from Lysias 1.11)
 
 
