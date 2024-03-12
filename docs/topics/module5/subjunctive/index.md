@@ -9,7 +9,7 @@ has_children: true
 
 ## The subjunctive mood (ἡ ὑποτακτικὴ ἔγκλισις)
 
-Here we present the formation of the subjunctive mood, which builds on the work you have already done with the optative mood. The present and aorist tenses of subjunctive mood are formed on the stems of the same principal parts as all other forms of the Greek verb: first part for all voices of the present, third part for aorist active and middle, and sixth part for aorist passive.  The endings of the subjunctive mood are characterized by long vowels (η, ω) in their base.  You'll be happy to learn that the subjunctive uses the same endings for both present active and middle/passive and aorist active and middle tenses:  you can distinguish the tense by the principal part it is formed on.
+Here we present the formation of the subjunctive mood, which builds on the work you have already done with the optative mood. The present and aorist tenses of the subjunctive mood are formed on the stems of the same principal parts as all other forms of the Greek verb: first part for all voices of the present, third part for aorist active and middle, and sixth part for aorist passive.  The endings of the subjunctive mood are characterized by long vowels (η, ω) in their base.  You'll be happy to learn that the subjunctive uses the same endings for both present active and middle/passive and aorist active and middle tenses:  you can distinguish the tense by the principal part it is formed on.
 
 The personal endings of the subjunctive are:
 
