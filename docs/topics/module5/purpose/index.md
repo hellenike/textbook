@@ -26,7 +26,7 @@ The structure of a purpose clause in ancient Greek has the following features:
 
 ### Practice with purpose clauses
 
-In the reading for Module 2, the house and living arrangements of Euphiletos were described in simplified prose. In the original speech, purpose clauses explain a bit more. They are modified here to use the optative forms. Let's return to that passage and see why the usual arrangements were flipped, as we practice purpose clauses, as well as simple indicative subordinate clauses, and participles, too.
+In the reading for Module 2, the house and living arrangements of Euphiletos were described in simplified prose. In the original speech, purpose clauses explain a bit more. Let's return to that passage and see why the usual arrangements were flipped, as we practice purpose clauses, as well as simple indicative subordinate clauses, and participles, too.
 
 In each of the following sections, identify the boundaries of each clause and copy each clause onto a separate line. Underline connecting words; circle finite verbs and identify the form of the verb in each clause. Which clauses are subordinate? Which are purpose clauses? What is the sequence of the purpose clause?
 
