@@ -10,7 +10,7 @@ has_children: true
 
 ## The future tense
 
-The future tense describes actions in future time. Those actions can have simple aspect (occurring once) or continous/repeated aspect.
+The future tense describes actions in future time. Those actions can have simple aspect (occurring once) or ongoing/repeated aspect.
 
 ### The future indicative
 
@@ -55,12 +55,12 @@ The future participle follows the same pattern as well!
 
 Example, with the nominative and genitive singular of each gender provided:
 
-| Case, number | Masculine | Feminine | Neuter |
+| Voice | Masculine | Feminine | Neuter |
 | --- | --- | --- | --- |
-| Active | κελεύσων, κελεύσοντος | κελεύσουσα, κελευσούσης | κελεῦσον, κελευσόντος |
+| Active | κελεύσων, κελεύσοντος | κελεύσουσα, κελευσούσης | κελεῦσον, κελεύσοντος |
 | Middle |	κελευσόμενος, κελευσομένου | κελευσομένη, κελευσομένης | κελευσόμενον, κελευσομένου |
 | Passive |	κελευσθησόμενος, κελευσθησομένου | κελευσθησομένη, κελευσθησομένης | κελευσθησόμενον, κελευσθησομένου |
 
 ### Note on the Attic future
 
-Some verbs have contracted futures, indicated by a circumflex over the ending of the second principal part — such as νομιῶ, from νομίζω. Contracted futures are *epsilon* contract verbs, and the same rules for epsilon contractions apply.
+Some verbs have contracted futures, indicated by a circumflex over the ending of the second principal part — such as νομιῶ, from νομίζω. Contracted futures are *epsilon* contract verbs (e.g., νομιέω), and the same rules for epsilon contractions apply.
