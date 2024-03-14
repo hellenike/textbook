@@ -10,7 +10,7 @@ has_children: true
 ## Purpose clauses
 
 
-A purpose clause is a subordinate clause. As we have seen before, "clause" means it has its own subject and verb. "Subordinate" means that it is dependent on the main clause of the sentence and does not stand alone. Simple indicative dependent clauses, such as relative adverb and relative pronoun clauses, were introduced as dependent clauses eartlier in this module. The terms "dependent" and "subordinate" are interchangeable for our purposes. As the name indicates, *purpose* clauses explain the reason(s) behind the main action: why, or for what purpose, the action of the main clause was done. The verb of a purpose clause in ancient Greek is never in the indicative mood.
+A purpose clause is a subordinate clause. As we have seen before, "clause" means it has its own subject and verb. "Subordinate" means that it is dependent on the main clause of the sentence and does not stand alone. Simple indicative dependent clauses, such as relative adverb and relative pronoun clauses, were introduced as dependent clauses earlier in this module. The terms "dependent" and "subordinate" are interchangeable for our purposes. As the name indicates, *purpose* clauses explain the reason(s) behind the main action: why, or for what purpose, the action of the main clause was done. The verb of a purpose clause in ancient Greek is never in the indicative mood.
 
 Identify the purpose expressed in these English sentences:
 - He told them everything so that they would understand.
@@ -22,7 +22,7 @@ The structure of a purpose clause in ancient Greek has the following features:
 - it is introduced by a specific subordinating conjunction: ἵνα, ὡς, or ὅπως
 - if the verb in the purpose clause is negated, it is negated by μή 
 - the verb within the purpose clause will be in the subjunctive or the optative mood, according to the sequence of moods. Purposes clauses that are introduced by clauses whose verb is in a primary tense (like present or future) will use the subjunctive mood. The optative is used when that verb is in a secondary (or past) tense
-- the tense of the verb in the purpose clause (present vs. aorist) expresses the *aspect* of the action, not time. The relative time of the action in a purpose clause is subsequent to the main verb (something happens in the main clause in order for something to happen later).  
+- the tense of the verb in the purpose clause (present vs. aorist) expresses the *aspect* of the action, not time. The relative time of the action in a purpose clause is subsequent to the main verb (something happens in the main clause in order for something else to happen later).  
 
 ### Practice with purpose clauses
 
