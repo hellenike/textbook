@@ -13,7 +13,7 @@ Here we present the formation of the subjunctive mood, which builds on the work 
 
 The personal endings of the subjunctive are:
 
-|  Person and Number | Active | Middle | Passive  |
+|  Person and Number | Present and Aorist Active | Present and Aorist Middle | Present Passive  |
 | --- | --- | --- | --- |
 | First singular | -ω | -ωμαι | -ωμαι |
 | Second singular | -ῃς | -ῃ | -ῃ|
