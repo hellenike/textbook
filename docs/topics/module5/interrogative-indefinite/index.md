@@ -21,7 +21,7 @@ Interrogative pronouns are so named because they are used to ask questions. The 
 > 
 > **What** did he do?
 
-We have already seen in that these English words are used as relative pronouns as well, and so the context of their use—-whether in a question or a relative clause—-indicates the type of pronoun. Ancient Greek has different pronouns for these uses. 
+We have already seen that these English words are used as relative pronouns as well, and so the context of their use—whether in a question or a relative clause—indicates the type of pronoun. Ancient Greek has different pronouns for these uses. 
 
 As we saw with the relative pronoun, the English pronoun *who* as an interrogative is also inflected: *who* is nominative, *whose* is the possessive genitive, and *whom* is the objective case, used with prepositions in English and as the object of the verb, corresponding to other uses of the genitive, and uses of the dative and the accusative.
 
